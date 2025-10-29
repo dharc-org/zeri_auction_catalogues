@@ -1,0 +1,232 @@
+URI,label,type,wikidata_id,wikidata_label,wikidata_description,match_type
+http://w3id.org/zac/hôtel_drouot,Hôtel Drouot,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q3145483,Hôtel Drouot,Paris auction house,label
+http://w3id.org/zac/impresa_di_vendite_di_raffaele_dura,Impresa di vendite di Raffaele Dura,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/heinrich_gottlob_gutekunst,Heinrich Gottlob Gutekunst,http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q94788694,H. G. Gutekunst,,alias
+http://w3id.org/zac/heinrich_gottlob_gutekunst,Heinrich Gottlob Gutekunst,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q94788694,H. G. Gutekunst,,alias
+http://w3id.org/zac/impresa_di_vendite_giulio_sambon,Impresa di vendite Giulio Sambon,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/heberle_h_lempertz_söhne,Heberle H. Lempertz' Söhne,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/heberle_h_lempertz_söhne,Heberle H. Lempertz' Söhne,http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/kunst-auktions-haus_georg_mössel,Kunst-Auktions-Haus Georg Mössel,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/albert_duss,Albert Duss,http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q125907774,Albert Dussuel,,label
+http://w3id.org/zac/gutekunst,Gutekunst,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q37048725,Gutekunst,family name,label
+http://w3id.org/zac/lempertz_antiquariat,Lempertz' Antiquariat,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hanstein_m_lempertz_antiquariat,Hanstein M. Lempertz' Antiquariat,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_sedelmeyer,Galerie Sedelmeyer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q131763890,"Galerie Sedelmeyer, Paris",former art gallery of Charles Sedelmeyer in Paris,label
+http://w3id.org/zac/galerie_georges_petit,Galerie Georges Petit,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q18662018,Galerie Georges Petit,"French art gallery, auction house and publisher",label
+http://w3id.org/zac/galerie_georges_petit,Galerie Georges Petit,http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q18662018,Galerie Georges Petit,"French art gallery, auction house and publisher",label
+http://w3id.org/zac/rudolf_bangel,Rudolf Bangel,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q117101616,Rudolf Bangel Auction House,,label
+http://w3id.org/zac/petit_georges,"Petit, Georges",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/maurer_carl,"Maurer, Carl",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/maurer_carl,"Maurer, Carl",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/rudolph_lepkes_kunst-auctions-haus,Rudolph Lepke's Kunst-Auctions-Haus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q20054452,Rudolph Lepke’s Kunst-Auctions-Haus,auction house,label
+http://w3id.org/zac/galleria_sangiorgi,Galleria Sangiorgi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/giacomini_and_capobianchi,Giacomini & Capobianchi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/impresa_di_vendite_in_milano_di_a_genolini,Impresa di vendite in Milano di A. Genolini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sangiorgi_giuseppe,"Sangiorgi, Giuseppe",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sangiorgi_giuseppe,"Sangiorgi, Giuseppe",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/hugo_helbing,Hugo Helbing,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q15550099,Hugo Helbing,"German art dealer and auctioneer, dispossessed and murdered by Nazis (1863-1938)",label
+http://w3id.org/zac/j_grünfeld,J. Grünfeld,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_helbing,Galerie Helbing,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q15550099,Hugo Helbing,"German art dealer and auctioneer, dispossessed and murdered by Nazis (1863-1938)",alias
+http://w3id.org/zac/carl_offermann_and_co,Carl Offermann & Co.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/f_j_weissweiler,F. J. Weissweiler,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/fleischmann_e_a,"Fleischmann, E. A.",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/salle_sainte-gudule,Salle Sainte-Gudule,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/max_cramer,Max Cramer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q130769608,Max Cramer,,label
+http://w3id.org/zac/de_brakke_grond,De Brakke Grond,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q2155935,De Brakke Grond,former auction hall and theatre in Amsterdam,label
+http://w3id.org/zac/hirth_georg,"Hirth, Georg",http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q103932553,"Hirth, Georg",encyclopedia article,label
+http://w3id.org/zac/frederik_muller_and_cie,Frederik Muller & Cie,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q18821838,Frederik Muller & Co,"art auction house and art history publisher in Amsterdam, owned from 1899 by Anton Mensing",alias
+http://w3id.org/zac/frederik_muller_and_cie,Frederik Muller & C.ie,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/rudolph_lepke,Rudolph Lepke,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q2174442,Rudolph Lepke,German art dealer (1845-1904),label
+http://w3id.org/zac/albert_riegner,Albert Riegner,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q130784269,Albert Riegner,,label
+http://w3id.org/zac/impresa_di_vendite_galardelli_e_mazzoni,Impresa di vendite Galardelli e Mazzoni,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_di_antichita_e_casa_di_vendite_a_rambaldi,Galleria di antichità e casa di vendite A. Rambaldi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/molinier_emile,"Molinier, Émile",http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q103958617,"Molinier, Emile",encyclopedia article,label
+http://w3id.org/zac/jourdain_and_paringaux,Jourdain & Paringaux,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/gebr_krause,Gebr. Krause,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_giuseppe_giacomini,Galleria Giuseppe Giacomini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/heinrich_knölke,Heinrich Knölke,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/anton_creutzer,Anton Creutzer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/museum_alt-deutschland,Museum Alt-Deutschland,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/fleischmanns_hofkunsthandlung,Fleischmann's Hofkunsthandlung,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/lempertz,Lempertz,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q83369965,Lempertz,family name,label
+http://w3id.org/zac/galeries_durand-ruel,Galeries Durand-Ruel,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/forrer_robert,"Forrer, Robert",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_jandolo_and_tavazzi,Casa di vendite Jandolo & Tavazzi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/helbing_hugo,"Helbing, Hugo",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_corvisieri,Casa di vendite Corvisieri,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_luigi_battistelli,Casa di vendite Luigi Battistelli,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/k_a_stauff_and_cie,K. A Stauff & C.ie,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/gesellschaft_für_kunst_und_litteratur,Gesellschaft für Kunst und Litteratur,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_s_innocenti,Casa di vendite S. Innocenti,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_jandolo_and_tavazzi__galleria_sangiorgi,Casa di vendite Jandolo & Tavazzi || Galleria Sangiorgi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_frederik_muller_and_cie,Galerie Frederik Muller & C.ie,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_frederik_muller_and_cie,Galerie Frederik Muller & C.ie,http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/knight_frank_and_rutley,"Knight, Frank & Rutley",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/tizzoni_c,"Tizzoni, C.",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/christie_manson_and_woods,"Christie, Manson & Woods",http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q503176,Christie's,art business and fine arts auction house,alias
+http://w3id.org/zac/kunstauktionshaus_gebrüder_heilbron,Kunstauktionshaus Gebrüder Heilbron,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/ant_creutzer_vorm_m_lempertz,Ant. Creutzer vorm. M. Lempertz,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/keller_and_reiner,Keller & Reiner,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_lino_pesaro,Casa di vendite Lino Pesaro,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_manzi_joyant_and_cie,Galerie Manzi Joyant & Cie.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/felix_fleischhauer,Felix Fleischhauer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q133083565,Felix Fleischhauer,,label
+http://w3id.org/zac/felix_fleischhauer,Felix Fleischhauer,http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q133083565,Felix Fleischhauer,,label
+http://w3id.org/zac/mostra_artistica_permanente,Mostra Artistica Permanente,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/impresa_di_vendite_arte_antica_e_moderna,Impresa di vendite Arte antica e moderna,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/c_and_e_canessa,C. & E. Canessa,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sotheby_wilkinson_and_hodge,Sotheby Wilkinson & Hodge,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_hugo_helbing,Galerie Hugo Helbing,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q86925852,Galerie Hugo Helbing,commercial art gallery and auction house Aryanized under Nazis,label
+http://w3id.org/zac/bertaux_emile,"Bertaux, Émile",http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q103892871,"Bertaux, Emile",encyclopedia article,label
+http://w3id.org/zac/michaelsen,Michaelsen,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q1670971,Michaelsen,family name,label
+http://w3id.org/zac/lübecker_kunst-auktions-haus_c_m_michaelsen,Lübecker Kunst-Auktions-Haus C. M. Michaelsen,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sammlung_buhrig_h,Sammlung Buhrig H.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hermann_maurer,Hermann Maurer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q133608999,Hermann Franz Wilhelm Maurer,,alias
+http://w3id.org/zac/karl_w_hiersemann,Karl W. Hiersemann,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q1473427,Karl Wilhelm Hiersemann,German antiquarian seller and publisher (1854–1928),alias
+http://w3id.org/zac/galleria_warowland,Galleria Warowland,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q24934383,Galleria Warowland,"building in Salsomaggiore Terme, Italy",label
+http://w3id.org/zac/rossi_dario_g,"Rossi, Dario G.",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/cesare_galardelli,Cesare Galardelli,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q123983023,Cesare Galardelli,,label
+http://w3id.org/zac/bangel_rudolf,"Bangel, Rudolf",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/f_x_weizinger_and_co,F. X. Weizinger & Co.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_errico_fraia,Casa di vendite Errico Fraia,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/karl_ernst_henrici,Karl Ernst Henrici,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q1730892,Karl Ernst Henrici,,label
+http://w3id.org/zac/galleria_geri,Galleria Geri,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/paul_cassirer,Paul Cassirer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q65351,Paul Cassirer,German art dealer (1871–1926),label
+http://w3id.org/zac/paul_cassirer,Paul Cassirer,http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q65351,Paul Cassirer,German art dealer (1871–1926),label
+http://w3id.org/zac/american_art_association,American Art Association,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q16961275,American Art Association,"American art gallery and auction house started in NYC in 1883, merged with Anderson Galleries in 1929",label
+http://w3id.org/zac/heinrich_hahn_kunsthandlung,Heinrich Hahn Kunsthandlung,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/impresa_vendite_giuseppe_cosci,Impresa vendite Giuseppe Cosci,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/canessa_fraia_silvestri,Canessa Fraia Silvestri,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/fac_prestel,F.A.C. Prestel,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hugo_ruef,Hugo Ruef,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_darte_casa_di_vendite,Galleria d'arte casa di vendite,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_geri_boralevi,Galleria Geri Boralevi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_alfredo_materazzi,Casa di vendite Alfredo Materazzi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/kölner_kunst-_und_auktions-haus,Kölner Kunst- und Auktions-Haus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_ciardiello,Galleria Ciardiello,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/eugen_krug_kunst-auktionshaus,Eugen Krug Kunst-Auktionshaus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/g_adolf_pohl,G. Adolf Pohl,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/august_boese,August Boese,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/kunsthaus_heinrich_hahn,Kunsthaus Heinrich Hahn,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q63633720,Kunsthaus Heinrich Hahn,German auction house,label
+http://w3id.org/zac/galeries_fischer,Galeries Fischer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/impresa_di_vendite_antonio_sarno,Impresa di vendite Antonio Sarno,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_darte_vitelli,Galleria d'arte Vitelli,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_guido_tavazzi,Casa di vendite Guido Tavazzi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_mario_giacomini,Galleria Mario Giacomini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/max_perl_buch-_und_kunstantiquariat,Max Perl Buch- und Kunstantiquariat,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/jac_hecht_kunst-auctions-haus,Jac. Hecht Kunst-Auctions-Haus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/kunsthaus_universum,Kunsthaus Universum,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/american_art_galleries,American Art Galleries,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q18565755,American Art Galleries,"gallery in New York, New York",label
+http://w3id.org/zac/kunstauktionhaus_alte_und_neue_kunst,Kunstauktionhaus Alte und Neue Kunst,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/meier_kunsthandlung_emil_richter,Meier Kunsthandlung Emil Richter,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/tavazzi_guido,"Tavazzi, Guido",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/auktionshaus_siegmund_rosenbaum,Auktionshaus Siegmund Rosenbaum,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_georges_giroux,Galerie Georges Giroux,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q1981549,Galerie Georges Giroux,,label
+http://w3id.org/zac/kunsthandlung_ludwig_schames,Kunsthandlung Ludwig Schames,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/adolph_e_cahn,Adolph E. Cahn,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q23310997,Adolph E. Cahn,,label
+http://w3id.org/zac/galleria_pesaro,Galleria Pesaro,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q21235146,Galleria Pesaro,former commercial art gallery,label
+http://w3id.org/zac/galleria_canessa,Galleria Canessa,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/anderson_galleries,Anderson Galleries,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q72940895,Anderson Galleries,1887-1934 New York City NY Dealer/Gallery,label
+http://w3id.org/zac/dorotheum,Dorotheum,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q668545,Dorotheum,Austrian jewelry/art trading company and auction house in Vienna,label
+http://w3id.org/zac/grandke,Grandke,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q111759186,Grandke,family name,label
+http://w3id.org/zac/altkunst,Altkunst,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/paul_graupe,Paul Graupe,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q104673789,Paul Graupe,Holocaust victim (born 1870),label
+http://w3id.org/zac/galleria_scopinich,Galleria Scopinich,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/museo_mylius,Museo Mylius,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/silvestri_alfredo,"Silvestri, Alfredo",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/galleria_dante_giacomini,Galleria Dante Giacomini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_lurati,Galleria Lurati,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sotheby_and_co,Sotheby & Co.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hôtel_des_ventes,Hôtel des Ventes,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q132442567,Hôtel des ventes d'Enghien-les-Bains,"auction house in Enghien-les-Bains, north of Paris, France",label
+http://w3id.org/zac/wertheim,Wertheim,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q20998264,Wertheim,family name,label
+http://w3id.org/zac/internationales_kunst-_und_auktions_haus,Internationales Kunst- und Auktions Haus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/auctio,Auctio,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q177923,auction,"process of buying and selling goods or services by offering them up for bid, taking bids, and then selling the item to the highest bidder",label
+http://w3id.org/zac/p_and_p_santamaria,P. & P. Santamaria,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hermann_ball,Hermann Ball,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q56753122,Hermann Ball,German art dealer (1857 - 1924),label
+http://w3id.org/zac/rudolph_elsas_kunstauktionshaus,Rudolph Elsas Kunstauktionshaus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/kunst-auktionshaus_continental_fritz_rosenfeld,Kunst-Auktionshaus Continental Fritz Rosenfeld,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/auktionshaus_des_westens,Auktionshaus des Westens,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_sestieri,Galleria Sestieri,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/impresa_vendite_asta_pubblica_agori_and_l_pandolfini,Impresa Vendite Asta Pubblica A.Gori & L. Pandolfini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/saga,S.A.G.A.,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q887002,S.A.G.A.P.O.,single,label
+http://w3id.org/zac/galleria_sestieri__casa_di_vendite_guido_tavazzi,Galleria Sestieri || Casa di vendite Guido Tavazzi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/palais_des_beaux-arts,Palais des Beaux-Arts,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q106556535,Bozar,cultural institution in Brussels,alias
+http://w3id.org/zac/mensing_and_fils_frederick_muller,Mensing & Fils Frederick Muller,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/max_michels_kunsthandlung,Max Michels Kunsthandlung,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/swarzenski_georg,"Swarzenski, Georg",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/mensing_and_sohn_frederick_muller,Mensing & Sohn Frederick Muller,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/alte_und_neue_kunst,Alte und Neue Kunst,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q107019106,Speculum artis,,alias
+http://w3id.org/zac/canetta_gino,"Canetta, Gino",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/canetta_gino,"Canetta, Gino",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/galleria_lantonina,Galleria L'Antonina,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/pollak_ludwig,"Pollak, Ludwig",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/günther_deneke,Günther Deneke,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q1561402,Günther Deneke,German art historian and archivist (1882–1942),label
+http://w3id.org/zac/galerie_alfred_flechtheim,Galerie Alfred Flechtheim,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_fischer,Galerie Fischer,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q47001605,Galerie Fischer,Swiss auction house,label
+http://w3id.org/zac/casa_di_vendita_palazzo_simonetti,Casa di vendita Palazzo Simonetti,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_darte_cavalensi_e_botti,Galleria d'arte Cavalensi e Botti,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_luigi_bellini,Galleria Luigi Bellini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galerie_jean_charpentier,Galerie Jean Charpentier,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q3094593,Galerie Charpentier,"French art gallery at 76 rue du Faubourg-Saint-Honoré, Paris (today Sotheby's Paris)",alias
+http://w3id.org/zac/galleria_dedalo,Galleria Dedalo,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_ugo_jandolo,Casa di vendite Ugo Jandolo,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/monte_di_pieta,Monte di Pietà,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q3862170,Monte di Pietà o Seralcadi,first-level unit of Palermo,label
+http://w3id.org/zac/galerie_charpentier,Galerie Charpentier,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q3094593,Galerie Charpentier,"French art gallery at 76 rue du Faubourg-Saint-Honoré, Paris (today Sotheby's Paris)",label
+http://w3id.org/zac/gustav_duensing,Gustav Duensing,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/aktiengesellschaft_für_auktionswesen,Aktiengesellschaft für Auktionswesen,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hermann_nestle,Hermann Nestle,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q94865679,Hermann Nestler,,label
+http://w3id.org/zac/auktions-haus_union_leo_spik,Auktions-Haus Union Leo Spik,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/hermann_lockner,Hermann Lockner,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/casa_di_vendite_ugo_jandolo__casa_di_vendite_palazzo_simonetti,Casa di vendite Ugo Jandolo || Casa di vendite Palazzo Simonetti,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/sestieri_ettore,"Sestieri, Ettore",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/casa_di_vendite_righetti,Casa di vendite Righetti,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/galleria_giacomini,Galleria Giacomini,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/botta_gustavo__galleria_pesaro,"Botta, Gustavo || Galleria Pesaro",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/krüger_rudolph_lepkes_kunst-auctions-haus,Krüger Rudolph Lepke's Kunst-Auctions-Haus,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/böhler_julius,"Böhler, Julius",http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/münchener_kunstversteigerungshaus_adolf_weinmüller,Münchener Kunstversteigerungshaus Adolf Weinmüller,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q47002464,Kunstversteigerungshaus Adolf Weinmüller,German auction house involved in Nazi looted art,label
+http://w3id.org/zac/casa_di_vendite_guglielmi,Casa di vendite Guglielmi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/ojetti_ugo,"Ojetti, Ugo",http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q103960272,"Ojetti, Ugo",encyclopedia article,label
+http://w3id.org/zac/auktionshaus_dr_walther_achenbach,Auktionshaus Dr. Walther Achenbach,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q47002730,Auktionshaus Dr. Walther Achenbach,German auction house in Berlin,label
+http://w3id.org/zac/hans_w_lange,Hans W. Lange,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q18704516,Hans W. Lange,"Nazi era art dealer, auction house owner involved in works of art acquired in occupied countries (1904–1945)",label
+http://w3id.org/zac/chevallier_paul,"Chevallier, Paul",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/delestre_maurice,"Delestre, Maurice",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/lair-dubreuil_f,"Lair-Dubreuil, F.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/saulpic_henri,"Saulpic, Henri",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/dubreil_lair,"Dubreil, Lair",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/leon_andre,"Léon, André",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/flechsig_eduard,"Flechsig, Eduard",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/hofstede_de_groot_cornelis,"Hofstede de Groot, Cornelis",http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q103932894,"Hofstede de Groot, Cornelis",encyclopedia article,label
+http://w3id.org/zac/lichtenberg_reinhold_freiherrn__von,"Lichtenberg, Reinhold Freiherrn : von",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/oppolzer_egon_ritter__von,"Oppolzer, Egon Ritter : von",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/baudoin_henri,"Baudoin, Henri",http://www.cidoc-crm.org/cidoc-crm/E21_Person,Q103949825,"Baudoin, Henri",encyclopedia article,label
+http://w3id.org/zac/huguet_jules,"Huguet, Jules",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/couturier_andre,"Couturier, André",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/roger-miles_l,"Roger-Miles, L.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/doublot_camille,"Doublot, Camille",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/mauger_henri,"Mauger, Henri",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/mayer_august_l,"Mayer, August L.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/schmidt_robert,"Schmidt, Robert",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/albinet_georges,"Albinet, Georges",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/bombe_walter,"Bombe, Walter",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/lüthgen_eugen,"Lüthgen, Eugen",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/desvouges_andre,"Desvouges, André",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/schmidt-bangel_ludwig,"Schmidt-Bangel, Ludwig",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/de_groot_hofstede,"De_Groot, Hofstede",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/de_nicola_giacomo,"De_Nicola, Giacomo",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/hoogewerff_godefridus_joannes,"Hoogewerff, Godefridus Joannes",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/bernhart_max,"Bernhart, Max",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/traugott_schulz_fritz,"Traugott Schulz, Fritz",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/schürmeyer_w,"Schürmeyer, W.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/uhde-bernays_hermann,"Uhde-Bernays, Hermann",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/schürmayer_w,"Schürmayer, W.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/falke_otto__von,"Falke, Otto : von",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/scheffler_karl,"Scheffler, Karl",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/spiridon_ludovico,"Spiridon, Ludovico",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/parigi,Parigi,http://www.cidoc-crm.org/cidoc-crm/E53_Place,Q4250871,Parigi,"district in Parigi Moutong Regency, Central Sulawesi Province, Indonesia",label
+http://w3id.org/zac/parigi,Parigi,http://www.cidoc-crm.org/cidoc-crm/E74_Group,Q4250871,Parigi,"district in Parigi Moutong Regency, Central Sulawesi Province, Indonesia",label
+http://w3id.org/zac/parigi,<Parigi>,http://www.cidoc-crm.org/cidoc-crm/E53_Place,,,,
+http://w3id.org/zac/parigi,<Parigi>,http://www.cidoc-crm.org/cidoc-crm/E74_Group,,,,
+http://w3id.org/zac/grassi_luigi,"Grassi, Luigi",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/alt_adolf,"Alt, Adolf",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/foerster_charles_f,"Foerster, Charles F.",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/reidemeister_leopold,"Reidemeister, Leopold",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
+http://w3id.org/zac/kronthal_peter,"Kronthal, Peter",http://www.cidoc-crm.org/cidoc-crm/E21_Person,,,,
