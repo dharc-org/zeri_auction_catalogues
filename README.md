@@ -25,17 +25,25 @@ Initial attempts with Pixtral, script used directly on the server where images a
 
 `1_ocr.py` --> `all.md`
 
-Select pages to be parsed (those with lots description) from a given list, transform images in greyscale, and use Docling to perform OCR of pages. Concat all transcriptions of each catalogue into the output file `all.md`. The script is run locally on a benchmark group of catalogue images, outputs not included here.
+ * Select pages to be parsed (those with lots description) from a given list
+ * Transform images in greyscale
+ * Use Docling (ocrmac) to perform OCR of pages.
+ * Concat all transcriptions of each catalogue into the output file `all.md`.
+
+The script is run locally on a benchmark group of catalogue images, outputs not included here.
 
 `2_chunking.py` --> `all_chunks.csv` ; `inconsistencies.csv`
 
-Parses `all.md` files, performs regex to separate lot descriptions and concat them into `chunks.csv` for each catalogue (not included here). All chunks are concat in `all_chunks.csv`, available on the aforementioned spreadsheet for human revision. Errors detected in the chunking (mainly based on numbering sequence inconsistencies) are collected in `inconsistencies.csv`, also included in the spreadsheet.
+ * Parses `all.md` files,
+ * performs regex to separate lot descriptions and
+ * concat them into `chunks.csv` for each catalogue (not included here).
+ * All chunks are concat in `all_chunks.csv`, available on the aforementioned spreadsheet for human revision.
+ * Errors detected in the chunking (mainly based on numbering sequence inconsistencies) are collected in `all_inconsistencies.csv`, also included in the spreadsheet.
 
 TODO:
 
  * improve chunking docling:
    * e.g. "203 bis."
    * wrong numbers at the beginning of lines (from OCR) that split one lot in two. e.g. "18. bla \n 2.bla \n 19. bla"
-   * update inconsistencies after merging lines
  * finalise pipeline for pixtral with the same benchmark group of images
  * compare outputs of both pipelines
