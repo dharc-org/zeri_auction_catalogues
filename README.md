@@ -33,5 +33,9 @@ Parses `all.md` files, performs regex to separate lot descriptions and concat th
 
 TODO:
 
+ * improve chunking docling:
+   * e.g. "203 bis."
+   * wrong numbers at the beginning of lines (from OCR) that split one lot in two. e.g. "18. bla \n 2.bla \n 19. bla"
+   * update inconsistencies after merging lines
  * finalise pipeline for pixtral with the same benchmark group of images
  * compare outputs of both pipelines
