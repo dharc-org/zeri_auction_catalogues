@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Catalogue {{ catalogue_id }}</title>
+  <style>
+    .chunk { border: 1px solid #ddd; padding: 1rem; margin: 1rem 0; }
+    .needs-revision { background-color: #fff4f4; border-left: 4px solid red; }
+    form { display: flex; flex-direction: column; }
+    textarea { width: 100%; height: 6em; margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <h1>Catalogue: {{ catalogue_id }}</h1>
+  <a href="/">← Back to all catalogues</a>
+
+  {% for ch in chunks %}
+    <div class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
+      <form action="/update_chunk" method="post">
+        <input type="hidden" name="catalogue_id" value="{{ ch.catalogue_id }}">
+        <input type="hidden" name="index" value="{{ ch.index }}">
+        <label><b>{{ ch.num }}</b> — Title</label>
+        <input type="text" name="title" value="{{ ch.title }}">
+        <label>Text</label>
+        <textarea name="text">{{ ch.text }}</textarea>
+        <button type="submit">💾 Save</button>
+      </form>
+    </div>
+  {% endfor %}
+</body>
+</html>

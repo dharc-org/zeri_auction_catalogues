@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Catalogues Overview</title>
+  <style>
+    body { font-family: sans-serif; margin: 2rem; background: #f9f9f9; }
+    h1 { text-align: center; }
+    table { border-collapse: collapse; width: 70%; margin: 2rem auto; background: white; }
+    th, td { padding: 0.75rem 1rem; border: 1px solid #ddd; text-align: left; }
+    th { background-color: #f0f0f0; }
+    tr:hover { background-color: #fafafa; }
+    .warn { color: #b30000; font-weight: bold; }
+    .ok { color: #008000; }
+  </style>
+</head>
+<body>
+  <h1>Catalogues Overview</h1>
+  <table>
+    <tr>
+      <th>Catalogue ID</th>
+      <th>Lots</th>
+      <th>Issues</th>
+      <th>% Issues</th>
+    </tr>
+    {% for c in catalogues %}
+    <tr>
+      <td><a href="/catalogue/{{ c.catalogue_id }}">{{ c.catalogue_id }}</a></td>
+      <td>{{ c.total }}</td>
+      <td class="{{ 'warn' if c.issues > 0 else 'ok' }}">{{ c.issues }}</td>
+      <td>{{ c.percent_issues }}%</td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>

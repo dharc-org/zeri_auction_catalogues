@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Catalogue {{ catalogue_id }}</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            display: flex;
+        }
+        /* Sidebar */
+        .sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 220px;
+            height: 100vh;
+            overflow-y: auto;
+            background-color: #f4f4f4;
+            border-right: 1px solid #ccc;
+            padding: 1rem;
+        }
+        .sidebar h2 {
+            font-size: 1.1em;
+            margin-top: 0;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 0.5rem;
+        }
+        .toc-item {
+            display: block;
+            padding: 4px 8px;
+            margin: 3px 0;
+            text-decoration: none;
+            color: #333;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .toc-item:hover {
+            background-color: #ddd;
+        }
+        .toc-item.issue {
+            background-color: #ffe0e0;
+            color: #b00000;
+            font-weight: bold;
+        }
+        /* Main content */
+        .content {
+            margin-left: 240px;
+            padding: 2rem;
+            flex: 1;
+        }
+        .chunk {
+            border: 1px solid #ccc;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+        .chunk.needs-revision {
+            border-color: #d9534f;
+            background-color: #fff5f5;
+        }
+        textarea {
+            width: 100%;
+            height: 6rem;
+        }
+        form {
+            margin-top: 0.5rem;
+        }
+        .save-btn {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .save-btn:hover {
+            background: #0056b3;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Sidebar with TOC -->
+<div class="sidebar">
+    <h2>Catalogue {{ catalogue_id }}</h2>
+    {% for ch in chunks %}
+        <a href="#{{ ch.anchor_id }}"
+           class="toc-item {% if ch.needs_revision %}issue{% endif %}">
+           {{ ch.num }}
+        </a>
+    {% endfor %}
+</div>
+
+<!-- Main content -->
+<div class="content">
+    <h1>Editing: {{ catalogue_id }}</h1>
+
+    {% for ch in chunks %}
+    <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
+        <h3>{{ ch.num }}. {{ ch.title }}</h3>
+        <form action="/update_chunk" method="post">
+            <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
+            <input type="hidden" name="index" value="{{ ch.index }}">
+            <!-- <label>Title:</label><br>
+            <input type="text" name="title" value="{{ ch.title }}" style="width:100%"><br><br> -->
+            <label>Text:</label><br>
+            <textarea name="text">{{ ch.text }}</textarea><br>
+            <button class="save-btn" type="submit">💾 Save</button>
+        </form>
+    </div>
+    {% endfor %}
+</div>
+
+</body>
+</html>

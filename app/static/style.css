@@ -1,0 +1,19 @@
+body { font-family: sans-serif; margin: 20px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ccc; padding: 6px 10px; vertical-align: top; }
+tr.needs-revision { background-color: #fff2cc; }
+td.has-issues { background-color: #ffcccc; font-weight: bold; }
+.highlight {
+  background-color: #fff3cd; /* soft yellow for attention */
+  border-left: 4px solid #ff9800;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #ddd;
+}

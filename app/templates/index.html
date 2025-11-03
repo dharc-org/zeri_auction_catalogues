@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Catalogues</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <h1>Catalogues</h1>
+  <table>
+    <tr><th>Catalogue</th><th>Total</th><th>Issues</th></tr>
+    {% for cat in catalogues %}
+    <tr>
+      <td><a href="/catalogue/{{ cat.catalogue_id }}">{{ cat.catalogue_id }}</a></td>
+      <td>{{ cat.total_chunks }}</td>
+      <td class="{% if cat.issues > 0 %}has-issues{% endif %}">{{ cat.issues }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</body>
+</html>
