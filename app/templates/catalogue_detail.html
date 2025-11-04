@@ -1,120 +1,111 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Catalogue {{ catalogue_id }}</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            display: flex;
-        }
-        /* Sidebar */
-        .sidebar {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 220px;
-            height: 100vh;
-            overflow-y: auto;
-            background-color: #f4f4f4;
-            border-right: 1px solid #ccc;
-            padding: 1rem;
-        }
-        .sidebar h2 {
-            font-size: 1.1em;
-            margin-top: 0;
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 0.5rem;
-        }
-        .toc-item {
-            display: block;
-            padding: 4px 8px;
-            margin: 3px 0;
-            text-decoration: none;
-            color: #333;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
-        .toc-item:hover {
-            background-color: #ddd;
-        }
-        .toc-item.issue {
-            background-color: #ffe0e0;
-            color: #b00000;
-            font-weight: bold;
-        }
-        /* Main content */
-        .content {
-            margin-left: 240px;
-            padding: 2rem;
-            flex: 1;
-        }
-        .chunk {
-            border: 1px solid #ccc;
-            padding: 1rem;
-            margin-bottom: 1rem;
-            border-radius: 8px;
-        }
-        .chunk.needs-revision {
-            border-color: #d9534f;
-            background-color: #fff5f5;
-        }
-        textarea {
-            width: 100%;
-            height: 6rem;
-        }
-        form {
-            margin-top: 0.5rem;
-        }
-        .save-btn {
-            background: #007bff;
-            color: white;
-            border: none;
-            padding: 6px 12px;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .save-btn:hover {
-            background: #0056b3;
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Catalogue {{ catalogue_id }}</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; display: flex; }
+    .sidebar { width: 260px; background-color: #f4f4f4; border-right: 1px solid #ccc; height: 100vh; overflow-y: auto; padding: 1rem; position: fixed; }
+    .toc-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 8px; margin: 4px 0; border-radius: 4px; }
+    .toc-item.issue { background: #ffe0e0; color: #b00000; }
+    .toc-item a { text-decoration: none; color: inherit; flex: 1; }
+    .btn-resolve { background: #28a745; color: white; border: none; padding: 2px 6px; border-radius: 3px; cursor: pointer; font-size: 0.8em; }
+    .btn-resolve:hover { background: #218838; }
+    .content { margin-left: 280px; padding: 2rem; flex: 1; }
+    .chunk { border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; }
+    .chunk.needs-revision { border-color: #d9534f; background-color: #fff5f5; }
+    textarea { width: 100%; height: 6rem; }
+    input[type=text] { width: 100%; }
+    .controls { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
+    .btn { background: #007bff; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; }
+    .btn.delete { background: #dc3545; }
+    .btn.add { background: #28a745; }
+  </style>
 </head>
 <body>
 
-<!-- Sidebar with TOC -->
 <div class="sidebar">
-    <h2>Catalogue {{ catalogue_id }}</h2>
-    {% for ch in chunks %}
-        <a href="#{{ ch.anchor_id }}"
-           class="toc-item {% if ch.needs_revision %}issue{% endif %}">
-           {{ ch.num }}
-        </a>
-    {% endfor %}
-</div>
-
-<!-- Main content -->
-<div class="content">
-    <h1>Editing: {{ catalogue_id }}</h1>
-
-    {% for ch in chunks %}
-    <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
-        <h3>{{ ch.num }}. {{ ch.title }}</h3>
-        <form action="/update_chunk" method="post">
-            <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
-            <input type="hidden" name="index" value="{{ ch.index }}">
-            <!-- <label>Title:</label><br>
-            <input type="text" name="title" value="{{ ch.title }}" style="width:100%"><br><br> -->
-            <label>Text:</label><br>
-            <textarea name="text">{{ ch.text }}</textarea><br>
-            <button class="save-btn" type="submit">💾 Save</button>
-        </form>
+  <h2>{{ catalogue_id }}</h2>
+  {% for ch in chunks %}
+    <div class="toc-item {% if ch.needs_revision %}issue{% endif %}" id="toc_{{ ch.anchor_id }}">
+      <a href="#{{ ch.anchor_id }}">{{ ch.num }}</a>
+      {% if ch.needs_revision %}
+        <button class="btn-resolve" onclick="resolveIssue('{{ catalogue_id }}','{{ ch.num }}','toc_{{ ch.anchor_id }}')">✓</button>
+      {% endif %}
     </div>
-    {% endfor %}
+  {% endfor %}
 </div>
+
+<div class="content">
+  <h1>Editing {{ catalogue_id }}</h1>
+
+  <form id="catalogueForm" action="/save_catalogue" method="post">
+    <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
+    <input type="hidden" name="anchor" id="anchor">
+    <div id="chunks-container">
+      {% for ch in chunks %}
+      <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
+        <label>Num:</label>
+        <input type="text" name="num" value="{{ ch.num }}"><br>
+        <label>Title:</label>
+        <input type="text" name="title" value="{{ ch.title }}"><br>
+        <label>Text:</label>
+        <textarea name="text">{{ ch.text }}</textarea>
+        <div class="controls">
+          <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
+          <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
+          <button type="submit" class="btn save" onclick="setAnchor('{{ ch.anchor_id }}')">💾 Save</button>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </form>
+</div>
+
+<script>
+function removeChunk(button) {
+  button.closest('.chunk').remove();
+}
+
+function addBelow(button) {
+  const currentChunk = button.closest('.chunk');
+  const newChunk = document.createElement('div');
+  newChunk.classList.add('chunk');
+  newChunk.innerHTML = `
+    <label>Num:</label><input type="text" name="num"><br>
+    <label>Title:</label><input type="text" name="title"><br>
+    <label>Text:</label><textarea name="text"></textarea>
+    <div class="controls">
+      <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
+      <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
+      <button type="submit" class="btn save">💾 Save</button>
+    </div>`;
+  currentChunk.insertAdjacentElement('afterend', newChunk);
+  newChunk.scrollIntoView({ behavior: 'smooth' });
+}
+
+function setAnchor(anchorId) {
+  document.getElementById('anchor').value = anchorId;
+}
+
+async function resolveIssue(catalogueId, num, tocId) {
+  const response = await fetch('/resolve_inconsistency', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({ catalogue_id: catalogueId, num: num })
+  });
+  const data = await response.json();
+  if (data.success) {
+    const tocItem = document.getElementById(tocId);
+    tocItem.classList.remove('issue');
+    const btn = tocItem.querySelector('.btn-resolve');
+    if (btn) btn.remove();
+    alert(`Resolved inconsistency for lot ${num}.`);
+  } else {
+    alert('Could not resolve — please refresh.');
+  }
+}
+</script>
 
 </body>
 </html>
