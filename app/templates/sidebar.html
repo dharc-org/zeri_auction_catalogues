@@ -1,0 +1,29 @@
+<!-- Sidebar -->
+   <div class="vh-100" id="sidebar">
+       <div class="p-5 sticky-top">
+           <h1><a href="/">data<b>tune</b></a></h1>
+           <h2 class="menu_title">{{projects.project_name}}</h2>
+           {% if projects.document_id %}
+            <h3 class="menu_subtitle">{{projects.document_id}}</h3>
+           {% endif %}
+           {% if projects.chunks %}
+             <div class="sidebar">
+               <h2>Chunks</h2>
+               {% for ch in projects.chunks %}
+                 <div class="toc-item {% if ch.needs_revision %}issue{% endif %}" id="toc_{{ ch.anchor_id }}">
+                   <a href="#{{ ch.anchor_id }}">{{ ch.num }}</a>
+                   {% if ch.needs_revision %}
+                     <button class="btn-resolve" onclick="resolveIssue('{{ catalogue_id }}','{{ ch.num }}','toc_{{ ch.anchor_id }}')">✓</button>
+                   {% endif %}
+                 </div>
+               {% endfor %}
+             </div>
+           {% endif %}
+
+           <!-- <ul class="nav flex-column">
+               <li class="nav-item">
+                   <a class="nav-link" href="/documents">Documents</a>
+               </li>
+           </ul> -->
+       </div>
+   </div>

@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <style>
+    .toc-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 8px; margin: 4px 0; border-radius: 4px; }
+    .toc-item.issue { background: #ffe0e0; color: #b00000; }
+    .toc-item a { text-decoration: none; color: inherit; flex: 1; }
+    .btn-resolve { background: #28a745; color: white; border: none; padding: 2px 6px; border-radius: 3px; cursor: pointer; font-size: 0.8em; }
+    .btn-resolve:hover { background: #218838; }
+
+    textarea { width: 100%; height: 6rem; }
+    input[type=text] { width: 100%; }
+    .controls { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
+    .btn { background: #007bff; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; }
+    .btn.delete { background: #dc3545; }
+    .btn.add { background: #28a745; }
+  </style>
+
+
+
+<!-- <h1>Editing {{ catalogue_id }}</h1> -->
+
+<form id="catalogueForm" action="/save_catalogue" method="post">
+  <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
+  <input type="hidden" name="anchor" id="anchor">
+  <div id="chunks-container">
+    {% for ch in chunks %}
+    <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
+      <label>Num:</label>
+      <input type="text" name="num" value="{{ ch.num }}"><br>
+      <label>Title:</label>
+      <input type="text" name="title" value="{{ ch.title }}"><br>
+      <label>Text:</label>
+      <textarea name="text">{{ ch.text }}</textarea>
+      <div class="controls">
+        <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
+        <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
+        <button type="submit" class="btn save" onclick="setAnchor('{{ ch.anchor_id }}')">💾 Save</button>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</form>
+
+
+<script>
+function removeChunk(button) {
+  button.closest('.chunk').remove();
+}
+
+function addBelow(button) {
+  const currentChunk = button.closest('.chunk');
+  const newChunk = document.createElement('div');
+  newChunk.classList.add('chunk');
+  newChunk.innerHTML = `
+    <label>Num:</label><input type="text" name="num"><br>
+    <label>Title:</label><input type="text" name="title"><br>
+    <label>Text:</label><textarea name="text"></textarea>
+    <div class="controls">
+      <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
+      <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
+      <button type="submit" class="btn save">💾 Save</button>
+    </div>`;
+  currentChunk.insertAdjacentElement('afterend', newChunk);
+  newChunk.scrollIntoView({ behavior: 'smooth' });
+}
+
+function setAnchor(anchorId) {
+  document.getElementById('anchor').value = anchorId;
+}
+
+async function resolveIssue(catalogueId, num, tocId) {
+  const response = await fetch('/resolve_inconsistency', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({ catalogue_id: catalogueId, num: num })
+  });
+  const data = await response.json();
+  if (data.success) {
+    const tocItem = document.getElementById(tocId);
+    tocItem.classList.remove('issue');
+    const btn = tocItem.querySelector('.btn-resolve');
+    if (btn) btn.remove();
+    alert(`Resolved inconsistency for lot ${num}.`);
+  } else {
+    alert('Could not resolve — please refresh.');
+  }
+}
+</script>
+
+{% endblock %}

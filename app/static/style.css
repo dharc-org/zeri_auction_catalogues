@@ -1,6 +1,15 @@
-body { font-family: sans-serif; margin: 20px; }
+body { font-family: "Helvetica Neue", sans-serif; font-weight: 400;}
+h1 a {color: black !important; text-decoration: none;}
+h2 {font-size: 1em; }
+.menu_title {font-weight: 200 !important;}
+.menu_subtitle {font-size: 1em !important;}
+h3, {font-size: 1.3em; }
+h3 a img {display: inline-block; height: 0.7em;}
+.grey {background-color: #F2EEEE;}
+.project_stats {background-color: white; border-radius: 20px; margin: 2em 0px; padding: 2em; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+
 table { border-collapse: collapse; width: 100%; }
-th, td { border: 1px solid #ccc; padding: 6px 10px; vertical-align: top; }
+th, td { padding: 6px 10px; vertical-align: top; }
 tr.needs-revision { background-color: #fff2cc; }
 td.has-issues { background-color: #ffcccc; font-weight: bold; }
 .highlight {
@@ -8,12 +17,10 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
   border-left: 4px solid #ff9800;
 }
 
-.table {
-  width: 100%;
-  border-collapse: collapse;
-}
+.table { width: 100%; border-collapse: collapse;}
+.table th, .table td {  padding: 8px 12px;  border-bottom: 1px solid #ddd;}
 
-.table th, .table td {
-  padding: 8px 12px;
-  border-bottom: 1px solid #ddd;
-}
+
+/* EDIT DOCUMENT */
+.chunk { background-color: white; border-radius: 20px; margin: 2em 10px; padding: 2em; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+.chunk.needs-revision { border-color: #d9534f; background-color: #fff5f5; }

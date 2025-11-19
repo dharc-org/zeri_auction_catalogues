@@ -1,20 +1,79 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Catalogues</title>
-  <link rel="stylesheet" href="/static/style.css">
-</head>
-<body>
-  <h1>Catalogues</h1>
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>PROJECT OVERVIEW</h2>
+<section class="project_stats col-md-8">
+  <h3 class="col-md-10">
+    <a href="documents"><img src="{{ url_for('static', path='/images/pen-tool.png') }}" alt=""></a>
+    {{projects.project_name}} ({{projects.total_documents}}) </h3>
+
+  <section class="col-md-12">
+    <canvas id="stackedBar" height="50"></canvas>
+  </section>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+// Change these three values as needed:
+const valueA = {{projects.reviewed_documents}};
+const valueB = {{projects.transcribed_documents}};
+const valueC = {{projects.total_documents - projects.transcribed_documents - projects.reviewed_documents}};
+
+new Chart(document.getElementById('stackedBar'), {
+  type: 'bar',
+  data: {
+    labels: [''],  // single bar
+    datasets: [
+      { label: 'reviewed ('+{{projects.reviewed_documents}}+')', data: [valueA], backgroundColor : "#C292E0" },
+      { label: 'transcribed ('+{{projects.transcribed_documents}}+')', data: [valueB], backgroundColor: "#9352BC" },
+      { label: 'to be transcribed ('+{{projects.total_documents - projects.transcribed_documents - projects.reviewed_documents}}+')', data: [valueC], backgroundColor : "#F2EEEE" }
+    ]
+  },
+  options: {
+    indexAxis: 'y', // horizontal direction
+    responsive: true,
+    maintainAspectRatio: false, // allow custom height
+    barThickness: 10,
+    plugins: {
+      legend: { position: 'bottom' }
+    },
+    scales: {
+      x: { stacked: true,
+          beginAtZero: true ,
+          grid: { display: false },
+          ticks: { display: false },
+          border: { display: false }
+        },
+      y: { stacked: true ,
+          grid: { display: false },
+          ticks: { display: false },
+          border: { display: false }}
+    }
+  }
+});
+</script>
+
+</section>
+
+<section class="project_stats col-md-8">
+  <!-- <h2>Documents</h2> -->
   <table>
-    <tr><th>Catalogue</th><th>Total</th><th>Issues</th></tr>
-    {% for cat in catalogues %}
-    <tr>
-      <td><a href="/catalogue/{{ cat.catalogue_id }}">{{ cat.catalogue_id }}</a></td>
-      <td>{{ cat.total_chunks }}</td>
-      <td class="{% if cat.issues > 0 %}has-issues{% endif %}">{{ cat.issues }}</td>
-    </tr>
-    {% endfor %}
-  </table>
-</body>
-</html>
+  <tr>
+    <th><a href="?sort=id&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Document ID</a></th>
+    <th><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks</a></th>
+    <th><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues</a></th>
+    <th><a href="?sort=status&order={{ 'desc' if sort=='status' and order=='asc' else 'asc' }}">Status</a></th>
+  </tr>
+
+  {% for cat, val in documents.items() %}
+  <tr>
+    <td><a href="/document/{{ cat }}">{{ cat }}</a></td>
+    <td>{{ val.chunks }}</td>
+    <td>{{ val.issues }}</td>
+    <td>{{ val.status }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+</section>
+{% endblock %}

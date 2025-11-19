@@ -1,147 +1,121 @@
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import RedirectResponse, JSONResponse
 from fastapi.templating import Jinja2Templates
+from fastapi.staticfiles import StaticFiles
 import pandas as pd
+import urllib.parse
 from pathlib import Path
 import os
+import conf as c
+
+# TODO update requirements.txt also for Docling
+# TODO calculate and store reviewed documents
+# TODO add status to each document to be shown in homepag
+# TODO scrollable sidebar with sticky top 
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = Path("data")
-CHUNKS_FILE = DATA_DIR / "all_chunks.csv"
-INCONS_FILE = DATA_DIR / "all_inconsistencies.csv"
+DATA_DIR = Path("../docling/documents")
 
-# --- Load data ---
-chunks_df = pd.read_csv(CHUNKS_FILE)
-incons_df = pd.read_csv(INCONS_FILE)
+# stats
+url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.metadata_spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_name)}'
+df_pages = pd.read_csv(url_pages_to_be_parsed)
+total_documents = df_pages["item_id"].nunique()
+transcribed_documents = sum(1 for p in DATA_DIR.iterdir() if p.is_dir())
+document_id = None
+show_chunks = None
+project_stats = {
+    "project_name": c.project_name,
+    "total_documents": total_documents,
+    "transcribed_documents": transcribed_documents,
+    "reviewed_documents": 0,
+    "document_id": document_id, # to populate document pages
+    "chunks": show_chunks,
+}
 
-# --- Normalize text ---
-def clean_str(s):
-    return str(s).strip() if pd.notna(s) else ""
-
-for df in [chunks_df, incons_df]:
-    for col in df.columns:
-        if df[col].dtype == object:
-            df[col] = df[col].astype(str).map(clean_str)
-
-# --- Build matching keys ---
-chunks_df["key"] = (
-    chunks_df["catalogue_id"].astype(str)
-    + "||"
-    + chunks_df["num"].astype(str)
-    + "||"
-    + chunks_df["text"].astype(str)
-)
-
-incons_df["key"] = (
-    incons_df["catalogue_id"].astype(str)
-    + "||"
-    + incons_df["current_num"].astype(str)
-    + "||"
-    + incons_df["excerpt"].astype(str)
-)
-
-# --- Compute revision flags ---
-chunks_df["needs_revision"] = chunks_df["key"].isin(incons_df["key"])
-
-# --- Precompute catalogue stats ---
-catalogue_stats = (
-    chunks_df.groupby("catalogue_id")["needs_revision"]
-    .agg(["sum", "count"])
-    .reset_index()
-    .rename(columns={"sum": "issues", "count": "total"})
-)
-catalogue_stats["issues"] = catalogue_stats["issues"].astype(int)
-catalogue_stats["percent_issues"] = (catalogue_stats["issues"] / catalogue_stats["total"] * 100).round(1)
+documents_stats = {}
+for p in DATA_DIR.iterdir():
+    if p.is_dir():
+        document_name = p.name
+        chunks_file =  p / 'chunks.csv'
+        if os.path.exists(chunks_file):
+            chunks = len(pd.read_csv(chunks_file))
+            issues_file =  p / 'inconsistencies.csv'
+            if issues_file.exists() and issues_file.stat().st_size > 0:
+                try:
+                    issues = len(pd.read_csv(issues_file))
+                except pd.errors.EmptyDataError:
+                    issues = 0
+            else:
+                issues = 0
+            issues_percent = (issues / chunks * 100)
+            documents_stats[document_name] = {"chunks": chunks, "issues": issues, "issues_percent":issues_percent, "status": "to be revised"}
+        else:
+            documents_stats[document_name] = {"chunks": 0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
 
 
 @app.get("/")
-def home(request: Request):
+def home(request: Request, sort: str = "id", order: str = "asc"):
     """Show overview of catalogues and issue counts."""
+    project_stats["document_id"] , project_stats["chunks"] = None , None
+    reverse = order == "desc"
+
+    if sort == "issues":
+        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["issues"], reverse=reverse))
+    elif sort == "chunks":
+        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["chunks"], reverse=reverse))
+    elif sort == "status":
+        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["status"], reverse=reverse))
+    else:  # default: sort by ID
+        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[0], reverse=reverse))
+
     return templates.TemplateResponse(
-        "catalogues.html",
+        "index.html",
         {
             "request": request,
-            "catalogues": catalogue_stats.to_dict(orient="records"),
+            "projects": project_stats,
+            "documents": sorted_docs,
+            "sort": sort,
+            "order": order
         },
     )
 
-
-@app.get("/catalogue/{catalogue_id}")
-def view_catalogue(request: Request, catalogue_id: str):
+@app.get("/document/{catalogue_id}")
+def view_document(request: Request, catalogue_id: str):
     """Show editable chunks for a single catalogue."""
-    catalogue_chunks = chunks_df[chunks_df["catalogue_id"] == catalogue_id].copy()
 
-    if catalogue_chunks.empty:
+
+
+    chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
+    issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
+    chunks_df = pd.read_csv(chunks_file)
+    if issues_file.exists() and issues_file.stat().st_size > 0:
+        try:
+            incons_df = pd.read_csv(issues_file)
+        except pd.errors.EmptyDataError:
+            incons_df = pd.DataFrame()
+    else:
+        incons_df = pd.DataFrame()
+
+    def clean_str(s):
+        return str(s).strip() if pd.notna(s) else ""
+
+    # recast types
+    for df in [chunks_df, incons_df]:
+        for col in df.columns:
+            if df[col].dtype == object:
+                df[col] = df[col].astype(str).map(clean_str)
+
+    if chunks_df.empty:
         return templates.TemplateResponse(
             "error.html",
-            {"request": request, "message": f"No data found for catalogue {catalogue_id}."},
+            {"request": request, "message": f"No data found for document {catalogue_id}."},
         )
-    # Add anchor IDs for TOC
-    catalogue_chunks["anchor_id"] = [
-        f"chunk-{i}" for i in catalogue_chunks["index"].astype(str)
-    ]
-    catalogue_chunks["needs_revision"] = catalogue_chunks["needs_revision"].astype(bool)
 
-    return templates.TemplateResponse(
-        "catalogue_detail.html",
-        {
-            "request": request,
-            "catalogue_id": catalogue_id,
-            "chunks": catalogue_chunks.to_dict(orient="records"),
-        },
-    )
-
-@app.post("/save_catalogue")
-async def save_catalogue(request: Request):
-    form_data = await request.form()
-    catalogue_id = form_data.get("catalogue_id")
-    anchor = form_data.get("anchor") or ""
-
-    nums = form_data.getlist("num")
-    titles = form_data.getlist("title")
-    texts = form_data.getlist("text")
-
-    updated_rows = []
-    for i, (num, title, text) in enumerate(zip(nums, titles, texts), start=1):
-        updated_rows.append({
-            "catalogue_id": catalogue_id,
-            "index": i,
-            "num": num.strip(),
-            "title": title.strip(),
-            "text": text.strip(),
-        })
-
-    # Replace the catalogue’s section
-    global chunks_df
-    chunks_df = chunks_df[chunks_df["catalogue_id"] != catalogue_id]
-    chunks_df = pd.concat([chunks_df, pd.DataFrame(updated_rows)], ignore_index=True)
-    chunks_df.to_csv(CHUNKS_FILE, index=False, encoding="utf-8")
-
-    return RedirectResponse(f"/catalogue/{catalogue_id}#{anchor}", status_code=303)
-
-
-@app.post("/update_chunk")
-def update_chunk(
-    catalogue_id: str = Form(...),
-    index: int = Form(...),
-    title: str = Form(...),
-    text: str = Form(...),
-):
-    """Update a chunk and recompute inconsistencies."""
-    global chunks_df
-
-    mask = (chunks_df["catalogue_id"] == catalogue_id) & (chunks_df["index"] == index)
-    if not mask.any():
-        return RedirectResponse(url=f"/catalogue/{catalogue_id}", status_code=303)
-
-    # Update values
-    chunks_df.loc[mask, "title"] = title.strip()
-    chunks_df.loc[mask, "text"] = text.strip()
-
-    # Rebuild keys and recheck inconsistency status
+    # --- Build matching keys ---
     chunks_df["key"] = (
         chunks_df["catalogue_id"].astype(str)
         + "||"
@@ -149,25 +123,37 @@ def update_chunk(
         + "||"
         + chunks_df["text"].astype(str)
     )
-    chunks_df["needs_revision"] = chunks_df["key"].isin(incons_df["key"])
 
-    # Save updated CSV
-    chunks_df.to_csv(CHUNKS_FILE, index=False, encoding="utf-8")
+    if not incons_df.empty:
+        incons_df["key"] = (
+            incons_df["catalogue_id"].astype(str)
+            + "||"
+            + incons_df["current_num"].astype(str)
+            + "||"
+            + incons_df["excerpt"].astype(str)
+        )
 
-    return RedirectResponse(url=f"/catalogue/{catalogue_id}", status_code=303)
+        # --- Compute revision flags ---
+        chunks_df["needs_revision"] = chunks_df["key"].isin(incons_df["key"])
+    else:
+        chunks_df["needs_revision"] = False
 
-@app.post("/resolve_inconsistency")
-async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(...)):
-    """Remove inconsistency entry from CSV when user resolves it."""
-    global incons_df
-    before = len(incons_df)
-    incons_df = incons_df[
-        ~((incons_df["catalogue_id"] == catalogue_id) &
-          (incons_df["prev_num"].astype(str) == str(num)))
+    # Add anchor IDs for TOC
+    chunks_df["anchor_id"] = [
+        f"chunk-{i}" for i in chunks_df["index"].astype(str)
     ]
-    after = len(incons_df)
+    chunks_df["needs_revision"] = chunks_df["needs_revision"].astype(bool)
 
-    incons_df.to_csv(INCONS_FILE, index=False, encoding="utf-8")
+    # update sidebar
+    project_stats["document_id"] = catalogue_id
+    project_stats["chunks"] = chunks_df.to_dict(orient="records")
 
-    resolved = before != after
-    return JSONResponse({"success": resolved})
+    return templates.TemplateResponse(
+        "document.html",
+        {
+            "request": request,
+            "projects": project_stats,
+            "catalogue_id": catalogue_id,
+            "chunks": chunks_df.to_dict(orient="records"),
+        },
+    )
