@@ -11,7 +11,7 @@ import conf as c
 # TODO update requirements.txt also for Docling
 # TODO calculate and store reviewed documents
 # TODO add status to each document to be shown in homepag
-# TODO scrollable sidebar with sticky top
+# TODO resolve inconsistency does not work
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
@@ -90,8 +90,6 @@ def home(request: Request, sort: str = "id", order: str = "asc"):
 @app.get("/document/{catalogue_id}")
 def view_document(request: Request, catalogue_id: str):
     """Show editable chunks for a single catalogue."""
-
-
 
     chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
@@ -193,3 +191,26 @@ async def save_catalogue(request: Request):
         f"/document/{catalogue_id}#{anchor}",
         status_code=303
     )
+
+@app.post("/resolve_inconsistency")
+async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(...)):
+    """Remove inconsistency entry from CSV when user resolves it."""
+
+    issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
+
+    if not issues_file.exists() or issues_file.stat().st_size == 0:
+        return JSONResponse({"success": False, "error": "No inconsistencies file."})
+
+    incons_df = pd.read_csv(issues_file)
+
+    before = len(incons_df)
+    incons_df = incons_df[
+        ~((incons_df["catalogue_id"] == catalogue_id) &
+          (incons_df["prev_num"].astype(str) == str(num)))
+    ]
+    after = len(incons_df)
+
+    incons_df.to_csv(issues_file, index=False, encoding="utf-8")  # fixed typo: INCONS_FILE → issues_file
+
+    resolved = before != after
+    return JSONResponse({"success": resolved})

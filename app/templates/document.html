@@ -54,7 +54,7 @@ function rebuildSidebar() {
             <a href="#${anchorId}"> > ${num}</a>
             ${needsRevision ? `
               <button class="btn-resolve"
-                onclick="resolveIssue('${catalogueId}', '${num}', 'toc_${anchorId}')">✓</button>`
+                onclick="resolveIssue('${catalogueId}', this.closest('.toc-item').id)">✓</button>`
               : ""
             }
         `;
@@ -144,22 +144,33 @@ document.addEventListener("input", (e) => {
 
 document.addEventListener("DOMContentLoaded", renumberChunks);
 
-async function resolveIssue(catalogueId, num, tocId) {
-  const response = await fetch('/resolve_inconsistency', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-    body: new URLSearchParams({ catalogue_id: catalogueId, num: num })
-  });
-  const data = await response.json();
-  if (data.success) {
+async function resolveIssue(catalogueId, tocId) {
     const tocItem = document.getElementById(tocId);
-    tocItem.classList.remove('issue');
-    const btn = tocItem.querySelector('.btn-resolve');
-    if (btn) btn.remove();
-    alert(`Resolved inconsistency for lot ${num}.`);
-  } else {
-    alert('Could not resolve — please refresh.');
-  }
+    if (!tocItem) return;
+
+    // find corresponding chunk id from toc id
+    const chunkId = tocId.replace(/^toc_/, '');
+    const chunk = document.getElementById(chunkId);
+    if (!chunk) return;
+
+    const numInput = chunk.querySelector("input[name='num[]'], input[name='num']");
+    const num = numInput ? numInput.value.trim() : "";
+
+    const response = await fetch('/resolve_inconsistency', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({ catalogue_id: catalogueId, num: num })
+    });
+
+    const data = await response.json();
+    if (data.success) {
+        tocItem.classList.remove('issue');
+        const btn = tocItem.querySelector('.btn-resolve');
+        if (btn) btn.remove();
+        alert(`Resolved inconsistency for lot ${num}.`);
+    } else {
+        alert('Could not resolve — please refresh.');
+    }
 }
 </script>
 
