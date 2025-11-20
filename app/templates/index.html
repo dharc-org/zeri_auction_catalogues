@@ -60,8 +60,10 @@ new Chart(document.getElementById('stackedBar'), {
   <table>
   <tr>
     <th><a href="?sort=id&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Document ID</a></th>
-    <th><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks</a></th>
-    <th><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues</a></th>
+    <th title="number of extracted chunks"><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks</a></th>
+    <th title="last chunk number">Expected</th>
+    <th title="issues found in sequential order"><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues</a></th>
+    <th title="percentage of issues over the number of extracted chunks">%</th>
     <th><a href="?sort=status&order={{ 'desc' if sort=='status' and order=='asc' else 'asc' }}">Status</a></th>
   </tr>
 
@@ -69,7 +71,9 @@ new Chart(document.getElementById('stackedBar'), {
   <tr>
     <td><a href="/document/{{ cat }}">{{ cat }}</a></td>
     <td>{{ val.chunks }}</td>
+    <td class="{{'inconsistent' if val.expected_chunks != val.chunks else '' }}">{{ val.expected_chunks }}</td>
     <td>{{ val.issues }}</td>
+    <td>{{ val.issues_percent }}</td>
     <td>{{ val.status }}</td>
   </tr>
   {% endfor %}

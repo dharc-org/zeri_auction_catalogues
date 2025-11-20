@@ -11,7 +11,7 @@ import conf as c
 # TODO update requirements.txt also for Docling
 # TODO calculate and store reviewed documents
 # TODO add status to each document to be shown in homepag
-# TODO scrollable sidebar with sticky top 
+# TODO scrollable sidebar with sticky top
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
@@ -42,7 +42,9 @@ for p in DATA_DIR.iterdir():
         document_name = p.name
         chunks_file =  p / 'chunks.csv'
         if os.path.exists(chunks_file):
-            chunks = len(pd.read_csv(chunks_file))
+            chunks_df = pd.read_csv(chunks_file)
+            chunks = len(chunks_df)
+            expected_chunks = None if chunks_df.empty else chunks_df.iloc[-1]["num"]
             issues_file =  p / 'inconsistencies.csv'
             if issues_file.exists() and issues_file.stat().st_size > 0:
                 try:
@@ -51,10 +53,10 @@ for p in DATA_DIR.iterdir():
                     issues = 0
             else:
                 issues = 0
-            issues_percent = (issues / chunks * 100)
-            documents_stats[document_name] = {"chunks": chunks, "issues": issues, "issues_percent":issues_percent, "status": "to be revised"}
+            issues_percent = round((issues / chunks * 100))
+            documents_stats[document_name] = {"chunks": chunks, "expected_chunks":expected_chunks, "issues": issues, "issues_percent":issues_percent, "status": "to be revised"}
         else:
-            documents_stats[document_name] = {"chunks": 0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
+            documents_stats[document_name] = {"chunks": 0,  "expected_chunks":0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
 
 
 @app.get("/")
@@ -82,6 +84,8 @@ def home(request: Request, sort: str = "id", order: str = "asc"):
             "order": order
         },
     )
+
+
 
 @app.get("/document/{catalogue_id}")
 def view_document(request: Request, catalogue_id: str):
@@ -139,10 +143,12 @@ def view_document(request: Request, catalogue_id: str):
         chunks_df["needs_revision"] = False
 
     # Add anchor IDs for TOC
-    chunks_df["anchor_id"] = [
-        f"chunk-{i}" for i in chunks_df["index"].astype(str)
-    ]
+    # chunks_df["anchor_id"] = [
+    #     f"chunk-{i}" for i in chunks_df["index"].astype(str)
+    # ]
+    chunks_df["anchor_id"] = chunks_df.index.map(lambda i: f"chunk_{i+1}")
     chunks_df["needs_revision"] = chunks_df["needs_revision"].astype(bool)
+
 
     # update sidebar
     project_stats["document_id"] = catalogue_id
@@ -156,4 +162,34 @@ def view_document(request: Request, catalogue_id: str):
             "catalogue_id": catalogue_id,
             "chunks": chunks_df.to_dict(orient="records"),
         },
+    )
+
+@app.post("/save_document")
+async def save_catalogue(request: Request):
+    form = await request.form()
+
+    catalogue_id = form.get("catalogue_id")
+    anchor = form.get("anchor") or ""
+
+    nums = form.getlist("num[]")
+    titles = form.getlist("title[]")
+    texts = form.getlist("text[]")
+
+    updated = []
+    for idx, (num, title, text) in enumerate(zip(nums, titles, texts), start=1):
+        updated.append({
+            "catalogue_id": catalogue_id,
+            "index": idx,
+            "num": num.strip(),
+            "title": title.strip(),
+            "text": text.strip(),
+        })
+
+    chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
+    pd.DataFrame(updated).to_csv(chunks_file, index=False, encoding="utf-8")
+
+    # redirect to the scrolling anchor
+    return RedirectResponse(
+        f"/document/{catalogue_id}#{anchor}",
+        status_code=303
     )
