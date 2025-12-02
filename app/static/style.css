@@ -10,6 +10,8 @@ h3 a img {display: inline-block; height: 0.7em;}
 .inconsistent { background-color: #fff2cc;}
 table { border-collapse: collapse; width: 100%; }
 th, td { padding: 6px 10px; vertical-align: top; }
+th a {color: black; text-decoration: none;}
+.sort_img {height: 15px;}
 tr.needs-revision { background-color: #fff2cc; }
 td.has-issues { background-color: #ffcccc; font-weight: bold; }
 .highlight {
@@ -22,6 +24,12 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
 
 
 /* EDIT DOCUMENT */
+ #chunks-container {
+  max-height: 100vh;
+  overflow-y: auto;
+  padding-right: 20px; /* avoid overlay scrollbar */
+}
+
 .chunk { background-color: white; border-radius: 20px; margin: 2em 10px; padding: 2em; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
 .chunk.needs-revision { border-color: #d9534f; background-color: #fff5f5; }
 .toc-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 8px; margin: 4px 0; border-radius: 4px; }
@@ -38,3 +46,21 @@ input[type=text] { width: 90%; }
 label {width: 50px; vertical-align: top; font-weight: bold;}
 label + input {display: inline-block;}
 input, textarea {border-radius: 5px; border: solid 1px black; padding: 0.5em; margin-bottom: 10px; font-family: "Helvetica Neue", sans-serif;}
+
+
+
+.image-column {
+  position: sticky;
+  top: 20px;
+  height: auto;
+}
+
+.image-column img {
+  max-width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* SIDEBAR */
+.logout {z-index: 3000; background-color: white; border-top: solid 1px black; padding-top: 1em; margin-bottom: 0px; display: inline-table; }
+.logout a {color: black;}

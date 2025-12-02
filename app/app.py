@@ -1,24 +1,41 @@
-from fastapi import FastAPI, Request, Form
+from fastapi import FastAPI, Request, Form, Depends, HTTPException, Response
 from fastapi.responses import RedirectResponse, JSONResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
+from fastapi.middleware import Middleware
+from starlette.middleware.sessions import SessionMiddleware
+import itsdangerous
+import json, time
 import pandas as pd
 import urllib.parse
 from pathlib import Path
 import os
 import conf as c
 
-# TODO update requirements.txt also for Docling
+# TODO update requirements.txt for Docling
 # TODO calculate and store reviewed documents
 # TODO add status to each document to be shown in homepag
 # TODO resolve inconsistency does not work
+# TODO test multiple users editing
+# TODO add image in edit document
 
-app = FastAPI()
+middleware = [
+    Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
+]
+app = FastAPI(middleware=middleware)
 templates = Jinja2Templates(directory="templates")
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = Path("../docling/documents")
+
+VALID_USERS = {
+    "marilena.daquino2@unibo.it": "admin"
+}
+
+SECRET = "CHANGE_THIS_REMEMBER_SECRET"
+serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
+#app.add_middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
 
 # stats
 url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.metadata_spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_name)}'
@@ -53,14 +70,216 @@ for p in DATA_DIR.iterdir():
                     issues = 0
             else:
                 issues = 0
-            issues_percent = round((issues / chunks * 100))
+            issues_percent = round((issues / chunks * 100)) if chunks else 0
             documents_stats[document_name] = {"chunks": chunks, "expected_chunks":expected_chunks, "issues": issues, "issues_percent":issues_percent, "status": "to be revised"}
         else:
             documents_stats[document_name] = {"chunks": 0,  "expected_chunks":0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
 
 
+LOCK_TIMEOUT = 60 * 30  # 30 minutes
+
+def lock_path(catalogue_id):
+    return DATA_DIR / catalogue_id / ".lock"
+
+
+def acquire_lock(catalogue_id, user):
+    if not catalogue_id:
+        raise ValueError("catalogue_id is missing")
+
+    lp = lock_path(catalogue_id)
+
+    # Ensure parent directory exists
+    lp.parent.mkdir(parents=True, exist_ok=True)
+
+    # If no lock exists → create it
+    if not lp.exists():
+        with open(lp, "w") as f:
+            json.dump({"user": user, "timestamp": time.time()}, f)
+        return True, user
+
+    # Load existing lock
+    with open(lp) as f:
+        data = json.load(f)
+
+    lock_user = data["user"]
+    lock_time = data["timestamp"]
+
+    # Expired → take it over
+    if time.time() - lock_time > LOCK_TIMEOUT:
+        with open(lp, "w") as f:
+            json.dump({"user": user, "timestamp": time.time()}, f)
+        return True, user
+
+    # Already owned by this user → refresh
+    if lock_user == user:
+        with open(lp, "w") as f:
+            json.dump({"user": user, "timestamp": time.time()}, f)
+        return True, user
+
+    # Locked by someone else
+    return False, lock_user
+
+
+def release_lock(catalogue_id, user):
+    lp = lock_path(catalogue_id)
+    if lp.exists():
+        try:
+            with open(lp) as f:
+                owner = json.load(f).get("user")
+            if owner == user:
+                lp.unlink()
+        except:
+            pass
+
+
+def require_login(request: Request):
+    """
+    Robust authentication check:
+    1. If session contains user → authenticated
+    2. Else if remember_token cookie exists → validate and restore session
+    3. Else → redirect to login
+    """
+    # 1. Session already valid
+    if "user" in request.session:
+        return request.session["user"]
+
+    # 2. Try remember_token cookie
+    token = request.cookies.get("remember_token")
+    if token:
+        try:
+            email = serializer.loads(token, max_age=60*60*24*30)  # valid for 30 days
+            if email in VALID_USERS:
+                request.session["user"] = email
+                return email
+        except Exception:
+            pass  # token invalid or expired → fall through to login redirect
+
+    # 3. Not authenticated → redirect properly
+    raise HTTPException(
+        status_code=303,
+        headers={"Location": "/login"}
+    )
+
+
+def get_image(chunks_df, catalogue_id):
+
+    md_dir = DATA_DIR / catalogue_id   # directory with your .md files
+    df = chunks_df
+
+    # Read all markdown files into memory once
+    markdown_files = {
+        md_file.name: md_file.read_text(encoding="utf-8", errors="ignore")
+        for md_file in md_dir.glob("*.md")
+        if md_file.name != "all.md"
+    }
+
+    # Helper: find first markdown file containing the text
+    def find_markdown_file(text):
+        text_clean = str(text).strip()
+        for fname, content in markdown_files.items():
+            if text_clean in content:
+                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname[:-3]) + '/full/max/0/default.jpg'
+                print(page_uri)
+                return page_uri
+        return None
+
+    # Add column to dataframe
+    df["image_online"] = df["text"].apply(find_markdown_file)
+
+    # Save updated CSV
+    #df.to_csv("chunks_with_images.csv", index=False)
+    return df
+
+
+
+@app.get("/login")
+def login_page(request: Request):
+    return templates.TemplateResponse("login.html", {"request": request})
+
+
+@app.post("/login")
+def login(
+    request: Request,
+    response: Response,
+    email: str = Form(...),
+    password: str = Form(...),
+    remember: str = Form(None)
+):
+    if email in VALID_USERS and VALID_USERS[email] == password:
+        request.session["user"] = email
+
+        # If "Remember me" checked → create persistent signed cookie
+        if remember:
+            token = serializer.dumps(email)
+            response = RedirectResponse("/", status_code=303)
+            response.set_cookie(
+                "remember_token",
+                token,
+                max_age=60 * 60 * 24 * 30,  # 30 days
+                httponly=True,
+                secure=False,  # set True in production
+                samesite="lax",
+            )
+            return response
+
+        # Normal login
+        return RedirectResponse("/", status_code=303)
+
+    return templates.TemplateResponse(
+        "login.html",
+        {"request": request, "error": "Invalid credentials"}
+    )
+
+@app.get("/logout")
+def logout(request: Request, user: str = Depends(require_login)):
+    # release all locks owned by this user
+    for p in DATA_DIR.iterdir():
+        if p.is_dir():
+            release_lock(p.name, user)
+
+    request.session.clear()
+    response = RedirectResponse("/login", status_code=303)
+    response.delete_cookie("remember_token")
+    return response
+
+
+@app.post("/heartbeat/{catalogue_id}")
+async def heartbeat(catalogue_id: str, user: str = Depends(require_login)):
+    """
+    Refresh lock timestamp every few minutes while the user is editing.
+    """
+    lp = lock_path(catalogue_id)
+
+    if not lp.exists():
+        # Lock disappeared: recreate it for the current user
+        with open(lp, "w") as f:
+            json.dump({"user": user, "timestamp": time.time()}, f)
+        return {"status": "recreated"}
+
+    try:
+        with open(lp) as f:
+            data = json.load(f)
+        if data.get("user") == user:
+            # Refresh timestamp
+            with open(lp, "w") as f:
+                json.dump({"user": user, "timestamp": time.time()}, f)
+            return {"status": "refreshed"}
+        else:
+            # Another user has taken the lock
+            return {"status": "locked_by_other", "owner": data.get("user")}
+
+    except Exception:
+        return {"status": "error"}
+
+
+@app.post("/release_lock/{catalogue_id}")
+async def api_release_lock(catalogue_id: str, user: str = Depends(require_login)):
+    release_lock(catalogue_id, user)
+    return {"status": "released"}
+
+
 @app.get("/")
-def home(request: Request, sort: str = "id", order: str = "asc"):
+def home(request: Request, sort: str = "id", order: str = "asc", user: str = Depends(require_login)):
     """Show overview of catalogues and issue counts."""
     project_stats["document_id"] , project_stats["chunks"] = None , None
     reverse = order == "desc"
@@ -88,12 +307,27 @@ def home(request: Request, sort: str = "id", order: str = "asc"):
 
 
 @app.get("/document/{catalogue_id}")
-def view_document(request: Request, catalogue_id: str):
+def view_document(request: Request, catalogue_id: str, user: str = Depends(require_login)):
     """Show editable chunks for a single catalogue."""
+    if not catalogue_id or catalogue_id == "undefined":
+        return templates.TemplateResponse(
+            "error.html",
+            {"request": request, "message": f"Invalid catalogue_id: {catalogue_id!r}."},
+        )
+
+    ok, locked_by = acquire_lock(catalogue_id, user)
+
+    if not ok:
+        return templates.TemplateResponse(
+            "locked.html",
+            {"request": request, "catalogue_id": catalogue_id, "locked_by": locked_by},
+        )
 
     chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
     chunks_df = pd.read_csv(chunks_file)
+    chunks_df = get_image(chunks_df, catalogue_id)
+
     if issues_file.exists() and issues_file.stat().st_size > 0:
         try:
             incons_df = pd.read_csv(issues_file)
@@ -152,6 +386,8 @@ def view_document(request: Request, catalogue_id: str):
     project_stats["document_id"] = catalogue_id
     project_stats["chunks"] = chunks_df.to_dict(orient="records")
 
+
+
     return templates.TemplateResponse(
         "document.html",
         {
@@ -162,8 +398,9 @@ def view_document(request: Request, catalogue_id: str):
         },
     )
 
+
 @app.post("/save_document")
-async def save_catalogue(request: Request):
+async def save_catalogue(request: Request, user: str = Depends(require_login)):
     form = await request.form()
 
     catalogue_id = form.get("catalogue_id")
@@ -186,14 +423,17 @@ async def save_catalogue(request: Request):
     chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
     pd.DataFrame(updated).to_csv(chunks_file, index=False, encoding="utf-8")
 
+    release_lock(catalogue_id, user) 
+
     # redirect to the scrolling anchor
     return RedirectResponse(
         f"/document/{catalogue_id}#{anchor}",
         status_code=303
     )
 
+
 @app.post("/resolve_inconsistency")
-async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(...)):
+async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(...), user: str = Depends(require_login)):
     """Remove inconsistency entry from CSV when user resolves it."""
 
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'

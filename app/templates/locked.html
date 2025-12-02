@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5">
+
+    <div class="alert alert-warning">
+        <h4>Document Locked</h4>
+        <p>
+            The document <strong>{{ catalogue_id }}</strong> is currently being edited by:
+            <strong>{{ locked_by }}</strong>.
+        </p>
+
+        <p>
+            To prevent conflicting edits, you cannot open it right now.
+        </p>
+    </div>
+
+    <div class="mt-4">
+        <a href="/" class="btn btn-secondary">⬅ Back to Documents</a>
+    </div>
+
+    <!-- {% if is_admin %}
+    <hr>
+    <div class="mt-4">
+        <form method="post" action="/force_unlock/{{ catalogue_id }}">
+            <button class="btn btn-danger">Force Unlock (Admin Only)</button>
+        </form>
+    </div>
+    {% endif %} -->
+
+</div>
+{% endblock %}

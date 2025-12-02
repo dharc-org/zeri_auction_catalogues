@@ -59,12 +59,12 @@ new Chart(document.getElementById('stackedBar'), {
   <!-- <h2>Documents</h2> -->
   <table>
   <tr>
-    <th><a href="?sort=id&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Document ID</a></th>
-    <th title="number of extracted chunks"><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks</a></th>
+    <th><a href="?sort=id&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Document ID <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
+    <th title="number of extracted chunks"><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
     <th title="last chunk number">Expected</th>
-    <th title="issues found in sequential order"><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues</a></th>
+    <th title="issues found in sequential order"><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
     <th title="percentage of issues over the number of extracted chunks">%</th>
-    <th><a href="?sort=status&order={{ 'desc' if sort=='status' and order=='asc' else 'asc' }}">Status</a></th>
+    <th><a href="?sort=status&order={{ 'desc' if sort=='status' and order=='asc' else 'asc' }}">Status <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
   </tr>
 
   {% for cat, val in documents.items() %}
