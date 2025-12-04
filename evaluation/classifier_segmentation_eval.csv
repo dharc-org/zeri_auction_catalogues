@@ -1,0 +1,35 @@
+﻿N. catalogo,ID,Totali pagine processate,Totali errori,Errori - tipo immagine,"N. Menzioni ""Tavola""","N. Menzioni ""Planche""","N. Menzioni ""Tav.""","Errori - altri oggetti linguistici (prefazione, condizioni di vendita, ecc.)",Chunks (lotti estratti),N. Lotti attesi,N. lotti corretti,N. lotti scorretti,N. lotti mancanti,N. lotti extra da errore LLM (inclusi in lotti scorretti),N. lotti mancanti da LLM ,Interpretazione lotti mancanti / N. pagine mancanti,Numero lotti persi (se rimuoviamo p. classificate come tavole),Note
+4389,1,104,26,24,0,0,6,2,676,592,579,90,7,5,0,/,0,/
+4399,2,127,61,57,0,0,0,4,717,630,640,77,5,41,0,/,0,Layout complesso x colonne. Ogni pagina di catalogo è divisa in due colonne e ha mediamente 10-15 lotti per pagina
+4454,3,128,30,28,0,0,0,2,892,831,826,66,12,26,0,/,0,/
+4466,4,136,12,12,6,0,0,0,2893,3014,2864,29,146,0,0,/,0,/
+4482,5,76,28,28,0,0,0,0,324,324,317,7,7,,0,/,0,/
+4513,6,143,85,79,0,6,0,6,784,792,747,37,44,24,32,"Controllando il catalago digitalizzato, mancano effettivamente delle pagine. Mediamente ci sono lotto 8 per pagina dividi in due colonne. Potrebbero dunque mancare tra le 3 alle 4 pagine. Purtroppo non c'è la numerazione di pagina tra la precedente e la successiva come indicatore puntuale",0,/
+4554,7,114,50,48,0,0,0,2,910,840,875,35,30,13,9,confermo con check incrociato da catalogo che manca 1 pagina,0,/
+4670,8,65,27,26,0,0,0,1,274,305,238,36,72,25,0,/,0,/
+4671,9,59,27,24,0,2,0,3,360,358,353,7,7,0,0,/,0,/
+4840,10,112,38,31,0,1,0,7,1011,990,979,32,11,24,0,/,0,/
+4866,11,45,10,8,0,0,0,2,316,298,299,17,0,3,0,/,0,/
+4868,12,134,54,52,0,0,0,2,855,784,743,112,43,33,0,/,0,/
+4972,13,94,14,13,5,0,0,1,732,697,698,34,2,4,0,/,0,/
+5444,14,141,39,34,0,0,0,5,880,800,798,82,4,20,0,/,0,/
+5507,15,28,1,0,0,0,0,1,334,318,318,16,0,16,0,/,0,catalogo senza immagini
+5508,16,68,2,0,0,0,0,2,715,684,673,42,19,1,0,/,0,catalogo senza immagini
+5514,17,36,23,20,0,0,0,3,5,32,4,1,28,0,0,/,0,In questo caso i lotti non sono anticipati da un numero. Li ho contati manualmente da img. Sono identificati da un titolo al centro della pagina prima della singola descrizione
+5570,18,99,31,29,0,0,0,2,869,808,808,61,10,26,0,/,0,/
+15268,19,19,8,7,0,0,0,1,22,22,22,0,0,0,0,/,0,/
+44430,20,34,7,6,0,0,0,1,229,231,229,0,2,0,0,/,0,/
+totale,,1762,573,526,,,,47,13798,13350,13010,781,449,261,41,5,0,
+totale senza errori img,,1236,,,,,,,,,,,,,,,,
+expected correct pages,,1194,,,,,,,,,,,,,,,,
+pagine corrette,,1189,with image errors,,,,,,,,,,,,,,,
+,,1189,without image errors,,,,,,,,,,,,,,,
+precision classification,,0.674801362,with image errors,,,,,,,,,,,,,,,
+,,0.96197411,without image errors,,,,,,,,,,,,,,,
+recall classification,,0.995812395,with image errors,,,,,,,,,,,,,,,
+,,0.995812395,without image errors,,,,,,Lots w/o LLM mistakes,13537,,,,,,,,
+,,,,,,,,,Wrong lots w/o LLM mistakes,520,,,,,,,,
+precision lot segmentation,,0.943368864,,p w/o LLM images,,,,,0.961566888,,,,,,,,,
+recall lot segmentation,,0.966639423,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

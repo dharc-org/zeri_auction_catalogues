@@ -17,7 +17,8 @@ import conf as c
 # TODO add status to each document to be shown in homepag
 # TODO resolve inconsistency does not work
 # TODO test multiple users editing
-# TODO add image in edit document
+# TODO revise how images are added:
+## when modifying the text there is no match with the md and the image does not appear anymore in edit document
 
 middleware = [
     Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
@@ -326,7 +327,7 @@ def view_document(request: Request, catalogue_id: str, user: str = Depends(requi
     chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
     chunks_df = pd.read_csv(chunks_file)
-    chunks_df = get_image(chunks_df, catalogue_id)
+    #chunks_df = get_image(chunks_df, input_folder, catalogue_id)
 
     if issues_file.exists() and issues_file.stat().st_size > 0:
         try:
@@ -423,7 +424,7 @@ async def save_catalogue(request: Request, user: str = Depends(require_login)):
     chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
     pd.DataFrame(updated).to_csv(chunks_file, index=False, encoding="utf-8")
 
-    release_lock(catalogue_id, user) 
+    release_lock(catalogue_id, user)
 
     # redirect to the scrolling anchor
     return RedirectResponse(

@@ -14,12 +14,49 @@ def main():
     # get pages
     url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_pages)}'
     df_pages = pd.read_csv(url_pages_to_be_parsed)
-    # filter pages by type: only Item description
-    df_filtered = df_pages[df_pages["classification"] == c.filter_pages].reset_index(drop=True) if c.filter_pages else df_pages
+    # filter pages by type: only Item/lot description
+    #df_filtered = df_pages[df_pages["classification"] == c.filter_pages].reset_index(drop=True) if c.filter_pages else df_pages
+    df_filtered = (
+    df_pages[
+        (df_pages["classification"] == c.filter_pages) &
+        (df_pages["is_table"] == 0)
+    ].reset_index(drop=True)
+    if c.filter_pages
+    else df_pages[df_pages["is_table"] == 0].reset_index(drop=True)
+    )
     # group images by folder name
     folder_images_dict = group_pages_by_catalogue(df_filtered)
     # parse online images, perform OCR and chunking
     run_transcription(folder_images_dict, chunking=c.chunking)
+
+def get_image(chunks_df, input_folder, catalogue_id):
+
+    md_dir = Path(input_folder)   # directory with your .md files
+    df = chunks_df
+
+    # Read all markdown files into memory once
+    markdown_files = {
+        md_file.name: md_file.read_text(encoding="utf-8", errors="ignore")
+        for md_file in md_dir.glob("*.md")
+        if md_file.name != "all.md"
+    }
+
+    # Helper: find first markdown file containing the text
+    def find_markdown_file(text):
+        text_clean = str(text).strip()
+        for fname, content in markdown_files.items():
+            if text_clean in content:
+                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname[:-3]) + '/full/max/0/default.jpg'
+                print(page_uri)
+                return page_uri
+        return None
+
+    # Add column to dataframe
+    df["image_online"] = df["text"].apply(find_markdown_file)
+
+    # Save updated CSV
+    #df.to_csv("chunks_with_images.csv", index=False)
+    return df
 
 
 def chunk_md_files(input_folder):
@@ -46,6 +83,7 @@ def chunk_md_files(input_folder):
     # --- Step 3: Recalculate inconsistencies ---
     inconsistencies_df = recalc_inconsistencies(chunks_df)
 
+    chunks_df = get_image(chunks_df, input_folder, catalogue_id)
     # --- Step 4: Save outputs ---
     chunks_df.to_csv(output_file, index=False, encoding="utf-8")
     inconsistencies_df.to_csv(inconsistencies_file, index=False, encoding="utf-8")
@@ -54,6 +92,8 @@ def chunk_md_files(input_folder):
 
 def run_transcription(folder_images_dict, chunking=False):
     parsed_folders = add_folder_to_parsed()
+    error_path = 'errors.txt'
+    mode = 'a' if os.path.exists(error_path) else 'w'
     for folder_path, files_list in folder_images_dict.items():
         print(f"## NEW Parsing {folder_path}")
         if folder_path not in parsed_folders:
@@ -66,8 +106,13 @@ def run_transcription(folder_images_dict, chunking=False):
             print(f"##### Md files concatenated: {folder_path}/all.md")
             # chunk markdown files
             if c.chunking == True:
-                chunk_md_files(os.path.join(c.parent_folder, folder_path))
-                print(f"##### Md files chunked: {folder_path}/chunks.csv")
+                try:
+                    chunk_md_files(os.path.join(c.parent_folder, folder_path))
+                    print(f"##### Md files chunked: {folder_path}/chunks.csv")
+                except Exception as e:
+                    message = folder_path + img_path + ": " + str(e)
+                    with open(error_path, mode) as f:
+                        f.write(message + '\n')
             # record parsed folders
             parsed_folders = add_folder_to_parsed(folder_path)
             print(f"## DONE Parsing {folder_path}")
@@ -93,27 +138,32 @@ def run_docling(folder_path, img_path):
         # prepare output files
         error_path = 'errors.txt'
         mode = 'a' if os.path.exists(error_path) else 'w'
-        # build URI for greyscale image, e.g. http://137.204.64.39/image/iiif/3/BO0624_4466!BO0624_4466_000132-p.%201.jpg/full/max/0/gray.jpg
-        page_uri = c.iiif_page_uri_base + folder_path + '!' + urllib.parse.quote(img_path) + '/full/max/0/gray.jpg'
-        print(f"##### Retrieved greyscale page: {page_uri}")
-        # OCR
-        converter = DocumentConverter()
-        result = converter.convert(page_uri)
-        print(f"##### Transcribed page: {page_uri}")
+        try:
+            # build URI for greyscale image, e.g. http://137.204.64.39/image/iiif/3/BO0624_4466!BO0624_4466_000132-p.%201.jpg/full/max/0/gray.jpg
+            page_uri = c.iiif_page_uri_base + folder_path + '!' + urllib.parse.quote(img_path) + '/full/max/0/gray.jpg'
+            print(f"##### Retrieved greyscale page: {page_uri}")
+            # OCR
+            converter = DocumentConverter()
+            result = converter.convert(page_uri)
+            print(f"##### Transcribed page: {page_uri}")
 
-        if not os.path.exists(c.parent_folder):
-            os.makedirs(c.parent_folder)
-        if not os.path.exists(os.path.join(c.parent_folder, folder_path)):
-            os.makedirs(os.path.join(c.parent_folder, folder_path))
-        with open(md_path, 'w') as file:
-            res = result.document.export_to_markdown()
-            try:
-                file.write(res)
-                print(f"##### Transcription written in md file: {page_uri}")
-            except Exception as e:
-                message = folder_path + img_path + ": " + str(e)
-                with open(error_path, mode) as f:
-                    f.write(message + '\n')
+            if not os.path.exists(c.parent_folder):
+                os.makedirs(c.parent_folder)
+            if not os.path.exists(os.path.join(c.parent_folder, folder_path)):
+                os.makedirs(os.path.join(c.parent_folder, folder_path))
+            with open(md_path, 'w') as file:
+                res = result.document.export_to_markdown()
+                try:
+                    file.write(res)
+                    print(f"##### Transcription written in md file: {page_uri}")
+                except Exception as e:
+                    message = folder_path + img_path + ": " + str(e)
+                    with open(error_path, mode) as f:
+                        f.write(message + '\n')
+        except Exception as e:
+            message = folder_path + img_path + ": " + str(e)
+            with open(error_path, mode) as f:
+                f.write(message + '\n')
 
 
 def concatenate_markdown_files(input_folder, output_file, index_file=None):
@@ -127,35 +177,38 @@ def concatenate_markdown_files(input_folder, output_file, index_file=None):
         index_file (str or Path, optional): File where the line index is saved.
                                             If None, writes <output_file>.index.txt
     """
-    input_folder = Path(input_folder)
-    output_file = Path(output_file)
+    try:
+        input_folder = Path(input_folder)
+        output_file = Path(output_file)
 
-    if index_file is None:
-        index_file = input_folder / "all_index.json"
-    else:
-        index_file = Path(index_file)
+        if index_file is None:
+            index_file = input_folder / "all_index.json"
+        else:
+            index_file = Path(index_file)
 
-    markdown_files = sorted([p for p in input_folder.iterdir() if p.suffix == ".md"])
+        markdown_files = sorted([p for p in input_folder.iterdir() if p.suffix == ".md"])
 
-    line_index = {}   # filename → starting line number
-    current_line = 1  # Lines are 1-based
+        line_index = {}   # filename → starting line number
+        current_line = 1  # Lines are 1-based
 
-    with output_file.open("w", encoding="utf-8") as outfile:
-        for md_file in markdown_files:
-            line_index[md_file.name] = current_line
+        with output_file.open("w", encoding="utf-8") as outfile:
+            for md_file in markdown_files:
+                line_index[md_file.name] = current_line
 
-            with md_file.open("r", encoding="utf-8") as infile:
-                for line in infile:
-                    outfile.write(line)
-                    current_line += 1
+                with md_file.open("r", encoding="utf-8") as infile:
+                    for line in infile:
+                        outfile.write(line)
+                        current_line += 1
 
-            # Add a separating newline between files
-            outfile.write("\n")
-            current_line += 1
+                # Add a separating newline between files
+                outfile.write("\n")
+                current_line += 1
 
-    # Save index file
-    with index_file.open("w", encoding="utf-8") as idx:
-        json.dump(line_index, idx, indent=2)
+        # Save index file
+        with index_file.open("w", encoding="utf-8") as idx:
+            json.dump(line_index, idx, indent=2)
+    except:
+        pass
 
 
 def add_folder_to_parsed(folder_path=None):
@@ -363,7 +416,6 @@ def recalc_inconsistencies(df):
                 last_num = num_val
 
     return pd.DataFrame(inconsistencies)
-
 
 
 if __name__ == "__main__":
