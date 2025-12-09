@@ -13,8 +13,6 @@ import os
 import conf as c
 
 # TODO update requirements.txt for Docling
-# TODO calculate and store reviewed documents
-# TODO add status to each document to be shown in homepag
 # TODO resolve inconsistency does not work
 # TODO test multiple users editing
 # TODO revise how images are added:
@@ -54,6 +52,34 @@ project_stats = {
     "chunks": show_chunks,
 }
 
+STATUS_FILE = Path("reviewed_status.csv")
+
+def load_reviewed_status():
+    if not STATUS_FILE.exists() or STATUS_FILE.stat().st_size == 0:
+        return {}
+    try:
+        df = pd.read_csv(STATUS_FILE)
+        if df.empty:
+            return {}
+        return {str(row["document_id"]): row["status"] for _, row in df.iterrows()}
+    except Exception:
+        return {}
+
+def save_reviewed_status(status_dict):
+    if not status_dict:
+        # Write an EMPTY but valid CSV
+        pd.DataFrame(columns=["document_id", "status"]).to_csv(STATUS_FILE, index=False)
+        return
+
+    df = pd.DataFrame([
+        {"document_id": k, "status": v}
+        for k, v in status_dict.items()
+    ])
+    df.to_csv(STATUS_FILE, index=False)
+
+# Load saved statuses
+reviewed_status = load_reviewed_status()
+
 documents_stats = {}
 for p in DATA_DIR.iterdir():
     if p.is_dir():
@@ -76,6 +102,15 @@ for p in DATA_DIR.iterdir():
         else:
             documents_stats[document_name] = {"chunks": 0,  "expected_chunks":0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
 
+# Update document status
+for doc_id, stat in reviewed_status.items():
+    if doc_id in documents_stats:
+        documents_stats[doc_id]["status"] = stat
+
+# Compute reviewed_documents count
+project_stats["reviewed_documents"] = sum(
+    1 for d in documents_stats.values() if d["status"] == "reviewed"
+)
 
 LOCK_TIMEOUT = 60 * 30  # 30 minutes
 
@@ -327,7 +362,7 @@ def view_document(request: Request, catalogue_id: str, user: str = Depends(requi
     chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
     chunks_df = pd.read_csv(chunks_file)
-    #chunks_df = get_image(chunks_df, input_folder, catalogue_id)
+    chunks_df = get_image(chunks_df, catalogue_id)
 
     if issues_file.exists() and issues_file.stat().st_size > 0:
         try:
@@ -455,3 +490,45 @@ async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(.
 
     resolved = before != after
     return JSONResponse({"success": resolved})
+
+@app.post("/mark_reviewed")
+def mark_reviewed(
+    document_id: str = Form(...),
+    user: str = Depends(require_login)
+):
+    if document_id in documents_stats:
+        documents_stats[document_id]["status"] = "reviewed"
+
+    reviewed_status[document_id] = "reviewed"
+    save_reviewed_status(reviewed_status)
+
+    # Update project stats
+    project_stats["reviewed_documents"] = sum(
+        1 for d in documents_stats.values() if d["status"] == "reviewed"
+    )
+
+    return RedirectResponse("/", status_code=303)
+
+
+@app.post("/undo_review")
+def undo_review(
+    document_id: str = Form(...),
+    user: str = Depends(require_login)
+):
+    if document_id in documents_stats:
+        # Restore default behavior
+        documents_stats[document_id]["status"] = (
+            "to be revised" if documents_stats[document_id]["chunks"] > 0
+            else "to be transcribed"
+        )
+
+    if document_id in reviewed_status:
+        del reviewed_status[document_id]
+        save_reviewed_status(reviewed_status)
+
+    # Update project stats
+    project_stats["reviewed_documents"] = sum(
+        1 for d in documents_stats.values() if d["status"] == "reviewed"
+    )
+
+    return RedirectResponse("/", status_code=303)

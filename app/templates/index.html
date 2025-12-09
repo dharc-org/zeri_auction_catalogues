@@ -74,7 +74,19 @@ new Chart(document.getElementById('stackedBar'), {
     <td class="{{'inconsistent' if val.expected_chunks != val.chunks else '' }}">{{ val.expected_chunks }}</td>
     <td>{{ val.issues }}</td>
     <td>{{ val.issues_percent }}</td>
-    <td>{{ val.status }}</td>
+    <td>{{ val.status }}
+      {% if val.status != "reviewed" %}
+      <form method="post" action="/mark_reviewed" style="display:inline">
+          <input type="hidden" name="document_id" value="{{ cat }}">
+          <button type="submit" class="review-btn"><img src="{{ url_for('static', path='/images/check.png') }}" alt="">Mark as reviewed</button>
+      </form>
+      {% else %}
+      <form method="post" action="/undo_review" style="display:inline">
+          <input type="hidden" name="document_id" value="{{ cat }}">
+          <button type="submit" class="undo-btn"><img src="{{ url_for('static', path='/images/undo.png') }}" alt="">Undo review</button>
+      </form>
+      {% endif %}
+    </td>
   </tr>
   {% endfor %}
 </table>

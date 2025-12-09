@@ -20,7 +20,8 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
   background-color: #fff3cd; /* soft yellow for attention */
   border-left: 4px solid #ff9800;
 }
-
+.review-btn, .undo-btn {box-shadow: none; background-color: #F2EEEE; border-radius: 25px; border: solid 1px #dbd9d9;}
+.review-btn img, .undo-btn img {height: 15px; margin-right: 5px;}
 .table { width: 100%; border-collapse: collapse;}
 .table th, .table td {  padding: 8px 12px;  border-bottom: 1px solid #ddd;}
 
