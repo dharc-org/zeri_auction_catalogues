@@ -13,10 +13,9 @@ import os
 import conf as c
 
 # TODO update requirements.txt for Docling
-# TODO resolve inconsistency does not work
+# TODO resolve inconsistency does not work - remove it!
 # TODO test multiple users editing
-# TODO revise how images are added:
-## when modifying the text there is no match with the md and the image does not appear anymore in edit document
+# TODO do we need to store who reviewed the document and when?
 
 middleware = [
     Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
@@ -197,37 +196,6 @@ def require_login(request: Request):
     )
 
 
-def get_image(chunks_df, catalogue_id):
-
-    md_dir = DATA_DIR / catalogue_id   # directory with your .md files
-    df = chunks_df
-
-    # Read all markdown files into memory once
-    markdown_files = {
-        md_file.name: md_file.read_text(encoding="utf-8", errors="ignore")
-        for md_file in md_dir.glob("*.md")
-        if md_file.name != "all.md"
-    }
-
-    # Helper: find first markdown file containing the text
-    def find_markdown_file(text):
-        text_clean = str(text).strip()
-        for fname, content in markdown_files.items():
-            if text_clean in content:
-                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname[:-3]) + '/full/max/0/default.jpg'
-                print(page_uri)
-                return page_uri
-        return None
-
-    # Add column to dataframe
-    df["image_online"] = df["text"].apply(find_markdown_file)
-
-    # Save updated CSV
-    #df.to_csv("chunks_with_images.csv", index=False)
-    return df
-
-
-
 @app.get("/login")
 def login_page(request: Request):
     return templates.TemplateResponse("login.html", {"request": request})
@@ -345,7 +313,7 @@ def home(request: Request, sort: str = "id", order: str = "asc", user: str = Dep
 @app.get("/document/{catalogue_id}")
 def view_document(request: Request, catalogue_id: str, user: str = Depends(require_login)):
     """Show editable chunks for a single catalogue."""
-    if not catalogue_id or catalogue_id == "undefined":
+    if not catalogue_id or catalogue_id == "None" or catalogue_id == "undefined":
         return templates.TemplateResponse(
             "error.html",
             {"request": request, "message": f"Invalid catalogue_id: {catalogue_id!r}."},
@@ -359,10 +327,19 @@ def view_document(request: Request, catalogue_id: str, user: str = Depends(requi
             {"request": request, "catalogue_id": catalogue_id, "locked_by": locked_by},
         )
 
-    chunks_file = DATA_DIR / catalogue_id / 'chunks.csv'
+    # FIX 2: Check file existence
+    chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
+    if not chunks_file.exists():
+        return templates.TemplateResponse(
+            "error.html",
+            {
+                "request": request,
+                "message": f"Chunks file not found for document {catalogue_id}. Expected at: {chunks_file}"
+            },
+        )
+
     issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
     chunks_df = pd.read_csv(chunks_file)
-    chunks_df = get_image(chunks_df, catalogue_id)
 
     if issues_file.exists() and issues_file.stat().st_size > 0:
         try:

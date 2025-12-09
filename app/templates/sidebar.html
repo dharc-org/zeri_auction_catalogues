@@ -17,9 +17,9 @@
            {% for ch in projects.chunks %}
              <div class="toc-item {% if ch.needs_revision %}issue{% endif %}" id="toc_{{ ch.anchor_id }}">
                <a href="#{{ ch.anchor_id }}"> > {{ ch.num }}</a>
-               {% if ch.needs_revision %}
+               <!-- {% if ch.needs_revision %}
                  <button class="btn-resolve" onclick="resolveIssue('{{ catalogue_id }}','{{ ch.num }}','toc_{{ ch.anchor_id }}')">✓</button>
-               {% endif %}
+               {% endif %} -->
              </div>
            {% endfor %}
          </div>

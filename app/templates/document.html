@@ -243,6 +243,15 @@
 
     scrollContainer.addEventListener("scroll", updateImageOnScroll);
 
+    document.querySelectorAll(".toc-item a").forEach(link => {
+    link.addEventListener("click", () => {
+        // delay is needed because the jump to the anchor happens *after* the click
+        setTimeout(() => {
+            updateImageOnScroll();
+        }, 50);
+    });
+});
+
   });
 
   // Zoom
