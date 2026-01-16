@@ -15,12 +15,21 @@
          <div class="sidebar flex-grow-1 overflow-auto p-5">
            <h2>Chunks</h2>
            {% for ch in projects.chunks %}
-             <div class="toc-item {% if ch.needs_revision %}issue{% endif %}" id="toc_{{ ch.anchor_id }}">
-               <a href="#{{ ch.anchor_id }}"> > {{ ch.num }}</a>
-               <!-- {% if ch.needs_revision %}
-                 <button class="btn-resolve" onclick="resolveIssue('{{ catalogue_id }}','{{ ch.num }}','toc_{{ ch.anchor_id }}')">✓</button>
-               {% endif %} -->
-             </div>
+           <div class="toc-item{% if ch.needs_revision %} issue{% endif %}"
+               id="toc_{{ ch.anchor_id }}"
+               data-num="{{ ch.num }}">
+
+            <a href="#{{ ch.anchor_id }}">{{ ch.num }}</a>
+
+            {% if ch.needs_revision %}
+              <button
+                class="btn-resolve"
+                onclick="resolveIssue('{{ catalogue_id }}', '{{ ch.num }}', 'toc_{{ ch.anchor_id }}')">
+                ✓
+              </button>
+            {% endif %}
+            </div>
+
            {% endfor %}
          </div>
        {% endif %}

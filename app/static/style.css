@@ -1,13 +1,15 @@
 body { font-family: "Helvetica Neue", sans-serif; font-weight: 400;}
 h1 a {color: black !important; text-decoration: none;}
 h2 {font-size: 1em; }
+.grey {background-color: #F2EEEE;}
+.clickable, a {color: #8647b3}
 
 /* HOME */
 .menu_title {font-weight: 200 !important;}
 .menu_subtitle {font-size: 1em !important;}
 h3, {font-size: 1.3em; }
 h3 a img {display: inline-block; height: 0.7em;}
-.grey {background-color: #F2EEEE;}
+
 .project_stats {background-color: white; border-radius: 20px; margin: 2em 0px; padding: 2em; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
 .inconsistent { background-color: #fff2cc;}
 table { border-collapse: collapse; width: 100%; }
@@ -20,7 +22,7 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
   background-color: #fff3cd; /* soft yellow for attention */
   border-left: 4px solid #ff9800;
 }
-.review-btn, .undo-btn {box-shadow: none; background-color: #F2EEEE; border-radius: 25px; border: solid 1px #dbd9d9;}
+.review-btn, .undo-btn {box-shadow: none; background-color: #F2EEEE; border-radius: 25px; border: solid 1px #dbd9d9; font-size: 0.7em;}
 .review-btn img, .undo-btn img {height: 15px; margin-right: 5px;}
 .table { width: 100%; border-collapse: collapse;}
 .table th, .table td {  padding: 8px 12px;  border-bottom: 1px solid #ddd;}
@@ -33,19 +35,42 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
 textarea { width: 90%; height: 6rem; }
 input[type=text] { width: 90%; }
 .controls { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
-.btn { background: #007bff; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; }
-.btn.delete { background: #dc3545; }
-.btn.add { background: #28a745; }
+.btn { background: white; color: black; border: solid 1px black; padding: 6px 12px; border-radius: 4px; cursor: pointer; }
+.btn.save:hover {background: black; color: white;}
+.btn.delete { border: solid 1px #dc3545 !important; color: #dc3545; background-color: white;}
+.btn.add { border: solid 1px #28a745 !important; color: #28a745; background-color: white;}
 label {width: 50px; vertical-align: top; font-weight: bold;}
 label + input {display: inline-block;}
 input, textarea {border-radius: 5px; border: solid 1px black; padding: 0.5em; margin-bottom: 10px; font-family: "Helvetica Neue", sans-serif;}
 
 /* IMAGES COLMUN IN EDIT DOCUMENT */
-
 .image-column {position: sticky; top: 20px; height: auto;}
 .image-column img {max-width: 100%;  border: 1px solid #ccc;  border-radius: 8px;}
-#current-image { transition: transform 0.2s ease; /* smooth zoom */ transform-origin: center center; max-width: 100%; display: block;}
+#image-frame {
+  width: 100%;
+  height: 80vh;          /* fixed visible area */
+  overflow: hidden;      /* prevents frame resizing */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f8f8;
+  cursor: grab;
+}
+#image-frame.dragging {
+  cursor: grabbing;
+}
+
+#current-image {
+  max-width: 100%;
+  max-height: 100%;
+  transform-origin: center center;
+  transition: transform 0.15s ease;
+  will-change: transform;
+  user-select: none;
+  pointer-events: none;
+}
 .zoom_controls {z-index: 3000;}
+.zoom-btn {box-shadow: none; background-color: #F2EEEE; border-radius: 25px; border: solid 1px #dbd9d9; font-size: 0.7em;}
 
 /* SIDEBAR */
 .logout {z-index: 3000; background-color: white; border-top: solid 1px black; padding-top: 1em; margin-bottom: 0px; display: inline-table; }
@@ -53,5 +78,23 @@ input, textarea {border-radius: 5px; border: solid 1px black; padding: 0.5em; ma
 .toc-item { display: flex; justify-content: space-between; align-items: center; padding: 4px 8px; margin: 4px 0; border-bottom: solid 1px rgba(100, 100, 111, 0.2); }
 .toc-item.issue { background: #ffe0e0; color: #b00000; }
 .toc-item a { text-decoration: none; color: inherit; flex: 1; }
-.btn-resolve { background: #28a745; color: white; border: none; padding: 2px 6px; border-radius: 3px; cursor: pointer; font-size: 0.8em; }
-.btn-resolve:hover { background: #218838; }
+/* .btn-resolve { background: #28a745; color: white; border: none; padding: 2px 6px; border-radius: 3px; cursor: pointer; font-size: 0.8em; } */
+/* .btn-resolve:hover { background: #218838; } */
+.toc-item.active {
+  background: #eee;
+  border-left: 4px solid #333;
+}
+
+.chunk.issue {
+  border-left: 4px solid #c0392b;
+}
+
+.toc-item.issue a {
+  color: #c0392b;
+  font-weight: bold;
+}
+
+.btn-resolve {
+  margin-left: 0.5em;
+  font-size: 0.8em;
+}

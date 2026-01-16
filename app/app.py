@@ -4,196 +4,273 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware import Middleware
 from starlette.middleware.sessions import SessionMiddleware
-import itsdangerous
-import json, time
+
+import sqlite3
 import pandas as pd
-import urllib.parse
+import itsdangerous
+import json, time, os
 from pathlib import Path
-import os
 import conf as c
+# -----------------------------------------------------------------------------
+# CONFIG
+# -----------------------------------------------------------------------------
 
-# TODO update requirements.txt for Docling
-# TODO resolve inconsistency does not work - remove it!
-# TODO test multiple users editing
-# TODO do we need to store who reviewed the document and when?
-
-middleware = [
-    Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
-]
-app = FastAPI(middleware=middleware)
-templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = Path(__file__).parent
 DATA_DIR = Path("../docling/documents")
+DB_PATH = BASE_DIR / "documents.db"
+
+LOCK_TIMEOUT = 60 * 30
+SECRET = "CHANGE_THIS_REMEMBER_SECRET"
 
 VALID_USERS = {
     "marilena.daquino2@unibo.it": "admin"
 }
 
-SECRET = "CHANGE_THIS_REMEMBER_SECRET"
 serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
-#app.add_middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
 
-# stats
-url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.metadata_spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_name)}'
-df_pages = pd.read_csv(url_pages_to_be_parsed)
-total_documents = df_pages["item_id"].nunique()
-transcribed_documents = sum(1 for p in DATA_DIR.iterdir() if p.is_dir())
-document_id = None
-show_chunks = None
-project_stats = {
-    "project_name": c.project_name,
-    "total_documents": total_documents,
-    "transcribed_documents": transcribed_documents,
-    "reviewed_documents": 0,
-    "document_id": document_id, # to populate document pages
-    "chunks": show_chunks,
-}
+# -----------------------------------------------------------------------------
+# FASTAPI SETUP
+# -----------------------------------------------------------------------------
 
-STATUS_FILE = Path("reviewed_status.csv")
+middleware = [
+    Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
+]
 
-def load_reviewed_status():
-    if not STATUS_FILE.exists() or STATUS_FILE.stat().st_size == 0:
-        return {}
-    try:
-        df = pd.read_csv(STATUS_FILE)
-        if df.empty:
-            return {}
-        return {str(row["document_id"]): row["status"] for _, row in df.iterrows()}
-    except Exception:
-        return {}
+app = FastAPI(middleware=middleware)
+templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
-def save_reviewed_status(status_dict):
-    if not status_dict:
-        # Write an EMPTY but valid CSV
-        pd.DataFrame(columns=["document_id", "status"]).to_csv(STATUS_FILE, index=False)
-        return
+def sort_url(request, column):
+    current_sort = request.query_params.get("sort", "id")
+    current_order = request.query_params.get("order", "asc")
 
-    df = pd.DataFrame([
-        {"document_id": k, "status": v}
-        for k, v in status_dict.items()
-    ])
-    df.to_csv(STATUS_FILE, index=False)
+    if current_sort == column:
+        new_order = "desc" if current_order == "asc" else "asc"
+    else:
+        new_order = "asc"
 
-# Load saved statuses
-reviewed_status = load_reviewed_status()
+    return f"/?sort={column}&order={new_order}"
 
-documents_stats = {}
-for p in DATA_DIR.iterdir():
-    if p.is_dir():
-        document_name = p.name
-        chunks_file =  p / 'chunks.csv'
-        if os.path.exists(chunks_file):
-            chunks_df = pd.read_csv(chunks_file)
-            chunks = len(chunks_df)
-            expected_chunks = None if chunks_df.empty else chunks_df.iloc[-1]["num"]
-            issues_file =  p / 'inconsistencies.csv'
-            if issues_file.exists() and issues_file.stat().st_size > 0:
-                try:
-                    issues = len(pd.read_csv(issues_file))
-                except pd.errors.EmptyDataError:
-                    issues = 0
-            else:
-                issues = 0
-            issues_percent = round((issues / chunks * 100)) if chunks else 0
-            documents_stats[document_name] = {"chunks": chunks, "expected_chunks":expected_chunks, "issues": issues, "issues_percent":issues_percent, "status": "to be revised"}
-        else:
-            documents_stats[document_name] = {"chunks": 0,  "expected_chunks":0, "issues": 0, "issues_percent":0, "status": "to be transcribed"}
+templates.env.globals["sort_url"] = sort_url
 
-# Update document status
-for doc_id, stat in reviewed_status.items():
-    if doc_id in documents_stats:
-        documents_stats[doc_id]["status"] = stat
+def sort_arrow(sort, order, column):
+    if sort != column:
+        return ""
+    return "↑" if order == "asc" else "↓"
 
-# Compute reviewed_documents count
-project_stats["reviewed_documents"] = sum(
-    1 for d in documents_stats.values() if d["status"] == "reviewed"
-)
+templates.env.globals["sort_arrow"] = sort_arrow
 
-LOCK_TIMEOUT = 60 * 30  # 30 minutes
+# -----------------------------------------------------------------------------
+# DATABASE
+# -----------------------------------------------------------------------------
+
+def get_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+
+def init_db():
+    conn = get_db()
+    cur = conn.cursor()
+
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS catalogues (
+        id TEXT PRIMARY KEY,
+        created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+        reviewed INTEGER DEFAULT 0
+    )
+    """)
+
+    # existing columns
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS chunks (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        catalogue_id TEXT,
+        chunk_index INTEGER,
+        num TEXT,
+        title TEXT,
+        text TEXT,
+        original_text TEXT,
+        edited INTEGER DEFAULT 0,
+        updated_at TIMESTAMP,
+        updated_by TEXT,
+        FOREIGN KEY (catalogue_id) REFERENCES catalogues(id)
+    )
+    """)
+
+    # add image_online column if it doesn't exist
+    cur.execute("PRAGMA table_info(chunks)")
+    columns = [col["name"] for col in cur.fetchall()]
+    if "image_online" not in columns:
+        cur.execute("ALTER TABLE chunks ADD COLUMN image_online TEXT")
+
+    cur.execute("""
+    CREATE TABLE IF NOT EXISTS inconsistencies (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        catalogue_id TEXT,
+        num TEXT,
+        excerpt TEXT,
+        resolved INTEGER DEFAULT 0,
+        FOREIGN KEY (catalogue_id) REFERENCES catalogues(id)
+    )
+    """)
+    conn.commit()
+    conn.close()
+
+
+def ingest_new_catalogues():
+    conn = get_db()
+    cur = conn.cursor()
+
+    for p in DATA_DIR.iterdir():
+        if not p.is_dir():
+            continue
+
+        catalogue_id = p.name
+        original_csv = p / "chunks_original.csv"
+        incoming_csv = p / "chunks.csv"
+
+        # already ingested?
+        cur.execute("SELECT 1 FROM catalogues WHERE id = ?", (catalogue_id,))
+        if cur.fetchone():
+            continue
+
+        # archive csv
+        if incoming_csv.exists() and not original_csv.exists():
+            incoming_csv.rename(original_csv)
+
+        if not original_csv.exists():
+            continue
+
+        df = pd.read_csv(original_csv)
+
+        cur.execute(
+            "INSERT INTO catalogues (id) VALUES (?)",
+            (catalogue_id,)
+        )
+
+        for _, row in df.iterrows():
+            cur.execute("""
+                INSERT INTO chunks
+                (catalogue_id, chunk_index, num, title, text, original_text, image_online)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+            """, (
+                catalogue_id,
+                int(row["index"]),
+                str(row["num"]),
+                str(row.get("title", "")),
+                str(row["text"]),
+                str(row["text"]),
+                str(row.get("image_online", ""))
+            ))
+
+        # issues
+        issues_csv = p / "inconsistencies.csv"
+        if issues_csv.exists() and issues_csv.stat().st_size > 0:
+            try:
+                df_issues = pd.read_csv(issues_csv)
+            except pd.errors.EmptyDataError:
+                df_issues = pd.DataFrame()
+
+            for _, row in df_issues.iterrows():
+                cur.execute("""
+                    INSERT INTO inconsistencies
+                    (catalogue_id, num, excerpt)
+                    VALUES (?, ?, ?)
+                """, (
+                    catalogue_id,
+                    str(row.get("prev_num") or row.get("current_num") or ""),
+                    str(row.get("excerpt", "")),
+                ))
+
+    conn.commit()
+    conn.close()
+
+
+@app.on_event("startup")
+def startup():
+    init_db()
+    ingest_new_catalogues()
+
+# -----------------------------------------------------------------------------
+# LOCKING
+# -----------------------------------------------------------------------------
+
+def require_login(request: Request) -> str:
+    user = request.session.get("user")
+    if not user:
+        raise HTTPException(status_code=401, detail="Not authenticated")
+    return user
 
 def lock_path(catalogue_id):
     return DATA_DIR / catalogue_id / ".lock"
 
 
 def acquire_lock(catalogue_id, user):
-    if not catalogue_id:
-        raise ValueError("catalogue_id is missing")
-
     lp = lock_path(catalogue_id)
+    lp.parent.mkdir(exist_ok=True, parents=True)
 
-    # Ensure parent directory exists
-    lp.parent.mkdir(parents=True, exist_ok=True)
-
-    # If no lock exists → create it
     if not lp.exists():
-        with open(lp, "w") as f:
-            json.dump({"user": user, "timestamp": time.time()}, f)
+        lp.write_text(json.dumps({"user": user, "ts": time.time()}))
         return True, user
 
-    # Load existing lock
-    with open(lp) as f:
-        data = json.load(f)
-
-    lock_user = data["user"]
-    lock_time = data["timestamp"]
-
-    # Expired → take it over
-    if time.time() - lock_time > LOCK_TIMEOUT:
-        with open(lp, "w") as f:
-            json.dump({"user": user, "timestamp": time.time()}, f)
+    data = json.loads(lp.read_text())
+    if time.time() - data["ts"] > LOCK_TIMEOUT or data["user"] == user:
+        lp.write_text(json.dumps({"user": user, "ts": time.time()}))
         return True, user
 
-    # Already owned by this user → refresh
-    if lock_user == user:
+    return False, data["user"]
+
+@app.post("/heartbeat/{catalogue_id}")
+async def heartbeat(catalogue_id: str, user: str = Depends(require_login)):
+    """ Refresh lock timestamp every few minutes while the user is editing. """
+    lp = lock_path(catalogue_id)
+    if not lp.exists():
+        # Lock disappeared: recreate it for the current user
         with open(lp, "w") as f:
-            json.dump({"user": user, "timestamp": time.time()}, f)
-        return True, user
-
-    # Locked by someone else
-    return False, lock_user
-
+            json.dump({"user": user, "ts": time.time()}, f)
+        return {"status": "recreated"}
+    try:
+        with open(lp) as f:
+            data = json.load(f)
+        if data.get("user") == user:
+            # Refresh timestamp
+            with open(lp, "w") as f:
+                json.dump({"user": user, "ts": time.time()}, f)
+            return {"status": "refreshed"}
+        else:
+            # Another user has taken the lock
+            return {"status": "locked_by_other", "owner": data.get("user")}
+    except Exception:
+        return {"status": "error"}
 
 def release_lock(catalogue_id, user):
     lp = lock_path(catalogue_id)
     if lp.exists():
-        try:
-            with open(lp) as f:
-                owner = json.load(f).get("user")
-            if owner == user:
-                lp.unlink()
-        except:
-            pass
+        data = json.loads(lp.read_text())
+        if data.get("user") == user:
+            lp.unlink()
 
+# -----------------------------------------------------------------------------
+# AUTH
+# -----------------------------------------------------------------------------
 
 def require_login(request: Request):
-    """
-    Robust authentication check:
-    1. If session contains user → authenticated
-    2. Else if remember_token cookie exists → validate and restore session
-    3. Else → redirect to login
-    """
-    # 1. Session already valid
     if "user" in request.session:
         return request.session["user"]
 
-    # 2. Try remember_token cookie
     token = request.cookies.get("remember_token")
     if token:
         try:
-            email = serializer.loads(token, max_age=60*60*24*30)  # valid for 30 days
+            email = serializer.loads(token, max_age=60 * 60 * 24 * 30)
             if email in VALID_USERS:
                 request.session["user"] = email
                 return email
         except Exception:
-            pass  # token invalid or expired → fall through to login redirect
+            pass
 
-    # 3. Not authenticated → redirect properly
-    raise HTTPException(
-        status_code=303,
-        headers={"Location": "/login"}
-    )
+    raise HTTPException(status_code=303, headers={"Location": "/login"})
 
 
 @app.get("/login")
@@ -209,25 +286,17 @@ def login(
     password: str = Form(...),
     remember: str = Form(None)
 ):
-    if email in VALID_USERS and VALID_USERS[email] == password:
+    if VALID_USERS.get(email) == password:
         request.session["user"] = email
-
-        # If "Remember me" checked → create persistent signed cookie
+        response = RedirectResponse("/", status_code=303)
         if remember:
-            token = serializer.dumps(email)
-            response = RedirectResponse("/", status_code=303)
             response.set_cookie(
                 "remember_token",
-                token,
-                max_age=60 * 60 * 24 * 30,  # 30 days
+                serializer.dumps(email),
+                max_age=60 * 60 * 24 * 30,
                 httponly=True,
-                secure=False,  # set True in production
-                samesite="lax",
             )
-            return response
-
-        # Normal login
-        return RedirectResponse("/", status_code=303)
+        return response
 
     return templates.TemplateResponse(
         "login.html",
@@ -236,66 +305,119 @@ def login(
 
 @app.get("/logout")
 def logout(request: Request, user: str = Depends(require_login)):
-    # release all locks owned by this user
     for p in DATA_DIR.iterdir():
         if p.is_dir():
             release_lock(p.name, user)
-
     request.session.clear()
     response = RedirectResponse("/login", status_code=303)
     response.delete_cookie("remember_token")
     return response
 
+# -----------------------------------------------------------------------------
+# HOME
+# -----------------------------------------------------------------------------
 
-@app.post("/heartbeat/{catalogue_id}")
-async def heartbeat(catalogue_id: str, user: str = Depends(require_login)):
-    """
-    Refresh lock timestamp every few minutes while the user is editing.
-    """
-    lp = lock_path(catalogue_id)
+def fetch_documents_stats():
+    conn = get_db()
+    cur = conn.cursor()
 
-    if not lp.exists():
-        # Lock disappeared: recreate it for the current user
-        with open(lp, "w") as f:
-            json.dump({"user": user, "timestamp": time.time()}, f)
-        return {"status": "recreated"}
+    cur.execute("""
+        SELECT
+            c.id AS catalogue_id,
+            COUNT(DISTINCT ch.id) AS chunks,
+            COUNT(DISTINCT i.id) AS issues,
+            c.reviewed
+        FROM catalogues c
+        LEFT JOIN chunks ch
+            ON ch.catalogue_id = c.id
+        LEFT JOIN inconsistencies i
+            ON i.catalogue_id = c.id AND i.resolved = 0
+        GROUP BY c.id
+    """)
 
-    try:
-        with open(lp) as f:
-            data = json.load(f)
-        if data.get("user") == user:
-            # Refresh timestamp
-            with open(lp, "w") as f:
-                json.dump({"user": user, "timestamp": time.time()}, f)
-            return {"status": "refreshed"}
-        else:
-            # Another user has taken the lock
-            return {"status": "locked_by_other", "owner": data.get("user")}
+    docs = {}
+    for r in cur.fetchall():
+        chunks = r["chunks"]
+        issues = r["issues"]
 
-    except Exception:
-        return {"status": "error"}
+        status = "reviewed" if r["reviewed"] else (
+            "to be revised" if chunks > 0 else "to be transcribed"
+        )
 
+        docs[r["catalogue_id"]] = {
+            "chunks": chunks,
+            "expected_chunks": None,
+            "issues": issues,
+            "issues_percent": round((issues / chunks) * 100) if chunks else 0,
+            "status": status,
+        }
 
-@app.post("/release_lock/{catalogue_id}")
-async def api_release_lock(catalogue_id: str, user: str = Depends(require_login)):
-    release_lock(catalogue_id, user)
-    return {"status": "released"}
+    conn.close()
+    return docs
 
+def build_project_stats(documents_stats):
+    total_documents = len(documents_stats)
+    transcribed_documents = sum(
+        1 for d in documents_stats.values() if d["chunks"] > 0
+    )
+    reviewed_documents = sum(
+        1 for d in documents_stats.values() if d["status"] == "reviewed"
+    )
+
+    return {
+        "project_name": c.project_name,
+        "total_documents": total_documents,
+        "transcribed_documents": transcribed_documents,
+        "reviewed_documents": reviewed_documents,
+        "document_id": None,
+        "chunks": None,
+    }
 
 @app.get("/")
-def home(request: Request, sort: str = "id", order: str = "asc", user: str = Depends(require_login)):
-    """Show overview of catalogues and issue counts."""
-    project_stats["document_id"] , project_stats["chunks"] = None , None
+def home(
+    request: Request,
+    sort: str = "id",
+    order: str = "asc",
+    user: str = Depends(require_login)
+):
+    documents_stats = fetch_documents_stats()
+    project_stats = build_project_stats(documents_stats)
+
     reverse = order == "desc"
 
     if sort == "issues":
-        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["issues"], reverse=reverse))
+        sorted_docs = dict(
+            sorted(
+                documents_stats.items(),
+                key=lambda x: x[1]["issues"],
+                reverse=reverse
+            )
+        )
     elif sort == "chunks":
-        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["chunks"], reverse=reverse))
+        sorted_docs = dict(
+            sorted(
+                documents_stats.items(),
+                key=lambda x: x[1]["chunks"],
+                reverse=reverse
+            )
+        )
     elif sort == "status":
-        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[1]["status"], reverse=reverse))
-    else:  # default: sort by ID
-        sorted_docs = dict(sorted(documents_stats.items(), key=lambda x: x[0], reverse=reverse))
+        sorted_docs = dict(
+            sorted(
+                documents_stats.items(),
+                key=lambda x: x[1]["status"],
+                reverse=reverse
+            )
+        )
+    else:  # id
+        sorted_docs = dict(
+            sorted(
+                documents_stats.items(),
+                key=lambda x: x[0],
+                reverse=reverse
+            )
+        )
+
 
     return templates.TemplateResponse(
         "index.html",
@@ -304,208 +426,245 @@ def home(request: Request, sort: str = "id", order: str = "asc", user: str = Dep
             "projects": project_stats,
             "documents": sorted_docs,
             "sort": sort,
-            "order": order
-        },
+            "order": order,
+        }
     )
 
 
+# -----------------------------------------------------------------------------
+# DOCUMENT VIEW
+# -----------------------------------------------------------------------------
+def fetch_unresolved_inconsistencies(catalogue_id: str):
+    conn = get_db()
+    cur = conn.cursor()
+
+    cur.execute("""
+        SELECT num
+        FROM inconsistencies
+        WHERE catalogue_id = ? AND resolved = 0
+    """, (catalogue_id,))
+
+    nums = {r["num"] for r in cur.fetchall()}
+    conn.close()
+    return nums
 
 @app.get("/document/{catalogue_id}")
-def view_document(request: Request, catalogue_id: str, user: str = Depends(require_login)):
-    """Show editable chunks for a single catalogue."""
-    if not catalogue_id or catalogue_id == "None" or catalogue_id == "undefined":
-        return templates.TemplateResponse(
-            "error.html",
-            {"request": request, "message": f"Invalid catalogue_id: {catalogue_id!r}."},
-        )
-
+def view_document(
+    request: Request,
+    catalogue_id: str,
+    user: str = Depends(require_login)
+):
     ok, locked_by = acquire_lock(catalogue_id, user)
-
     if not ok:
         return templates.TemplateResponse(
             "locked.html",
-            {"request": request, "catalogue_id": catalogue_id, "locked_by": locked_by},
+            {
+                "request": request,
+                "catalogue_id": catalogue_id,
+                "locked_by": locked_by
+            },
         )
 
-    # FIX 2: Check file existence
-    chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
-    if not chunks_file.exists():
+    conn = get_db()
+    cur = conn.cursor()
+
+    # fetch chunks
+    cur.execute("""
+        SELECT id, chunk_index, num, title, text, image_online
+        FROM chunks
+        WHERE catalogue_id = ?
+        ORDER BY chunk_index
+    """, (catalogue_id,))
+    rows = cur.fetchall()
+    conn.close()
+
+    if not rows:
         return templates.TemplateResponse(
             "error.html",
             {
                 "request": request,
-                "message": f"Chunks file not found for document {catalogue_id}. Expected at: {chunks_file}"
+                "message": f"No chunks found for {catalogue_id}"
             },
         )
 
-    issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
-    chunks_df = pd.read_csv(chunks_file)
+    # unresolved inconsistencies
+    inconsistent_nums = fetch_unresolved_inconsistencies(catalogue_id)
 
-    if issues_file.exists() and issues_file.stat().st_size > 0:
-        try:
-            incons_df = pd.read_csv(issues_file)
-        except pd.errors.EmptyDataError:
-            incons_df = pd.DataFrame()
-    else:
-        incons_df = pd.DataFrame()
+    # build chunks for main content + sidebar
+    chunks = []
+    sidebar_chunks = []
 
-    def clean_str(s):
-        return str(s).strip() if pd.notna(s) else ""
+    for i, r in enumerate(rows, start=1):
+        anchor_id = f"chunk_{i}"
+        needs_revision = str(r["num"]) in inconsistent_nums
 
-    # recast types
-    for df in [chunks_df, incons_df]:
-        for col in df.columns:
-            if df[col].dtype == object:
-                df[col] = df[col].astype(str).map(clean_str)
+        chunk = {
+            "id": r["id"],
+            "num": r["num"],
+            "title": r["title"],
+            "text": r["text"],
+            "anchor_id": anchor_id,
+            "needs_revision": needs_revision,
+            "image_online": r["image_online"] or "",
+        }
 
-    if chunks_df.empty:
-        return templates.TemplateResponse(
-            "error.html",
-            {"request": request, "message": f"No data found for document {catalogue_id}."},
-        )
+        chunks.append(chunk)
 
-    # --- Build matching keys ---
-    chunks_df["key"] = (
-        chunks_df["catalogue_id"].astype(str)
-        + "||"
-        + chunks_df["num"].astype(str)
-        + "||"
-        + chunks_df["text"].astype(str)
-    )
+        sidebar_chunks.append({
+            "num": r["num"],
+            "anchor_id": anchor_id,
+            "needs_revision": needs_revision,
+        })
 
-    if not incons_df.empty:
-        incons_df["key"] = (
-            incons_df["catalogue_id"].astype(str)
-            + "||"
-            + incons_df["current_num"].astype(str)
-            + "||"
-            + incons_df["excerpt"].astype(str)
-        )
-
-        # --- Compute revision flags ---
-        chunks_df["needs_revision"] = chunks_df["key"].isin(incons_df["key"])
-    else:
-        chunks_df["needs_revision"] = False
-
-    # Add anchor IDs for TOC
-    # chunks_df["anchor_id"] = [
-    #     f"chunk-{i}" for i in chunks_df["index"].astype(str)
-    # ]
-    chunks_df["anchor_id"] = chunks_df.index.map(lambda i: f"chunk_{i+1}")
-    chunks_df["needs_revision"] = chunks_df["needs_revision"].astype(bool)
-
-
-    # update sidebar
-    project_stats["document_id"] = catalogue_id
-    project_stats["chunks"] = chunks_df.to_dict(orient="records")
-
-
+    # rebuild project_stats for sidebar
+    project_stats = {
+        "project_name": c.project_name,
+        "document_id": catalogue_id,
+        "chunks": sidebar_chunks,
+    }
 
     return templates.TemplateResponse(
         "document.html",
         {
             "request": request,
-            "projects": project_stats,
             "catalogue_id": catalogue_id,
-            "chunks": chunks_df.to_dict(orient="records"),
+            "chunks": chunks,
+            "projects": project_stats,
         },
     )
 
 
+# -----------------------------------------------------------------------------
+# SAVE DOCUMENT
+# -----------------------------------------------------------------------------
+
 @app.post("/save_document")
-async def save_catalogue(request: Request, user: str = Depends(require_login)):
+async def save_document(request: Request, user: str = Depends(require_login)):
+    """
+    Save the edited chunks for a catalogue.
+
+    - Updates existing chunks including image_online
+    - Inserts new chunks
+    - Deletes chunks removed from the interface
+    - Reindexes all chunks correctly
+    """
     form = await request.form()
-
     catalogue_id = form.get("catalogue_id")
-    anchor = form.get("anchor") or ""
-
     nums = form.getlist("num[]")
     titles = form.getlist("title[]")
     texts = form.getlist("text[]")
+    image_paths = form.getlist("image_online[]")  # new hidden inputs in your template
 
-    updated = []
-    for idx, (num, title, text) in enumerate(zip(nums, titles, texts), start=1):
-        updated.append({
-            "catalogue_id": catalogue_id,
-            "index": idx,
-            "num": num.strip(),
-            "title": title.strip(),
-            "text": text.strip(),
-        })
+    conn = get_db()
+    cur = conn.cursor()
 
-    chunks_file = DATA_DIR / catalogue_id / "chunks.csv"
-    pd.DataFrame(updated).to_csv(chunks_file, index=False, encoding="utf-8")
+    # Fetch current chunks from DB
+    cur.execute("SELECT id, chunk_index FROM chunks WHERE catalogue_id = ?", (catalogue_id,))
+    db_chunks = cur.fetchall()
+    db_ids_by_index = {r["chunk_index"]: r["id"] for r in db_chunks}
 
+    processed_db_ids = set()
+
+    for idx, (num, title, text, image_online) in enumerate(zip(nums, titles, texts, image_paths), start=1):
+        if idx in db_ids_by_index:
+            # Update existing chunk
+            chunk_id = db_ids_by_index[idx]
+            cur.execute("""
+                UPDATE chunks
+                SET num = ?, title = ?, text = ?, image_online = ?,
+                    edited = 1,
+                    updated_at = CURRENT_TIMESTAMP,
+                    updated_by = ?
+                WHERE id = ?
+            """, (
+                num.strip(),
+                title.strip(),
+                text.strip(),
+                image_online.strip(),
+                user,
+                chunk_id
+            ))
+            processed_db_ids.add(chunk_id)
+        else:
+            # Insert new chunk
+            cur.execute("""
+                INSERT INTO chunks
+                (catalogue_id, chunk_index, num, title, text, original_text, image_online, edited, updated_at, updated_by)
+                VALUES (?, ?, ?, ?, ?, ?, ?, 1, CURRENT_TIMESTAMP, ?)
+            """, (
+                catalogue_id,
+                idx,
+                num.strip(),
+                title.strip(),
+                text.strip(),
+                text.strip(),
+                image_online.strip(),
+                user
+            ))
+
+    # Delete chunks removed in the interface
+    for r in db_chunks:
+        if r["id"] not in processed_db_ids:
+            cur.execute("DELETE FROM chunks WHERE id = ?", (r["id"],))
+
+    conn.commit()
+    conn.close()
+
+    # Release lock after saving
     release_lock(catalogue_id, user)
 
-    # redirect to the scrolling anchor
-    return RedirectResponse(
-        f"/document/{catalogue_id}#{anchor}",
-        status_code=303
-    )
+    return RedirectResponse(f"/document/{catalogue_id}", status_code=303)
 
 
-@app.post("/resolve_inconsistency")
-async def resolve_inconsistency(catalogue_id: str = Form(...), num: str = Form(...), user: str = Depends(require_login)):
-    """Remove inconsistency entry from CSV when user resolves it."""
-
-    issues_file = DATA_DIR / catalogue_id / 'inconsistencies.csv'
-
-    if not issues_file.exists() or issues_file.stat().st_size == 0:
-        return JSONResponse({"success": False, "error": "No inconsistencies file."})
-
-    incons_df = pd.read_csv(issues_file)
-
-    before = len(incons_df)
-    incons_df = incons_df[
-        ~((incons_df["catalogue_id"] == catalogue_id) &
-          (incons_df["prev_num"].astype(str) == str(num)))
-    ]
-    after = len(incons_df)
-
-    incons_df.to_csv(issues_file, index=False, encoding="utf-8")  # fixed typo: INCONS_FILE → issues_file
-
-    resolved = before != after
-    return JSONResponse({"success": resolved})
+# -----------------------------------------------------------------------------
+# REVIEW STATUS
+# -----------------------------------------------------------------------------
 
 @app.post("/mark_reviewed")
-def mark_reviewed(
-    document_id: str = Form(...),
-    user: str = Depends(require_login)
-):
-    if document_id in documents_stats:
-        documents_stats[document_id]["status"] = "reviewed"
-
-    reviewed_status[document_id] = "reviewed"
-    save_reviewed_status(reviewed_status)
-
-    # Update project stats
-    project_stats["reviewed_documents"] = sum(
-        1 for d in documents_stats.values() if d["status"] == "reviewed"
+def mark_reviewed(document_id: str = Form(...), user: str = Depends(require_login)):
+    conn = get_db()
+    conn.execute(
+        "UPDATE catalogues SET reviewed = 1 WHERE id = ?",
+        (document_id,)
     )
-
+    conn.commit()
+    conn.close()
     return RedirectResponse("/", status_code=303)
 
 
 @app.post("/undo_review")
-def undo_review(
-    document_id: str = Form(...),
+def undo_review(document_id: str = Form(...), user: str = Depends(require_login)):
+    conn = get_db()
+    conn.execute(
+        "UPDATE catalogues SET reviewed = 0 WHERE id = ?",
+        (document_id,)
+    )
+    conn.commit()
+    conn.close()
+    return RedirectResponse("/", status_code=303)
+
+
+# -----------------------------------------------------------------------------
+# INCONSISTENCIES
+# -----------------------------------------------------------------------------
+
+@app.post("/resolve_inconsistency")
+async def resolve_inconsistency(
+    catalogue_id: str = Form(...),
+    num: str = Form(...),
     user: str = Depends(require_login)
 ):
-    if document_id in documents_stats:
-        # Restore default behavior
-        documents_stats[document_id]["status"] = (
-            "to be revised" if documents_stats[document_id]["chunks"] > 0
-            else "to be transcribed"
-        )
+    conn = get_db()
+    cur = conn.cursor()
 
-    if document_id in reviewed_status:
-        del reviewed_status[document_id]
-        save_reviewed_status(reviewed_status)
+    cur.execute("""
+        UPDATE inconsistencies
+        SET resolved = 1
+        WHERE catalogue_id = ? AND num = ?
+    """, (catalogue_id, num))
 
-    # Update project stats
-    project_stats["reviewed_documents"] = sum(
-        1 for d in documents_stats.values() if d["status"] == "reviewed"
-    )
+    conn.commit()
+    resolved = cur.rowcount > 0
+    conn.close()
 
-    return RedirectResponse("/", status_code=303)
+    return JSONResponse({"success": resolved})

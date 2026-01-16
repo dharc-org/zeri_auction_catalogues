@@ -5,19 +5,25 @@
 <!-- <h1>Editing {{ catalogue_id }}</h1> -->
 <div class="editor-container row">
   <div id="image-column" class="image-column col-md-5">
-    <img class="sticky-top" id="current-image" src="" alt="Chunk image">
+    <div id="image-frame" class="sticky-top" style="position: relative;">
+    <img id="current-image" src="" alt="Chunk image" crossOrigin="anonymous" style="display:block;">
+    <canvas id="text-overlay" style="position:absolute; top:0; left:0; pointer-events:none;"></canvas>
+  </div>
+
     <div class="zoom_controls">
-    <button type="button" onclick="zoomIn()">➕ Zoom In</button>
-    <button type="button" onclick="zoomOut()">➖ Zoom Out</button>
+    <button type="button" class="zoom-btn" onclick="zoomIn()">➕ Zoom In</button>
+    <button type="button" class="zoom-btn" onclick="zoomOut()">➖ Zoom Out</button>
   </div>
   </div>
 
   <form id="catalogueForm" action="/save_document" method="post" class="col-md-6">
     <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
     <input type="hidden" name="anchor" id="anchor">
+
     <div id="chunks-container">
       {% for ch in chunks %}
-      <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}needs-revision{% endif %}" data-image-online="{{ ch.image_online or '' }}">
+      <div id="{{ ch.anchor_id }}" class="chunk {% if ch.needs_revision %}issue{% endif %}" data-image-online="{{ ch.image_online or '' }}">
+        <input type="hidden" name="image_online[]" value="{{ ch.image_online }}">
         <label>Num:</label>
         <input type="text" name="num[]" value="{{ ch.num }}"><br>
         <label>Title:</label>
@@ -25,15 +31,114 @@
         <label>Text:</label>
         <textarea name="text[]">{{ ch.text }}</textarea>
         <div class="controls">
-          <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
-          <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
-          <button type="submit" class="btn save" onclick="setAnchor('{{ ch.anchor_id }}')">💾 Save</button>
+          <button type="button" class="btn add" onclick="addBelow(this)">Add Below</button>
+          <button type="button" class="btn delete" onclick="removeChunk(this)">Delete</button>
+          <button type="submit" class="btn save" onclick="setAnchor('{{ ch.anchor_id }}')">Save</button>
         </div>
       </div>
       {% endfor %}
     </div>
   </form>
 </div>
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.1.5/dist/tesseract.min.js"></script>
+<script>
+const canvas = document.getElementById('text-overlay');
+const ctx = canvas.getContext('2d');
+const imgEl = document.getElementById('current-image');
+const scrollContainer = document.querySelector('#chunks-container') || window;
+
+// Cache OCR results per image URL
+const ocrCache = {};
+
+async function getOCRData(src) {
+    if (ocrCache[src]) return ocrCache[src];
+
+    const result = await Tesseract.recognize(src, 'eng', {
+        logger: m => console.log("OCR:", m)
+    });
+
+    ocrCache[src] = result.words;
+    return result.words;
+}
+
+// Highlight only the current chunk's words
+async function highlightChunk(chunkText) {
+    if (!imgEl.src || !chunkText) return;
+
+    canvas.width = imgEl.width;
+    canvas.height = imgEl.height;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    const words = await getOCRData(imgEl.src);
+    const matched = words.filter(w => chunkText.includes(w.text.trim()));
+
+    if (!matched.length) return;
+
+    const minX = Math.min(...matched.map(w => w.bbox.x0));
+    const minY = Math.min(...matched.map(w => w.bbox.y0));
+    const maxX = Math.max(...matched.map(w => w.bbox.x1));
+    const maxY = Math.max(...matched.map(w => w.bbox.y1));
+
+    ctx.strokeStyle = 'red';
+    ctx.lineWidth = 2;
+    ctx.strokeRect(minX, minY, maxX - minX, maxY - minY);
+    ctx.fillStyle = 'rgba(255,0,0,0.1)';
+    ctx.fillRect(minX, minY, maxX - minX, maxY - minY);
+}
+
+// Get currently visible chunk
+function getActiveChunk() {
+    const chunks = document.querySelectorAll('.chunk');
+    const scrollTop = scrollContainer.scrollTop || window.scrollY;
+    const offset = 100;
+
+    for (let chunk of chunks) {
+        const rect = chunk.getBoundingClientRect();
+        const top = rect.top + (scrollContainer.scrollTop || 0) - (scrollContainer.getBoundingClientRect?.()?.top || 0);
+        const bottom = top + rect.height;
+        if (scrollTop + offset >= top && scrollTop + offset < bottom) {
+            return chunk;
+        }
+    }
+    return chunks[0];
+}
+
+// Update highlight on scroll
+async function onScrollHighlight() {
+    const activeChunk = getActiveChunk();
+    if (!activeChunk) return;
+
+    const text = activeChunk.querySelector('textarea')?.value || '';
+    await highlightChunk(text);
+}
+
+// Set image and clear overlay
+function setImageWithHighlight(src) {
+    imgEl.src = src;
+    canvas.width = imgEl.width;
+    canvas.height = imgEl.height;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+}
+
+// Highlight first chunk on image load
+imgEl.addEventListener('load', async () => {
+    await onScrollHighlight();
+});
+
+// Highlight on scroll
+scrollContainer.addEventListener('scroll', onScrollHighlight);
+
+// Highlight on hover/focus
+document.querySelectorAll('.chunk').forEach(chunk => {
+    chunk.addEventListener('mouseenter', async () => {
+        const text = chunk.querySelector('textarea')?.value || '';
+        await highlightChunk(text);
+    });
+});
+</script> -->
+
+
 <script>
 
   // Heartbeat every 2 minutes
@@ -55,38 +160,71 @@
       navigator.sendBeacon(url);
   });
 
-  function rebuildSidebar() {
-      const container = document.getElementById("chunks-container");
-      const chunks = Array.from(container.querySelectorAll(".chunk"));
+  const observer = new IntersectionObserver(
+  (entries) => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
 
-      const sidebar = document.querySelector(".sidebar");
-      sidebar.innerHTML = `
-          <h2>Table of Content</h2>
+      const id = entry.target.id;
+      const tocId = "toc_" + id;
+
+      // 🔥 re-query every time
+      document.querySelectorAll(".toc-item").forEach(el =>
+        el.classList.remove("active")
+      );
+
+      const activeToc = document.getElementById(tocId);
+      if (activeToc) {
+        activeToc.classList.add("active");
+        activeToc.scrollIntoView({ block: "nearest" });
+      }
+    });
+  },
+  {
+    rootMargin: "-40% 0px -50% 0px",
+    threshold: 0
+  }
+  );
+
+  document.querySelectorAll(".chunk").forEach(chunk => {
+    observer.observe(chunk);
+  });
+
+  function rebuildSidebar() {
+    const chunks = document.querySelectorAll(".chunk");
+    const sidebar = document.querySelector(".sidebar");
+
+    sidebar.innerHTML = `<h2>Table of Content</h2>`;
+
+    chunks.forEach(chunk => {
+      const anchorId = chunk.id;
+
+      const numInput = chunk.querySelector("input[name='num[]'], input[name='num']");
+      const num = numInput ? numInput.value.trim() : "";
+
+      const needsRevision = chunk.classList.contains("issue");
+
+      const toc = document.createElement("div");
+      toc.className = `toc-item ${needsRevision ? "issue" : ""}`;
+      toc.id = `toc_${anchorId}`;
+
+      toc.innerHTML = `
+        <a href="#${anchorId}">${num || "—"}</a>
+        ${needsRevision ? `
+          <button class="btn-resolve"
+            onclick="resolveIssue('${catalogueId}', '${num}', 'toc_${anchorId}')">
+            ✓
+          </button>` : ""}
       `;
 
-      chunks.forEach((chunk, idx) => {
-          const anchorId = `chunk_${idx + 1}`;
-          const numInput = chunk.querySelector("input[name='num[]'], input[name='num']");
-          const num = numInput ? numInput.value.trim() : "";
+      sidebar.appendChild(toc);
+    });
 
-          const needsRevision = chunk.classList.contains("needs-revision");
-
-          const toc = document.createElement("div");
-          toc.className = `toc-item ${needsRevision ? "issue" : ""}`;
-          toc.id = `toc_${anchorId}`;
-
-          toc.innerHTML = `
-              <a href="#${anchorId}"> ${num}</a>
-              ${needsRevision ? `
-                <button class="btn-resolve"
-                  onclick="resolveIssue('${catalogueId}', this.closest('.toc-item').id)">✓</button>`
-                : ""
-              }
-          `;
-
-          sidebar.appendChild(toc);
-      });
+    document.querySelectorAll(".chunk").forEach(chunk => {
+      observer.observe(chunk);
+    });
   }
+
 
   function renumberChunks() {
       const container = document.getElementById("chunks-container");
@@ -136,18 +274,40 @@
 
   function addBelow(button) {
       const current = button.closest(".chunk");
+      const container = document.getElementById("chunks-container");
+      const chunks = Array.from(container.querySelectorAll(".chunk"));
+      const index = chunks.indexOf(current);
 
+      // --- Neighboring image suggestions ---
+      const prevImage = current.querySelector("input[name='image_online[]']").value;
+      const nextChunk = chunks[index + 1];
+      const nextImage = nextChunk ? nextChunk.querySelector("input[name='image_online[]']").value : null;
+
+      const suggestions = [];
+      if (prevImage) suggestions.push(prevImage);
+      if (nextImage && nextImage !== prevImage) suggestions.push(nextImage);
+
+      // Unique datalist id for this new chunk
+      const datalistId = `image_suggestions_${Date.now()}`;
+
+      // --- Create new chunk element ---
       const newChunk = document.createElement("div");
       newChunk.classList.add("chunk");
 
       newChunk.innerHTML = `
           <label>Num:</label><input type="text" name="num[]"><br>
           <label>Title:</label><input type="text" name="title[]"><br>
-          <label>Text:</label><textarea name="text[]"></textarea>
+          <label>Text:</label><textarea name="text[]"></textarea><br>
+          <label>Image URL:</label>
+          <input type="text" name="image_online[]" list="${datalistId}" value="${prevImage || ''}" oninput="updatePreview(this)">
+          <datalist id="${datalistId}">
+              ${suggestions.map(s => `<option value="${s}"></option>`).join("")}
+          </datalist>
+          <img class="img-preview" src="${prevImage || ''}" style="max-width:100%; margin-top:5px;"><br>
           <div class="controls">
-              <button type="button" class="btn add" onclick="addBelow(this)">➕ Add Below</button>
-              <button type="button" class="btn delete" onclick="removeChunk(this)">🗑️ Delete</button>
-              <button type="submit" class="btn save">💾 Save</button>
+              <button type="button" class="btn add" onclick="addBelow(this)">Add Below</button>
+              <button type="button" class="btn delete" onclick="removeChunk(this)">Delete</button>
+              <button type="submit" class="btn save" onclick="setAnchor('${current.id}')">Save</button>
           </div>
       `;
 
@@ -156,6 +316,13 @@
       renumberChunks();
       newChunk.scrollIntoView({ behavior: "smooth" });
   }
+
+  // --- Live preview for image_online ---
+  function updatePreview(input) {
+      const img = input.closest(".chunk").querySelector(".img-preview");
+      if (img) img.src = input.value;
+  }
+
 
   function setAnchor(anchorId) {
       document.getElementById("anchor").value = anchorId;
@@ -169,34 +336,37 @@
 
   document.addEventListener("DOMContentLoaded", renumberChunks);
 
-  // async function resolveIssue(catalogueId, tocId) {
-  //     const tocItem = document.getElementById(tocId);
-  //     if (!tocItem) return;
-  //
-  //     // find corresponding chunk id from toc id
-  //     const chunkId = tocId.replace(/^toc_/, '');
-  //     const chunk = document.getElementById(chunkId);
-  //     if (!chunk) return;
-  //
-  //     const numInput = chunk.querySelector("input[name='num[]'], input[name='num']");
-  //     const num = numInput ? numInput.value.trim() : "";
-  //
-  //     const response = await fetch('/resolve_inconsistency', {
-  //         method: 'POST',
-  //         headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-  //         body: new URLSearchParams({ catalogue_id: catalogueId, num: num })
-  //     });
-  //
-  //     const data = await response.json();
-  //     if (data.success) {
-  //         tocItem.classList.remove('issue');
-  //         const btn = tocItem.querySelector('.btn-resolve');
-  //         if (btn) btn.remove();
-  //         alert(`Resolved inconsistency for lot ${num}.`);
-  //     } else {
-  //         alert('Could not resolve — please refresh.');
-  //     }
-  // }
+  async function resolveIssue(catalogueId, num, tocId) {
+  const formData = new FormData();
+  formData.append("catalogue_id", catalogueId);
+  formData.append("num", num);
+
+  const res = await fetch("/resolve_inconsistency", {
+    method: "POST",
+    body: formData
+  });
+
+  const data = await res.json();
+  if (!data.success) {
+    alert("Could not resolve issue");
+    return;
+  }
+
+  // 1️⃣ Update sidebar item
+  const tocItem = document.getElementById(tocId);
+  tocItem.classList.remove("issue");
+
+  const btn = tocItem.querySelector(".btn-resolve");
+  if (btn) btn.remove();
+
+  // 2️⃣ Update main chunk highlight
+  const anchorId = tocId.replace("toc_", "");
+  const chunk = document.getElementById(anchorId);
+  if (chunk) {
+    chunk.classList.remove("issue");
+  }
+}
+
 
   document.addEventListener("DOMContentLoaded", () => {
 
@@ -225,7 +395,8 @@
           const image = ch.dataset.imageOnline;
           console.log(image);
           if (image && image !== "nan" && image !== lastImage) {
-            currentImage.src = image;
+            //currentImage.src = image;
+            setImage(image);
             currentImage.alt = image;
             lastImage = image;
           }
@@ -236,7 +407,8 @@
     // Initialize image
     if (chunks.length > 0) {
       lastImage = chunks[0].dataset.imageOnline;
-      currentImage.src = lastImage;
+      //currentImage.src = lastImage;
+      setImage(lastImage);
     }
 
     //window.addEventListener("scroll", updateImageOnScroll);
@@ -256,19 +428,91 @@
 
   // Zoom
   let zoomLevel = 1;
+  let translateX = 0;
+  let translateY = 0;
+
+  const img = document.getElementById("current-image");
+  const frame = document.getElementById("image-frame");
+
+  function applyTransform() {
+    img.style.transform =
+      `translate(${translateX}px, ${translateY}px) scale(${zoomLevel})`;
+  }
 
   function zoomIn() {
-      zoomLevel += 0.1;
-      document.getElementById("current-image").style.transform = `scale(${zoomLevel})`;
+    zoomLevel = Math.min(zoomLevel + 0.1, 5);
+    applyTransform();
   }
 
   function zoomOut() {
-      zoomLevel = Math.max(0.1, zoomLevel - 0.1);
-      document.getElementById("current-image").style.transform = `scale(${zoomLevel})`;
+    zoomLevel = Math.max(zoomLevel - 0.1, 0.1);
+
+    // reset pan when zoomed out fully
+    if (zoomLevel <= 1) {
+      translateX = 0;
+      translateY = 0;
+    }
+
+    applyTransform();
   }
 
-  // Optional: zoom on mouse wheel
+  let isDragging = false;
+let startX, startY;
+
+frame.addEventListener("mousedown", (e) => {
+  if (zoomLevel <= 1) return; // no panning unless zoomed
+
+  isDragging = true;
+  startX = e.clientX - translateX;
+  startY = e.clientY - translateY;
+  frame.classList.add("dragging");
+});
+
+window.addEventListener("mousemove", (e) => {
+  if (!isDragging) return;
+
+  translateX = e.clientX - startX;
+  translateY = e.clientY - startY;
+  applyTransform();
+});
+
+window.addEventListener("mouseup", () => {
+  isDragging = false;
+  frame.classList.remove("dragging");
+});
+
+frame.addEventListener("wheel", (e) => {
+  e.preventDefault();
+
+  const delta = e.deltaY * -0.001;
+  const newZoom = Math.min(Math.max(zoomLevel + delta, 0.1), 5);
+
+  if (newZoom === zoomLevel) return;
+
+  zoomLevel = newZoom;
+
+  if (zoomLevel <= 1) {
+    translateX = 0;
+    translateY = 0;
+  }
+
+  applyTransform();
+});
+
+function setImage(src) {
   const img = document.getElementById("current-image");
+  img.src = src;
+
+  // reset zoom/pan
+  zoomLevel = 1;
+  translateX = 0;
+  translateY = 0;
+  applyTransform();
+}
+
+
+  // Optional: zoom on mouse wheel
+  //const img = document.getElementById("current-image");
   img.addEventListener("wheel", function(e){
       e.preventDefault();
       zoomLevel += e.deltaY * -0.001; // adjust sensitivity

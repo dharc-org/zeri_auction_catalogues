@@ -4,9 +4,9 @@
 {% block content %}
 
 <h2>PROJECT OVERVIEW</h2>
-<section class="project_stats col-md-8">
+<section class="project_stats col-md-9">
   <h3 class="col-md-10">
-    <a href="documents"><img src="{{ url_for('static', path='/images/pen-tool.png') }}" alt=""></a>
+
     {{projects.project_name}} ({{projects.total_documents}}) </h3>
 
   <section class="col-md-12">
@@ -55,16 +55,32 @@ new Chart(document.getElementById('stackedBar'), {
 
 </section>
 
-<section class="project_stats col-md-8">
+<section class="project_stats col-md-9">
   <!-- <h2>Documents</h2> -->
   <table>
   <tr>
-    <th><a href="?sort=id&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Document ID <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
-    <th title="number of extracted chunks"><a href="?sort=chunks&order={{ 'desc' if sort=='id' and order=='asc' else 'asc' }}">Chunks <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
+    <th title="catalogue id">
+      <a class="clickable" href="{{ sort_url(request, 'id') }}">
+        Catalogue {{ sort_arrow(sort, order, 'id') }}
+      </a>
+    </th>
+    <th title="number of extracted chunks">
+      <a class="clickable" href="{{ sort_url(request, 'chunks') }}">
+        Chunks {{ sort_arrow(sort, order, 'chunks') }}
+      </a>
+    </th>
     <th title="last chunk number">Expected</th>
-    <th title="issues found in sequential order"><a href="?sort=issues&order={{ 'desc' if sort=='issues' and order=='asc' else 'asc' }}">Issues <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
+    <th title="issues found in sequential order">
+      <a class="clickable" href="{{ sort_url(request, 'issues') }}">
+        Issues {{ sort_arrow(sort, order, 'issues') }}
+      </a>
+    </th>
     <th title="percentage of issues over the number of extracted chunks">%</th>
-    <th><a href="?sort=status&order={{ 'desc' if sort=='status' and order=='asc' else 'asc' }}">Status <img class="sort_img" src="{{ url_for('static', path='/images/sort.png') }}" alt=""></a></th>
+    <th title="review status">
+      <a class="clickable" href="{{ sort_url(request, 'status') }}">
+        Status {{ sort_arrow(sort, order, 'status') }}
+      </a>
+    </th>
   </tr>
 
   {% for cat, val in documents.items() %}
