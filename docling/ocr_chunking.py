@@ -104,6 +104,10 @@ def run_transcription(folder_images_dict, chunking=False):
             output_file_path = os.path.join(c.parent_folder, folder_path, 'all.md')
             concatenate_markdown_files(os.path.join(c.parent_folder, folder_path), output_file_path)
             print(f"##### Md files concatenated: {folder_path}/all.md")
+            # 🔥 CLEANUP individual markdown files
+            cleanup_markdown_files(os.path.join(c.parent_folder, folder_path))
+            print(f"##### Removed individual .md files in {folder_path}")
+
             # chunk markdown files
             if c.chunking == True:
                 try:
@@ -417,6 +421,12 @@ def recalc_inconsistencies(df):
 
     return pd.DataFrame(inconsistencies)
 
+
+def cleanup_markdown_files(folder_path, keep_file="all.md"):
+    folder = Path(folder_path)
+    for md_file in folder.glob("*.md"):
+        if md_file.name != keep_file:
+            md_file.unlink()
 
 if __name__ == "__main__":
     main()
