@@ -36,7 +36,17 @@ middleware = [
     Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
 ]
 
-app = FastAPI(middleware=middleware)
+from contextlib import asynccontextmanager
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    init_db()
+    if not os.getenv("PYTEST_RUNNING"):
+        ingest_new_catalogues()
+    yield
+
+app = FastAPI(middleware=middleware, lifespan=lifespan)
+
 templates = Jinja2Templates(directory="templates")
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
@@ -187,14 +197,8 @@ def ingest_new_catalogues():
     conn.commit()
     conn.close()
 
-
-@app.on_event("startup")
-def startup():
-    init_db()
-    ingest_new_catalogues()
-
 # -----------------------------------------------------------------------------
-# LOCKING
+# LOCKING WHILE SOMEONE EDITS A DOCUMENT
 # -----------------------------------------------------------------------------
 
 def require_login(request: Request) -> str:
@@ -202,6 +206,7 @@ def require_login(request: Request) -> str:
     if not user:
         raise HTTPException(status_code=401, detail="Not authenticated")
     return user
+
 
 def lock_path(catalogue_id):
     return DATA_DIR / catalogue_id / ".lock"
@@ -245,6 +250,7 @@ async def heartbeat(catalogue_id: str, user: str = Depends(require_login)):
     except Exception:
         return {"status": "error"}
 
+
 def release_lock(catalogue_id, user):
     lp = lock_path(catalogue_id)
     if lp.exists():
@@ -275,7 +281,7 @@ def require_login(request: Request):
 
 @app.get("/login")
 def login_page(request: Request):
-    return templates.TemplateResponse("login.html", {"request": request})
+    return templates.TemplateResponse(request,"login.html", {"request": request})
 
 
 @app.post("/login")
@@ -299,6 +305,7 @@ def login(
         return response
 
     return templates.TemplateResponse(
+        request,
         "login.html",
         {"request": request, "error": "Invalid credentials"}
     )
@@ -420,6 +427,7 @@ def home(
 
 
     return templates.TemplateResponse(
+        request,
         "index.html",
         {
             "request": request,
@@ -457,6 +465,7 @@ def view_document(
     ok, locked_by = acquire_lock(catalogue_id, user)
     if not ok:
         return templates.TemplateResponse(
+            request,
             "locked.html",
             {
                 "request": request,
@@ -480,6 +489,7 @@ def view_document(
 
     if not rows:
         return templates.TemplateResponse(
+            request,
             "error.html",
             {
                 "request": request,
@@ -524,6 +534,7 @@ def view_document(
     }
 
     return templates.TemplateResponse(
+        request,
         "document.html",
         {
             "request": request,
