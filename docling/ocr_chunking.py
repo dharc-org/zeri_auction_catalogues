@@ -1,6 +1,9 @@
 import os
 import pandas as pd
 import urllib.parse
+from urllib.parse import urlparse
+from urllib.parse import unquote
+import re
 import re
 import requests
 import json
@@ -8,29 +11,103 @@ import conf as c
 from docling.document_converter import DocumentConverter
 import csv
 from pathlib import Path
+import time
+from collections import defaultdict
 
+IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=collection_id=LOTTO1;classification=Item+Description;is_table=0"
+
+
+def fetch_pages_from_iiif(
+    base_url=IIIF_SEARCH_URL,
+    sleep=0.15,
+    max_retries=3,
+    timeout=30,
+    verbose=True
+):
+    folder_images_dict = defaultdict(list)
+    page = 1
+    total_images = 0
+
+    session = requests.Session()
+
+    while True:
+        url = f"{base_url}&page={page}"
+
+        # ---- retry logic ----
+        for attempt in range(max_retries):
+            try:
+                r = session.get(url, timeout=timeout)
+                r.raise_for_status()
+                data = r.json()
+                break
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise RuntimeError(f"Failed page {page}: {e}")
+                time.sleep(1.5 * (attempt + 1))
+
+        canvases = data.get("items", [])
+        if not canvases:
+            if verbose:
+                print(f"✅ Finished at page {page-1} — {total_images} images")
+            break
+
+        page_count = 0
+
+        for canvas in canvases:
+            for annotation_page in canvas.get("items", []):
+                for annotation in annotation_page.get("items", []):
+                    body = annotation.get("body", {})
+                    img_url = body.get("id")
+
+                    if not img_url or not img_url.endswith("default.jpg"):
+                        continue
+
+                    folder_id = extract_folder_id(img_url)
+                    folder_images_dict[folder_id].append(img_url)
+                    print(folder_images_dict)
+                    total_images += 1
+                    page_count += 1
+
+        if verbose:
+            print(f"📄 Page {page} → {page_count} images (total {total_images})")
+
+        page += 1
+        time.sleep(sleep)
+
+    return dict(folder_images_dict)
+
+
+def extract_folder_id(img_url):
+    """
+    Extracts folder_id from IIIF image URLs
+    """
+    # split after /iiif/3/ before !
+    tail = img_url.split("/iiif/3/")[-1]
+    folder_id = tail.split("!")[0]
+    return folder_id
 
 def main():
     # get pages
-    url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_pages)}'
-    df_pages = pd.read_csv(url_pages_to_be_parsed)
-    # filter pages by type: only Item/lot description
-    #df_filtered = df_pages[df_pages["classification"] == c.filter_pages].reset_index(drop=True) if c.filter_pages else df_pages
-    df_filtered = (
-    df_pages[
-        (df_pages["classification"] == c.filter_pages) &
-        (df_pages["is_table"] == 0)
-    ].reset_index(drop=True)
-    if c.filter_pages
-    else df_pages[df_pages["is_table"] == 0].reset_index(drop=True)
-    )
-    # group images by folder name
-    folder_images_dict = group_pages_by_catalogue(df_filtered)
+    # url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_pages)}'
+    # df_pages = pd.read_csv(url_pages_to_be_parsed)
+    # # filter pages by type: only Item/lot description
+    # #df_filtered = df_pages[df_pages["classification"] == c.filter_pages].reset_index(drop=True) if c.filter_pages else df_pages
+    # df_filtered = (
+    # df_pages[
+    #     (df_pages["classification"] == c.filter_pages) &
+    #     (df_pages["is_table"] == 0)
+    # ].reset_index(drop=True)
+    # if c.filter_pages
+    # else df_pages[df_pages["is_table"] == 0].reset_index(drop=True)
+    # )
+    # # group images by folder name
+    # folder_images_dict = group_pages_by_catalogue(df_filtered)
     # parse online images, perform OCR and chunking
-    run_transcription(folder_images_dict, chunking=c.chunking)
+    folder_images_dict = fetch_pages_from_iiif()
+    #run_transcription(folder_images_dict, chunking=c.chunking)
 
 def get_image(chunks_df, input_folder, catalogue_id):
-
+    "Add iiif image url to the csv"
     md_dir = Path(input_folder)   # directory with your .md files
     df = chunks_df
 
@@ -114,7 +191,7 @@ def run_transcription(folder_images_dict, chunking=False):
                     chunk_md_files(os.path.join(c.parent_folder, folder_path))
                     print(f"##### Md files chunked: {folder_path}/chunks.csv")
                 except Exception as e:
-                    message = folder_path + img_path + ": " + str(e)
+                    message = img_path + ": " + str(e)
                     with open(error_path, mode) as f:
                         f.write(message + '\n')
             # record parsed folders
@@ -122,29 +199,44 @@ def run_transcription(folder_images_dict, chunking=False):
             print(f"## DONE Parsing {folder_path}")
 
 
-def group_pages_by_catalogue(df_item_desc):
-    # Group images by folder in a dictionary
-    folder_images_dict = {}
-    for index, row in df_item_desc.iterrows():
-        filename = row['filename_output'] # revised filename
-        folder_id = row['item_id']
-        if pd.notna(filename):
-            if folder_id not in folder_images_dict:
-                folder_images_dict[folder_id] = []
-            folder_images_dict[folder_id].append(filename)
-    return folder_images_dict
+# def group_pages_by_catalogue(df_item_desc):
+#     # Group images by folder in a dictionary
+#     folder_images_dict = {}
+#     for index, row in df_item_desc.iterrows():
+#         filename = row['filename_output'] # revised filename
+#         folder_id = row['item_id']
+#         if pd.notna(filename):
+#             if folder_id not in folder_images_dict:
+#                 folder_images_dict[folder_id] = []
+#             folder_images_dict[folder_id].append(filename)
+#     return folder_images_dict
+
+
+def parse_iiif_url(iiif_url: str):
+    # extract between ! and .jpg
+    m = re.search(r'!(.+?)\.jpg', iiif_url)
+    if not m:
+        raise ValueError("Invalid IIIF URL")
+
+    raw_token = m.group(1)
+    decoded_token = unquote(raw_token)
+    grey_url = iiif_url.replace("default.jpg", "grey.jpg")
+
+    return decoded_token, grey_url
 
 
 def run_docling(folder_path, img_path):
     # output md
-    md_path = os.path.join(c.parent_folder, folder_path, img_path + '.md')
+    img_name, page_uri = parse_iiif_url(img_path)
+    md_path = os.path.join(c.parent_folder, folder_path, img_name + '.md')
     if not os.path.exists(md_path):
         # prepare output files
         error_path = 'errors.txt'
         mode = 'a' if os.path.exists(error_path) else 'w'
         try:
             # build URI for greyscale image, e.g. http://137.204.64.39/image/iiif/3/BO0624_4466!BO0624_4466_000132-p.%201.jpg/full/max/0/gray.jpg
-            page_uri = c.iiif_page_uri_base + folder_path + '!' + urllib.parse.quote(img_path) + '/full/max/0/gray.jpg'
+            #page_uri = c.iiif_page_uri_base + folder_path + '!' + urllib.parse.quote(img_path) + '/full/max/0/gray.jpg'
+            #page_uri = greyscale_url
             print(f"##### Retrieved greyscale page: {page_uri}")
             # OCR
             converter = DocumentConverter()
@@ -161,11 +253,11 @@ def run_docling(folder_path, img_path):
                     file.write(res)
                     print(f"##### Transcription written in md file: {page_uri}")
                 except Exception as e:
-                    message = folder_path + img_path + ": " + str(e)
+                    message = folder_path + img_name + ": " + str(e)
                     with open(error_path, mode) as f:
                         f.write(message + '\n')
         except Exception as e:
-            message = folder_path + img_path + ": " + str(e)
+            message = folder_path + img_name + ": " + str(e)
             with open(error_path, mode) as f:
                 f.write(message + '\n')
 
