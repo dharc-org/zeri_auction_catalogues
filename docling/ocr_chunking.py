@@ -219,7 +219,7 @@ def parse_iiif_url(iiif_url: str):
 
     raw_token = m.group(1)
     decoded_token = unquote(raw_token)
-    grey_url = iiif_url.replace("default.jpg", "grey.jpg")
+    grey_url = iiif_url.replace("default.jpg", "gray.jpg")
 
     return decoded_token, grey_url
 
