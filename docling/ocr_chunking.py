@@ -4,7 +4,6 @@ import urllib.parse
 from urllib.parse import urlparse
 from urllib.parse import unquote
 import re
-import re
 import requests
 import json
 import conf as c
@@ -14,8 +13,8 @@ from pathlib import Path
 import time
 from collections import defaultdict
 
-IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=collection_id=LOTTO1;classification=Item+Description;is_table=0"
-
+#IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=collection_id=LOTTO1;classification=Item+Description;is_table=0"
+IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=filename=BO0624_81777;collection_id=LOTTO1;classification=Item+Description;is_table=0"
 
 def fetch_pages_from_iiif(
     base_url=IIIF_SEARCH_URL,
@@ -64,7 +63,7 @@ def fetch_pages_from_iiif(
 
                     folder_id = extract_folder_id(img_url)
                     folder_images_dict[folder_id].append(img_url)
-                    print(folder_images_dict)
+                    #print(folder_images_dict)
                     total_images += 1
                     page_count += 1
 
@@ -104,7 +103,7 @@ def main():
     # folder_images_dict = group_pages_by_catalogue(df_filtered)
     # parse online images, perform OCR and chunking
     folder_images_dict = fetch_pages_from_iiif()
-    #run_transcription(folder_images_dict, chunking=c.chunking)
+    run_transcription(folder_images_dict, chunking=c.chunking)
 
 def get_image(chunks_df, input_folder, catalogue_id):
     "Add iiif image url to the csv"
@@ -227,7 +226,8 @@ def parse_iiif_url(iiif_url: str):
 
 def run_docling(folder_path, img_path):
     # output md
-    img_name, page_uri = parse_iiif_url(img_path)
+    img_name, grey_url = parse_iiif_url(img_path)
+    page_uri = grey_url
     md_path = os.path.join(c.parent_folder, folder_path, img_name + '.md')
     if not os.path.exists(md_path):
         # prepare output files
