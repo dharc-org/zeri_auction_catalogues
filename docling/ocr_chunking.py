@@ -12,13 +12,11 @@ import csv
 from pathlib import Path
 import time
 from collections import defaultdict
-
-# FUTURE REUSER: modify the two hardcoded URIs for images
-## var IIIF_SEARCH_URL: the URL of the IIIF server search api to select pages
-## def find_markdown_file > var page_uri: rebuilds the URL of the IIIF image associated to a chunk
+import sys
 
 #IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=collection_id=LOTTO1;classification=Item+Description;is_table=0"
 IIIF_SEARCH_URL = "http://137.204.64.39/presentation/iiif/search?q=filename=BO0624_81777;collection_id=LOTTO1;classification=Item+Description;is_table=0"
+
 
 def fetch_pages_from_iiif(
     base_url=IIIF_SEARCH_URL,
@@ -89,8 +87,33 @@ def extract_folder_id(img_url):
     folder_id = tail.split("!")[0]
     return folder_id
 
-def main():
-    folder_images_dict = fetch_pages_from_iiif()
+def main(filename=None, collection_id=None):
+    # get pages
+    # url_pages_to_be_parsed = f'https://docs.google.com/spreadsheets/d/{c.spreadsheet_id}/gviz/tq?tqx=out:csv&sheet={urllib.parse.quote(c.sheet_pages)}'
+    # df_pages = pd.read_csv(url_pages_to_be_parsed)
+    # # filter pages by type: only Item/lot description
+    # #df_filtered = df_pages[df_pages["classification"] == c.filter_pages].reset_index(drop=True) if c.filter_pages else df_pages
+    # df_filtered = (
+    # df_pages[
+    #     (df_pages["classification"] == c.filter_pages) &
+    #     (df_pages["is_table"] == 0)
+    # ].reset_index(drop=True)
+    # if c.filter_pages
+    # else df_pages[df_pages["is_table"] == 0].reset_index(drop=True)
+    # )
+    # # group images by folder name
+    # folder_images_dict = group_pages_by_catalogue(df_filtered)
+    # parse online images, perform OCR and chunking
+
+    # Costruisci URL dinamicamente se i parametri sono forniti
+    if filename and collection_id:
+        iiif_search_url = f"http://137.204.64.39/presentation/iiif/search?q=filename={filename};collection_id={collection_id};classification=Item+Description;is_table=0"
+        print(f"🔗 URL IIIF: {iiif_search_url}")
+    else:
+        iiif_search_url = IIIF_SEARCH_URL
+        print(f"🔗 Using default URL IIIF")
+
+    folder_images_dict = fetch_pages_from_iiif(base_url=iiif_search_url)
     run_transcription(folder_images_dict, chunking=c.chunking)
 
 def get_image(chunks_df, input_folder, catalogue_id):
@@ -110,7 +133,7 @@ def get_image(chunks_df, input_folder, catalogue_id):
         text_clean = str(text).strip()
         for fname, content in markdown_files.items():
             if text_clean in content:
-                page_uri = c.iiif_page_uri_base + catalogue_id.replace("documents/","") + '!' + urllib.parse.quote(fname[:-3].replace("documents/","")) + '.jpg/full/max/0/default.jpg'
+                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname).replace("documents/","") + '/full/max/0/default.jpg'
                 print(page_uri)
                 return page_uri
         return None
@@ -509,4 +532,14 @@ def cleanup_markdown_files(folder_path, keep_file="all.md"):
             md_file.unlink()
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) == 3:
+        filename = sys.argv[1]
+        collection_id = sys.argv[2]
+        main(filename, collection_id)
+    elif len(sys.argv) == 1:
+        main()
+    else:
+        print("Usage: python ocr_chunking.py [filename collection_id]")
+        print("  - Con parametri: python ocr_chunking.py BO0624_81777 LOTTO1")
+        print("  - Senza parametri: python ocr_chunking.py (usa i valori di default)")
+        sys.exit(1)
