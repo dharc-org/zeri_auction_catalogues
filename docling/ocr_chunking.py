@@ -122,7 +122,7 @@ def get_image(chunks_df, input_folder, catalogue_id):
         text_clean = str(text).strip()
         for fname, content in markdown_files.items():
             if text_clean in content:
-                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname[:-3]) + '/full/max/0/default.jpg'
+                page_uri = c.iiif_page_uri_base + catalogue_id + '!' + urllib.parse.quote(fname).replace("documents/","") + '/full/max/0/default.jpg'
                 print(page_uri)
                 return page_uri
         return None
