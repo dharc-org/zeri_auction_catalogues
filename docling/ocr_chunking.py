@@ -180,9 +180,6 @@ def run_transcription(folder_images_dict, chunking=False):
             output_file_path = os.path.join(c.parent_folder, folder_path, 'all.md')
             concatenate_markdown_files(os.path.join(c.parent_folder, folder_path), output_file_path)
             print(f"##### Md files concatenated: {folder_path}/all.md")
-            # 🔥 CLEANUP individual markdown files
-            cleanup_markdown_files(os.path.join(c.parent_folder, folder_path))
-            print(f"##### Removed individual .md files in {folder_path}")
 
             # chunk markdown files
             if c.chunking == True:
@@ -193,6 +190,9 @@ def run_transcription(folder_images_dict, chunking=False):
                     message = img_path + ": " + str(e)
                     with open(error_path, mode) as f:
                         f.write(message + '\n')
+            # 🔥 CLEANUP individual markdown files
+            cleanup_markdown_files(os.path.join(c.parent_folder, folder_path))
+            print(f"##### Removed individual .md files in {folder_path}")
             # record parsed folders
             parsed_folders = add_folder_to_parsed(folder_path)
             print(f"## DONE Parsing {folder_path}")
