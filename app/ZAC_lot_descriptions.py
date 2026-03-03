@@ -1,5 +1,35 @@
+# RUN ON THE SAME SERVER AS /app
+# RETURN RDF OF TRANSCRIBED CATALOGUES
 import sqlite3
 from pathlib import Path
+import rdflib
+from rdflib import Namespace, URIRef, Literal, Graph, ConjunctiveGraph, RDF, RDFS, XSD
+from rdflib.store import Store
+
+# Common namespaces
+RDF = Namespace("http://www.w3.org/1999/02/22-rdf-syntax-ns#")
+RDFS = Namespace("http://www.w3.org/2000/01/rdf-schema#")
+XSD = Namespace("http://www.w3.org/2001/XMLSchema#")
+DC = Namespace("http://purl.org/dc/elements/1.1/")
+CRM = Namespace("http://www.cidoc-crm.org/cidoc-crm/")
+LA = Namespace("https://linked.art/ns/terms/")
+AAT = Namespace("http://vocab.getty.edu/aat/")
+
+# Custom namespace
+ZAC = Namespace("http://w3id.org/zac/")
+
+# Create a context-aware graph using a Memory store
+g = Graph(identifier="http://w3id.org/zac/catalogues")
+
+# Bind namespaces to the graph
+g.bind("rdf", RDF)
+g.bind("rdfs", RDFS)
+g.bind("xsd", XSD)
+g.bind("dc", DC)
+g.bind("zac", ZAC)
+g.bind("crm", CRM)
+g.bind("la", LA)
+g.bind("aat", AAT)
 
 BASE_DIR = Path(__file__).parent
 DB_PATH = BASE_DIR / "documents.db"
@@ -33,24 +63,42 @@ def fetch_chunks(conn, catalogue_id):
     return [dict(row) for row in cur.fetchall()]
 
 
-def process_catalogue(catalogue_id, chunks):
+def process_lot_descriptions(catalogue_id, chunks):
     print(f"Processing {catalogue_id} ({len(chunks)} chunks)")
 
-    # Example aggregation
-    full_text = "\n".join(chunk["text"] for chunk in chunks)
+    g.add(( URIRef(ZAC[catalogue_id+'_auction']), CRM.P16_used_specific_object, URIRef(ZAC[catalogue_id+'_lots']) ))
+    g.add(( URIRef(ZAC[catalogue_id+'_lots']), RDF.type, LA["Set"] ))
+    g.add(( URIRef(ZAC[catalogue_id+'_lots']), CRM.P2_has_type, AAT["300411307"] ))
 
-    # 🔥 Put your real processing logic here
-    # NLP, export, JSON generation, ML, etc.
+    for chunk in chunks:
+        num = chunk["num"]
+        text = chunk["title"]
+        image_online = chunk["image_online"]
+        lot_id = catalogue_id+'_lot_'+num.strip()
 
-    # Example output
-    output_path = BASE_DIR / "exports" / f"{catalogue_id}.txt"
-    output_path.parent.mkdir(exist_ok=True)
-    output_path.write_text(full_text, encoding="utf-8")
+        g.add(( URIRef(ZAC[catalogue_id+'_lots']), CRM.P46_is_composed_of, URIRef(ZAC[lot_id]) ))
+        g.add(( URIRef(ZAC[lot_id]), RDF.type, LA["Set"] ))
+        g.add(( URIRef(ZAC[lot_id]), RDFS.label, Literal(num+' - '+text) ))
+
+        g.add(( URIRef(ZAC[lot_id]), CRM.P1_is_identified_by, URIRef(ZAC[lot_id+'_id']) ))
+        g.add(( URIRef(ZAC[lot_id+'_id']), RDF.type, CRM.E42_Identifier )) 
+        g.add(( URIRef(ZAC[lot_id+'_id']), RDFS.label, Literal(catalogue_id+'-'+num) ))
+
+        g.add(( URIRef(ZAC[lot_id]), CRM.P102_has_title, URIRef(ZAC[lot_id+'_title']) ))
+        g.add(( URIRef(ZAC[lot_id+"_title"]), RDFS.label, Literal(text) ))
+
+        # TODO
+        # crm:P57_has_number_of_parts
+        # crm:P2_has_type
+        # crm:P138i_has_representation
+        # crm:P67i_is_referred_to_by
+        # crm:P4_has_time-span
+
+    g.serialize('zac_lot_descriptions.trig', format='trig')
 
 
 def main():
     conn = get_db()
-
     catalogues = fetch_reviewed_catalogues(conn)
 
     if not catalogues:
@@ -59,7 +107,7 @@ def main():
 
     for catalogue_id in catalogues:
         chunks = fetch_chunks(conn, catalogue_id)
-        process_catalogue(catalogue_id, chunks)
+        process_lot_descriptions(catalogue_id, chunks)
 
     conn.close()
 
