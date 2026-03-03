@@ -81,7 +81,7 @@ def process_lot_descriptions(catalogue_id, chunks):
         g.add(( URIRef(ZAC[lot_id]), RDFS.label, Literal(num+' - '+text) ))
 
         g.add(( URIRef(ZAC[lot_id]), CRM.P1_is_identified_by, URIRef(ZAC[lot_id+'_id']) ))
-        g.add(( URIRef(ZAC[lot_id+'_id']), RDF.type, CRM.E42_Identifier )) 
+        g.add(( URIRef(ZAC[lot_id+'_id']), RDF.type, CRM.E42_Identifier ))
         g.add(( URIRef(ZAC[lot_id+'_id']), RDFS.label, Literal(catalogue_id+'-'+num) ))
 
         g.add(( URIRef(ZAC[lot_id]), CRM.P102_has_title, URIRef(ZAC[lot_id+'_title']) ))
@@ -90,8 +90,10 @@ def process_lot_descriptions(catalogue_id, chunks):
         # TODO
         # crm:P57_has_number_of_parts
         # crm:P2_has_type
-        # crm:P138i_has_representation
-        # crm:P67i_is_referred_to_by
+        # crm:P138i_has_representation img
+        g.add(( URIRef(ZAC[lot_id]), CRM.P67i_is_referred_to_by, URIRef(ZAC[lot_id+'_description']) ))
+        E33_Linguistic_Object
+
         # crm:P4_has_time-span
 
     g.serialize('zac_lot_descriptions.trig', format='trig')
