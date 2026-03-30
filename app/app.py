@@ -328,53 +328,58 @@ def fetch_documents_stats():
     conn = get_db()
     cur = conn.cursor()
 
-    cur.execute("""
-        SELECT
-            c.id AS catalogue_id,
-            COUNT(DISTINCT ch.id) AS chunks,
-            COUNT(DISTINCT i.id) AS issues,
-            c.reviewed
-        FROM catalogues c
-        LEFT JOIN chunks ch
-            ON ch.catalogue_id = c.id
-        LEFT JOIN inconsistencies i
-            ON i.catalogue_id = c.id AND i.resolved = 0
-        GROUP BY c.id
-    """)
-
-    docs = {}
-    for r in cur.fetchall():
-        chunks = r["chunks"]
-        issues = r["issues"]
-
-        status = "reviewed" if r["reviewed"] else (
-            "to be revised" if chunks > 0 else "to be transcribed"
-        )
-
-        docs[r["catalogue_id"]] = {
-            "chunks": chunks,
-            "expected_chunks": None,
-            "issues": issues,
-            "issues_percent": round((issues / chunks) * 100) if chunks else 0,
-            "status": status,
-        }
-
+    cur.execute("SELECT id, reviewed FROM catalogues ORDER BY id")
+    docs = {r["id"]: {"reviewed": r["reviewed"]} for r in cur.fetchall()}
     conn.close()
     return docs
 
+    # cur.execute("""
+    #     SELECT
+    #         c.id AS catalogue_id,
+    #         COUNT(DISTINCT ch.id) AS chunks,
+    #         COUNT(DISTINCT i.id) AS issues,
+    #         c.reviewed
+    #     FROM catalogues c
+    #     LEFT JOIN chunks ch
+    #         ON ch.catalogue_id = c.id
+    #     LEFT JOIN inconsistencies i
+    #         ON i.catalogue_id = c.id AND i.resolved = 0
+    #     GROUP BY c.id
+    # """)
+    #
+    # docs = {}
+    # for r in cur.fetchall():
+    #     chunks = r["chunks"]
+    #     issues = r["issues"]
+    #
+    #     status = "reviewed" if r["reviewed"] else (
+    #         "to be revised" if chunks > 0 else "to be transcribed"
+    #     )
+    #
+    #     docs[r["catalogue_id"]] = {
+    #         "chunks": chunks,
+    #         "expected_chunks": None,
+    #         "issues": issues,
+    #         "issues_percent": round((issues / chunks) * 100) if chunks else 0,
+    #         "status": status,
+    #     }
+    #
+    # conn.close()
+    # return docs
+
 def build_project_stats(documents_stats):
+
     total_documents = len(documents_stats)
-    transcribed_documents = sum(
-        1 for d in documents_stats.values() if d["chunks"] > 0
-    )
+    # reviewed_documents = sum(
+    #     1 for d in documents_stats.values() if d["reviewed"] == 1
+    # )
     reviewed_documents = sum(
-        1 for d in documents_stats.values() if d["status"] == "reviewed"
+        1 for d in documents_stats.values() if d["reviewed"]
     )
 
     return {
         "project_name": c.project_name,
         "total_documents": total_documents,
-        "transcribed_documents": transcribed_documents,
         "reviewed_documents": reviewed_documents,
         "document_id": None,
         "chunks": None,
@@ -392,38 +397,46 @@ def home(
 
     reverse = order == "desc"
 
-    if sort == "issues":
-        sorted_docs = dict(
-            sorted(
-                documents_stats.items(),
-                key=lambda x: x[1]["issues"],
-                reverse=reverse
-            )
+    sorted_docs = dict(
+        sorted(
+            documents_stats.items(),
+            key=lambda x: x[0],  # sort by id only
+            reverse=reverse
         )
-    elif sort == "chunks":
-        sorted_docs = dict(
-            sorted(
-                documents_stats.items(),
-                key=lambda x: x[1]["chunks"],
-                reverse=reverse
-            )
-        )
-    elif sort == "status":
-        sorted_docs = dict(
-            sorted(
-                documents_stats.items(),
-                key=lambda x: x[1]["status"],
-                reverse=reverse
-            )
-        )
-    else:  # id
-        sorted_docs = dict(
-            sorted(
-                documents_stats.items(),
-                key=lambda x: x[0],
-                reverse=reverse
-            )
-        )
+    )
+
+    # if sort == "issues":
+    #     sorted_docs = dict(
+    #         sorted(
+    #             documents_stats.items(),
+    #             key=lambda x: x[1]["issues"],
+    #             reverse=reverse
+    #         )
+    #     )
+    # elif sort == "chunks":
+    #     sorted_docs = dict(
+    #         sorted(
+    #             documents_stats.items(),
+    #             key=lambda x: x[1]["chunks"],
+    #             reverse=reverse
+    #         )
+    #     )
+    # elif sort == "status":
+    #     sorted_docs = dict(
+    #         sorted(
+    #             documents_stats.items(),
+    #             key=lambda x: x[1]["status"],
+    #             reverse=reverse
+    #         )
+    #     )
+    # else:  # id
+    #     sorted_docs = dict(
+    #         sorted(
+    #             documents_stats.items(),
+    #             key=lambda x: x[0],
+    #             reverse=reverse
+    #         )
+    #     )
 
 
     return templates.TemplateResponse(
@@ -470,7 +483,8 @@ def view_document(
             {
                 "request": request,
                 "catalogue_id": catalogue_id,
-                "locked_by": locked_by
+                "locked_by": locked_by,
+                "projects": {"document_id": None, "project_name": c.project_name, "chunks": None},
             },
         )
 

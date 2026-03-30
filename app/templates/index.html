@@ -15,39 +15,37 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
 // Change these three values as needed:
-const valueA = {{projects.reviewed_documents}};
-const valueB = {{projects.transcribed_documents}};
-const valueC = {{projects.total_documents - projects.transcribed_documents - projects.reviewed_documents}};
+const valueA = {{ projects.reviewed_documents }};
+const valueC = {{ projects.total_documents - projects.reviewed_documents }};
 
 new Chart(document.getElementById('stackedBar'), {
   type: 'bar',
   data: {
-    labels: [''],  // single bar
+    labels: [''],
     datasets: [
-      { label: 'reviewed ('+{{projects.reviewed_documents}}+')', data: [valueA], backgroundColor : "#C292E0" },
-      { label: 'transcribed ('+{{projects.transcribed_documents}}+')', data: [valueB], backgroundColor: "#9352BC" },
-      { label: 'to be transcribed ('+{{projects.total_documents - projects.transcribed_documents - projects.reviewed_documents}}+')', data: [valueC], backgroundColor : "#F2EEEE" }
+      {
+        label: 'reviewed (' + {{ projects.reviewed_documents }} + ')',
+        data: [valueA],
+        backgroundColor: "#C292E0"
+      },
+      {
+        label: 'to be reviewed (' + {{ projects.total_documents - projects.reviewed_documents }} + ')',
+        data: [valueC],
+        backgroundColor: "#F2EEEE"
+      }
     ]
   },
   options: {
-    indexAxis: 'y', // horizontal direction
+    indexAxis: 'y',
     responsive: true,
-    maintainAspectRatio: false, // allow custom height
+    maintainAspectRatio: false,
     barThickness: 10,
     plugins: {
       legend: { position: 'bottom' }
     },
     scales: {
-      x: { stacked: true,
-          beginAtZero: true ,
-          grid: { display: false },
-          ticks: { display: false },
-          border: { display: false }
-        },
-      y: { stacked: true ,
-          grid: { display: false },
-          ticks: { display: false },
-          border: { display: false }}
+      x: { stacked: true, beginAtZero: true, grid: { display: false }, ticks: { display: false }, border: { display: false } },
+      y: { stacked: true, grid: { display: false }, ticks: { display: false }, border: { display: false } }
     }
   }
 });
@@ -64,7 +62,7 @@ new Chart(document.getElementById('stackedBar'), {
         Catalogue {{ sort_arrow(sort, order, 'id') }}
       </a>
     </th>
-    <th title="number of extracted chunks">
+    <!-- <th title="number of extracted chunks">
       <a class="clickable" href="{{ sort_url(request, 'chunks') }}">
         Chunks {{ sort_arrow(sort, order, 'chunks') }}
       </a>
@@ -75,7 +73,7 @@ new Chart(document.getElementById('stackedBar'), {
         Issues {{ sort_arrow(sort, order, 'issues') }}
       </a>
     </th>
-    <th title="percentage of issues over the number of extracted chunks">%</th>
+    <th title="percentage of issues over the number of extracted chunks">%</th> -->
     <th title="review status">
       <a class="clickable" href="{{ sort_url(request, 'status') }}">
         Status {{ sort_arrow(sort, order, 'status') }}
@@ -86,23 +84,23 @@ new Chart(document.getElementById('stackedBar'), {
   {% for cat, val in documents.items() %}
   <tr>
     <td><a href="/document/{{ cat }}">{{ cat }}</a></td>
-    <td>{{ val.chunks }}</td>
+    <!-- <td>{{ val.chunks }}</td>
     <td class="{{'inconsistent' if val.expected_chunks != val.chunks else '' }}">{{ val.expected_chunks }}</td>
     <td>{{ val.issues }}</td>
-    <td>{{ val.issues_percent }}</td>
-    <td>{{ val.status }}
-      {% if val.status != "reviewed" %}
-      <form method="post" action="/mark_reviewed" style="display:inline">
-          <input type="hidden" name="document_id" value="{{ cat }}">
-          <button type="submit" class="review-btn"><img src="{{ url_for('static', path='/images/check.png') }}" alt="">Mark as reviewed</button>
-      </form>
-      {% else %}
+    <td>{{ val.issues_percent }}</td> -->
+    <td>
+    {% if val.reviewed %}
       <form method="post" action="/undo_review" style="display:inline">
-          <input type="hidden" name="document_id" value="{{ cat }}">
-          <button type="submit" class="undo-btn"><img src="{{ url_for('static', path='/images/undo.png') }}" alt="">Undo review</button>
+        <input type="hidden" name="document_id" value="{{ cat }}">
+        <button type="submit" class="undo-btn"><img src="{{ url_for('static', path='/images/undo.png') }}" alt="">Undo review</button>
       </form>
-      {% endif %}
-    </td>
+    {% else %}
+      <form method="post" action="/mark_reviewed" style="display:inline">
+        <input type="hidden" name="document_id" value="{{ cat }}">
+        <button type="submit" class="review-btn"><img src="{{ url_for('static', path='/images/check.png') }}" alt="">Mark as reviewed</button>
+      </form>
+    {% endif %}
+  </td>
   </tr>
   {% endfor %}
 </table>
