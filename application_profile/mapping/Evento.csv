@@ -1,0 +1,73 @@
+Frasi in NLP;Triplette in NLP;;;CIDOC CRM;;;Vocabolari esterni;;Application Profile - Evento
+;Soggetto ;Predicato;Oggetto;Classe soggetto ;Proprietà;Classe oggetto;Forma controllata della Classe soggetto;Vocabolario controllato;
+Relazione Mostra/Asta;;;;;;;;;Application Profile - Evento
+"""L'Evento è di tipo Mostra""";Attività;è ;Mostra;crm:E7_Activity [Mostra];crm:P2_has_type;crm:E55_Type ;Mostra [aat:300404521];/;
+"""L'Evento è di tipo Asta""";Attività;è ;Vendita all'asta;crm:E7_Activity [Vendita all'asta];crm:P2_has_type;crm:E55_Type ;Asta [aat:300054751];/;
+"""L’Evento Mostra può essere tematico (es. solo dipinti antichi) o comprendere lotti di natura eterogenea”";Mostra ;può essere di tipo;Tipologia_1;crm:E7_Activity [Mostra];crm:P2_has_type;crm:E55_Type ;/;"zac:asta_tematica
+zac:asta_mista";
+"""L’Evento Asta può essere tematico (es. solo dipinti antichi) o comprendere lotti di natura eterogenea”";Asta;può essere di tipo;Tipologia_1;crm:E7_Activity [Asta];crm:P2_has_type;crm:E55_Type ;/;"zac:asta_tematica
+zac:asta_mista";
+“L'Evento Mostra è preliminare all'evento Asta, ovvero alla vendita vera e propria (sono due eventi separati, in sequenza)”;Mostra ;è preliminare a;Vendita all'asta;crm:E7_Activity [Mostra];crm:P183_ends_before_the_start_of;crm:E7_Activity [Asta];/;/;
+Evento Mostra;;;;;;;;;
+"""L'Evento Mostra presenta al pubblico i lotti che saranno messi in vendita successivamente""";Mostra ;espone;Lotti;crm:E7_Activity [Mostra];crm:P16_used_specific_object;la:Set ;Lotto [aat:300411307];/;
+"""L'Evento Mostra ha un luogo di svolgimento""";Mostra ;ha luogo di svolgimento;Luogo;crm:E7_Activity [Mostra];crm:P7_took_place_at;crm:E53_Place;/;/;
+"""Il Luogo di svolgimento dell'Evento Mostra è la sede x""";Luogo;è ;Sede X [sala dei Confalonieri, Palazzo dei Congressi];crm:E53_Place;crm:P1_is_identified_by;crm:E41_Appellation;/;/;
+"""Il nome della sede x è [nome]""";Nome della sede X;è;Nome;crm:E41_Appellation;crm:P190_has_symbolic_content;xsd:string;;/;
+"""L'Evento Mostra ha uno o più giorni di svolgimento (è divisa in giornate di esposizione)""";Mostra ;è divisa in uno o più giorni;Giorni di esposizione;crm:E7_Activity [Mostra];crm:P4_has_time-span;crm:E52_Time-Span;/;/;
+"""L'Evento Mostra ha un orario di svolgimento (si svolge in fasce orarie definite, es. dalle 15:00 alle 18:00)""";Mostra ;ha uno o più slot orari;Ora_esposizione;crm:E7_Activity [Mostra];crm:P4_has_time-span;crm:E52_Time-Span;/;/;
+Evento Asta;;;;;;;;;
+"""L'Evento Asta presenta al pubblico i lotti in vendita""";Asta;mette in vendita;Lotti;crm:E7_Activity [Asta];crm:P16_used_specific_object;la:Set ;/;/;
+"""L'Evento Asta ha utilizzato oggetti di questo tipo""";Asta;ha usato oggetti di tipo;Tipo;crm:E7_Activity [Asta];crm:P125_used_objects_of_type;crm:E55_Type ;/;"Pittura (arti visive) [aat:300033618], Scultura (arti visive) [aat:300047090], Architettura [aat:300263552], Mosaici [aat:300015342], Decorative Arts [aat:300411641], Drawing [aat:300033973], Fotografie [aat:300046300], Litografie [aat:300041379], Stampe [aat:300041273], Mappe [aat:300028094], Frame [aat:300404391]. Oggetti archeologici [aat:300234110], Monete [aat:300037222], Argenteria [aat:300234152], Gioielli [aat:300209286], Pietre preziose [aat:300201964], Stained glass [aat:300263722], Naturalia [aat:300404125], Libri [aat:300028051], Manoscritti [aat:300265483], Miniature [aat:300033936], Musical Instrument [aat:300041620]
+Armor [aat:300036745], Clothing [aat:300266639], Tessili (arti visive) [aat:300014063], Arazzi [aat:300205002], Furniture [aat:300037680]";
+"""L'Evento Asta ha un luogo di svolgimento""";Asta;ha luogo di svolgimento;Sala dei Confalonieri, Palazzo dei Congressi;crm:E7_Activity [Asta];crm:P7_took_place_at;crm:E53_Place;/;/;
+"""Il Luogo di svolgimento dell'Evento Asta è la sede x""";Luogo;è di tipo;Sede X [sala dei Confalonieri, Palazzo dei Congressi];crm:E53_Place;crm:P1_is_identified_by;crm:E41_Appellation;/;/;
+"""Il nome della sede x è [nome]""";Nome della sede X;è;Nome;crm:E41_Appellation;crm:P190_has_symbolic_content;xsd:string;;/;
+“L'Evento Asta ha una data di svolgimento”;Asta;ha un data di vendita (può essere anno, mese, giorno, ora);Data;crm:E7_Activity [Asta];crm:P4_has_time-span;crm:E52_Time-Span;;/;
+“La data dell'Evento Asta ha un inizio e una fine”;Data;inizia il;1 gennaio 1864;crm:E52_Time-Span;crm:P82a_begin_of_the_begin;xsd:date;/;/;
+;Data;termina il;20 gennaio 1864;crm:E52_Time-Span;crm:P82b_end_of_the_end;xsd:date;/;/;
+"""L'Evento Asta è diviso in Giornate di Vendita""";Asta;è divisa in più giorni;Giorni di vendita;crm:E7_Activity [Asta];crm:P4_has_time-span;crm:E52_Time-Span;/;/;
+"""L'Evento Asta consiste in un insieme di Vendite Singole""";Asta;consiste in;Vendita Singola;crm:E7_Activity [Asta];crm:P9_consists_of;crm:E7_Activity [Vendita_Singola];/;Vendita singola di un lotto [aat:300420001];
+"""Una Vendita Singola avviene in un Giorno di Vendita (un Giorno di Vendita ha più Vendite Singole)""";Vendita Singola;ha giorno;Giorno di vendita;crm:E7_Activity [Vendita_Singola];crm:P4_has_time-span;crm:E52_Time-Span;/;/;
+"""L'Evento Asta è relazionato a un altro Evento Secondario (es. smembramento collezione sospensione attività (per morte, fallimento, ecc.))""";Asta;è relazionato a (relazione causale);Evento x (smembramento collezione, fallimento attività, cessazione attività);crm:E7_Activity [Asta];crm:P17_was_motivated_by;crm:E5_Event [Evento_Secondario];/;"Deaccessione (processo di rimozione ufficiale di oggetti da una collezione) [aat:300079654]
+Sospensione attività [aat:300260885]
+Vendita [aat:300435443]";
+"""L'Evento Asta ha delle Condizioni di Svolgimento (accesso su invito, accesso pubblico) e riguardano la partecipazione all'evento""";Asta;ha condizioni di svolgimento;Svolgimento;crm:E7_Activity [Asta];crm:P2_has_type;crm:E55_Type ;/;"Accesso su invito [aat:300027083]
+Biglietto di ammissione [300133073]";
+"""L'Evento Asta ha una segnatura Zeri come identificativo predefinito""";Asta;ha ID predefinito;ID ;crm:E7_Activity [Asta];crm:P48_has_preferred_identifier;crm:E42_Identifier;/;/;
+"""L'Identificativo ha un contenuto testuale""";ID;ha;Contenuto Testuale;crm:E42_Identifier;crm:P190_has_symbolic_content;xsd:string;/;/;
+Ruoli nell'Evento;;;;;;;;;
+"""L'Evento Asta si articola in un'insieme variabile di Sotto-Eventi""";Asta;consiste in;Sotto-Eventi;crm:E7_Activity [Asta];crm:P9_consists_of;crm:E7_Activity [Sottocategorizzazione_Asta];/;/;
+"""I Sotto-Eventi sono di diversi tipi (es. battitura, vendita, assistenza)""";Sotto-Eventi;sono di tipologia;Tipologia_1;crm:E7_Activity [Sottocategorizzazione_Asta];crm:P2_has_type;crm:E55_Type ;/;"
+zac:battitura
+zac:vendita
+zac:assistenza";
+"""L’Attore ha partecipato al Sotto-Evento""";Sotto-Evento_1;ha partecipato;Attore_1;crm:E7_Activity [Sottocategorizzazione_Asta];crm:P14_carried_out_by;crm:E39_Actor;/;/;
+“Il Ruolo dell’Attore nel Sotto-Evento è documentato (es. esperto, battitore, ecc.)”;Attribuzione_1;ha oggetto dell'attribuzione;Sotto-Evento_1;crm:E13_Attribute_Assignment;crm:P140_assigned_attribute_to;crm:E7_Activity [Sottocategorizzazione_Asta];/;/;
+“L’Attore è il destinatario dell’Attribuzione”;Attribuzione_1;è destinatario di;Attore_1;crm:E13_Attribute_Assignment;crm:P141_assigned;crm:E39_Actor;/;/;
+“Il Ruolo riguarda il partecipare all’Evento”;Attribuzione_1;è tipo proprietà assegnata;assegnazione;crm:E13_Attribute_Assignment;crm:P177_assigned_property_of_type;crm:P14_carried_out_by;/;/;
+"""L'Attribuzione è di tipo [ruolo specifico""";Attribuzione_1;è di tipo;Ruolo_1;crm:E13_Attribute_Assignment;crm:P2_has_type;crm:E55_Type;/;"Responsabile asta/Auction houses [aat:300417515]
+Battitore [aat:300412173]
+Venditore [aat:300445696]
+Assistente alla vendita [aat: 300448856]
+Esperto [aat:300025829]
+Committente [aat:300400903]
+Notatio [aat:300025454]
+Responsabile contabile [aat:300024982]";
+"""L'Attribuzione ha come oggetto l'Evento Asta""";Attribuzione_1;ha come oggetto;Asta;crm:E13_Attribute_Assignment;crm:P140_assigned_attribute_to;crm:E7_Activity [Asta];/;/;
+"""L'Attribuzione è destinata all'Attore""";Attribuzione_1;è destinatario;Attore_1;crm:E13_Attribute_Assignment;crm:P141_assigned;crm:E21_Person [collezionisti/acquirenti];/;/;
+"""Il Ruolo riguarda la partecipazione all'Evento""";Ruolo_1;è relativo ha;Partecipazione;crm:E13_Attribute_Assignment;crm:P177_assigned_property_of_type;crm:P11_had_participant;/;/;
+"""L'Attribuzione è di tipo [ruolo specifico]""";Attribuzione_1;è di tipo;Ruolo_1;crm:E13_Attribute_Assignment;crm:P2_has_type;crm:E55_Type;/;"Collezionista [aat:300435149]
+Acquirente [aat:300445695]";
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;

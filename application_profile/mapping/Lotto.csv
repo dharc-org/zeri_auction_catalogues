@@ -1,0 +1,101 @@
+Frasi in NLP;Triplette in NLP;;;CIDOC CRM;;;Vocabolari esterni;
+;Soggetto ;Predicato;Oggetto;Classe soggetto ;Proprietà;Classe oggetto;Forma controllata della Classe soggetto;Vocabolario controllato
+Relazione Collezione - Lotto - Oggetti;;;;;;;;
+"""L'Evento Asta impiega una o più Collezioni di oggetti d'arte come oggetto della vendita""";Asta;impiega;Collezione;crm:E7_Activity [Asta];crm:P16_used_specific_object;crm:E78_Curated_Holding;/;/
+"""La Collezione in vendita nell'Evento Asta ha un proprietario""";Collezione in vendita nell'Evento Asta;ha un proprietario;Persona o entità che ne detiene il possesso;crm:E78_Curated_Holding;crm:P51_has_former_or_current_owner;crm:E21_Person;/;/
+"""La Collezione in vendita nell'Evento Asta contiene un certo numero di Lotti""";Collezione in vendita nell'Evento Asta;contiene Lotti;Lotto_1;crm:E78_Curated_Holding;crm:P46_is_composed_of;la:Set;/;/
+"""I Lotti sono delle unità concettuali di vendita che contengono uno o più Oggetti fisici raggruppati in modo coerente (es. servizio da the)""";Lotto;contiene uno o più oggetti fisici;Oggetto_1;la:Set ;la:members_exemplified_by;crm:E22_Human-Made_Object;/;/
+Lotto ;;;;;;;;
+"""Il Lotto ha un ID""";Lotto;ha identificativo;Identificativo Univoco;la:Set;crm:P1_is_identified_by;crm:E42_Identifier;/;ID [aat:300404628] 
+“Il Lotto ha un Titolo”;Lotto;ha titolo;Titolo;la:Set;crm:P102_has_title;crm:E35_Title;/;/
+"""Il Lotto ha una Descrizione""";Lotto;ha descrizione;Descrizione;la:Set;crm:P67i_is_referred_to_by;crm:E33_Linguistic_Object;/;Nota descrittiva [aat:300435416]
+"""La Descrizione ha un Contenuto Testuale""";Descrizione;contiene;Contenuto Testuale;crm:E33_Linguistic_Object;crm:P190_has_symbolic_content;xsd:string;/;/
+"""La Descrizione è espressa in una lingua""";Descrizione;è espressa in;Lingua_1;crm:E33_Linguistic_Object;crm:P72_has_language;crm:E56_Language;/;"Italiano [aat:300388474]
+Francese [aat:300388306]
+Tedesco [aat:300388344]
+Inglese [aat:300388277]
+Olandese [aat:300388256]"
+“Il Lotto ha indicazione del Numero di oggetti che lo compongono”;Lotto;ha numero oggetti;Numero oggetti;la:Set;crm:P57_has_number_of_parts;crm:E60_Number;/;/
+"""Il Lotto ha una tipologia""";Lotto;ha tipologia;Tipologia_1;la:Set;crm:P2_has_type;crm:E55_Type;/;"Pittura (arti visive) [aat:300033618], Scultura (arti visive) [aat:300047090], Architettura [aat:300263552], Mosaici [aat:300015342], Decorative Arts [aat:300411641], Drawing [aat:300033973], Fotografie [aat:300046300], Litografie [aat:300041379], Stampe [aat:300041273], Mappe [aat:300028094], Frame [aat:300404391]. Oggetti archeologici [aat:300234110], Monete [aat:300037222], Argenteria [aat:300234152], Gioielli [aat:300209286], Pietre preziose [aat:300201964], Stained glass [aat:300263722], Naturalia [aat:300404125], Libri [aat:300028051], Manoscritti [aat:300265483], Miniature [aat:300033936], Musical Instrument [aat:300041620]
+Armor [aat:300036745], Clothing [aat:300266639], Tessili (arti visive) [aat:300014063], Arazzi [aat:300205002], Furniture [aat:300037680], Maioliche [300021170]"
+Relazione Lotto - Evento;;;;;;;;
+“Il Lotto ha un Giorno di Vendita”;Lotto;ha giorno di vendita;Giornata di Vendita;la:Set;crm:P4_has_time-span;crm:E52_Time-Span;/;/
+Creazione degli Oggetti;;;;;;;;
+“L'Oggetto è stato Creato”;Oggetto;è stato prodotto da;Evento di Produzione;crm:E22_Human-Made_Object;crm:P108i_was_produced_by;crm:E12_Production;/;Production Statement [aat:300435436]
+"“L'Evento di Creazione è avvenuto in un Luogo di produzione originario""";Evento di Produzione;è avvenuto in un Luogo di produzione originario;Luogo (Pisa);crm:E12_Production;crm:P7_took_place_at;crm:E53_Place;/;/
+"“L'Evento di Creazione dell'oggetto è stata fatta usando una Tecnica Artistica""";Evento di Produzione;ha usato tecnica artistica ;Tecnica Artistica;crm:E12_Production;crm:P32_used_general_technique;crm:E55_Type [Tecnica_artistica];/;Tecnica (processo) [aat:300138082]
+"""La Tecnica è di un tipo specifico""";Tecnica artistica;è di tipo;Tipo_1;crm:E55_Type [Tecnica_artistica];crm:P2_has_type;crm:E55_Type;;"Disegno	[aat:30003397 ,], Incisione	[aat:300041273 ],Scultura	 [aat:300264383], Mosaico	[aat:300014078 ],Affresco	[aat:300386202]	 , Tecnica ad Acquerello 	[aat:300053363]	, Oil painting [aat: 300178684], Painting techniques [aat:300053343], Gouache	[aat:300404215], Serigrafia	[aat:300053281]	
+Litografia	[aat:300053271]	
+Fotografia [aat:300046300]"
+“L'Evento di Creazione dell'oggetto è avvenuta in una precisa cronologia” ;Evento di Produzione;ha cronologia;Datazione;crm:E12_Production;crm:P4_has_time-span;crm:E52_Time-Span;/;/
+Oggetti del Lotto ;;;;;;;;
+"""L'Oggetto ha una serie di Caratteristiche (forma, stile, colore, tipologia, giudizio di qualità)""";Oggetto;ha caratteristiche;Caratteristiche;crm:E22_Human-Made_Object;crm:P2_has_type;crm:E55_Type;/;"Colore [aat:300080438]
+Forma [aat:300056273]
+Stile [aat:300015646]
+Giudizio di qualità [aat:300179462]
+Decorazioni applicate [aat:300229940 ]"
+“L'Oggetto ha un Soggetto Iconografico”;Oggetto;ha soggetto iconografico;Soggetto Iconografico;crm:E22_Human-Made_Object;crm:P65_shows_visual_item;crm:E36_Visual_Item;/;/
+“L'Oggetto ha un Materiale”;Oggetto;ha materiale;Materiale_1;crm:E22_Human-Made_Object;crm:P45_consists_of;crm:E57_Material;/;"Materials Statement [aat:300435429]
+bone [aat:300011798], bronze	[aat:300010957]	, canvas	 [aat:300014078], chalk	[aat:300011727]	
+clay	[aat:300010439]	, copper	[aat:300011020]	, glass	[aat:300010797]	, gold leaf [aat:300264831]	, graphite [aat:300011098], ink	[aat:300015012]
+marble	[aat:300011443]
+metal	[aat:300010900]
+oak	[aat:300012264]
+oil paint [aat:300015050]
+paper	[aat:300014109]
+plaster	[aat:300014922]
+silver	[aat:300011029]
+stone	[aat:300011176]
+tempera	[aat:300015062]
+terracotta [aat:300010669]
+watercolor [aat:300015045]
+wood	[aat:300011914]"
+“L'Oggetto ha delle Dimensioni/Misure”;Oggetto;ha misure;Misure;crm:E22_Human-Made_Object;crm:P43_has_dimension;crm:E54_Dimension;/;"
+Dimensions Statement [aat:300435430]"
+“L'Oggetto ha uno Stato di Conservazione”;Oggetto;ha stato di conservazione;Stato;crm:E22_Human-Made_Object;crm:P44_has_condition;crm:E3_Condition_State;/;Condition Statement [aat:300435425]
+“L'Oggetto ha una Storia Espositiva”;Oggetto;ha storia espositiva;Mostre;crm:E22_Human-Made_Object;crm:P16i_was_used_for;crm:E7_Activity [Exhibition];/;"Exhibiting [aat:300054766]
+Exhibition Statement [aat:300435424]"
+“L'Oggetto ha una Storia Collezionistica (proprietari precedenti)”;Oggetto;ha storia collezionistica;Proprietari precedenti;crm:E22_Human-Made_Object;crm:P51_has_former_or_current_owner;crm:E39_Actor;Provenance Statement [aat:300435438];/
+“L'Oggetto è menzionato da una Bibliografia”;Oggetto;è menzionato da;Bibliografia;crm:E22_Human-Made_Object;crm:P67i_is_referred_to_by;crm:E31_Document [Bibliografia];/;Bibliografia [aat:300026497]
+"""L'Oggetto ha un'Iscrizione""";Oggetto;ha descrizione ;Iscrizione;crm:E22_Human-Made_Object;crm:P128_carries;crm:E33_Linguistic_Object [Iscrizione];/;Inscription Statement [aat:300435414]
+"""L'Oggetto Fisico può essere acquisito"" 
+
+(Nota: l'acquisizione riguarda l'oggetto fisico già modellato tramite la:members_exemplified_by nel lotto)";Oggetto Fisico;ha cambiato properità attraverso;Acquisizione;crm:E22_Human-Made_Object;crm:P24i_changed_title_through;crm:E8_Acquisition;/;/
+"""L'Acquisizione trasferisce il titolo dall'ex proprietario""";Acquisizione;trasferisce da;Venditore;crm:E8_Acquisition;crm:P23_transferred_title_from;crm:E21_Person;/;/
+Attribuzione di paternità del Lotto;;;;;;;;
+“Il Lotto ha un'Attribuzione” ;Attribuzione;ha oggetto dell'attribuzione;Lotto;crm:E13_Attribute_Assignment;crm:P140_assigned_attribute_to;la:Set;/;/
+“Il Lotto è stato attribuito ad una Persona” ;Attribuzione;ha autore attribuito;Botticelli;crm:E13_Attribute_Assignment;crm:P141_assigned;crm:E21_Person ;/;/
+“Il Lotto è stato attribuito ad un Gruppo Artistico” ;Attribuzione;ha riferimento  a correnti artistiche;Gruppo Artistico ;crm:E13_Attribute_Assignment;crm:P141_assigned;crm:E74_Group;/;/
+"""Il Gruppo Artistico è di diverse tipologie""";Gruppo Artistico;è di tipo;Gruppo Artistico 1 (Atelier, Scuola di, Maniera di);crm:E74_Group;crm:P2_has_type;crm:E55_Type;/;"Atelier (of)	[aat:300404277]
+Circle (of)	[aat:300404283]	
+Followers (of)	[aat:300404282]	
+Pupils (of)	[aat:300404279]	
+School (of)	[aat:300404284]	
+Studio (of)	[aat:300404275]	
+Workshop (of)	[aat:300404274]"
+"""La Persona è considerata l'Autore dell'oggetto/i del Lotto (la Persona ha eseguito l'azione di creare l'opera del Lotto)""";Attribuzione;è affidata a chi;Esegue l'opera;crm:E13_Attribute_Assignment;crm:P177_assigned_property_of_type;crm:P14_carried_out_by;/;/
+"""L'Attribuzione è un atto interpretativo""";Attribuzione;è di tipo;Atto Interpretativo;crm:E13_Attribute_Assignment;rdf:type;hico:InterpretationAct;/;/
+"""L'Attribuzione è di tipo [tipo]""";Attribuzione;è di tipo;Tipo Attribuzione;crm:E13_Attribute_Assignment;hico:hasInterpretationType;hico:InterpretationType;/;"Attribuzione d'autore o scuola [aat:300056109]
+"
+"""L'Attribuzione si basa su un criterio""";Attribuzione;si basa su;Criterio;crm:E13_Attribute_Assignment;hico:hasInterpretationCriterion;hico:InterpretationCriterion;/;"Sigla [aat:300404659]
+Firma [aat:300028705]
+Interpretazione storica [aat:300226183]
+Certificato di garanzia [aat:300404374]
+Signature Statement [aat:300028705]"
+"""L'Attribuzione è estratta dal Catalogo""";Attribuzione;è estratta da;Catalogo;crm:E13_Attribute_Assignment;hico:isExtractedFrom;crm:E31_Document [Catalogo];/;/
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;

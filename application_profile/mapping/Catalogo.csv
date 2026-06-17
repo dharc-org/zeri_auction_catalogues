@@ -1,0 +1,76 @@
+Frasi in NLP;Triplette in NLP;;;CIDOC CRM;;;Vocabolari esterni;
+;Soggetto ;Predicato;Oggetto;Classe soggetto ;Proprietà;Classe oggetto;Forma controllata della Classe soggetto;Vocabolario controllato
+Creazione del Catalogo;;;;;;;;
+“Il Documento è stato Creato”;Documento;è stato creato;Creazione;crm:E31_Document [Catalogo];crm:P94i_was_created_by;crm:E65_Creation;/;/
+“La Creazione del Documento è stata fatta nell'anno 1850”;Creazione;è stata fatta nell'anno;1864;crm:E65_Creation;crm:P4_has_time-span;crm:E52_Time-Span;/;/
+"""Il Periodo ha una data di inizio""";Periodo;ha un inizio;Data;crm:E52_Time-Span;crm:P82a_begin_of_the_begin;xsd:gYear;/;/
+"""Il Periodo ha una data di fine""";Periodo;ha un inizio;Data;crm:E52_Time-Span;crm:P82b_end_of_the_end;xsd:gYear;/;/
+"""Il Documento è di tipo Catalogo""";Documento;è di tipo;Tipo_1 [Catalogo];crm:E31_Document ;crm:P2_has_type;crm:E55_Type;/;Catalogo d'Asta [aat:300026068]
+“Il Documento ha un Titolo”;Documento;ha titolo;Vendita collezione Torlonia;crm:E31_Document [Catalogo];crm:P102_has_title;crm:E35_Title;/;/
+"""Il Titolo del Catalogo ha un contenuto testuale""";Titolo;contiene;Contenuto Testuale;crm:E35_Title;crm:P190_has_symbolic_content;xsd:string;/;/
+"""Il Catalogo ha come componente il suo testo linguistico""";Catalogo;ha ;Oggetto_Linguistico;crm:E31_Document [Catalogo];P148_has_component;crm:E33_Linguistic_Object [Lingua];;
+"""Il Catalogo è espresso in una lingua specifica""";Catalogo [Oggetto Linguistico];è scritto in;Lingua_1;crm:E33_Linguistic_Object [Lingua];crm:P72_has_language;crm:E56_Language;/;"Italiano [aat:300388474]
+Francese [aat:300388306]
+Tedesco [aat:300388344]
+Inglese [aat:300388277]
+Olandese [aat:300388256]"
+Attribuzione per la creazione del Catalogo;;;;;;;;
+"""é stato Assegnato un Ruolo a qualcuno nell’ambito della Creazione del Catalogo""";Attribuzione;è stata assegnata a;Creazione;crm:E13_Attribute_Assignment;crm:P140_assigned_attribute_to;crm:E65_Creation;/;/
+"""L'Attribuzione è stata Assegnata a una o più persone""";Attribuzione;è stata assegnata a persone con ruoli autoriali specifici;Persona_1;crm:E13_Attribute_Assignment;crm:P141_assigned;crm:E21_Person;/;/
+"""L'Attribuzione Assegnata riguarda Chi ha svolto l'azione specifica (es. fotografo, autore, ecc.)""";Attribuzione;è stata assegnata a qualcuno;effettuata da;crm:E13_Attribute_Assignment;crm:P177_assigned_property_of_type;crm:P14_carried_out_by;/;/
+"""L'Attribuzione è di Tipo specifico""";Attribuzione;è di Tipo specifico;Tipo_1;crm:E13_Attribute_Assignment;crm:P2_has_type;crm:E55_Type;/;"Editore [aat:300417739]
+Tipografo [300025745]
+Storico dell'arte [aat:300025541]
+Fotolitografo [aat:300025726]
+Fotografo [aat:300025687]"
+Relazione Eventi - Catalogo;;;;;;;;
+"""Il Catalogo descrive l'Evento Asta""";Catalogo;descrive ;Asta;crm:E31_Document [Catalogo];crm:P70_documents;crm:E7_Activity [Asta];/;/
+"""Il Catalogo descrive l'Evento Mostra""";Catalogo;descrive ;Mostra;crm:E31_Document [Catalogo];crm:P70_documents;crm:E7_Activity [Mostra];/;/
+"""Il Catalogo descrive i Sotto-Eventi dell'Evento Asta""
+[vedi foglio Evento]";Catalogo;descrive ;Sotto-Eventi Asta;crm:E31_Document [Catalogo];crm:P70_documents;crm:E7_Activity [Sottocategorizzazione_Asta];/;/
+"""Il Catalogo descrive gli Eventi Secondari collegati all'Evento Asta""
+[vedi foglio Evento]";Catalogo;descrive ;Eventi Secondari;crm:E31_Document [Catalogo];crm:P70_documents;crm:E5_Event [Evento_Secondario];/;/
+Relazione Lotto - Catalogo;;;;;;;;
+"""Il Catalogo descrive il Lotto""";Catalogo;descrive lotto;Lotto_1;crm:E31_Document [Catalogo];crm:P70_documents;la:Set;/;/
+"""Il Catalogo ha al suo interno una Rappresentazione del Lotto""";Catalogo;incorpora una rappresentazione del lotto;Rappresentazione_1;crm:E31_Document [Catalogo];crm:P165_incorporates;crm:E36_Visual_Item;/;/
+"""La Rappresentazione è di Tipo (foto, disegno, ecc)""";Rappresentazione_1;è di tipo;Tipo_1;crm:E36_Visual_Item;crm:P2_has_type;crm:E55_Type;/;"Fotografia  [aat:300046300]
+Incisione [aat:300041273]
+Disegni [aat:300033973]"
+"""La Rappresentazione fa riferimento al Lotto""";Rappresentazione_1;si riferisce a;Lotto_1;crm:E36_Visual_Item;crm:P129_is_about;la:Set;/;/
+“Il Lotto ha una Descrizione generica”;Lotto_1;ha descrizione generica;Descrizione;la:Set;crm:P67i_is_referred_to_by;crm:E33_Linguistic_Object [Descrizione];/;Descrizione generica [aat:300435416]
+Apparati  Catalogo;;;;;;;;
+“Il Catalogo può avere degli Approfondimenti al suo interno”;Catalogo;incorpora un oggetto linguistico;Oggetto_Linguistico_1;crm:E31_Document;crm:P165_incorporates;crm:E33_Linguistic_Object [Approfondimenti];/;/
+"""L'Approfondimento è di Tipo (prefazione, inserzioni pubblicitarie, condizioni di vendita, ecc.)""";Oggetto_Linguistico_1;è di tipo;Condizioni di vendita;crm:E33_Linguistic_Object [Approfondimenti];crm:P2_has_type;crm:E55_Type;/;"Prefazione [aat:300055032]
+Inserzioni Pubblicitarie [aat:300193993]
+ex:condizioni_vendita "
+"“Il Catalogo incorpora ulteriori Documenti ad esso relazionati (Allegati)""";Catalogo;incorpora ulteriori documenti allegati;Allegati;crm:E31_Document [Catalogo];crm:P165_incorporates;crm:E31_Document [Approfondimento];/;"Annotazioni [aat:300026100], Pubblicità [aat:300212151], Immagine [aat:300185711], Listino prezzi [aat:300417247], Errata corrige [aat:300263142], Invito [aat:300027083],
+[ex:modulo_ordine], [ex:condizione_acquisto_catalogo], [ex:carte_sciolte], [ex:articoli_di_giornale]
+[ex:ex_libris]"
+Catalogazione del catalogo;;;;;;;;
+"""Il Catalogo è documentato nel Record Online della Fondazione Zeri""";Catalogo;è documentato in;Record online Zeri;crm:E31_Document [Catalogo];crm:P70i_is_documented_in;crm:E31_Document [Record online Zeri];/;/
+"""Il record online Zeri è di tipo Database Bibliografico""";Record online Zeri;è di tipo;tipo_1 [Database Bibliografico];crm:E31_Document [Record online Zeri];crm:P2_has_type;crm:E55_Type;/;Database bibliografico [aat:300044188
+"""Il Catalogo fa parte di una Serie""";Catalogo;è parte di;Serie;crm:E31_Document [Catalogo];crm:P148i_is_component_of;crm:E31_Document [Serie];/;/
+"""La serie è di tipo Serie di pubblicazioni""";Serie;è di tipo;tipo_1 [Serie di pubblicazioni];crm:E31_Document [Serie];crm:P2_has_type;crm:E55_Type;/;Serie di pubblicazioni [aat:300026642]
+Descrizione fisica del catalogo;;;;;;;;
+"""Il Documento è fisicamente realizzato in un Oggetto""";Documento;è fisicamente realizzato in;Oggetto Fisico;crm:E31_Document [Catalogo];crm:P128i_is_carried_by;crm:E22_Human-Made_Object;/;/
+"""L'Oggetto Fisico Catalogo ha una segnatura Zeri come identificativo predefinito""";Oggetto Fisico;ha ID predefinito;ID ;crm:E22_Human-Made_Object;crm:P48_has_preferred_identifier;crm:E42_Identifier;/;/
+"""L'Identificativo ha un contenuto testuale""";ID;ha;Contenuto Testuale;crm:E42_Identifier;crm:P190_has_symbolic_content;xsd:string;/;/
+"""L'Identificativo è di tipo Numero di Inventario""";ID ;è di tipo;Tipo ID [Numero];crm:E42_Identifier;crm:P2_has_type;crm:E55_Type;/;aat:300312355 [numero di inventario]
+"""L'Oggetto Fisico ha un codice di Collocazione"" ";Oggetto Fisico;ha collocazione;Collocazione;crm:E22_Human-Made_Object;crm:P1_is_identified_by;crm:E42_Identifier;/;/
+"""La Collocazione ha un Contenuto Testuale"" ";Collocazione;ha;Contenuto Testuale;crm:E42_Identifier;crm:P190_has_symbolic_content;xsd:string;/;/
+"""La Collocazione è di tipo Tipo_1""";Collocazione;è di tipo;Tipo_1;crm:E42_Identifier;crm:P2_has_type;crm:E55_Type;/;aat: 300404704 (shelfmark)
+"""L'Oggetto fisico ha delle dimensioni (es. altezza in cm)""";Oggetto fisico;ha dimensione;Dimensione_1;crm:E22_Human-Made_Object;crm:P43_has_dimension;crm:E54_Dimension;/;/
+"""La Dimensione è di un tipo specifico (altezza, numero di pagine, tavole)""";Dimensione_1;è di tipo;Tipo dimensione;crm:E54_Dimension;crm:P2_has_type;crm:E55_Type;/;Ampiezza [aat:300055647], Altezza [aat:300055644], N. di Pagine [aat:300445022], Fotografie Commerciali [aat:300411474]
+"""La Dimensione ha un valore numerico""";Dimensione_1;ha valore;Valore numerico;crm:E54_Dimension;crm:P90_has_value;xsd:decimal;/;/
+"""La Dimensione in cm ha un'unità di misura""";Dimensione_1;ha unità di misura;Unità di Misura [cm];crm:E54_Dimension;crm:P91_has_unit;crm:E58_Measurement_Unit;/;Centimetri [aat:300379098]
+"""L'Oggetto fisico è stato prodotto""";Oggetto fisico;è stato prodotto da;Evento di stampa;crm:E22_Human-Made_Object;crm:P108i_was_produced_by;crm:E12_Production;/;/
+"""L'Evento di Produzione è di tipo Stampa""";Evento di Produzione;è di tipo;Stampa;crm:E12_Production;crm:P2_has_type;crm:E55_Type;/;Stampa tipografica [aat:300195853]
+"""L'Evento di Stampa è stato eseguito da un Tipografo/Stampatore""";Evento di Stampa;è stato eseguita da;Tipografo_1;crm:E12_Production [Stampa];crm:P14_carried_out_by;crm:E39_Actor;/;/
+"""Il Tipografo ha un nome""";Tipografo_1;ha nome;Nome_1 [Imprimerie Georges Petit];crm:E39_Actor;crm:P1_is_identified_by;crm:E41_Appellation;/;/
+"""Il nome del Tipografo ha un contenuto testuale""";Appellation;contiene;Contenuto testuale;crm:E41_Appellation;crm:P190_has_symbolic_content;xsd:string;/;/
+"""L'Evento di Stampa ha avuto luogo in una città""";Evento di Stampa;ha luogo di svolgimento;Luogo ;crm:E12_Production [Stampa];crm:P7_took_place_at;crm:E53_Place;/;/
+"""Il Luogo di stampa è identificato da un nome""";Luogo ;è identificato da;Luogo_1 (Paris);crm:E53_Place;crm:P1_is_identified_by;crm:E41_Appellation;/;/
+"""Il nome del Luogo ha un contenuto testuale""";Appellation;contiene;Contenuto testuale;crm:E41_Appellation;crm:P190_has_symbolic_content;xsd:string;/;/
+"""L'Evento di Stampa ha avuto luogo in un anno""";Evento di Stampa;ha data;1913;crm:E12_Production [Stampa];crm:P4_has_time-span;crm:E52_Time-Span;/;/
+"""Il Periodo ha una data di inizio""";Periodo;ha inizio;Data;crm:E52_Time-Span;crm:P82a_begin_of_the_begin;xsd:gYear;/;/
+"""Il Periodo ha una data di fine""";Periodo;ha fine;Data;crm:E52_Time-Span;crm:P82b_end_of_the_end;xsd:gYear;/;/
