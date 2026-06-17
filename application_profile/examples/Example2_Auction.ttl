@@ -1,0 +1,49 @@
+@prefix crm:  <http://www.cidoc-crm.org/cidoc-crm/>. 
+@prefix la:   <https://linked.art/ns/terms/>. 
+@prefix hico: <http://purl.org/emmedi/hico/>. 
+@prefix aat:  <http://vocab.getty.edu/aat/>. 
+@prefix zac:  <http://w3id.org/zac/> . 
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#>. 
+@prefix : <http://w3id.org/zac/> . 
+
+# Example 2: Auction event with a preview exhibition
+# Sangiorgi Gallery, Roma, aprile 1905
+
+:mostra_4866 a crm:E7_Activity ;
+  crm:P2_has_type aat:300404521 ;          # preliminary exhibition
+  crm:P7_took_place_at :piazza_borghese_10 ;
+  crm:P4_has_time-span :mostra_4866_ts ;
+  crm:P183_ends_before_the_start_of :asta_4866 .
+
+:mostra_4866_ts a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin "1905-04-24"^^xsd:date ;
+  crm:P82b_end_of_the_end "1905-04-25"^^xsd:date .
+
+:asta_4866 a crm:E7_Activity ;
+  crm:P2_has_type aat:300054751 ;          # auction
+  crm:P7_took_place_at :piazza_borghese_10 ;
+  crm:P4_has_time-span :asta_4866_ts ;
+  crm:P9_consists_of :sotto_evento_sangiorgi ;
+  crm:P9_consists_of :vendita_1_4866 .
+
+:asta_4866_ts a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin "1905-04-26"^^xsd:date ;
+  crm:P82b_end_of_the_end "1905-04-28"^^xsd:date .
+
+:piazza_borghese_10 a crm:E53_Place ;
+  crm:P1_is_identified_by :piazza_borghese_10_app .
+
+:piazza_borghese_10_app a crm:E41_Appellation ;
+  crm:P190_has_symbolic_content "Piazza Borghese 10, Roma" .
+
+:vendita_1_4866 a crm:E7_Activity ;
+  crm:P2_has_type aat:300420001 .          # single lot sale
+
+:sotto_evento_sangiorgi a crm:E7_Activity ;
+  crm:P2_has_type zac:vendita .            # sub-event
+
+:attr_sangiorgi a crm:E13_Attribute_Assignment ;
+  crm:P140_assigned_attribute_to :sotto_evento_sangiorgi ;
+  crm:P141_assigned :galleria_sangiorgi ;
+  crm:P177_assigned_property_of_type crm:P14_carried_out_by ;
+  crm:P2_has_type aat:300417515 .          # auction house

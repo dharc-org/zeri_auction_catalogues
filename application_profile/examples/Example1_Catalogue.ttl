@@ -1,0 +1,96 @@
+@prefix crm:  <http://www.cidoc-crm.org/cidoc-crm/>. 
+@prefix la:   <https://linked.art/ns/terms/>. 
+@prefix hico: <http://purl.org/emmedi/hico/>. 
+@prefix aat:  <http://vocab.getty.edu/aat/>. 
+@prefix zac:  <http://w3id.org/zac/> . 
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#>. 
+@prefix : <http://w3id.org/zac/> . 
+
+# Example 1: Catalogue — Sangiorgi Gallery, Roma, 1905
+# Shelfmark Zeri Foundation: BO0624_4866
+
+:ca_4866 a crm:E31_Document ;
+  crm:P102_has_title :ca_4866_title ;
+  crm:P94i_was_created_by :creazione_4866 ;
+  crm:P70_documents :mostra_4866 ;
+  crm:P70_documents :asta_4866 ;
+  crm:P70_documents :lotto_1_4866 ;
+  crm:P165_incorporates :condizioni_vendita_4866 ;
+  crm:P165_incorporates :tavole_4866 ;
+  crm:P128i_is_carried_by :ca_4866_phys ;
+  crm:P148_has_component :ca_4866_testo ;
+  crm:P148i_is_component_of :serie_sangiorgi .
+
+:ca_4866_title a crm:E35_Title ;
+  crm:P190_has_symbolic_content
+    "Catalogo della Vendita del Signor Ignazio dei Marchesi Cavalletti" .
+
+:creazione_4866 a crm:E65_Creation ;
+  crm:P4_has_time-span :creazione_4866_ts .
+
+:creazione_4866_ts a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin "1905"^^xsd:gYear .
+
+:attr_creazione_4866 a crm:E13_Attribute_Assignment ;
+  crm:P140_assigned_attribute_to :creazione_4866 ;
+  crm:P141_assigned :galleria_sangiorgi ;
+  crm:P177_assigned_property_of_type crm:P14_carried_out_by ;
+  crm:P2_has_type aat:300417739 .          # publisher
+
+:ca_4866_testo a crm:E33_Linguistic_Object ;
+  crm:P72_has_language aat:300388474 .     # italian
+
+:condizioni_vendita_4866 a crm:E33_Linguistic_Object ;
+  crm:P2_has_type zac:condizioni_vendita .
+
+:serie_sangiorgi a crm:E31_Document ;
+  crm:P2_has_type aat:300026642 .          # serials (publications)
+
+:tavole_4866 a crm:E36_Visual_Item ;
+  crm:P2_has_type aat:300411474 .          # commercial photography
+
+:ca_4866_phys a crm:E22_Human-Made_Object ;
+  crm:P48_has_preferred_identifier :ca_4866_id ;
+  crm:P1_is_identified_by :ca_4866_shelfmark ;
+  crm:P43_has_dimension :ca_4866_dim_height ;
+  crm:P43_has_dimension :ca_4866_dim_pages ;
+  crm:P108i_was_produced_by :ca_4866_production .
+
+:ca_4866_id a crm:E42_Identifier ;
+  crm:P190_has_symbolic_content "4866" ;
+  crm:P2_has_type aat:300312355 .          # accession number
+
+:ca_4866_shelfmark a crm:E42_Identifier ;
+  crm:P190_has_symbolic_content "CA 16 1905 0426" ;
+  crm:P2_has_type aat:300404704 .          # shelfmark
+
+:ca_4866_dim_height a crm:E54_Dimension ;
+  crm:P2_has_type aat:300055644 ;          # height
+  crm:P90_has_value "32"^^xsd:decimal ;
+  crm:P91_has_unit aat:300379098 .         # centimeters
+
+:ca_4866_dim_pages a crm:E54_Dimension ;
+  crm:P2_has_type aat:300445022 ;          # pages
+  crm:P90_has_value "221"^^xsd:integer .
+
+:ca_4866_production a crm:E12_Production ;
+  crm:P2_has_type aat:300195853 ;          # letterpress printing
+  crm:P14_carried_out_by :tipografia_forense ;
+  crm:P7_took_place_at :luogo_stampa_4866 ;
+  crm:P4_has_time-span :ca_4866_production_ts .
+
+:tipografia_forense a crm:E39_Actor ;
+  crm:P1_is_identified_by :tipografia_forense_app .
+
+:tipografia_forense_app a crm:E41_Appellation ;
+  crm:P190_has_symbolic_content "Tipografia dell'Unione Cooperativa Editrice" .
+
+:luogo_stampa_4866 a crm:E53_Place ;
+  crm:P1_is_identified_by :luogo_stampa_4866_app .
+
+:luogo_stampa_4866_app a crm:E41_Appellation ;
+  crm:P190_has_symbolic_content "Roma" .
+
+:ca_4866_production_ts a crm:E52_Time-Span ;
+  crm:P82a_begin_of_the_begin "1905"^^xsd:gYear ;
+  crm:P82b_end_of_the_end "1905"^^xsd:gYear .
