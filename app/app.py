@@ -23,7 +23,9 @@ LOCK_TIMEOUT = 60 * 30
 SECRET = "CHANGE_THIS_REMEMBER_SECRET"
 
 VALID_USERS = {
-    "marilena.daquino2@unibo.it": "admin"
+    "marilena.daquino2@unibo.it": "admin",    
+    "valentina.rossetti7@unibo.it" : "zeri2026ROSSETTI",
+    "valentina.pasqual2@unibo.it" : "zeri2026PASQUAL"
 }
 
 serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
