@@ -1,0 +1,23 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_15268,159313,1,1,NAVETTE a encens en bronze patine. xve siecle.,14.0,81.6,False,positional,,,BRONZES
+BO0624_15268,159314,2,2,"STATUETTE en bronze a patine noire.Italie,xve siecle.",20.0,66.0,False,positional,,,BRONZES
+BO0624_15268,159315,3,3,"STATUETTE d'enfant sur un cheval en bronze a patine brune. Italie, xv siecle.",26.0,91.9,False,positional,,,BRONZES
+BO0624_15268,159316,4,4,"FIGURINE en bronze patine, fondue a cire perdue. Italie, xve siecle.",32.0,90.1,False,positional,,,BRONZES
+BO0624_15268,159317,5,5,STATUETTE sur socle adherent moulure;bronze,,57.4,True,none,,,
+BO0624_15268,159318,6,6,"STATUETTE equestre sur base, en bronze a patine brune. Padoue,fin du xv siecle.",50.0,62.5,False,positional,,,BRONZES
+BO0624_15268,159319,7,7,"CHEVAL en bronze a patine brune. Padoue,fin l est represente, d'apres I'antique,au galop, la tete tournee vers la droite, la bouche ouverte; la criniere est longue et la queue nouee a son extremite. Base en bois noir.",52.0,76.3,False,positional,,,BRONZES
+BO0624_15268,159320,8,8,"STATUETTE en bronze a patine brune. Italie, fin",56.0,90.0,False,positional,,,BRONZES
+BO0624_15268,159321,9,9,"LAMPE en bronze. Padoue, commencement du",63.0,80.8,False,positional,,,BRONZES
+BO0624_15268,159322,10,10,"TROIS PETITS GROUPES d'enfants en bronze patine. Padoue, commencement du xvie siecle.",69.0,93.8,False,positional,,,BRONZES
+BO0624_15268,159323,11,11,"FIGURINE en bronze patine. Italie, commence-",76.0,84.2,False,positional,,,BRONZES
+BO0624_15268,159324,12,12,"STATUETTE en bronze patine. Italie, commen-",83.0,88.2,False,positional,,,BRONZES
+BO0624_15268,159325,13,13,"DEUX STATUETTES en bronze patine. Venise, xvi siecle..",90.0,88.7,False,positional,,,BRONZES
+BO0624_15268,159326,14,14,"STATUETTE en bronze. Venise, xvi siecle.",96.0,88.6,False,positional,,,BRONZES
+BO0624_15268,159327,15,15,"GROUPE en bronze a patine rougeatre. Italie, xvi siecle.",101.0,80.4,False,positional,,,BRONZES
+BO0624_15268,159328,16,16,"- DEUX CHEVAUX en bronze a patine rougeatre, Italie.xvI siecle.",110.0,81.2,False,positional,,,BRONZES
+BO0624_15268,159329,17,17,"FIGURINE en bronze. Italie, xvi siecle.",118.0,88.1,False,positional,,,BRONZES
+BO0624_15268,159330,18,18,"STATUETTE en bronze. Italie, xvi siecle.",124.0,90.7,False,positional,,,BRONZES
+BO0624_15268,159331,19,19,"— STATuETTE equestre en bronze patine. France, fin du xvi siecle.",129.0,76.5,False,positional,,,BRONZES
+BO0624_15268,159332,20,20,"GROUPE en bronze a patine rougeatre, du temps de Louis XIV.",135.0,75.7,False,positional,,,BRONZES
+BO0624_15268,159333,21,21,STATUETTE en bronze patine. Fin du xviii siecle.,142.0,83.5,False,positional,,,BRONZES
+BO0624_15268,167685,22,22,"ŒILLET sur tige, avec bouton et deux feuilles, en fer cisele, et portant des traces de peintue, xvi siecle.",148.0,65.9,False,positional,,,BRONZES

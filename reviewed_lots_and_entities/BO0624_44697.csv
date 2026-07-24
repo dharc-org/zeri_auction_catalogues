@@ -1,0 +1,262 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_44697,190541,1,1,SALIERE ancienne en etain.,3.0,92.9,False,positional,,,ETAINS
+BO0624_44697,190542,2,2,SALIERE en etain.Epoque Louis XVI.,4.0,95.8,False,positional,,,ETAINS
+BO0624_44697,190543,3,3,POIVRIERE en etain. Epoque Empire.,5.0,95.8,False,positional,,,ETAINS
+BO0624_44697,190544,4,4,MOUTARDIER en etain. Epoque Louis XIll.,6.0,96.3,False,positional,,,ETAINS
+BO0624_44697,190545,5,5,BEAUX MOUTARDIER ET POIVRIERE en etain. Decor de guirlandes et de medaillons. Epoque Louis xVI.,8.0,65.7,False,positional,,,ETAINS
+BO0624_44697,190546,6,6,ENCRIER en etain. Epoque Regence.,9.0,95.7,False,positional,,,ETAINS
+BO0624_44697,190547,7,7,"BEAU NECESSAIRE DE TABLE en etain, groupant un huilier a burettes anciennes en cristal, et une poivriere. Epoque Louis XIV.",10.0,98.0,False,positional,,,ETAINS
+BO0624_44697,190548,8,8,"BEAU HUILIER en etain, avec burettes anciennes. Epoque Louis XIV.",11.0,96.2,False,positional,,,ETAINS
+BO0624_44697,190549,9,9,BEAU HUILIER en etain. Avec burettes anciennes. Epoque Louis XVI.,12.0,88.5,False,positional,,,ETAINS
+BO0624_44697,190550,10,10,DEUX HUILIERS analogues au precedent. A diviser.,14.0,85.4,False,positional,,,ETAINS
+BO0624_44697,190551,11,11,GRANDE THEIERE ancienne en etain.,16.0,94.3,False,positional,,,ETAINS
+BO0624_44697,190552,12,12,BEAU POT ancien a couvercle en etain.,17.0,94.9,False,positional,,,ETAINS
+BO0624_44697,190553,13,13,BEAU POT analogue au precedent.,18.0,91.2,False,positional,,,ETAINS
+BO0624_44697,190554,14,14,BEAU POT analogue aux precedents.,19.0,91.7,False,positional,,,ETAINS
+BO0624_44697,190555,15,15,BEAU PLAT ancien en etain.Larges bords plats.,20.0,95.7,False,positional,,,ETAINS
+BO0624_44697,190556,16,16,BEAU PLAT ancien en etain.,21.0,92.9,False,positional,,,ETAINS
+BO0624_44697,190557,17,17,BEAU PLAT analogue au precedent.,22.0,94.1,False,positional,,,ETAINS
+BO0624_44697,190558,18,18,BEAU PLAT creux en etain. Date 1790.,23.0,94.7,False,positional,,,ETAINS
+BO0624_44697,190559,19,19,BEAU PLAT ancien en etain. Marli creux.,24.0,95.1,False,positional,,,ETAINS
+BO0624_44697,190560,20,20,BEAU PLAT a ombilic en etain. Marli poinconne. Epoque LouisXIll.,25.0,97.0,False,positional,,,ETAINS
+BO0624_44697,190561,21,21,PAIRE DE CHANDELIERS a cotes torses et munis de bobeches en etain.Epoque Louis Xv. H.0.28,26.0,97.8,False,positional,,,ETAINS
+BO0624_44697,190562,22,22,LAMPE a huile (Crasset) en etain.,27.0,91.7,False,positional,,,ETAINS
+BO0624_44697,190563,23,23,VERRE octogonal en cristal.,30.0,93.1,False,title_direct,,,VERRES
+BO0624_44697,190564,24,24,PAIRE DE VERRES en cristal. Torsades au pied.,31.0,95.7,False,title_direct,,,VERRES
+BO0624_44697,190565,25,25,DOUBLE FLACON sur pied en verre ancien.,32.0,95.1,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190566,26,26,DEUX GRANDES CARAFES en cristal taille. Epoque Louis- Philippe.,33.0,88.3,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190567,27,27,VERRE A COUVERCLE en cristal taille et grave.,38.0,95.7,False,title_direct,,,VERRES
+BO0624_44697,190568,28,28,PAIRE DE MOUTARDIERS en cristal taille. Epoque Louis-Philippe.,39.0,96.9,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190569,29,29,BEAU VERRE ancien a decor grave. Torsade blanche au pied.,40.0,96.6,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190570,30,30,"VERRE en cristal taille et grave (initiales), provenant du service du roi Louis-Philippe au chateau d'Amboise.",41.0,98.2,False,title_direct,,,VERRES
+BO0624_44697,190571,31,31,DEUX VERRES anciens. Torsades blanches au pied.,42.0,95.9,False,title_direct,,,VERRES
+BO0624_44697,190572,32,32,TROIS VERRES anciens en cristal. Differents decors dores.,43.0,96.6,False,title_direct,,,VERRES
+BO0624_44697,190573,33,33,"SIx VERRES anciens de forme allongee et a bords évases, en cristal taille.",44.0,85.3,False,title_direct,,,VERRES
+BO0624_44697,190574,34,34,"DIX VERRES a champagne, a pied carre en cristal taille.",46.0,96.5,False,title_direct,,,VERRES
+BO0624_44697,190575,35,35,"ONZE VERRES a champagne, en cristal taille et grave. Decor de guirlandes de ceps de vigne.",47.0,97.8,False,title_direct,,,VERRES
+BO0624_44697,190576,36,36,GRAND HANAP en verre grave. Pied decoupe. Decor d’armoiries.,48.0,96.8,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190577,37,37,BOITE A THE en cristal. Decor grave de medaillons et d'ornements.,49.0,97.0,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190578,38,38,PETIT PLATEAU creux en cristal taille. Bords dores.XVIlle siecle.,50.0,97.0,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190579,39,39,"PETIT PLATEAU creux en cristal taille. Au centre, medaillon dore sur fond rouge. xvllle siecle.",51.0,97.9,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190580,40,40,PAIRE DE SUCRIERS a couvercle et a deux anses en cristal taille. XVllle siecle.,52.0,97.5,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190581,41,41,PAIRE DE PETITS SUCRIERS a couvercle en cristal taille. Epoque Louis-Philippe.,53.0,97.5,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190582,42,42,SUCRIER a couvercle en cristal. Epoque Louis-Philippe.,54.0,96.4,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190583,43,43,PETIT COMPOTIERa couvercle en cristal taille. Epoque Louis XIV.,55.0,96.9,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190584,44,44,PETIT PANIER contenant quatre verres anciens en cristal taille. Bordures d'or.,56.0,97.5,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190585,45,45,"PAIRE DE TRES BELLES BOUTEILLES liegeoises anciennes, en verre grave.",60.0,97.2,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190586,46,46,"BELLE ET GRANDE BOUTEILLE a cinq compartiments et cinq bouchons, en cristal taille. Epoque Empire.",61.0,98.0,False,positional,,,VERRES; CRISTAUX
+BO0624_44697,190587,47,47,PETIT POT a pied en faience ancienne. Decor bleu de cartouche avec inscription.,102.0,86.1,False,positional,,,POTS DE PHARMACIE
+BO0624_44697,190588,48,48,DEUX POTS de pharmacie en faience ancienne (Delft?). Decor bleu de cartouche avec inscription.,108.0,66.0,False,positional,,,POTS DE PHARMACIE
+BO0624_44697,190589,49,49,"GRAND POT de pharmacie,de forme cylindrique,en faience ancienne de Delft. Decor bleu de cartouche, surmonte d'oiseaux et portant l'inscription 《 Corenten 》",129.0,66.7,False,positional,,,POTS DE PHARMACIE
+BO0624_44697,190590,50,50,"GRAND POT de pharmacie, de forme cylindrique, en faience ancienne. Cartouche de style Berain avec inscription. H.0.315 Restaure.",,50.3,True,none,,,
+BO0624_44697,190591,51,51,"BEAU FILTRE de pharmacien en faience ancienne de Saint-Amand. Decor de scenes maritimes et de fleurs, sur un fond 《bianco LL.NO1",163.0,68.6,False,positional,,,FAIENCES
+BO0624_44697,190592,52,52,"TROIS POTS de pharmacie en faience ancienne. Decor bleu] de cartouches et de guirlandes, Louis XVI.",,56.7,True,none,,,
+BO0624_44697,190593,53,53,UN POT de pharmacie en faience ancienne. Decor bleu de cartouche avec inscription.,943.0,62.0,False,positional,,,PIECES DE FORME; POTICHES
+BO0624_44697,190594,54,54,PAIRE DE PETITS POTS de pharmacie en faience ancienne. Decor manganese et bleu de cartouches et d'inscriptions.,,58.3,True,none,,,
+BO0624_44697,190595,55,55,"POT de pharmacie en ancienne faience italienne. Decor bleu de fausses cannelures, d'ornements a la Berain et d'inscriptions. LL.NO2",,57.0,True,none,,,
+BO0624_44697,190596,56,56,POT de pharmacie en ancienne faience italienne. Decor bleu de banderole et de semis sur fond bleuatre.,,58.5,True,none,,,
+BO0624_44697,190597,57,57,PAIRE DE POTS de pharmacie en faience ancienne. Decor bleu de cartouches surmontes d'oiseaux et d'inscriptions.,1013.0,68.3,False,positional,,,PIECES DE FORME; POTICHES
+BO0624_44697,190598,58,58,POT a pharmacie en faience italienne. Decor de banderole sur fond marbre.,,51.3,True,none,,,
+BO0624_44697,190599,59,59,PoT a pharmacie en faience ancienne. Decor bleu de cartouche surmonte de poissons et d'inscription.,,55.6,True,none,,,
+BO0624_44697,190600,60,60,SALIERE RONDE EN FAIENCE de Saint-Amand. Decor poly- chrome de fleurs.,,43.6,True,title_direct,,,FAIENCES
+BO0624_44697,190601,61,61,ASSIETTE EN FAIENCE de Saint-Amand. Decor polychrome de branches de lilas sur un fond &lt; bianco sopra bianco &gt;.,,48.8,True,title_direct,,,ASSIETTES
+BO0624_44697,190602,62,62,ASSIETTE EN FAIENCE de Saint-Amand. Décor polychrome de fleurs et de fleurettes sur un fond &lt; bianco sopra bianco 》. D.0.225,,49.5,True,title_direct,,,ASSIETTES
+BO0624_44697,190603,63,63,QUATRE ASSIETTES EN FAIENCE de Saint-Amand. Decor polychrome de fleurs sur un fond 《 bianco sopra bianco 》. D.0.23,,50.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190604,64,64,BEURRIER a couvercle en faience de Saint-Amand. Decor de fleurs en camaieu vert.,,57.1,True,none,,,
+BO0624_44697,190605,65,65,BUIRE en faience de Saint-Amand. Decor bleu de fleurs sur un fond《bianco sopra bianco 》.,1151.0,60.4,False,positional,,DELFT,CHEVAUX
+BO0624_44697,190606,66,66,PAIRE D'ASSIETTES en faience de Saint-Amand. Decor bleu de fleurs sur un fond 《 bianco sopra bianco 》. D.0.23,,50.5,True,title_direct,,,ASSIETTES
+BO0624_44697,190607,67,67,SALADIER en faience de Saint-Amand. Decor polychrome de branches de lilas sur un fond 《bianco sopra bianco 》. Fele. D.0.245,,53.4,True,none,,,
+BO0624_44697,190608,68,68,SALADIER en faience de Saint-Amand. Decor bleu de bouquets de fleurs sur un fond 《bianco sopra bianco 》.,,56.3,True,none,,,
+BO0624_44697,190609,69,69,CACHE-POT cylindrique a oreilles en faience de Saint-Amand. Decor bleu de guirlandes et de fleurs 《bianco sopra bianco 》.,,53.6,True,none,,,
+BO0624_44697,190610,70,70,MOUTARDIER representant un personnage assis sur une cuve. Faience francaise polychrome.,,43.9,True,none,,,
+BO0624_44697,190611,71,71,CANNETTE en faience francaise. Decor polychrome de fleurs et de panneaux d'ornements. Monture en etain.,,51.4,True,none,,,
+BO0624_44697,190612,72,72,"PLAT en faience de Lille. Decor polychrome, au centre d'un arbre fleuri et au marli de cinq compartiments sur fond quadrillonne. LL.NO3",,57.3,True,title_direct,,,PLATS
+BO0624_44697,190613,73,73,"GOURDE a double panse en faience francaise.Decor polychrome d'une scene de chasse et de fleurs. Marque:Artois, 1746. Pour ce numero et les quatre suivants, voir illustration n 3.",,53.0,True,none,,,
+BO0624_44697,190614,74,74,ASSIETTE en faience de Tournai ou de Saint-Amand. Decor polychrome de fleurs sur un fond 《 bianco sopra bianco 》。 Marli festonne.,,51.0,True,title_direct,,,ASSIETTES
+BO0624_44697,190615,75,75,BEAU BASSIN AVEC AIGUIERE en faience de Saint-Amand. Decor de fleurs sur un fond 《 bianco sopra bianco 》. Cheveux au bassin et a la base de l'aiguiere.,,52.5,True,none,,,
+BO0624_44697,190616,76,76,ENCRIER en faience de Saint-Amand. Decor polychrome de fleurs sur un fond orne de branches 《 bianco sopra bianco 》.,,55.0,True,none,,,
+BO0624_44697,190617,77,77,CANNETTE en faience de Rouen. Decor polychrome de lambrequins fleuris. Monture en etain. LL.NO4,,56.9,True,none,,,
+BO0624_44697,190618,78,78,ASSIETTE en faience de Rouen. Decor polychrome au centre d'un carquois et au marli de lambrequins. Marque Gaudin.,,52.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190619,79,79,"PAIRE DE CHANDELIERS en faience de Strasbourg,a decor polychrome. lls representent des chats accroches a des arbres.",,50.5,True,none,,,
+BO0624_44697,190620,80,80,"PLAT en poterie ancienne, offrant un navire et des fleurs polychromes sur une epaisse couverte 《 bleu-nevers 》.",,49.3,True,title_direct,,,PLATS
+BO0624_44697,190621,81,81,PLAT en faience de Rouen.Decor en plein et polychrome d'oiseaux perches et d'une corne d'abondance. Marque H. C. D.0.30,,50.0,True,title_direct,,,PLATS
+BO0624_44697,190622,82,82,"PLAT en faience de Lille. Decor polychrome au centre d'oiseau perche sur un arbre fleuri, et au marli de trois branches.",1186.0,62.6,False,title_direct,,,PLATS
+BO0624_44697,190623,83,83,"GRAND PLAT en faience de Lille. Decor polychrome, au centre de plantes et de fleurs, et au marli de lambrequins et de fleurs.",,54.6,True,none,,,
+BO0624_44697,190624,84,84,"PLAT en faience du nord de la France. Decor polychrome, au centre d'un arbre fleuri, et au marli de trois branches et de trois reserves quadrillees.",1226.0,60.1,False,title_direct,,,PLATS
+BO0624_44697,190625,85,85,"GRAND PLAT en faience francaise. Decor a limitation de la faience de Delft, au centre d'un bouquet, et au marli de bouquets et de lambrequins.",,57.6,True,none,,,
+BO0624_44697,190626,86,86,CACHE-POT a deux anses en faience francaise Decor polychrome de scenes chinoises sur fond cotele. H.0.18.D.0.22 Restaure.,,48.9,True,none,,,
+BO0624_44697,190627,87,87,"PAIRE D'ASSIETTES en faience des Flandres. Decor bleu d'une inscription 《 Jacobus Genbruggen, anno 1792》, et au marli de trois fleurs.",,47.4,True,title_direct,,,ASSIETTES
+BO0624_44697,190628,88,88,PLAT en faience italienne. Decor bleu et en plein d'un paysage anime. Marque a la potence.,,48.6,True,title_direct,,,PLATS
+BO0624_44697,190629,89,89,BEAU HUILIER avec burettes en faience de Strasbourg. DEcor bleu de rocailles et de ceps de vigne,,50.6,True,none,,,
+BO0624_44697,190630,90,90,BEAU HUILIER avec burettes en faience de Strasbourg. Decor polychrome de rocailles et de ceps de vigne.,,51.6,True,none,,,
+BO0624_44697,190631,91,91,GRAND PLAT de mariage en poterie vernissee.Decor jaune de coeurs et de guirlandes sur fond brun. BEAU HUILIER avec burettes en faience de Strasbourg. Decor bleu de rocailles et de ceps de vigne.,,53.4,True,none,,,
+BO0624_44697,190632,92,92,"PETITE ASSIETTE en faience de Delft. Decor manganese d'arbre fleuri. Au marli, guirlandes.",,42.0,True,title_direct,,,ASSIETTES
+BO0624_44697,190633,93,93,"PAIRE D'ASSIETTES en faience de Delft.Decor bleu et dans le gouit chinois de bouquets. En bordure, bandeau a reserves. Atelier d'Albrecht de Keizer.",,50.5,True,title_direct,,,ASSIETTES
+BO0624_44697,190634,94,94,"PLAT en faience de Delft. Decor bleu, au centre d'un lambrequin fleuri. Au marli, bandeau blanc sur bleu.",,51.2,True,title_direct,,,PLATS
+BO0624_44697,190635,95,95,PLAT en faience de Delft. Decor bleu dit 《a la queue de paon 》. Marque a la griffe.,,45.8,True,title_direct,,,PLATS
+BO0624_44697,190636,96,96,PLAT analogue au precedent. Marque de Paulus Van der Brach. LL.NO8,,37.3,True,title_direct,,,PLATS
+BO0624_44697,190637,97,97,"PETITE ASSIETTE en faience de Delft. Decor polychrome, au centre d''un personnage sur une terrasse et au bord de quatre branches.",,58.2,True,title_direct,,,ASSIETTES
+BO0624_44697,190638,98,98,"PETIT PLAT en faience de Delft. Decor bleu dans le gout de la faience de Rhodes, offrant des fleurs stylisees.",,51.0,True,none,,,
+BO0624_44697,190639,99,99,PETIT PLAT en faience de Delft. Decor bleu de fleurs stylisees dans des compartiments. Bord jaune.,,52.6,True,none,,,
+BO0624_44697,190640,100,100,"PAIRE D'ASSIETTES, dites pannekoek, en faience de Delft. Decor bleu au centre d'un medaillon entoure de compartiments fleuris disposes sur deux rangs. Marque de Cornelis de Berg-",,50.1,True,title_direct,,,ASSIETTES
+BO0624_44697,190641,101,101,"PLAT en faience de Delft. Decor bleu, au centre d'une scene animee dans le gout chinois, et au marli de scenes animees et d'ornements. LL.N9",,56.0,True,title_direct,,,PLATS
+BO0624_44697,190642,102,102,"PETIT PLAT en faience de Delft. Decor bleu,au centre d'un arbre a the,et sur le marli festonne,de lambrequins. Marqué a la hache.",,51.8,True,none,,,
+BO0624_44697,190643,103,103,"PLAT en faience de Delft. Decor bleu, au centre d'un symbole biblique, et au marli de bustes dans des reserves disposees sur un bandeau d'ornements.",,56.5,True,title_direct,,,PLATS
+BO0624_44697,190644,104,104,"ASSIETTE en faience de Delft. Decor bleu, au centre d'une entree de port, et au marli, de fleurs.",,53.6,True,title_direct,,,ASSIETTES
+BO0624_44697,190645,105,105,"PLAT en faience de Delft. Decor bleu,au centre d'ornements et de fleurs, et au marli d'un bandeau de compartiments fleuris. D.0.36",,58.0,True,title_direct,,,PLATS
+BO0624_44697,190646,106,106,"PETIT PLAT creux a bords godronnes en faience de Delft. Decor polychrome de corbeille fleurie et, en bordure, de medaillons.",,53.4,True,none,,,
+BO0624_44697,190647,107,107,PAIRE DE BEAUX PLATS dits pannekoek en faience de Delft. Decor bleu et en plein de paysages animes dans le genre de Teniers.,,54.2,True,title_direct,,,PLATS
+BO0624_44697,190648,108,108,BEAU PLAT dit pannekoek en faience de Delft. Decor bleu et en plein d’une scene galante dans le genre de Teniers.,,54.1,True,none,,,
+BO0624_44697,190649,109,109,PAIRE DE PLATS en faience de Delft. Decor polychrome au centre d'une rosace entouree d'un semis de fleurs. D.0.305 Recolles.,,54.2,True,title_direct,,,PLATS
+BO0624_44697,190650,110,110,"PLAT en faience de Delft. Decor bleu, d'un vase fleuri entoure de sept compartiments fleuris disposes en etoile. LL.NO11",,50.5,True,title_direct,,,PLATS
+BO0624_44697,190651,111,111,"BEAU VASE A FLEURS a treize orifices en faience de Delft. Decor bleu de paysages, d'anges, etc.",,51.6,True,none,,,
+BO0624_44697,190652,112,112,"PAIRE DE BEAUX PLATS en faience de Delft. Decor bleu,au centre de paysages dans le gouit japonais, et au marli de cinq reserves fleuries sur fond bleu. Bords jaunes. Marque a la griffe.",,52.7,True,title_direct,,,PLATS
+BO0624_44697,190653,113,113,BEAU PLAT en faience de Delft. Decor bleu de six compartiments fleuris disposes en etoile autour d'une rosace fleurie. Marque a la griffe.,,52.2,True,none,,,
+BO0624_44697,190654,114,114,BEAU PLAT analogue au precedent. LL.NO12,,32.6,True,none,,,
+BO0624_44697,190655,115,115,"BELLE TIRELIRE en faience de Delft. Decor bleu de petits personnages dans le goit chinois (zotjes). Au sommet, enfant assis tenant une piece de monnaie. Piece de commande portant le nom de 《 Magdeleenna Waalryck 》et la date 1768.",,52.4,True,none,,,
+BO0624_44697,190656,116,116,"PAIRE DE TRES BEAUX PLATS en faience de Delft. Decor bleu, au centre d'une scene animee dans le gout chinois,et au marli de cinq groupes de fleurs, alternant avec des fruits. Marque 《De Pauw 》.",,51.4,True,title_direct,,,PLATS
+BO0624_44697,190657,117,117,PLAT en faience de Delft. Decor bleu de huit compartiments disposes en etoile autour d'une rosace centrale. LL.NO13,,52.2,True,title_direct,,,PLATS
+BO0624_44697,190658,118,118,"BEAU PLAT en faience de Delft. Decor bleu a I'imitation de la porcelaine de Chine, au centre d'un paysage anime et au marli de neuf compartiments godronnes, offrant les uns des fleurs et les autres des personnages.",,51.8,True,none,,,
+BO0624_44697,190659,119,119,BEAU PLAT analogue au precedent.,,33.3,True,none,,,
+BO0624_44697,190660,120,120,"PLAT en faience de Delft. Decor bleu,au centre d'un canard dans un paysage, et au marli de six compartiments de fruits. D.0.295 Ebreche. LL.NO14",,55.6,True,title_direct,,,PLATS
+BO0624_44697,190661,121,121,PAIRE DE BEAUX PETITS PLATS ovales en faience de Delft. Decor bleu de canards dans des paysages. Marli ajoure.,,52.5,True,title_direct,,,PLATS
+BO0624_44697,190662,122,122,"PLAT en faience de Delft. Decor bleu, au centre d’une rosace d'ornements blancs sur fond bleu.",,54.3,True,title_direct,,,PLATS
+BO0624_44697,190663,123,123,"PLAT en faience de Delft. Decor polychrome de branche fleurie et d'insectes. Au marli, six reserves d'accessoires sur un fond quadrille.",,51.2,True,title_direct,,,PLATS
+BO0624_44697,190664,124,124,"PLAT en faience de Delft. Decor polychrome et en plein d'un bouquet de fleurs. Au marli, petit bandeau continu. LL.NO15",,50.7,True,title_direct,,,PLATS
+BO0624_44697,190665,125,125,"SALADIER en faience de Delft. Decor bleu, au centre d'un paon dans un paysage, et au bord d'un bandeau continu de fleurs et de coquilles. Marque a la hache.",,58.3,True,none,,,
+BO0624_44697,190666,126,126,BELLE FRAISIERE en faience de Delft. Decor bleu de scenes animees dans le gout chinois. Bords decoupes. Marque de Justus Brouwer.,,53.2,True,none,,,
+BO0624_44697,190667,127,127,"SALADIER en faience de Delft. Decor bleu de musiciens dans un paysage, et au bord d'un bandeau fleuri. Marque de Gerrit Brouwer.",,55.5,True,none,,,
+BO0624_44697,190668,128,128,"ASSIETTE en faience de Delft. Decor polychrome au centre d'un vase fleuri,et au marli de cinq reserves sur un bandeau d'ornements.",,53.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190669,129,129,PLAT A TARTE sur pied en faience de Delft. Decor bleu et en plein d'un paysage anime traite dans le gouit chinois.,1234.0,61.4,False,title_direct,,,PLATS
+BO0624_44697,190670,130,130,POT AU LAIT en faience de Delft. Decor bleu et en plein de scenes animees. H.0.17 Legere restauration au col. Leger coup de feu a la base.,,50.2,True,none,,,
+BO0624_44697,190671,131,131,"PLAT A TARTE sur pied en faience de Delft. Decor bleu de compartiments fleuris, disposes sur un double rang. Au revers, fleurs. Marque de Cornelis de Bergh.",,51.1,True,title_direct,,,PLATS
+BO0624_44697,190672,132,132,"PETITE ASSIETTE en faience de Delft. Decor polychrome au centre d'une rosace et de rayons, et au marli de guirlandes. LL.NO17",,53.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190673,133,133,ASSIETTE dite pannekoek en faience de Delft. Decor polychrome au centre d'un vase fleuri et au marli de cinq reserves d'accessoires sur une guirlande fleurie.,,50.2,True,title_direct,,,ASSIETTES
+BO0624_44697,190674,134,134,"ASSIETTE en faience de Delft. Decor polychrome, d'un medaillon entoure d'un large bandeau de marbrures.",,46.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190675,135,135,"QUATRE ASSIETTES en faience de Delft. Decor bleu au centre de fleurs en semis, et au marli de reserves sur fond bleu.",,51.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190676,136,136,"ASSIETTE dite pannekoek en faience de Delft. Decor polychrome d'un pavillon et d'oiseaux. Au marli,ornements. LL.NO18",,43.4,True,title_direct,,,ASSIETTES
+BO0624_44697,190677,137,137,"QUATRE PETITES ASSIETTES en faience de Delft. Decor bleu sur blanc, d'un panier fleuri entoure de quatre reserves fleuries sur fond bleu. Bords festonnes et godronnes.",,50.0,True,title_direct,,,ASSIETTES
+BO0624_44697,190678,138,138,PETITE ASSIETTE en faience de Delft. Decor polychrome au centre d'un vase fleuri et au marli d'un bandeau d'orne- ments.,,53.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190679,139,139,"PAIRE D'ASSIETTES en faience de Delft, analogues a celles cataloguees sous le n° 137 mais plus grandes.",,45.6,True,title_direct,,,ASSIETTES
+BO0624_44697,190680,140,140,"PETIT PLAT ovale a bords coteles en faience de Delft. Decor bleu d'un vase fleuri, d'oiseaux et de lambrequins fleuris.",,55.6,True,none,,,
+BO0624_44697,190681,141,141,"PAIRES DE PETITES ASSIETTES en faience de Delft.Decor polychrome, au centre d'un arbre fleuri, et au marli d'un bandeau d'ornements.",,53.8,True,title_direct,,,ASSIETTES
+BO0624_44697,190682,142,142,"TROIS ASSIETTES en faience deDelft. Decor polychrome,au centre d'un vase fleuri de style Louis xVI, et au marli d'une bordure de fleurs.",,51.8,True,title_direct,,,ASSIETTES
+BO0624_44697,190683,143,143,"PAIRE D'ASSIETTES dites pannekoek, en faience de Delft. Decor polychrome,au centre d'un chat, d'oiseaux et de lambrequins, et en bordure de reserves d'accessoires sur fond bleu.",,54.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190684,144,144,ASSIETTE en faience de Delft. Decor polychrome au centre d'un paysage et au marli de quatre reserves d'ornements et de fleurs vertes.,,56.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190685,145,145,"PETIT PLAT en faience de Delft. Decor polychrome, au centre d'un paysage dans le gout japonais et au marli de trois LL.NO20",,56.2,True,none,,,
+BO0624_44697,190686,146,146,"PAIRE DE BELLES ASSIETTES en faience de Delft. Decor polychrome, au centre d'une branche fleurie dans le gout de la porcelaine de Chine,et au marli de quatre branches ana- logues. Bordure jaune.",,52.3,True,title_direct,,,ASSIETTES
+BO0624_44697,190687,147,147,QUATRE ASSIETTES en faience de Delft. Decor polychrome et en plein d'un paysage fluvial.,,46.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190688,148,148,"TROIS BELLES ASSIETTES dites pannekoek, en faience de Delft. Decor polychrome au centre de volatiles dans un paysage traite dans le gout japonais. Au marli,alternance - de compartiments fleuris et d'accessoires.",,51.6,True,title_direct,,,ASSIETTES
+BO0624_44697,190689,149,149,PAIRE D'ASSIETTES en faience de Delft. Decor bleu et vert LL.NO21,,34.2,True,title_direct,,,ASSIETTES
+BO0624_44697,190690,150,150,"PAIRE DE BELLES ASSIETTES en faience de Delft. Decor polychrome, au centre d'un medaillon aux trois fleurs, et autour de quatre medaillons et quatre compartiments fleuris. Marque《De Pauw》.",,52.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190691,151,151,"PAIRE D'ASSIETTES en faience de Delft. Decor polychrome,au centre d'un grand medaillon fleuri,et au marli d'un bandeau d'ornements sur fond jaune.",,47.6,True,title_direct,,,ASSIETTES
+BO0624_44697,190692,152,152,"PAIRE DE TRES BELLES ASSIETTES,dites pannekoek, en faience de Delft. Decor polychrome d'une rosace centrale et d'un semis de fleurs et de feuilles.",,51.9,True,title_direct,,,ASSIETTES
+BO0624_44697,190693,153,153,"PAIRE DE BELLES ASSIETTES,dites pannekoek, en faience LL.NO22",,26.1,True,title_direct,,,ASSIETTES
+BO0624_44697,190694,154,154,PLAT en faience de Delft. Decor polychrome de huit compartiments fleuris écarteles autour d'une rosace. Marque de,,48.9,True,title_direct,,,PLATS
+BO0624_44697,190695,155,155,PAIRE DE BEAUX PLATS en faience de Delft. Decor bleu :au centre d'un vase entoure de huit compartiments fleuris.,,49.8,True,title_direct,,,PLATS
+BO0624_44697,190696,156,156,"PAIRE DE BEAUX PLATS en faience de Delft. Decor polychrome d'oiseau perche sur un arbre fleuri. Au marli, bandeau de fleurs.",,49.8,True,title_direct,,,PLATS
+BO0624_44697,190697,157,157,"BEAU PLAT en faience de Delft. Decor bleu :au centre d'une scene animee dans le goit chinois, et au marli de compartiments offrant des personnages et des ornements.",,52.9,True,none,,,
+BO0624_44697,190698,158,158,"GRAND PLAT en faience de Delft. Decor bleu : au centre d'un vase fleuri sur semis, et au marli d'un bandeau continu.",,54.0,True,none,,,
+BO0624_44697,190699,159,159,PAIRE DE BEAUX PLATS en faience de Delft. Decor bleu et en plein d'une scene animee dans le gout de Teniers.,,49.8,True,title_direct,,,PLATS
+BO0624_44697,190700,160,160,"PETITE ASSIETTE en faience de Delft. Decor polychrome,au centre de six compartiments ecarteles autour d'une rosace,et au marli d'un bandeau continu.",,50.5,True,title_direct,,,ASSIETTES
+BO0624_44697,190701,161,161,"PAIRE DE BEAUX PLATS en faience de Delft. Decor polychrome, au centre d'un bouquet, et au marli de quatre bouquets dans des reserves sur un fond bleu rubanne. LL.NO23",,55.5,True,title_direct,,,PLATS
+BO0624_44697,190702,162,162,"PLAT en faience francaise ou en faience de Delft. Decor polychrome d'un personnage chinois dans un paysage (jeu de quilles). Au marli, trois branches. Pour ce numero et les trois suivants, voir illustration n 23. D.0.29",,51.5,True,title_direct,,,PLATS
+BO0624_44697,190703,163,163,GRAND ET BEAU PLAT en faience de Delft. Decor polychrome d'un semis de fleurs. D.0.34,,41.7,True,none,,,
+BO0624_44697,190704,164,164,"GRAND ET BEAU PLAT en faience de Delft. Decor polychrome d'un cerf dans un paysage. Au marli, fleurs et D.0.35 ornements.",,50.3,True,none,,,
+BO0624_44697,190705,165,165,"PAIRE DE PLATS en faience de Delft. Decor polychrome de petites branches autour d'une rosace. Au marli, fleurs en semis D.0.30",,52.2,True,title_direct,,,PLATS
+BO0624_44697,190706,166,166,PAIRE DE PLATS en faience de Delft. Decor polychrome au centre de sept fleurs et au marli de compartiments sur fond quadrille.,,55.6,True,title_direct,,,PLATS
+BO0624_44697,190707,167,167,PAIRE DE BELLES ASSIETTES en faience de Delft. Decor polychrome dit au tonnerre. Marque 《De Pauw 》. D.0.225,,38.4,True,title_direct,,,ASSIETTES
+BO0624_44697,190708,168,168,"PAIRE DE BELLES ASSIETTES,dites pannekoek,en faience de Delft. Decor polychrome dit aux quatre coeurs, sur fond vert. A l'une, marque de Willem Kool.",,44.7,True,title_direct,,,ASSIETTES
+BO0624_44697,190709,169,169,"PAIRE DE BELLES ASSIETTES,dites pannekoek,en faience de Delft. Decor polychrome d'un panier fleuri, entoure de cinq reserves fleuries sur fond bleu. Marque de Theunis Dextra.",,48.4,True,title_direct,,,ASSIETTES
+BO0624_44697,190710,170,170,"PAIRE DE BELLES ASSIETTES en faience de Delft, Decor polychrome, au centre d'une rosace et au bord de huit compartiments alternes,les uns sur fond blanc et les autres sur fond bleu.",,49.1,True,title_direct,,,ASSIETTES
+BO0624_44697,190711,171,171,"PLAT en faience de Delft. Decor analogue a celui des assiettes du numero precedent, mais hormis que le bord porte dix compartiments.",,49.8,True,title_direct,,,PLATS
+BO0624_44697,190712,172,172,"PETITE ASSIETTE en faience de Delft. Decor polychrome de paysage a la barriere et d'oiseau. Au marli, lambrequins.",,55.1,True,title_direct,,,ASSIETTES
+BO0624_44697,190713,173,173,GRAND PLAT en faience de Delft. Decor polychrome au centre de roses fleuries et au marli de cinq compartiments fleuris.,,52.8,True,none,,,
+BO0624_44697,190714,174,174,"TRES BELLE POTICHE-BALUSTRE a couvercle en faience de Delft. Decor polychrome et dore de personnages dans le goit chinois. Marque a la feuille de chou. H.0.275 Pour ce numero et les quatre suivants, voir illustration n 25.",,54.2,True,title_direct,,,POTICHES
+BO0624_44697,190715,175,175,"PETIT GROUPE en faience de Delft, representant un enfant dans son berceau. Polychromie a froid.",,50.8,True,none,,,
+BO0624_44697,190716,176,176,"BEAU PLAT creux ovale a bords godronnes en faience de Delft. Decor polychrome et dore: au centre d'un arbre fleuri avec oiseau, et au marli de lambrequins, de paons et d'arabesques. Au revers, fleurs. Marque de Aug. Reygens. L. o.26. L. 0.22 Legere reparation au marli.",,46.6,True,none,,,
+BO0624_44697,190717,177,177,TRES BEAU BEURRIER a couvercle et sur plateau en faience de Delft. Decor polychrome et dore de fleurs et de lambrequins.,,54.7,True,none,,,
+BO0624_44697,190718,178,178,"TRES BEAU HUILIER avec burettes en faience de Delft. Decor polychrome et dore de lambrequins. La burette marquee A (Azyn) offre un paysage; celle marquee O (Olie), des lambrequins. Marque d'A. Pynacker. H.0.18 LL.NO26",,48.7,True,none,,,
+BO0624_44697,190719,179,179,TRES BELLE BROSSE en faience de Delft. Decor polychrome de personnages et de bandeau de fleurs.,,47.0,True,none,,,
+BO0624_44697,190720,180,180,PAIRE DE CORNETS en faience de Delft. Decor polychrome et dore de paysages avec oiseaux traites dans le gout chinois.,,51.7,True,none,,,
+BO0624_44697,190721,181,181,"TRES S BEAU PLAT A BARBE en faience de Delft. Decor polychrome et dore d'arbre fleuri traite a l'imitation de la porcelaine du Japon. Au marli, quatre reserves fleuries sur fond bleu.",,50.6,True,none,,,
+BO0624_44697,190722,182,182,BEAU HUILIER en faience de Delft. Decor polychrome doiseaux perches sur des arbres fleuris. Marque d'A. Pynacker.,,48.9,True,none,,,
+BO0624_44697,190723,183,183,BOL en faience de Delft. Decor bleu de dragon dans le gout chinois.,,39.8,True,none,,,
+BO0624_44697,190724,184,184,PAIRE DE BOLS en faience de Delft. Decor bleu de fleurs et d'oiseaux perches sur des branches fleuries.,,51.5,True,none,,,
+BO0624_44697,190725,185,185,POTICHE ovoide octogonale en faience de Delft. Decor bleu de fleurs et d'arbres fleuris dans le gout chinois.,,48.9,True,title_direct,,,POTICHES
+BO0624_44697,190726,186,186,PETITE POTICHE ovoide octogonale a couvercle en faience de Delft. Decor bleu de fleurs et de branches fleuries dans le,,58.5,True,title_direct,,,POTICHES
+BO0624_44697,190727,187,187,POTiCHE carree a col evase en faience de Delft. Decor bleu de scenes chinoises et de fleurs. Marque d'Albrecht Keyzer.,,48.8,True,none,,,
+BO0624_44697,190728,188,188,POTICHE ovoide hexagonale a couvercle en faience de Delft. Decor bleu d'un entrelac de fleurs sur fond cotele.,,55.2,True,title_direct,,,POTICHES
+BO0624_44697,190729,189,189,TRES BEAU SAUPOUDROIR en faience de Delit. Decor polychrome dit《 au tonnerre》. H.0.205,,35.3,True,none,,,
+BO0624_44697,190730,190,190,GRANDE CRUCHE en faience de Delft. Decor bleu et en plein d'une scene animee dans le gout chinois. H.0.34 Cheveux.,,47.3,True,none,,,
+BO0624_44697,190731,191,191,GRANDE ET BELLE BOUTEILLE en faience de Delft. Decor bleu de lambrequins fleuris et de branches. Marque de Van Eenhorn.,,49.3,True,none,,,
+BO0624_44697,190732,192,192,GRANDE CRUCHE en faience de Delft. Decor bleu et en plein d'une scene animee dans le gout chinois. H.0.32 Ebrechures.,,48.3,True,none,,,
+BO0624_44697,190733,193,193,CANNETTE a fond cotele'en faience de Delft. Monochromie blanche.Couvercle en étain.,,37.3,True,none,,,
+BO0624_44697,190734,194,194,TONNELET sur son support en faience de Delft. Decor de fleurs et d'inscriptions sur un fond brun. Robinet en bronze.,,49.1,True,none,,,
+BO0624_44697,190735,195,195,HUILIER avec burettes en faience de Delft. Decor bleu de fleurs en semis.,,43.0,True,none,,,
+BO0624_44697,190736,196,196,BENITIER en faience de Delft. Decor bleu du Christ entoure d'anges.,,42.0,True,none,,,
+BO0624_44697,190737,197,197,PETIT BENITIER en faience de Delft. Decor bleu d'anges entourant le monogramme du Christ.,,42.6,True,none,,,
+BO0624_44697,190738,198,198,PETIT BUSTE d'homme en faience de Delft. Decor polychrome. LL.NO29,,34.0,True,none,,,
+BO0624_44697,190739,199,199,"PETIT RECHAUD en faience de Delft. Decor bleu de fleurs. Pour ce numero et les six suivants,voir illustration n° 29.",,47.0,True,none,,,
+BO0624_44697,190740,200,200,TOUT PETIT CHAT couche en faience de Delft. Decor bleu.,,34.8,True,none,,,
+BO0624_44697,190741,201,201,PETIT MOUTARDIER octogonal a couvercle en faience de Delft. Decor bleu d'arbres fleuris.,,50.6,True,none,,,
+BO0624_44697,190742,202,202,GROUPE en faience de Delft representant la Vierge et l'Enfant. Decor polychrome.,,43.4,True,none,,,
+BO0624_44697,190743,203,203,SALIERE en forme de coeur en faience de Delft. Decor polychrome et dore de fleurs. Endommagee.,,45.6,True,none,,,
+BO0624_44697,190744,204,204,TOUT PETIT CHIEN assis en faience de Delft. Decor polychrome.,,33.9,True,none,,,
+BO0624_44697,190745,205,205,FRUIT en trompe-lceil en faience de Delft. Decor polychrome pour le fruit et bleu pour l'assiette. LL.NO30,,45.1,True,none,,,
+BO0624_44697,190746,206,206,PAIRE DE TOUTES PETITES POTICHES en faience de Delft. Decor bleu de paysages animes.,,43.5,True,title_direct,,,POTICHES
+BO0624_44697,190747,207,207,TOUTE PETITE CANNETTE en faience de Delft. Decor bleu de paysage.,,38.5,True,none,,,
+BO0624_44697,190748,208,208,"TOUTE PETITE GARNITURE a cinq pieces,— trois potichesbalustre et deux cornets —,en faience de Delft. Decor bleu de paysages.",1253.0,68.9,False,positional,,DELFT,CHEVAUX
+BO0624_44697,190749,209,209,TOUTE PETITE POTICHE en faience de Delft. Decor bleu d'animaux fantastiques.,,25.7,True,title_direct,,,POTICHES
+BO0624_44697,190750,210,210,PETIT OISEAU en faience de Delft. Decor bleu.,,30.3,True,none,,,
+BO0624_44697,190751,211,211,PIPE A OPIUM en faience de Delft. Decor bleu compartimente de fleurs et d'accessoires.,,25.2,True,none,,,
+BO0624_44697,190752,212,212,PETiTE STATUETTE en faience de Delft representant un chinois debout. Decor polychrome.,,25.2,True,none,,,
+BO0624_44697,190753,213,213,PAIRE DE PETITS CHIENS couches en faience de Delft. Decor polychrome.,,25.5,True,none,,,
+BO0624_44697,190754,214,214,"PAIRE DE PETITS PERSONNAGES couches, en faience de Delft, a l'imitation de la porcelaine de Chine.Decor polychrome.",,24.3,True,none,,,
+BO0624_44697,190755,215,215,"PAIRE DE LIONS heraldiques, en faience de Delft. Decor bleu.",,29.6,True,none,,,
+BO0624_44697,190756,216,216,PAIRE DE PETITS CHEVAUX couches en faience de Delft. Decor bleu et vert.,,28.6,True,title_direct,,,CHEVAUX
+BO0624_44697,190757,217,217,"PETITE TERRINE en faience de Delft,representant une grappe de raisins. Decor polychrome.",,26.4,True,none,,,
+BO0624_44697,190758,218,218,PORTE-MONTRE en faience ancienne. Decor bleu de paysage et de dauphins.,,26.1,True,none,,,
+BO0624_44697,190759,219,219,CYGNE en faience de Delft. Decor bleu.,,33.9,True,none,,,
+BO0624_44697,190760,220,220,POISSON en faience de Delft. Decor bleu.,,32.8,True,none,,,
+BO0624_44697,190761,221,221,BELLE GRENOUILLE en faience de Delft. Decor polychrome.,,28.9,True,none,,,
+BO0624_44697,190762,222,222,"PETIT GROUPE en faience de Delft, representant une femme jouant avec un enfant. Decor polychrome.",,26.2,True,none,,,
+BO0624_44697,190763,223,223,"BEAU PETIT GROUPE en faience de Delft, representant un enfant assis dans sa chaise jouant avec des fleurs. Inscription :《 Dag Tryn 》. Decor bleu et polychrome.",,20.8,True,none,,,
+BO0624_44697,190764,224,224,"STATUETTE en faience de Delft,representant une femme debout. Decor polychrome. H.0.10 Ecorchure a la main.",,25.9,True,none,,,
+BO0624_44697,190765,225,225,CRAPAUD en faience de Delft. Decor polychrome.,,32.8,True,none,,,
+BO0624_44697,190766,226,226,"CHIEN couche devant sa niche, groupe en faience de Delft. Decor polychrome au petit feu.",,24.8,True,none,,,
+BO0624_44697,190767,227,228,"BEAU BOL en faience de Delft a l'imitation de la porcelaine de Chine a decor dit 《 Capucin 》. Decor de fleurs bleues dans des reserves, sur fond brun.",,26.2,True,none,,,
+BO0624_44697,190768,228,229,GROUPE en faience de Delft representant la Vierge et lEnfant. Decor bleu.,,32.1,True,none,,,
+BO0624_44697,190769,229,230,PAIRE DE PETITES POTICHES a deux anses en faience de Delft dans le gout de la porcelaine de Chine. Decor bleu de fleurs et d'ornements.,,22.6,True,title_direct,,,POTICHES
+BO0624_44697,190770,230,227,PAIRE DE STATUETTES en faience de Delft. Decor polychrome.,,27.8,True,none,,,
+BO0624_44697,190771,231,231,"PAIRE DE SABOTS en faience de Delft. Decor bleu de fleurs, d'oiseaux et d'insectes.",,27.6,True,none,,,
+BO0624_44697,190772,232,232,TRES BELLE TERRINE en faience de Delft representant un canard. Decor polychrome.,,26.5,True,none,,,
+BO0624_44697,190773,233,233,"PICHET en faience de Delft, representant un homme muni d'une cornemuse et assis sur un tonneau. Decor polychrome.",,26.0,True,none,,,
+BO0624_44697,190774,234,234,"CHIEN couche devant sa niche, groupe en faience de Delft. Decor polychrome.",,25.9,True,none,,,
+BO0624_44697,190775,235,235,PAIRE DE PETITES VACHES en faience de Delft. Polychromie a froid. LL.NO36,,22.6,True,none,,,
+BO0624_44697,190776,236,236,"PAIRE DE PETITS BUSTES de femmes, sur piedouches, en faience de Delft. Decor polychrome.",,23.9,True,none,,,
+BO0624_44697,190777,237,237,PAIRE DE PETITES VACHES couchees en faience de Delft. Monochromie blanche.,,24.3,True,none,,,
+BO0624_44697,190778,238,238,PAIRE DE CHIENS assis en faience de Delft. Decor polychrome. H.0.12 Legeres ebrechures a la base.,,25.4,True,none,,,
+BO0624_44697,190779,239,239,CHIEN couche en faience de Delft. Decor polychrome. H.0.08,,32.9,True,none,,,
+BO0624_44697,190780,240,240,"PAIRE DE VACHES, traites lune par une femme et l'autre par un homme,en faience de Delft. Polychromie a froid. LL.NO37",,25.3,True,none,,,
+BO0624_44697,190781,241,241,PAIRE DE VACHES debout en faience de Delft. Decor bleu.,,34.2,True,none,,,
+BO0624_44697,190782,242,242,LION HERALDIQUE en faience de Delft. Polychromie a froid. LL.NO58,,25.6,True,none,,,
+BO0624_44697,190783,243,243,"GRANDE PLAQUE en faience de Delft,representant l'entretien de Boas et de Ruth. Decor bleu. LL.NO39",,24.4,True,none,,,
+BO0624_44697,190784,244,244,"PAIRE DE VACHES fleuries debout sur des tertres, en faience de Delft. Decor polychrome.",,26.7,True,none,,,
+BO0624_44697,190785,245,245,PAIRE DE CHEVAUX debout en faience de Delft. Monochromie blanche.,,27.9,True,title_direct,,,CHEVAUX
+BO0624_44697,190786,246,246,"PAIRE DE CHEVAUX en faience de Delft. Ils ont le pelage brun, portent des harnais manganese et sont debout sur des tertres verts et jaunes. LL.NO42 No247",,19.4,True,title_direct,,,CHEVAUX
+BO0624_44697,190787,247,247,"GRAND TULIPIER a vingt becs, en forme de pyramide, en faience de Delft. Decor bleu : d'amours dans des paysages et de fleurs. Marque d'A.Pynacker. LL.No43",,21.4,True,none,,,
+BO0624_44697,190788,248,248,TRES BEAU PICHET en faience de Delft representant une femme assise sur un tertre. Decor polychrome. LL.NO44,,22.9,True,none,,,
+BO0624_44697,190789,249,249,MOUTARDIER en faience de Delft. Decor bleu de fleurs sur un fond a cotes torses.Louis XV.,,27.9,True,none,,,
+BO0624_44697,190790,250,250,PAIRE DE MOUTARDIERS hexagonaux a couvercle en faience de Delft. Decor bleu de lambrequins et de fleurs.,,24.8,True,none,,,
+BO0624_44697,190791,251,251,"POTICHE octogonale a pans godronnes en faience de Delft. Decor bleu de paysages animes dans le gout chinois et de fleurs. Au couvercle, chien de Fo.",,22.1,True,title_direct,,,POTICHES
+BO0624_44697,190792,252,252,PETITE POTICHE-balustre hexagonale a couvercle en faience de Delft. Decor bleu de reserves et de semis de fleurs sur fond cotele. LL.NO45,,22.4,True,title_direct,,,POTICHES
+BO0624_44697,190793,253,253,"PAIRE DE TULIPIERS en faience de Delft, offrant un orifice central et huit becs plantés dans la panse. Decor bleu de volatiles dans un paysage.",,20.5,True,none,,,
+BO0624_44697,190794,254,254,PETITE GARNITURE a trois pieces 一 une potiche-balustre a couvercle et deux cornets - en faience de Delft. Decor polychrome de branches fleuries dans des medaillons ovales.,,23.5,True,none,,,
+BO0624_44697,190795,255,255,"PAIRE DE GRANDES BOUTEILLES en faience de Delft a 1'imitation de la porcelaine du Japon. Decor bleu d'une scene animee dans un paysage. A la base et au col, lambrequins. LL.NO46",,18.1,True,none,,,
+BO0624_44697,190796,256,256,"BELLE GARNITURE a cinq pieces,- trois potiches-balustre a",,33.3,True,none,,,
+BO0624_44697,190797,257,257,POTICHE pansue a long col en faience de Delft. Decor bleu de scenes animees et de lambrequins traites dans le gout chinois. H.0.27,,23.3,True,title_direct,,,POTICHES
+BO0624_44697,190798,258,258,"GRAND CORNET hexagonal a couvercle en faience de Delft. Decor bleu de personnages dans un paysage, traites dansle gout chinois.",,25.0,True,none,,,
+BO0624_44697,190799,259,259,GARNITURE a cinq pieces trois potiches a couvercle et deux cornets - en faience de Delft. Decor bleu d'un semis de branches fleuries sur un fond a larges cotes.,,22.8,True,none,,,
+BO0624_44697,190800,260,260,GARNITURE a cinq pieces trois potiches-balustre a couvercle et deux cornets en faience de Delft. Decor vert et bleu de berger assis dans un paysage.,,23.2,True,none,,,
+BO0624_44697,190801,261,261,PETITE GARNITURE a quatre pieces - deux potiches-balustre a couvercle et deux cornets s-en faience de Delft.Decor bleu d'un lapin dans un paysage et de lambrequins.,,23.4,True,none,,,

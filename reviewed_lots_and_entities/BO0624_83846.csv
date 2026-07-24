@@ -1,0 +1,19 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_83846,102742,1,1,"PAIRE DE VASES COUVERTS, forme Medicis, en ancien biscuit de Sevres, pate tendre, entierement decores en blanc sur fond bleu clair, de bas-reliefs a sujets mythologiques dans le gout de l'antique; la panse renflee est ornee de feuillages et de rinceaux; le piedouche, a moulures avec canaux, est enrichi d'ornements divers; les anses ajourees sont a double mascaron, et les couvercles a feuilles sont surmontes d'une pomme de pin. Socles en marbre blanc.",12.0,94.6,False,title_direct,,,COUVERTS
+BO0624_83846,102743,2,2,"COMMODE DU TEMPS DE LOUIS XV, ouvrant a trois tiroirs, en bois de placage.",31.0,67.7,False,positional,,,Objets d'Art
+BO0624_83846,102744,3,3,"TABLE A JEU DU TEMPS DE LUOIS XVI, de forme triangulaire, dite chapeau de cure, a quatre pieds, forme gaine, dont un mobile destine a supporter la moitie du dessus se rabattant a charniere.",,47.1,True,none,,,
+BO0624_83846,102745,4,4,"DEUX CONSOLES D'APPUI DU TEMPS DE LOUIS XVI, en bois sculpte dore, composees dans le gout de De Lafosse.",,42.9,True,none,,,
+BO0624_83846,102746,5,5,"COMMODE DU TEMPS DE LOUIS XVI, en bois de placage, ouvrant a trois tiroirs, avec partie saillante sur le devant",,47.0,True,none,,,
+BO0624_83846,102747,6,6,"AMEUBLEMENT DE SALON en ancienne tapisserie de la MANUFACTURE ROYALE DE BEAUVAIS, de l'epoque Louis XV, compose de neuf pieces : un canape et huit fauteuils.",39.0,94.3,False,title_direct,,,Tapisserie
+BO0624_83846,102748,7,7,"AMEUBLEMENT DE SALON en ancienne tapisserie d'AUBUSSON du temps de Louis XVI, compose de neuf pieces :un canape et huit fauteuils.",48.0,91.7,False,title_direct,,AUBUSSON,Tapisserie
+BO0624_83846,102749,8,8,"AMEUBLEMENT DE SALON LOUIS XVI, en ancienne tapisserie d'AuBussoN, compose d'un canape et six fauteuils a dossier-medaillon.",,50.5,True,title_direct,,,Tapisserie
+BO0624_83846,167686,9,9,"TAPISSERIE DE LA MANUFACTURE ROYALE DES GOBELINS, du temps de Louis XV, faisant partie de la tenture: L'HISTOIRE DE DON QUICHOTTE",68.0,74.5,False,title_direct,,,TAPISSERIE
+BO0624_83846,167691,10,10,Suite de quatre Tapisseries anciennes de la MANUFACTURE ROYALE D'AUBUSSON representant : LES PLAISIRS CHAMPETRES,97.0,86.7,False,title_direct,,AUBUSSON,Tapisserie
+BO0624_83846,167692,11,11,Tapisserie ancienne d'AUBUSSON a paysage anime de figures,118.0,96.6,False,title_direct,,AUBUSSON,Tapisserie
+BO0624_83846,167693,12,12,BEYEREN (ECOLE D'ABRAHAM VAN). NATURE MORTE,131.0,62.5,False,title_direct,BEYEREN,,
+BO0624_83846,167694,13,13,BEYEREN (ECOLE D'ABRAHAM VAN). NATURE MORTE,,37.8,True,title_direct,BEYEREN,,
+BO0624_83846,167696,14,14,"CUYP (ALBERT) Dordrecht, 1605-1691. Portraits des enfants du Stathouder, Prince d'Orange.",,57.8,True,title_direct,CUYP,,
+BO0624_83846,167697,15,15,DU POUCH (MAITRE DU PASTEILLISTE LA TOUR). Portrait de femme.,173.0,67.4,False,title_direct,DU POUCH,,
+BO0624_83846,167698,16,16,GRIMOU (JEAN-ALEXIS) 1680-1740. Portrait d'une jeune fille.,191.0,60.7,False,title_direct,GRIMOU,,
+BO0624_83846,167699,17,16,PANINI (ATTRIBUE A JEAN_BAPTISTE). Les Ruines d'un palais italien.,206.0,60.0,False,title_direct,PANINI,,
+BO0624_83846,167700,18,18,RUBENS (ATTRIBUE A PIERRE-PAUL). Portrait du cardinal Infant Don Ferninand d'Espagne.,217.0,74.3,False,title_direct,RUBENS,,

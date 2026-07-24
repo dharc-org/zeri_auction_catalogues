@@ -1,0 +1,736 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_50014,301668,1,1,"Banc de corridor a dos artistiquement sculpte a volutes, se rencontrant au milieu, accostant un vase. Les cotés lateraux sculptes et ajoures et reunis par une traverse artistiquement sculpté a decor de feuillage. Long. 2.18, haut. 1.17 M. Epoque Louis XIV.",3.0,99.2,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301669,2,2,"Banc de salon Louis XIV en noyer sculpte,a pieds et colonnes torses, les pieds reunis par des traverses torses. Le dossier a riche sculpture de volutes et d'arabesques ainsi que les accoudoirs. Le siege et le dos en velours rouge. Long. 1.55, haut. 1.37 M. Beau meuble.",4.0,99.3,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301670,3,3,"Banc de corridor en bois artistiquement sculpte,au milieu vase d'ou se repandent de volutes entoures de feurs et de palmes. Haut. 1.15, long. 2.17 M. Belle piece, conservation parfaite. Voir la reproduction.",5.0,99.0,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301671,4,4,"Table ovale en bois satiné a marqueterie,au milieu et a l'entour des médaillons en laque dans des cadres en bois de rose, aussi les quatre pieds sont encadrés de bois de rose. Bon meuble Louis XVI. Diam.1.05.—0.75 M.",6.0,99.1,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301672,5,5,"Vitrine en bois satiné a bandes en palissandre, en haut incruste de palissandre et de bois clair, entierement vitré, avec trois planchettes couvert de drap. Haut. 1.52, larg. 0.71,prof. 0.35M.",7.0,99.0,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301673,6,6,"Commode en acajou a trois tiroirs cintres et legerement contournes comme aussi les cotes lateraux, orne de superbes chutes et sabots en bronze cisele et doré. Les anneaux de tirage et entrées de serrure en bronze doré. Bon meuble Louis XV. Haut. 0.88, long. 1.48, prof. 0.60 M.",8.0,99.3,False,positional,,,MEUBLES ANTIQUES
+BO0624_50014,301674,7,7,"Commode Empire en acajou a trois tiroirs,avec des bandes incrustes en bois clair. Monture en cuivre. Haut. 0.84, long. 0.90, prof. 0.50 M.",11.0,98.6,False,positional,,,Meubles antiques
+BO0624_50014,301675,8,8,"Commode en acajou, avec trois tiroirs legerement cintrés, les anneaux de tirage et entrees de serrure en bronze cisele et dore.Les arretes laterales ornées de chutes en cuivre.",12.0,98.9,False,positional,,,Meubles antiques
+BO0624_50014,301676,9,9,"Buffet en acajou a trois tiroirs, l'abattant se reforme en ouvrant comme étagere.Les tiroirs et cotes lateraux cintres et ornes de riche monture en cuivre cisele, ajoure et dore, comme chutes, sabots, entrees de serrure et anneaux de tirage. Haut. 0.86, et ouvert 1.36, long. 1.22, prof. 0.57 M.",13.0,99.3,False,positional,,,Meubles antiques
+BO0624_50014,301677,10,10,"Petite table commode, en bois de rose incruste en damier, les quatre pieds et le devant légerement cintre avec deux tiroirs. Joli petit meuble Louis XVI. Haut. 0.77, long. 0.75, prof. 0.43 M.",17.0,98.7,False,positional,,,Meubles antiques
+BO0624_50014,301678,11,11,"Fauteuil de conseiller en noyer sculpte a grand dossier, sur le devant riche sculpture bien artistique,les accoudoirs a decor sculpte renaissance. Le dos et le siege en cuir entouré de grands boutons en laiton. Les dos surmontés de deux ornements en laiton en forme de globes.",19.0,87.6,False,positional,,,Meubles antiques
+BO0624_50014,301679,12,12,"Fauteuil en tout pareil. Ces deux fauteuils de conservation parfaite, sont d’une beaute excessive et de la premiere moitie du XVllme siecle. Haut. 1.53, larg. 0.66 M",22.0,91.5,False,positional,,,Meubles antiques
+BO0624_50014,301680,13,13,"Buffet en acajou sculpte a deux battants surmontes d'un tiroir, orné de cuivres. Epoque Louis XVI. Haut. 0.82, larg. 0.87, prof. 0.50 M.",26.0,98.2,False,positional,,,Meubles antiques
+BO0624_50014,301681,14,14,"Banc de corridor a sculpture fort artistique,medaillon au",27.0,95.8,False,positional,,,Meubles antiques
+BO0624_50014,301682,15,15,"Table en chene sculpte a rallonges, sur quatre pieds de forme boule réunis par des traverses, a l'entour frise sculpte et ornemente. Bon meuble du XVIIme siecle. Haut. O.80, long. 33 et avec les deux rallonges 2.49, larg. 0.83 M.",29.0,87.7,False,positional,,,Meubles antiques
+BO0624_50014,301683,16,16,"Presse a linge en chene sculpté, plaque de palissandre, sur quatre pieds tors, reunis par des traverses. Les deux colonnes - surmontees de vases, avec deux tiroirs et six planchettes. La base du pied en marqueterie a damier. XVIIme siecle. Haut. 2.05, larg. 0.78, prof. 0.59 M.",33.0,71.5,False,positional,,,Meubles antiques
+BO0624_50014,301684,17,17,"Fauteuil Empire en acajou sculpte, le dos a filets en cuivre, dossier, siege et coussin en soie vert, brode de fleurs blanches.",35.0,68.0,False,positional,,,Meubles antiques
+BO0624_50014,301685,18,18,Tabouret en bois sculpte moderne.,36.0,93.0,False,positional,,,Meubles antiques
+BO0624_50014,301686,19,19,"Cabinet a garder le linge et les papiers de famille en noyer sculpte, le corps superieur a deux battants, fronton saillant et ondule a crete sculpte a contours. Le corps inferieur a quatre tiroirs bombes munis de cuivres ciseles de l'epoque,le devant a deux, pattes d'aigle. Superbe meuble du commencement du XVI1Ime siecle. Haut. 2.47, larg. 2.02, prof. 0.66 M.",38.0,90.5,False,positional,,,Meubles antiques
+BO0624_50014,301687,20,20,"Armoire en chene sculpte a superbe sculpture en renaissance hollandaise a deux corps. Le corps superieur a deux battants, a panneaux sculptes representant la Foi et l'Esperance entre trois mi-colonnes a cannelures, a bases et capitaux sculptés. Fronton saillant a frise,a sculpture artistique a ornements de convention, d'oiseaux et au milieu d'une femme portant faucon. Le corps inferieur aussi a deux battants chaque a deux panneaux1 representant la Justice, lAmour maternel etc.aussi entret trois mi colonnes comme celles d'en haut, surmontés d'unef frise sculptee; dessous dans le corps du meuble deux tiroirs entre trois mufles de lion. Superbe meuble du XVIIme siecle de conservation parfaite. Haut. 2.14, larg. 1.70, prof. 0.77 M. Voir la reproduction.",39.0,99.7,False,positional,,,Meubles antiques
+BO0624_50014,301688,21,21,Trepied en bois sculpte et dore pour poser un vase,106.0,62.4,False,positional,,,Meubles antiques
+BO0624_50014,301689,22,22,"Quatre tabourets en noyer sculpte, style Louis XV, couverture en velours antique.",,57.1,True,none,,,
+BO0624_50014,301690,23,23,"Table de nuit en acajou avec fermeture en cylindre, monture en cuivre ciselé. Epoque Louis XVI.",,59.9,True,none,,,
+BO0624_50014,301691,24,24,"Superbe chaise a grand dossier en noyer artistiquement sculpte, le dos a décor de palmettes et d'arabesques entre deux colonnes a bases et capitaux sculptes, sur quatre pieds tournes reunis par des traverses. Siege en velours d'Utrecht de l'epoque. Haut. 1.30 M. XVII siecle.",,58.0,True,none,,,
+BO0624_50014,301692,25,25,"Cartonniere en sycomore, palissandre et bois de rose a sept",1121.0,61.3,False,positional,,,Meubles; Glaces; Pendules
+BO0624_50014,301693,26,26,"Cabinet de salon italien en écaille a deux corps, le devant du corps s superieur avec un battant en portique, accoste de six colonnettes, dans la niche une statuette en cuivre dore, le battant accoste de cinq tiroirs munis de cuivre de chaque coté. En ouvrant le battant on voit une case fermee par un battant aussi en portique, dans la niche une statuette en bronze accoste de deux colonnettes en écaille et surmonté d'une colonnade en cuivre. Cette case est surmontée et accostee de 16 petits tiroirs. Le corps inferieur en bois noirci a six pieds en forme de colonnes. Haut. 1.66, larg. 1.26, prof. 0.57 M. Beau meuble, époque Louis XIII.  Voirla reproduction.",,47.8,True,none,,,
+BO0624_50014,301694,27,27,"Table en acajou a deux abattants avec un tiroir muni de cuivres, sur quatre pieds a cannelures avec planchette au mi lieu. Epoque Louis XVI.",,53.4,True,none,,,
+BO0624_50014,301695,28,28,"Deux coffrets a bijoux en vieille laque du Japon, monture en cuivre grave.",,50.7,True,none,,,
+BO0624_50014,301696,29,29,"Presse a serviettes en chene sculpte, plaqué d'ebene, sur quatre pieds tournes reunis par des traverses. Le tiroir a frise artistiquement sculpté. Haut. 1.10, larg. 0.43, prof. 0.33 M.",,56.6,True,none,,,
+BO0624_50014,301697,30,30,"Chaufferette en chene sculpte, anse tournante en laiton.",,47.7,True,none,,,
+BO0624_50014,301698,31,31,"Cassette en bois des Indes a bandes en ébene, monture en cuivre ciselé. Haut. 0.12, long. 0.61, larg. 0.45 M.",,57.1,True,none,,,
+BO0624_50014,301699,32,32,"Gueridon en acajou, colonne tournee sur trepied. Epoque Louis XV.",,47.7,True,none,,,
+BO0624_50014,301700,33,33,Planchette a calandrer en chene sculpte.,,44.4,True,none,,,
+BO0624_50014,301701,34,34,"Secretaire en sycomore bandes en laque et palissandre, l'abatques. Dessus tiroir aussi a panneau en laque et avec deux tants ouvrés comme l'abattant. Beau meuble Louis XVI.",,52.1,True,none,,,
+BO0624_50014,301702,35,35,"Vitrine pour exposer les statuettes en porcelaine, en sycomore avec bandes en palissandre et incrustations en bois clair. Les deux battants vitres.L'interieur a quatre planchettes. Haut. 1.56, larg. 1.04, prof. 0.33 M.",,49.9,True,title_direct,,,Porcelaine
+BO0624_50014,301703,36,36,Deux chevalets pour tableaux en chene.,,47.4,True,title_direct,,,Tableaux
+BO0624_50014,301704,37,37,"Suite de douze chaises et quatre fauteuils en bois sculpté, peints en blanc et doré. Les sieges en soie blanche et rouge a feurs. Quelques sieges uses. Belle suite. Epoque Louis XVI. Voirla reproduction.",,49.8,True,none,,,
+BO0624_50014,301705,38,38,"Siege d’enfant en bois sculpte, dos en velours rouge. Epoque Louis XV.",,49.7,True,none,,,
+BO0624_50014,301706,39,39,"Table scriban en acajou clair a bandes en palissandre, le dessus couvert de cuir. Deux tiroirs munis de cuivre. Long.",1129.0,61.5,False,positional,,,Meubles; Glaces; Pendules
+BO0624_50014,301707,40,40,"Console renaissance en chene sculpte a buste et arabesques. Haut. 58 cM. Belle piece,",,50.8,True,none,,,
+BO0624_50014,301708,41,41,"Chevalet pour poser un tableau, avec fronton artistiquement",,49.4,True,none,,,
+BO0624_50014,301709,42,42,"Vitrine plate pour exposer les curiosites, y ajoute trois cadres ovales dores.",,47.9,True,none,,,
+BO0624_50014,301710,43,43,"Canape Louis XVI en bois sculpte, peint en blanc et doré, sans couverture. Joli meuble. Long. 1.60, haut. 1.07 M.",,55.4,True,none,,,
+BO0624_50014,301711,44,44,"Banc de corridor en acajou sculpté, modele anglaise (Chippendale), siege en rotan tresse, sur six pieds cintres.",,47.2,True,none,,,
+BO0624_50014,301712,45,45,"Table Empire ronde, portee par trois grotesques en bois",,45.2,True,none,,,
+BO0624_50014,301713,46,46,"Pupitre en chene a panneaux plaques d'ebene, a deux battants, le dessus en abattant drapé de drap rouge. Haut. 1.30,",,50.2,True,none,,,
+BO0624_50014,301714,47,47,Lit du XVIlme siecle  en noyer sculpte sur quatre pieds tors,,47.7,True,none,,,
+BO0624_50014,301715,48,48,"Lit du XVIlIme siecle en acajou sur quatre pieds renfés. Long. 2.—, larg. 0.85 M.",,47.1,True,none,,,
+BO0624_50014,301716,49,49,"Lit d'enfant peinturlure, avec des colonettes. Long. 1.18, larg. 0.60, haut. 1 M.",,52.5,True,none,,,
+BO0624_50014,301717,50,50,"Banc de corridor a decor sculpte sur quatre pieds tors, reunis par des traverses torses. Long. 1.43, haut. 1.20 M.",,53.8,True,none,,,
+BO0624_50014,301718,51,51,"Banquette en chene sculpte du XVIme siecle, sur quatre  pieds reunis par des traverses. Long. 1.18 M.",,53.0,True,none,,,
+BO0624_50014,301719,52,52,"Prie-Dieu en chene sculpté, le dos a sculpture gothique. Peuvant se reformer en escalier.",,46.2,True,none,,,
+BO0624_50014,301720,53,53,"Table console a riche sculpture sur quatre pieds cintrés, reunis par des traverses et volutes,au centre vase avec torche. Les trois cotes a guirlandes, le devant ornee d'une tete d'ange. Le dessus en marbre blanc. Haut. 0.86, long. 1.60, larg. 0.82 M.",,53.9,True,none,,,
+BO0624_50014,301721,54,54,"Buffet en acajou a marqueterie a deux battants, dessus deux tiroirs ornes de cuivre.L'abattant peut se replier en étagere",,49.4,True,none,,,
+BO0624_50014,301722,55,55,"Cabinet pour garder le linge et les papiers de famille a deux corps, le corps inferieur a trois tiroirs bombes et autres sur des pieds a pattes d'ours. Le corps superieur a deux battants legerement cintres, fronton saillant a crete richement sculpte. Beau meuble, époque Louis XVI. Les anneaux de tirage et entrees de serrure en cuivre ciselé de 1epoque. Haut. 2.50, larg. 97, prof. 0.73 M.",,54.6,True,none,,,
+BO0624_50014,301723,56,56,"Fontaine en cuivre en forme de vase avec son bassin, monture",,55.1,True,none,,,
+BO0624_50014,301724,57,57,"Table peint de Hindeloopen, le dessus representant un repas dans un palais dessous Math.22 vers 12 &amp; 13,a lentour 12 cartouches avec un quatrain, la table est a douze angles.Bon meuble antique a cliquet.",,48.6,True,none,,,
+BO0624_50014,301725,58,58,"Traineau ferré et sculpte avec peinture bien decorative, sur le dos les armoiries de la Hollande et deux enfants dont l'un tient une couronne de feuille, de cote Diane et Venus.",,52.0,True,none,,,
+BO0624_50014,301726,59,59,Deux Chaises a dos sculptes a fleches. Epoque Louis XVI.,,45.8,True,none,,,
+BO0624_50014,301727,60,60,Encadrement d'une glace en bois artistiquement sculpte et,,46.5,True,none,,,
+BO0624_50014,301728,61,61,Piano en acajou avec monture et bandes en cuivre. Epoque,,50.4,True,none,,,
+BO0624_50014,301729,62,62,Bascule pour orfevre dans une vitrine en bois sculpte.,,46.0,True,none,,,
+BO0624_50014,301730,63,63,"Cinq chevalets, seront vendus par piece.",,40.7,True,none,,,
+BO0624_50014,301731,64,64,Vitrine en bois peint.,,46.5,True,none,,,
+BO0624_50014,301732,65,65,"Table enorme en chene sculpte decor rococo, a volutes et richement sculptees et surmontees par des bouquets de fleurs en relief. Dessus en marbre blanc, ondulé. Long. 1.80, larg. 26M.",,52.4,True,none,,,
+BO0624_50014,301733,66,66,"Table service a deux abattants en acajou, sur 4 pieds a rainures. Long. total 1.02, larg. 0.78 M. Epoque Louis XVI.",,49.1,True,none,,,
+BO0624_50014,301734,67,67,"Table pareil, long. total 1.08, larg. 0.68 M.",,51.5,True,none,,,
+BO0624_50014,301735,68,68,"Buffet, demi lunaire en acajou a monture en cuivre,a deux battants, le dessus en marbre blanc. Epoque Empire, larg. 0.92, prof. 0.54 M.",,51.7,True,none,,,
+BO0624_50014,301736,69,69,"Six chaises en acajou sculpte, les dos ronds avec des vases au milieu. Sieges en velours original a medaillons avec des",,48.4,True,none,,,
+BO0624_50014,301737,70,70,"Presse a linge en noyer, le pied en commode, a quatre tiroirs cintres munis de cuivres,la partie superieure aussi avec un",,52.1,True,none,,,
+BO0624_50014,301738,71,71,"Cabinet en laque du Japon, riche monture en cuivre gravé et dore; a l'interieur petits tiroirs. Sur quatre pieds tors.",,50.0,True,none,,,
+BO0624_50014,301739,72,72,"Petit buffet en bois satine en marqueterie,les battants et le tiroir avec panneaux en vieille laque, les anneaux de tirage avec médaillons en émail. Haut. 0.80, larg. 0.78 M. Beau meuble original Louis XVI.",,51.4,True,none,,,
+BO0624_50014,301740,73,73,"Buffet en bois satine pareil, avec un grand et un petit battant,le grand battant de droit se repliant, avec trois panneauxen laque.Le dessus en abattant se repliant en étagere en s'ouvrant, avec bassin et aiguiere en étain. Haut. 0.93, larg. 1.25 M.",,51.1,True,none,,,
+BO0624_50014,301741,74,74,"Buffet d'encoignure en bois de rose a deux corps, chaque corps a deux battants, monture en cuivre cisele. Epoque Louis XVI.Haut. 2.25,larg.1.35 M.",,47.5,True,none,,,
+BO0624_50014,301742,75,75,"Secretaire en bois satine a marqueterie,l'abattant et les deux battants a marqueterie de coquilles, bordure en bois de couleur. Dessus tiroir, les quatre anneaux de tirage avec medaillons en émail. Haut. 1.50, larg. 1.05 M.",,56.6,True,none,,,
+BO0624_50014,301743,76,76,"Toilette a glace tournante en bois de rose, avec bandes en palissandre a marqueterie. Le tiroir orne de cuivres. Joli petit meuble Louis XVI.",,52.9,True,none,,,
+BO0624_50014,301744,77,77,"Table de salon en bois satine, panneaux en laque.",,49.2,True,none,,,
+BO0624_50014,301745,78,78,"Deux fauteuils en acajou sculpte, jolis modeles, époque",,47.9,True,none,,,
+BO0624_50014,301746,79,79,"Table a jouer ronde, se repliant en table demi-lunaire en",,48.3,True,none,,,
+BO0624_50014,301747,80,80,"Superbe commode en bois de rose avec riche monture en bronze cisele. Les pieds cintres a genoux et sabots en bronze. Le dessus en marbre breche. Beau meuble Louis XV. Haut. 0.85, larg. 1.15 M.",,52.4,True,none,,,
+BO0624_50014,301748,81,81,"Cabinet a Medailles en bois satine des Indes, a deux battants avec fermeture en cuivre artistiquement cisele et ajoure. A l'interieur neuf tiroirs plates pour medailles et cinq autres tiroirs a byoux. Sur pied en bois peint a quatre colonnes torses. Anses tournantes en cuivre massif. Haut. total 1.28, larg. 0.76, prof. 0.56 M.",,53.4,True,none,,,
+BO0624_50014,301749,82,82,"Coffret en bois d'Ambon a bandes en palissandre,monture en cuivre gravé. Haut. 0.27,larg. 0.42 M.",,53.2,True,none,,,
+BO0624_50014,301750,83,83,"Etui a papeterie en bois de rose, anses tournantes en cuivre.",,51.6,True,none,,,
+BO0624_50014,301751,84,84,"Amoire en chene sculpte du XVIIme siecle, a deux corps, le corps superieur a trois mi-colonnes cannelees, a capitaux sculptes, le corps inferieur a deux battants, chacun de deux panneaux sculptes aussi entre deux colonnes. En haut fronton saillant avec frise artistiquement sculpte,en bas aussi frise sculptée accostee de trois mufes de lion.Haut.2.05,larg.1.56, prof. 0.66 M. Beau meuble, conservation parfaite.",,47.0,True,none,,,
+BO0624_50014,301752,85,85,"Rechaud a chauffer le the en forme de seau, reseau a colonnettes, le bassin en laiton. Belle piece. Epoque Louis XVI.",,53.6,True,none,,,
+BO0624_50014,301753,86,86,"Rechaud pareil en accajou, a petites barres,bassin en laiton, pied triangulaire.",,46.5,True,none,,,
+BO0624_50014,301754,87,87,"Table ronde en acajou a deux abattants, sur quatre pieds a rainures. Epoque Louis XVI.",,47.7,True,none,,,
+BO0624_50014,301755,88,88,Ratelier pour des cuillers en chene sculpté.,,47.5,True,none,,,
+BO0624_50014,301756,89,89,"Chaise en noyer sculpté, le dos en arceau, porte par deux colonnettes. Les pieds reunis par une traverse. Dos et siege en",,50.6,True,none,,,
+BO0624_50014,301757,90,90,"Table de Salon en palissandre, le dessus a bande et medaillon en marqueterie. Le tiroir orne de cuivres avec",,55.3,True,none,,,
+BO0624_50014,301758,91,91,"Secretaire Louis xVI en bois satine en marqueterie de bois de rose. En ouvrant l'abattant plusieurs petits tiroirs en bois de cerisier. Dessus tiroir. Haut. 1.38, larg. 0.71 M.",,55.9,True,none,,,
+BO0624_50014,301759,92,92,"Table en Chene a rallonges, sur quatre pieds de forme - boule, reunis par une traverse et plaque d'ebene. Long 1.67, avec les rallonges 2.25 M. larg. 0.84 M.",1136.0,70.9,False,positional,,,Meubles; Glaces; Pendules
+BO0624_50014,301760,93,93,"Armoire-commode en noyer a deux corps,le corps superieur vitré, pour exposer les statuettes en porcelaine, le corps inferieur a trois tiroirs cintres, munis de cuivres anciens époque Louis XV. Haut. 1.97, larg. 1.15 M.",,50.0,True,title_direct,,,Porcelaine
+BO0624_50014,301761,94,94,"Armoire en porcelaine en acajou a deux corps, le corps superieur vitre,le corps inferieur en commode a trois tiroirs munis de cuivres, époque Louis XVI. Haut. 1.97, larg. 1.05 M.",,51.2,True,title_direct,,,Porcelaine
+BO0624_50014,301762,95,95,Caisse a garder les livres d'ecole en chene sculpte et peint de Hindeloopen. Oiseau dore.,,51.5,True,none,,,
+BO0624_50014,301763,96,96,"Rechaud rond a bouillir le thé en acajou, a quatre pieds d'ours a genoux sculptes, avec petit tiroir, anses tournantes en cuivre cisele. Bassin en laiton.",,49.5,True,none,,,
+BO0624_50014,301764,97,97,"Armoire vitree a exposer la porcelaine en acajou sculpté, les deux battants et les cotes lateraux vitres. Le corps inferieur a trois tiroirs cintres. Anneaux de tirage en cuivre cisele. Fronton volute et saillant a trois cretes. Bon meuble original du XVIIIme siecle. Haut 2.32, larg. 1.78 prof. 0.48 M.",,49.3,True,title_direct,,,Porcelaine
+BO0624_50014,301765,98,98,"Table a lhombre en acajou, sur quatre pieds cintrés, peuvant se replier en table console. Epoque Louis XV. Les pieds posterieurs formant tiroir. Beau meuble.",,50.8,True,none,,,
+BO0624_50014,301766,99,99,"Table en noyer, sur quatre pieds tors. Epoque Louis XIII.",,44.3,True,none,,,
+BO0624_50014,301767,100,100,"Table a thé en acajou, sur quatre pieds cintres. Epoque Louis XVI.",,51.9,True,none,,,
+BO0624_50014,301768,101,101,"Salon Louis XV compose de douze chaises et d'un canapé, en noyer sculpté, a dos rond, les pieds cintrés, le devant ondulé. Sieges et dos en soie rouge strié de l'epoque. Belle suite, conservation parfaite.",,51.9,True,none,,,
+BO0624_50014,301769,102,102,"Petite Table Commode en noyer et bois satiné, sur quatre pieds renfes, sabots en cuivre ciselé, avec trois tiroirs. Epoque Louis XV. Joli petit meuble. Haut 68, larg.41 cM.",,47.9,True,none,,,
+BO0624_50014,301770,103,103,"Bureau de Dame, en noyer a marqueterie le devant ondulé, labbatant bombé les cotés contournés. Les pieds cintrés a riche monture en cuivre cisele. En ouvrant l'abattant plusieurs petits tiroirs en bois de rose. Tiroir dans le pied du meuble. Haut. 10.8, Larg. 0.67, prof. 0.43 M.Joli meuble original epoque Louis XV.  Voir la reproduction.",,48.3,True,none,,,
+BO0624_50014,301771,104,104,"Armoire a garder la porcelaine en chene sculpte. Le corps superieur a deux battants et cotes lateraux vitrés, fronton saillant a crete sculpte. Le corps inferieur a deux battants, Haut 2, larg. 1.25 M.",,47.5,True,title_direct,,,Porcelaine
+BO0624_50014,301772,105,105,"Presse a linge en chene sculpte plaqué d'ebene. Haut.1.45, larg. O.40 M. Beau Meuble du XVIIme siecle.",,44.0,True,title_direct,,,Meubles
+BO0624_50014,301773,106,106,"Paire de gueridons en noyer sculpte, époque Louis XV.",,52.6,True,none,,,
+BO0624_50014,301774,107,107,"Glace en bois sculpte et doré, fronton a volutes contournés et ajoures d'ou suspendent des chutes de fleurs. Superbe glace époque Louis XV.",,49.6,True,title_direct,,,Glaces
+BO0624_50014,301775,108,108,"Glace, cadre en bois sculpte et doré, surmonté d'un vase, d'ou suspendent de guirlandes. Le dessous a medaillon au buste d'Empereur romain entoure de guirlandes. Epoque",,50.6,True,title_direct,,,Glaces
+BO0624_50014,301776,109,109,"Glace en cadre artistiquement sculpte et dore a volutes, le couronnement surmonte d'une coquille sous laquelle deux tetes d'anges se regardent. Sous une volute de chaque cote environ au milieu, aussi une tete d'ange, sur la partie inferieur, un mascaron.",,54.0,True,title_direct,,,Glaces
+BO0624_50014,301777,110,110,"Glace faisant pendant. Ces deux glaces dune conservation parfaite d'environ 1725, seront vendus premierement separement et apres combines.",,47.1,True,title_direct,,,Glaces
+BO0624_50014,301778,111,111,"Glace bisautee a cadre en bois sculpte et dore, surmonté d'un vase d'ou suspendent des guirlandes. Epoque Louis XVI. Haut. 2.24, larg. 0.90 M.",1138.0,66.4,False,title_direct,,,Glaces
+BO0624_50014,301779,112,112,"Glace, cadre en bois sculpte a olives et dore. La partie superieure a tableau representant un hiver a plusieurs figures.",,50.0,True,title_direct,,,Glaces
+BO0624_50014,301780,113,113,"Glace Louis xVl, cadre en bois artisquement sculpte et doré, fronton avec vase a feurs, accoste d'un flambeau et d'un carquois a feches. Haut. 1.60, larg. 0.95 M.",,52.6,True,title_direct,,,Glaces
+BO0624_50014,301781,114,114,"Glace, cadre en bois sculpte et doré, époque Louis XV,",,54.7,True,title_direct,,,Glaces
+BO0624_50014,301782,115,115,"Glace Louis xVl, cadre en bois sculpte et dore, surmonté sculpte a volutes et chutes de feurs. Haut. 1.90, larg 0.70 M. - d'un vase remplie de gerbes de blé et d'ou suspendent de guirlandes. Haut. 1.65, larg. 0.60 M.",,50.8,True,title_direct,,,Glaces
+BO0624_50014,301783,116,116,Glace Louis xV. Cadre en bois sculpte et dore a volutes,,50.0,True,title_direct,,,Glaces
+BO0624_50014,301784,117,117,"Glace Louis xV. Superbe cadre en bois sculpte et dore, a volutes contournees, du chef se degage un aigle tenant une guirlande de fleurs qu'un autre aigle divise le large de la glace. De la partie inferieure du cadre se detache aussi une guirlande qui s'eleve et enroule les deux cotes. Haut 1.70, larg. 0.92 M.",,48.8,True,title_direct,,,Glaces
+BO0624_50014,301785,118,118,"Glace carrée, cadre en bois sculpte et doré, fronton en forme de ruban, dessous de palmes. Haut 0.90, larg. 0.75 M.",,58.0,True,title_direct,,,Glaces
+BO0624_50014,301786,119,119,"Glace Louis XV. Cadre en bois artistiquement sculpte et dore a volutes contournées, d'ou se detachent des brindilles de feurs et de palmes ajourées. Haut 1.80, larg 0.76 M.",,49.0,True,title_direct,,,Glaces
+BO0624_50014,301787,120,120,"Pendule de corridor, la caisse artistiquement sclupte et dore. La cadran dans un entourage de feuilles et palmes, reunies en haut par un ruban sculpté, et surmonte d'un vase d'ou suspendent des guirlandes. Sur le devant et des deux cotes des riches sculptures a attributs de musique. Horloge superbe. Epoque Louis XVI. Haut 3.—, larg. 0.63, prof. 0.48 M. Voir la reproduction.",,49.2,True,title_direct,,,Pendules
+BO0624_50014,301788,121,121,"Pendule de corridor representant un soleil a triple etage de rais, sculptes en bois et doré. Diam. 1.20 M. Belle Pendule applique.",,50.2,True,title_direct,,,Pendules
+BO0624_50014,301789,122,122,"Pendule de table en cristal taille, cadran a decor cisele, montrant les heures et la date. Le fronton a frise en arceaux a décor cisele en bronze doré, vases d'ou sortent des fleurs. Adresse de Windmills London. Belle horloge avec platine gravée.Haut.0.54, larg. 53 cM.",,49.3,True,title_direct,,,Pendules
+BO0624_50014,301790,123,123,"Pendule Empire en bronze dorée, sur une base ornée Ceres) assise sur une charrue,menee par deux taureaux. Elle tient,un fauchard et des épis. Dans la charrue se trouve le mouvement visible. Superbe piece. Haut. 0.43, larg. 0.44 M.",,49.3,True,title_direct,,,Pendules
+BO0624_50014,301791,124,124,"Paire de Flambeaux Empire en bronze dore. Buste a trois visages finissant en six pieds, sur une base ronde a attributs de guerre.Haut 0.29 M.",,50.2,True,title_direct,,,Flambeaux
+BO0624_50014,301792,125,125,"Paire de Chandeliers Empire, sur une base en marbre empire, s'éleve un carre en albatre monture en bronze doré et cisele surmonte d'un sphinx en bronze vert, surmonte du fambeau en bronze doré.Haut 20 cM.",,48.3,True,none,,,
+BO0624_50014,301793,126,126,"Pendule en bronze doré. Arlequin en cuisinier, occupé a rotir un grenouille, sur la base d'attributs de cuisinier. Haut.37, - larg. 30. Epoque Empire.",,49.4,True,title_direct,,,Pendules
+BO0624_50014,301794,127,127,"Cartel Louis xVI en bronze doré,le mouvement en volutes surmonte d'un vase d'ou suspendent des guirlandes, deux torches accostant le mouvement. Belle piece. Haut. O.73, larg. 0.32 M.",,47.0,True,none,,,
+BO0624_50014,301795,128,128,"Jolie pendule Empire en bronze doré. Laitiere porte un grand pot a lait anse dans lequel se trouve le mouvement, de sa droite elle tient une corbeille remplie de fruits. Elle est accoste d'un mouton, d'un chien dans son chenil sur lequel un panier avec des poules, surmonté d'un coq chantant. Haut. 0.48, larg. 0.28 M. avec labase en acajou et la cloche.",,52.5,True,none,,,
+BO0624_50014,301796,129,129a,"Pendule en marbre empire, le socle carre orné de trois couronnes de laurier en bronze et entoure d'une monture du meme. Sur le socle Mars debout, superbe statuette. Le",,48.7,True,title_direct,,,Pendules
+BO0624_50014,301797,130,129b,"Deux Vases en bronze, sur socles en marbre pareil. Haut. 0.34. Voir la reproduction.",,49.3,True,none,,,
+BO0624_50014,301798,131,130,"Pendule en marbre blanc, a riche décor de bronze doré, surmontee de trois vases en marbre a bouquets en fleurs dores; sous le mouvement dans un entourage decoratif en bronze dore, joli medaillon en wedgwood. Belle Pendule, Epoque Directoire. Deux Vases en bronze, sur socles en marbre pareil. Haut. 0.34. Voir la reproduction.",,48.3,True,title_direct,,,Pendules
+BO0624_50014,301799,132,131,"Deux Bouts de cheminée en bronze vert et doré, en forme de vase, sur pied carre. Epoque Empire.",,48.0,True,none,,,
+BO0624_50014,301800,133,132,"Paire de candelabres en bronze dore sur pieds ronds a decor perle et a feuillage, style Louis XVI, a quatre flambeaux a riche monture en prismes piriformes et a brillants. Haut. 64 cM.",,53.2,True,title_direct,,,Flambeaux
+BO0624_50014,301801,134,133,"Paire de flambeaux en cristal taillé, sur pied carre,ornes de prismes piriformes. Haut. 27 cM. Légere felure d'une des pieces.",,53.2,True,title_direct,,,Flambeaux
+BO0624_50014,301802,135,134,"Pendule de corridor en noyer sculpte avec beau carillon et mouvemant sonnant les heures et les demies, cadran indiquant les heures et la date. Le dome surmonté de statuettes en bois sculpté et doré.",1143.0,60.8,False,title_direct,,,Pendules
+BO0624_50014,301803,136,135,"Cartel en bronze a guirlandes, adresse de R. P. Crept a Amsterdam.Epoque Louis XVI.",,43.0,True,none,,,
+BO0624_50014,301804,137,136,"Pendule Empire en bronze. Deux negres portant un brancard portatif avec deux personnes assises et un chien, sur la base une gondole avec un Amour sur les fots. Haut.46, larg. 34 cM.",,48.3,True,title_direct,,,Pendules
+BO0624_50014,301805,138,137,"Pendule Empire en bronze dore. Venus couche au dessus du mouvement et retenant Cupidon.Haut. 45, larg. 34 cM.",,47.7,True,title_direct,,,Pendules
+BO0624_50014,301806,139,138,Lustre de salon en cristal taille de Boheme a riche decor,,53.7,True,title_direct,,,Cristal
+BO0624_50014,301807,140,139,"Lustre d'Eglise du XVII siecle en cuivre poli et tors a trois étages, chaque a huit lumieres et orné de trois écussons en cuivre fondu et cisele,aux armoiries écartelées des Schaep, d'ou resulte que ce Lustre est offerte en 1717 par HUGO SCHAEP.ORDs. CAPT. TER ZEE. Haut.1.80, - diam.1.63 M.Piece fort interessante.",,48.1,True,none,,,
+BO0624_50014,301808,141,140,"Paire d'appliques en bronze cisele et dore Louis XVI, a",1240.0,60.0,False,positional,,,Argenterie antique
+BO0624_50014,301809,142,141,Lustre de salon en cristal taille de Venise a deux ranges de prismes piriformes et en brillants. Diam. 98 cM.,,48.6,True,title_direct,,,Cristal
+BO0624_50014,301810,143,142,Lustre de salon en cristal tailles a deux étages de bras en cristal chaque a six lumieres. Riches guirlandes de prismes piriformes et en brillants.Diam. 1.10 M.,,51.9,True,title_direct,,,Cristal
+BO0624_50014,301811,144,143,"Lustre de salon moderne, riche décor de prismes en cristal taille et avec monture en cuivre repousse et ciselé avec cinq lumieres a gaz avec les ballons. Diam. 90 cM.",,50.0,True,title_direct,,,Cristal
+BO0624_50014,301812,145,144,"Lustre de salon en cristal a prismes monture en cuivre, a six lumieres.Diam. 80 cM. Epoque Empire,arrangé pour le gaz.",,48.5,True,title_direct,,,Cristal
+BO0624_50014,301813,146,145,"Lustre de salon en cristal,les bras aussi en cristal tors a deux étages chaque de six lumieres, orné de prismes en guirlandes et de balles en cristal. Superbe piece. Epoque Louis XVI. Diam.80 cM.",,54.0,True,title_direct,,,Cristal
+BO0624_50014,301814,147,146,"Lustre de salon en cristal, faisant pendant.",,44.8,True,title_direct,,,Cristal
+BO0624_50014,301815,148,147,"Lustre de salon en riche bronze dore et ciselé Empire, orné de prismes qui suspendent du couronnement et forment reseau en bas, a douze lumieres arrangees pour le gaz. Superbe piece. Diam. 85 cM.",,49.7,True,none,,,
+BO0624_50014,301816,149,148,"Six grandes assiettes de famille verte, Imperatrice assise sous un portique en riche costume, recoit un bouquet d'une princesse, devant le portique des dignitaires. Marli en da masse vert a douze reserves a papillons multicolores, fruits ou fleurs. Superbe qualite en vieux Chine émaillé.",,48.5,True,none,,,
+BO0624_50014,301817,150,149,"Deux plats creux a bords ondules en vieux Japon, riche decor de chrysanthemes et de pawlonia. Diam. 25 cM. Une felure.",,50.2,True,none,,,
+BO0624_50014,301818,151,150,"Cinq plats pareils, au centre vase rempli de feurs. Diam. cM.Une felure.",,42.6,True,none,,,
+BO0624_50014,301819,152,151,"Paire de plats pareils, plus petits. Diam. 23 cM.",,41.5,True,none,,,
+BO0624_50014,301820,153,152,"Paire d'Ecuelles octogones en vieux Japon, dans un cartouche octogone vase rempli de feurs. Bord en bleu fonce, a huit medaillons ajoures representant les ondes. Superbes",,49.7,True,none,,,
+BO0624_50014,301821,154,153,"Grand bol, vieux Japon, coin de jardin a personnages, feurs de prunier et chrysanthemes. Le bord légerement recourbe. Diam.30.5 cM.",,45.6,True,none,,,
+BO0624_50014,301822,155,154,"Porte-fleur en forme de poisson, vieux Japon.Haut.33 cM. Belle qualite.",,41.7,True,none,,,
+BO0624_50014,301823,156,155,"Bol en vieux Imari, reserves de feurs, a l'interieur feurs de cerisier.Diam.18 cM.",,49.3,True,none,,,
+BO0624_50014,301824,157,156,"Bol a douze pans, dont six a fond émaillé rouge, chargés de feurs émaillees, deux a fond bleu, rose ou turquoise.",,48.7,True,none,,,
+BO0624_50014,301825,158,157,"Plat emaille en vieux Chine, riche decor de pivoines, marli a bordure en écaille et rose. Diam. 30 cM.",,50.0,True,none,,,
+BO0624_50014,301826,159,158,"Plat pareil, marli et bord a décor de guirlandes émaillées. Diam.30.5 cM.",,45.3,True,none,,,
+BO0624_50014,301827,160,159,"Plat emaille pareil, decor de paons et de pivoines,bordure",,44.4,True,none,,,
+BO0624_50014,301828,161,160,"Deux plats légerement varies, riche decor émaillé, bordure",,46.3,True,none,,,
+BO0624_50014,301829,162,161,"Paire de superbes grands plats en vieux Japon, dame portant un cadeau a un pretre est gené par des sots (Zoties), marli a 14 reserves de fleurs ou d'oiseaux. Bord ondulé et legerement recourbé. Diam. 36.5 cM. Le revers au meme decor et aux quatre marques.",,48.3,True,none,,,
+BO0624_50014,301830,163,162,"Six petits plats en vieux Japon, decor varie.",,42.6,True,none,,,
+BO0624_50014,301831,164,163,"Cafetiere en capucine a deux reserves, a riche décor de",,53.8,True,none,,,
+BO0624_50014,301832,165,164,"Trois assiettes creuses, riche decor de fleurs émaillees.",,46.3,True,none,,,
+BO0624_50014,301833,166,165,"Paire de plats en vieux Japon. Vase rempli de feurs, marli a fond en bleu fonce a six reserves a decor de feurs en rouge et or. Diam. 26 cM.",,51.3,True,none,,,
+BO0624_50014,301834,167,166,"Paire de plats pareils, a trois reserves. Diam. 26 cM.",,42.7,True,none,,,
+BO0624_50014,301835,168,167,"Grand plat creux, riche decor de feurs. Diam. 27 cM.",,49.2,True,none,,,
+BO0624_50014,301836,169,168,"Plat pareil. Vase de feurs dans un coin de jardin, marli et bord a oiseaux volants et feurs. Diam. 29 cM.",,46.8,True,none,,,
+BO0624_50014,301837,170,169,"Grand plat creux, vase et entourage de fleurs. Diam. 31.5 cM.",,46.7,True,none,,,
+BO0624_50014,301838,171,170,"Grand plat, riche decor de chrysanthemes, de pawlonia et de tiges de fleurs. Diam. 32 cM.",,50.5,True,none,,,
+BO0624_50014,301839,172,171,"Grand plat a la corbeille de feurs, entourage de papillons et de feurs.Diam.34.5 cM.",,45.8,True,none,,,
+BO0624_50014,301840,173,172,"Grand plat, riche decor de feurs, de chrysanthemes et de papillons. Bord a arabesques. Diam. 30.5 cM.",,51.4,True,none,,,
+BO0624_50014,301841,174,173,"Grand plat. Vase de feurs, dans un coin de jardin. Diam. cM.",,43.0,True,none,,,
+BO0624_50014,301842,175,174,"Grand plat pareil, meme decor. Diam.27.5 cM.",,42.7,True,none,,,
+BO0624_50014,301843,176,175,Grand bol en vieux Imari. Des oiseaux sur des tiges de feurs et de pivoines. Diam.25.5 cM.,,48.3,True,none,,,
+BO0624_50014,301844,177,176,"Trois tasses, superbe décor de feurs émaillées sur fond écaille et bouquets de feurs dans reserves blanches et un",,48.7,True,none,,,
+BO0624_50014,301845,178,177,"Six assiettes en vieux Japon vase de fleurs, marli a reserves de fleurs et medaillons sur fond en bleu fonce.",,50.4,True,none,,,
+BO0624_50014,301846,179,178,"Deux assiettes, riche décor émaille, marli a quatre reserves a feurs de cerisier et pawlonia,alternes par des rouleaux en rotan.",,51.7,True,none,,,
+BO0624_50014,301847,180,179,"Deux assiettes a deux medaillons entoures de 4 reserves a decor de chrysanthemes, bordure a arabesques, superbes pieces en vieux Japon.",,50.2,True,none,,,
+BO0624_50014,301848,181,180,"Cafetiere en vieux Japon, riche decor de feurs et de faisans, robinet en bronze.",,48.9,True,none,,,
+BO0624_50014,301849,182,181,"Cafetiere ansee a riche decor de chrysanthemes, sur quatre pieds.Le robinet fait defaut.",,51.3,True,none,,,
+BO0624_50014,301850,183,182,"Plat en vieux Japon, vase et bouquets. Diam. 22 cM.",,40.0,True,none,,,
+BO0624_50014,301851,184,183,"Plat oval a viande en vieux Japon, vase et bouquets de",,44.7,True,none,,,
+BO0624_50014,301852,185,184,"Trois grands plats creux, vase de feurs devant une balustrade, marli a draperie entourant des reserves de feurs.",,47.2,True,none,,,
+BO0624_50014,301853,186,185,"Grand plat creux, le centre a feurs de lotus et arabesques en bleu, marli a reserves émaillées en vert et rouge.Diam. 38cM.",,50.8,True,none,,,
+BO0624_50014,301854,187,186,"Beau grand plat, vase de fleurs entoure par des chutes de feurs et quatre réserves a bouquets, fort artistique. Diam. 33 cM.",,49.8,True,none,,,
+BO0624_50014,301855,188,187,"Bol a bouillie avec son couvercle, riche decor de tiges de feurs, rouge bleu et or.",,55.9,True,none,,,
+BO0624_50014,301856,189,188,"Grande potiche a couvercle, riche decor de reserves, d'oiseaux sur des cérisiers a fleurs émaillees,ou oiseaux dans un champ de1 mais, dessus reserves a fond doré avec lion fabuleux ou des papillons sur des fleurs marines, bordure a pawlonia sur fond en bleu fonce. Le couvercle surmonte du lion japonais.Haut. 62 cM.",,45.5,True,none,,,
+BO0624_50014,301857,190,189,"Grande potiche pareille, a trois reserves de bambou, de",,46.2,True,none,,,
+BO0624_50014,301858,191,190,"Grande potiche pareille, sur la bordure des mons. Haut. cM. Voir la reproduction.",,44.1,True,none,,,
+BO0624_50014,301859,192,191,"Potiche a couvercle, trois réserves avec aventures de cygnes dans un jardin,o",,48.5,True,none,,,
+BO0624_50014,301860,193,192,"Terrine avec son couvercle en vieux Japon, riche decor de feurs et de papillons. Diam. 24.5 cM.",,53.7,True,none,,,
+BO0624_50014,301861,194,193,"Paire de superbes bols emaillés, des cerfs dans une prairie sous un arbre en feurs. Bordure en rose, turquoise et écaille. L'interieur a tiges de feurs noir et or, bordure damassée en émail rose. Diam. 23 cM.",,51.1,True,none,,,
+BO0624_50014,301862,195,194,"Statuette chinoise, garcon assis sur un chien couché.",,49.1,True,none,,,
+BO0624_50014,301863,196,195,"Paire de beurriers en forme de perches, couleur naturel. Porcelaine polychrome de la Chine et du Japon.",,48.2,True,title_direct,,,Porcelaine
+BO0624_50014,301864,197,196,"Superbe grand plat en vieux Japon, coin de jardin avec",,46.6,True,none,,,
+BO0624_50014,301865,198,197,"Plat en vieux Japon, vase de feurs, marli a quatre reserves a aigles éployés.Diam.26.5 cM.",,44.5,True,none,,,
+BO0624_50014,301866,199,198,"Paire de bols en vieux Japon, riche decor de feurs. 14.5 cM.",,50.8,True,none,,,
+BO0624_50014,301867,200,199,"Paire de bols pareils, reserves de fleurs et feuilles de nolime-tangere. 14 cM.",,49.5,True,none,,,
+BO0624_50014,301868,201,200,"Bol pareil, feurs de prunier. 15 cM.",,46.3,True,none,,,
+BO0624_50014,301869,202,201,"Bol octogone, décor de chrysanthemes, bord recourbé. 14 cM.",,45.5,True,none,,,
+BO0624_50014,301870,203,202,"Bol de famille rose, decor a reserves de feurs de cerisier et autres.",,50.9,True,none,,,
+BO0624_50014,301871,204,203,"Potiche a sucre énorme en capucine, avec reserves a riches decor de feurs emaillees. Le couvercle avec endommagement insignifiant. Diam. 19 cM.",,54.5,True,none,,,
+BO0624_50014,301872,205,204,Sucrier couvert en vieux Japon.,,39.2,True,none,,,
+BO0624_50014,301873,206,205,Paire d'Ecuelles a superbe decor émaille de chrysanthemes et de pivoines.Diam.22 cM.,,48.6,True,none,,,
+BO0624_50014,301874,207,206,"Grand bol a reserves de feurs dans un coin de jardin,alternees par des feurs sur fond bleu fonce. Diam. 24 cM.",,48.5,True,none,,,
+BO0624_50014,301875,208,207,"Cinq assiettes en vieux Chine, d'apres un dessin Europeen.",,41.1,True,none,,,
+BO0624_50014,301876,209,208,"Trois assiettes de famille rose, superbe décor émaille de pivoines et d'autres fleurs, marli et bordure en émail rose.",,49.2,True,none,,,
+BO0624_50014,301877,210,209,"Theiere a joli decor émaillé, chutes de feurs sortant d'une bordure en damasse rose, le fond et le couvercle a godrons imitant une feur de lotus.",,49.5,True,none,,,
+BO0624_50014,301878,211,210,"Paire d'assiettes en vieux Chine d'une beaute excessive. Dame aristocratique faisant son toilette en regardant dans un miroir, de cote sa femme de chambre portant corbeille de feurs. Marli a arabesques émaillees en blanc sur fond noir. Le bord décoré a quatre reserves blanches a bordure verte et a quatre reserves d'or sur fond rouge dans un en-",,45.0,True,none,,,
+BO0624_50014,301879,212,211,Assiette en vieux Chine de haute curiosite representant le buste d'un chasseur entoure de ses léevriers et tenant un perdrix mort et un cor de chasse. Dessin et émail merveilleux. Voir la reproduction.,,49.5,True,none,,,
+BO0624_50014,301880,213,212,"Plat énorme armoirie, en Chine de commande aux armoiries émaillees écartelees, 1 et 4 d'argentau phenix éployé de sable. bec et pieds en or, de 2et3échiquetéd'or et d'azur, en surtout écusson d'argent a six quartiers charges chacun d'un tourteau d'azur, couronné et timbré du phenix de l'ecusson. Bord a arabesques d'or et chrysanthemes, rouge et or.Diam. 48 cM. Superbe.",,41.4,True,none,,,
+BO0624_50014,301881,214,213,"Plat pareil, module plus petit. 3l cM. Superbe.",,44.2,True,none,,,
+BO0624_50014,301882,215,214,"Plat pareil, de 27 cM. Superbe.",,38.6,True,none,,,
+BO0624_50014,301883,216,215,Plat émaille decor de pivoines roses et autres fleurs. Bordure écaille d'ou sortent des fruits et des fleurs roses et des pensees. Restauration insignifante. Diam. 38 cM.,,50.0,True,none,,,
+BO0624_50014,301884,217,216,"Grand plat octogone, en famille verte, Chinoise jouant d'une sorte de guitare couchée, une dame tenant éventail, de cote une personne regarde par le fenetie. Bord riche, des feurs émaillées sur un fond écaille avec quatre réserves blanches a decor de poissons et de papillons. Diam. 40 cM. Restauration insignifiante.",,49.3,True,none,,,
+BO0624_50014,301885,218,217,"Six assiettes d'une beaute excessive, vase en porcelaine rempli de fleurs, accoste de divers ustensiles, marli a brindilles de feurs rouges et or sur fond turquoise, bord a decor de fleurs, de plantes et de poissons.",,51.0,True,title_direct,,,Porcelaine
+BO0624_50014,301886,219,218,"Deux assiettes émaillees extremement rares, aux feuilles de tabac de couleur varie, feurs se detachant du bord ondulé.",,47.1,True,none,,,
+BO0624_50014,301887,220,219,Deux petites assiettes pareilles.,,42.6,True,none,,,
+BO0624_50014,301888,221,220,"Plat creux a bord octogone, dame de condition assise sur un tapis, recoit du thé d'un domestique. Derriere la dame une jeune femme tenant le parasol. Dessous armoiries, res-",,47.0,True,none,,,
+BO0624_50014,301889,222,221,"Paire de superbes grands plats en famille verte. Arbre feurie sur lequel un oiseau de riz, au dessus des feurs plane un oiseau vert. Marli a chrysanthemes et pawlonia sur fond en émail vert a quatre reserves, a oiseaux et petits papillons. Diam. 35 cM.",,49.7,True,none,,,
+BO0624_50014,301890,223,222,Trois Ecuelles en porcelaine decore a Lowestoft avec monogrammes en or.,,56.9,True,title_direct,,,Porcelaine
+BO0624_50014,301891,224,223,Douze assiettes en toute pareil.,,41.4,True,none,,,
+BO0624_50014,301892,225,224,"Potiche énorme avec couvercle, a huit pans, riche decor de feurs, de feuilles et d'oiseaux. Bordure de coquilles et d'arabesques.Haut. 74 cM.Le couvercle felé.",,49.1,True,none,,,
+BO0624_50014,301893,226,225,"Potiche pareil, legere variete de decor. Haut. 71 cM. Le",,47.5,True,none,,,
+BO0624_50014,301894,227,226,"Pot a bouillie (Slempketel) godronné decor de feurs, anse",,41.3,True,none,,,
+BO0624_50014,301895,228,227,"Grand potiche a couvercle de belle qualité, des oiseaux de grandeur naturel planant au dessus de fleurs. Haut.59 cM.",,48.2,True,none,,,
+BO0624_50014,301896,229,228,"Grande potiche a couvercle de belle qualite, riche decor det tiges s de feurs de lotus. Haut. 58 cM. sur un piedestal en noyer sur pieds tors.",,50.0,True,none,,,
+BO0624_50014,301897,230,229,"Cafetiere, décor de fleurs sur des arabesques.",,50.9,True,none,,,
+BO0624_50014,301898,231,230,"Paire de cafetieres, decor d'une bande a decor de fleurs, autour desquelles s'enroule un serpent.",,46.1,True,none,,,
+BO0624_50014,301899,232,231,"Six tasses de forme élancee avec les soucoupes, decor dit",,46.6,True,none,,,
+BO0624_50014,301900,233,232,"Vase ailé décor de feuillage, monte en argent comme vase a saupoudrer.",,52.2,True,none,,,
+BO0624_50014,301901,234,233,"Grand bol, belle qualité, riche decor a figures et feurs.",,48.8,True,none,,,
+BO0624_50014,301902,235,234,"Bol a sic marques, décor de sigles entourés de fleurs et d'arabesques.12 cM.",,46.7,True,none,,,
+BO0624_50014,301903,236,235,"Potiche a gimgembre avec son couvercle en hawthorne, couvert de feurs de cerisier blanches. Deux reserves au lion fabuleux, marque au double annelet. Superbe piece.",,49.1,True,none,,,
+BO0624_50014,301904,237,236,"Deux pots a vin en beau decor, deux personnages sous un parasol et paysage avec oiseaux. Bordure d'arabesques.",,48.4,True,none,,,
+BO0624_50014,301905,238,237,"Cornet a superbe decor bleu a enguirlande de feurs,bombé a peu pres au milieu, marque feuille. Haut. 55 cM. avec légere felure.",,47.8,True,none,,,
+BO0624_50014,301906,239,238,Douze assiettes aux apotres Chinois. Auc sic marques.,,43.6,True,none,,,
+BO0624_50014,301907,240,239,"Lot de petits vases d'etagere, six pieces, legerement endommagees.",,48.8,True,none,,,
+BO0624_50014,301908,241,240,"Cinq petits plats a pates a figures et enfants (Zotjes),",,44.4,True,none,,,
+BO0624_50014,301909,242,241,"Deux grands couvercles en vieux Chine, decor bleu.",,44.4,True,none,,,
+BO0624_50014,301910,243,242,"Assiette a figures, superbe. Pelerinage de plusieurs personnages de differente condition, a visiter un prophete assis sur un petit ile, marli damasse a quatre reserves aux objets précieux. Auc sic marques de Ch'eng-hua 1465—1487.",,46.9,True,none,,,
+BO0624_50014,301911,244,243,"Gourde a panse evasée décor a figures (lyzen), col en forme de gobelet.",,50.4,True,none,,,
+BO0624_50014,301912,245,244,"Paire de boites a the godronnées, a medaillons, bordure en hawthorne. Les cuvettes en argent.",,49.4,True,none,,,
+BO0624_50014,301913,246,245,"Boite a the avec la cuvette, oviforme a tiges de fleurs, marque deux annelets.",,48.6,True,none,,,
+BO0624_50014,301914,247,246,Paire de chandeliers a decor dit au persil. Jolies pieces.,,52.5,True,none,,,
+BO0624_50014,301915,248,247,"Paire de salieres godronnees, beau decor au persil.",,48.7,True,none,,,
+BO0624_50014,301916,249,248,"Paire de salieres, decor de feurs, sur trois pieds de forme boule.",,49.2,True,none,,,
+BO0624_50014,301917,250,249,"Petite theiere, decor a figures de dames (lyzen),le couvercle a petits sots (zotjes), marque Jade.",,46.9,True,none,,,
+BO0624_50014,301918,251,250,"Potiche a beau décor de bordure en haut et en bas, le col aussi a bordure, légere felure.",,48.4,True,none,,,
+BO0624_50014,301919,252,251,"Grande potiche oviforme d'une beaute excessive, avec deux reserves de vases remplis de plumes et accostes de vases a encens et entouré des objets précieux, sur la cuvette, vase et rouleaux. Haut. 32 cM.",,48.9,True,none,,,
+BO0624_50014,301920,253,252,"Vase cylindrique, Rolwagen, tiges de feurs et bordure en bleu fonce a arabesques blanches. Haut. 20 cM.Belle qualite.",,50.4,True,none,,,
+BO0624_50014,301921,254,253,"Vase cylindrique, Rolwagen, riche decor de chrysanthemes sur d’arabesques. Haut. 25 cM.",,45.8,True,none,,,
+BO0624_50014,301922,255,254,"Vase de forme bouteille, puntflesch, reserves de hawthorne.",,47.2,True,none,,,
+BO0624_50014,301923,256,255,"Boite a thé oviforme decor de figures de dames (lyzen) se promenant, marque perle. Belle qualite. Haut. 13.5 cM.",,47.7,True,none,,,
+BO0624_50014,301924,257,256,Theiere d'une superbe qualite aux vases remplis de plumes,,54.5,True,none,,,
+BO0624_50014,301925,258,257,"Paire de superbes petites theieres a figures de dames en robes longues (lyzen), auc quatre marques. Kiyuh tang chi.",,47.0,True,none,,,
+BO0624_50014,301926,259,258,"Petite cafetiere a anse fixe, superbe decor, guerrier Chinois rencontrant une dame, marque feuille.",,49.1,True,none,,,
+BO0624_50014,301927,260,259,"Petite theiere de belle qualilé, décor de feuillage.",,46.6,True,none,,,
+BO0624_50014,301928,261,260,"Lot de quatre superbes vases d'etagere, deux a decor de Heurs et deux a figures.Lot fort interessant.",,47.3,True,none,,,
+BO0624_50014,301929,262,261,"Six grandes assiettes de toute premiere qualité, decor a personnages. Marque une grande fleur et au revers du bord des tiges de fleurs. Pieces recherchees, d'une beaute excessive. Seigneur assis et dame sortant d'un palais regardent des enfants jouant (Zotjes). Sur le bord des scenes de la vie",,46.8,True,none,,,
+BO0624_50014,301930,263,262,Six grandes assiettes pareilles.,,39.5,True,none,,,
+BO0624_50014,301931,264,263,Six grandes assiettes pareilles.,,39.5,True,none,,,
+BO0624_50014,301932,265,264,Six grandes assiettes pareilles.,,39.5,True,none,,,
+BO0624_50014,301933,266,265,Six grandes assiettes pareilles.,,39.5,True,none,,,
+BO0624_50014,301934,267,266,Six grandes assiettes pareilles.,,39.5,True,none,,,
+BO0624_50014,301935,268,267,Quatre grandes assiettes pareilles. Les nos. 261 a 267 faisant ensemble une serie introuvable de,,45.5,True,none,,,
+BO0624_50014,301936,269,268,"Grand plat a bord ondulé et doré, decor artistique de feurs vieuc Meissen de la bonne periode. Diam.32.5 cM.",,49.3,True,none,,,
+BO0624_50014,301937,270,269,"Fourneau de pipe, en porcelaine de Sace, representant une tete de jeune homme barbu.",,48.1,True,title_direct,,,Porcelaine
+BO0624_50014,301938,271,270,Paire de vases en porcelaine francaise. Le vase tenu par,,45.0,True,title_direct,,,Porcelaine
+BO0624_50014,301939,272,271,"Trois Ecuelles a fruits en forme de feuilles, en porcelaine",,49.2,True,title_direct,,,Porcelaine
+BO0624_50014,301940,273,272,"Vienne. Tasse et soucoupe, buste romain sur fond brun, en-",,49.2,True,none,,,
+BO0624_50014,301941,274,273,"Sucrier en vieux Hochst, superbe decor a paysages avec figures a cheval en violet, couvercle avec feur comme bouton,felure.",,52.5,True,none,,,
+BO0624_50014,301942,275,274,"Paire de vases énormes en porcelaine francaise, sur une base ronde, s'eleve le vase a deux anses a mascarons dores, surmontes de couvercles dont le bouton represente un gland. Peinture artistique de bouquets de roses, de pensees et d'autres feurs, sous les anses des arabesques larges en or. Haut. 99 cM. Voir la reproduction.",,46.6,True,title_direct,,,Porcelaine
+BO0624_50014,301943,276,275,"Plateau carre en vieuc Meissen de superbe qualite, grand cerf avec son bouquetin sous un arbre, entourage de petites",,55.7,True,none,,,
+BO0624_50014,301944,277,276,"Petite groupe en vieux Meissen. Deux enfants nus portant des feurs, marque épees croissees. Jolie groupe. Haut. 11.5, larg. 7 cM.",,49.0,True,none,,,
+BO0624_50014,301945,278,277,"Statuette representant un peintre, en vieux Frankenthal. Haut. 11 cM.",,46.9,True,none,,,
+BO0624_50014,301946,279,278,"Statuette en vieux Meissen, non signé. Jeune fille écrivant des chiffres sur une lettre, manteau bleu a étoiles d'or. Haut.12 cM.",,46.0,True,none,,,
+BO0624_50014,301947,280,279,"Statuette de jeune fille, faisant pendant a la precedente statuette. Elle joue du mandoline, habit a feurs brodees sur",,48.1,True,none,,,
+BO0624_50014,301948,281,280,"Jolie statuette, representant l'hiver, enfant allumant le feu en tirant d'une souffle feu.",,43.2,True,none,,,
+BO0624_50014,301949,282,281,"Groupe de trois personnages, deux jeunes femmes et un homme, une des dames assise réleve sa robe et on voit son pied nu. En vieille porcelaine de Vienne. Superbe groupe polychrome, quelques légeres endommagements et restaurations. Larg. 18,haut. 24 cM.",,47.6,True,title_direct,,,Porcelaine
+BO0624_50014,301950,283,282,Paire de statuettes en vieux Meissen. Le Jardinier et le,,44.3,True,none,,,
+BO0624_50014,301951,284,283,"Statuette de jeune femme, regardant deux pigeons, en por-",,43.1,True,none,,,
+BO0624_50014,301952,285,284,"Service a cafe et a the en porcelaine de Franckenthal, cafetiere, theiere, pot au lait chaud, sucrier, boite a thé et dix tasses et soucoupes, quelques endommagements.",,47.2,True,title_direct,,,Porcelaine
+BO0624_50014,301953,286,285,"Six petites Ecuelles a fan en forme de feuille,dessous pensee avec ses feuilles, a l'interieur des petits bouquets.",,48.3,True,none,,,
+BO0624_50014,301954,287,286,"Rond de serviette en porcelaine a pate tendre, decor doré",,55.2,True,title_direct,,,Porcelaine
+BO0624_50014,301955,288,287,"Deux tasses et soucoupes, riche decor de marine chinoise",,46.7,True,none,,,
+BO0624_50014,301956,289,288,"Service a diner en vieille porcelaine de Fuirstenberg. Joli decor a paysages montagneux a figures. Le bord a tiges de feurs, se composant: - b. Six grands plats ovales, diam. 42/33 cM. - a De deux soupieres ansees, couvercles avec poire et ses feuilles comme bouton. - c. 66 Assiettes. - d.24 Assiettes a soupe. - e.4 Plats ronds,diam.27 cM. - f.3 Plats ronds, diam.29.5 cM. - g.2 Ecuelles a légumes, diam. 28 cM. - h.4 Ecuelles quadrangulaires, diam. 18.5 cM. - j. 2 Corbeilles a fruits, décor ajouré, 22.5 cM. - i.3 Plats ovales, 25/17.5 cM. - k.3 Saucieres ansees, une piece endommagee. - Superbe service en tout 119 pieces.",,35.0,True,title_direct,,,Porcelaine
+BO0624_50014,301957,290,289,"Pot a eau en porcelaine d'Amstel, superbes paysage hollandais avec figures, entourage a décor doré, felé.",,49.5,True,title_direct,,,Porcelaine
+BO0624_50014,301958,291,290,"Plateau ovale en vieux Delft, paysage avec seigneur qui fait descendre une dame du cheval, de l'autre cote,homme jouant du cornemuse accompagné d'une femme. Vue de ville et differents animaux. Bord releve avec quatre coquilles en émail polychrome. Haut.31.5 cM.",,48.1,True,none,,,
+BO0624_50014,301959,292,291,"Plateau quadrangulaire, corbeille remplie de feurs et de fruits, surmonte d'un oiseau. Bordures de feuilles sur fond bleu.Haut. 26 cM.,légere defectuosite.",,48.3,True,none,,,
+BO0624_50014,301960,293,292,"Cache-pot ansé, decor de feurs de cerisier, bleu, rouge,",,45.0,True,none,,,
+BO0624_50014,301961,294,293,"Paire de pots a vin. Homme et femme assises sur un tonneau, dans lequel un robinet en bronze. Habits brodes a petits bouquets, costume d'environ 1700.",,47.2,True,none,,,
+BO0624_50014,301962,295,294,"Grand tableaux en carreaux en vieux Delft, d'unegbeauté excessive. Jardin d'un chateau avec vases et statue, et plusieurs personnes en costume du temps promenant et s'entretenant; compose de 54 carreaux et entouré d'une riche bordure d'arabesques. Dans un encadrement en chene. Haut. 0.90, larg. 1.29 M. D'un grand maitre d'environ 1760.",,43.2,True,title_direct,,,Tableaux
+BO0624_50014,301963,296,295,Paire de beurriers et vase a saupoudrer en forme de bottes,,52.5,True,none,,,
+BO0624_50014,301964,297,296,"Six assiettes orangistes en faience anglaise de la fabrique du capitaine Piccardt a Delft, aux bustes opposes du prince et de la princesse dessous ik brand ligt, voor de Prins zijn nigt etc.",,44.0,True,title_direct,,,Faience
+BO0624_50014,301965,298,297,"Paire de potiches avec medaillons au buste du prince Guillaume V, dessous Prins Willem de V. Marque P (Pennis).",,45.6,True,none,,,
+BO0624_50014,301966,299,298,"Six grands plats en vieux Delft, lot a diviser.",,45.8,True,none,,,
+BO0624_50014,301967,300,299,"Trois grands plats polychromes, décor rayonnant (Pompadour).Diam.34 cM.",,42.9,True,none,,,
+BO0624_50014,301968,301,300,"Trois plats pareils, diam. 29 cM.",,40.0,True,none,,,
+BO0624_50014,301969,302,301,"Assiette en vieux Delft dore par Abraham Pijnacker, tige de feurs et de feuilles, dans un entourage rayonnant. Belle piece felee.",,50.6,True,none,,,
+BO0624_50014,301970,303,302,"Statuette en vieux Delft. Enfant assis sur un tapis et tenant une pomme, decor en violet, marque Z. Haut. 13 cM.",,48.2,True,none,,,
+BO0624_50014,301971,304,303,"Grand plat, decor bleu, paysage hollandais a figures, légere restauration, belle qualité. Diam. 34 cM.",,47.7,True,none,,,
+BO0624_50014,301972,305,304,"Tableau avec grand nombre de personnages dans la cour d'un chateau, costume du XVIme siecle, sur un carreau en vieux Delft encadré. Haut. 27.5, larg. 30 cM.",,46.5,True,title_direct,,,Tableaux
+BO0624_50014,301973,306,305,"Lot de six assiettes, décor de feurs violets.",,44.7,True,none,,,
+BO0624_50014,301974,307,306,"Lot de six assiettes, décor bleu de feurs.",,42.7,True,none,,,
+BO0624_50014,301975,308,307,"Garniture composee d'un potiche a couvercle a huit pans, riche decor d'oiseaux dans un jardin, bordure dite fransche punt, et de deux vases de forme bouteille au meme decor.",,45.5,True,none,,,
+BO0624_50014,301976,309,308,"Grand plat a décor bleu, tournesol dans un coin de jardin, entourage de huit reserves a feurs et d'ustensiles. Signe Diam. 40 cM.",,49.6,True,none,,,
+BO0624_50014,301977,310,309,"Panier a pain en vieux Delft dore, decor de pivoines et d'oiseaux, riche bordure le vert dominant. Belle piece d'un grand maitre,restauré.",,50.7,True,none,,,
+BO0624_50014,301978,311,310,"Garniture de cinq pieces en camaieu brun, a reserves en camaieu bleu coin de jardin avec saule pleureur. Les couvercles surmontes de chiens assis marque J. V. D. B., Jan Van der Buergen, dans I'A grec. Haut. 40 cM. Belle garniture.",,45.2,True,none,,,
+BO0624_50014,301979,312,311,"Six grands plats, decor recherché au rouet de paon (Pauwstaart), marque griffe. Diam. 31.5 cM. Belles pieces.",,46.8,True,none,,,
+BO0624_50014,301980,313,312,Assiette (Pannekoekje) en superbe decor rayonnant poly-,,48.7,True,none,,,
+BO0624_50014,301981,314,313,"Paire d'assiettes polychromes, signées VH (Verhagen), au centre les armoiries de St. Antoine entourées d'un ruban;",,44.9,True,none,,,
+BO0624_50014,301982,315,314,"Trois assiettes de belle qualite (Pannekoekjes), des feurs",,43.7,True,none,,,
+BO0624_50014,301983,316,315,"Trois belles petites assiettes en bleu royal, a bords dentelées.",,45.5,True,none,,,
+BO0624_50014,301984,317,316,"Trois assiettes (Pannekoekjes) de superbe qualité, coin de",,47.5,True,none,,,
+BO0624_50014,301985,318,317,"Cinq assiettes de belle qualite, beau decor de fougere, marque haches, bords en émail jaune.",,48.3,True,none,,,
+BO0624_50014,301986,319,318,"Paire de statuettes de vaches en beau decor bleu. Belle qualite,conservation parfaite,sauf legere restauration des cornes. Garniture enorme de cinq pieces, signee L. P. K., superbe decor bleu de feurs. Trois couvercles surmontes de boutons Applique en vieux Delft en decor bleu, dessin genre Boucher, entourage rococo en relief, violet et jaune.",,48.2,True,none,,,
+BO0624_50014,301987,320,319,"Applique en vieux Delft en decor bleu, dessin genre Boucher, entourage rococo en relief, violet et jaune.",,48.2,True,none,,,
+BO0624_50014,301988,321,320,"Garniture enorme de cinq pieces, signee L. P. K., superbe decor bleu de feurs. Trois couvercles surmontes de boutons  en forme de chiens assis, un des chiens colle. Belle garniture",,47.5,True,none,,,
+BO0624_50014,301989,322,321,"Garniture polychrome de cinq pieces, beau decor émaillé a pensees, marque hache, les couvercles surmontes d'oiseaux. Quelques restaurations insignifiantes. Marque hache (vers 1775). Haut. 32 cM.",,53.9,True,none,,,
+BO0624_50014,301990,323,322,"Assiette de belle qualite en camaieu bleu,seigneur et dame se promenant, dans le lointain village, costumes d'environ 1680.",,48.2,True,none,,,
+BO0624_50014,301991,324,323,"Assiette de belle qualite fond vert, quatre reserves en forme de coeur a decor de feurs polychromes,au centre feuilles superposees.",,53.2,True,none,,,
+BO0624_50014,301992,325,324,"Theiere polychrome de superbe qualite, signee par la célebre Amerensie van Kessel, vers 1675. Superbe decor a la corbeille de feurs, conservation parfaite.",,46.4,True,none,,,
+BO0624_50014,301993,326,325,"Paire de grands plats d’une qualite superieure, decor bleu,",,52.0,True,none,,,
+BO0624_50014,301994,327,326,"Quatre grands plats, au rouet de paon, Pauwstaart,mar-",,39.4,True,none,,,
+BO0624_50014,301995,328,327,"Trois grands plats pareils, meme decor plus grands. 32 cM. Belle qualité.",,45.3,True,none,,,
+BO0624_50014,301996,329,328,"Paire de superbes plats polychromes, joli decor a petites feurs. 26.5 cM. avec signature inconnue, vraisemblablement de Dirk (Theodorus) Witsenburgh.",,46.9,True,none,,,
+BO0624_50014,301997,330,329,"Assiette polychrome (pannekoekje) de belle qualité, cerfs dans le bois, restauration insignifiante.",,41.6,True,none,,,
+BO0624_50014,301998,331,330,"Vase hexagone avec couvercle godronné, beau decor polychrome a figures, avec signature de Jan Teunis Dectra. Haut. 26 cM. Restauration insignifiante.",,48.1,True,none,,,
+BO0624_50014,301999,332,331,"Broc a decor bleu a godrons tournants, figures dans la maniere chinoise. Jolie piece.",,48.8,True,none,,,
+BO0624_50014,302000,333,332,"Huit assiettes de belle qualite, decor bleu a ceps de vigne (Pannekoekjes).",,41.2,True,none,,,
+BO0624_50014,302001,334,333,Lot fort interessant de six assiettes polychromes toutes de,,46.5,True,none,,,
+BO0624_50014,302002,335,334,"Nevers. Terrine ansee avec couvercle, decor polychrome a chinoiseries. Le couvercle avec pomme et sa feuille comme bouton.",,48.6,True,none,,,
+BO0624_50014,302003,336,335,"Urbino. Plat superbe. Genie pres d'une coupe remplie de fruits. tenant une grappe de raisins, a l'entour grotesques. Diam. 27 cM. dans un cadre en bois sculpte et dore.",,49.0,True,none,,,
+BO0624_50014,302004,337,336,Faenza. Beau vieux bol decor de fruits et de feuilles. Diam. 28 cM. XVIIme siecle.,,46.2,True,none,,,
+BO0624_50014,302005,338,337,"Quatre corbeilles a feurs en faience anglaise avec leurs plateaux, imitant la vannerie,une piece endommagee.",,49.2,True,title_direct,,,Faience
+BO0624_50014,302006,339,338,"Terrine en vieux Strasbourg, superbe décor a bouquets avec",,45.9,True,none,,,
+BO0624_50014,302007,340,339,"Bol, pot au lait et boite a the, decor de feurs environnant un medaillon a tres joli paysage avec jardin Louis XVI, guirlandes en émail vert.",,52.5,True,none,,,
+BO0624_50014,302008,341,340,"Tonneau a biere en gres rhenan a deux anses, ornes de mascarons XVIme siecle, le tuyau legerement ébreche. Long. 37cM.",,48.2,True,none,,,
+BO0624_50014,302009,342,341,"Cruche pareille, le col a superbe frise renaissance, panse évasée",,46.8,True,none,,,
+BO0624_50014,302010,343,342,"Piece de milieu en cristal taille de Boheme, le milieu a vase de feurs, sur pied carre. Haut. 40 cM.",,49.6,True,title_direct,,,Cristal
+BO0624_50014,302011,344,343,"Paire de compotiers au meme decor sur pied carre, les cou-",,49.2,True,none,,,
+BO0624_50014,302012,345,344,"Tonneau a liqueur en cristal taille a decor de feurs et de cotes tournantes; sur échafaud et avec riche monture en bronze cisele et dore, époque Empire.",,49.0,True,title_direct,,,Cristal
+BO0624_50014,302013,346,345,"Bocal avec couvercle, artistiquement taille aux bustes de",,50.0,True,none,,,
+BO0624_50014,302014,347,346,Bocal a longue tige du XVIIme siecle avec bordure gravee,,49.6,True,none,,,
+BO0624_50014,302015,348,347,"Bocal couvert, aux armoiries d'une famille qui portait pour devise sur un ruban STIRPE DECORUS. Haut 34 cM.",,49.8,True,none,,,
+BO0624_50014,302016,349,348,"Bocal couvert, aux armoiries de? au lion, avec deux lions comme tenants.Haut. 28 cM.",,49.7,True,none,,,
+BO0624_50014,302017,350,349,"Bocal couvert, aux armoiries d'une famille anglaise sur des trophées d'amiral. Haut. 28 cM.",,46.3,True,none,,,
+BO0624_50014,302018,351,350,Bocal couvert aux armoiries d'Overijssel. Haut. 29 cM.,,45.7,True,none,,,
+BO0624_50014,302019,352,351,"Caraffe ansee du XVIme siecle, decor gravé, oiseaux sur des branches de lierre.",,47.4,True,none,,,
+BO0624_50014,302020,353,352,Paire de compotiers et coupe a creme en cristal taillé de Boheme. Belles pieces sur pieds carres.,,50.8,True,title_direct,,,Cristal
+BO0624_50014,302021,354,353,"Plateau en cristal taille a decor dore avec 12 tumblers a cotes, a riche déecor de guirlandes dorees. Epoque Louis XVI.",,52.1,True,title_direct,,,Cristal
+BO0624_50014,302022,355,354,"Tonneau a hypocras (Kruidewijn) en verre vert,le robinet en metal blanc. Haut. avec le couvercle 38 cM.",,47.3,True,none,,,
+BO0624_50014,302023,356,355,"Piece de milieu en superbe cristal taille de Boheme a trois étages, la tige finissant en tulipe. Haut. 78 cM.",,50.9,True,title_direct,,,Cristal
+BO0624_50014,302024,357,356,"Verre a vin a haute tige, grave au diamant par le célebre Wolff, representant deux amours s'embrassant. Haut. 19 cM.",,45.6,True,none,,,
+BO0624_50014,302025,358,357,"Bocal a couvercle, en cristal taillé, aux armoiries gravées de? écartele et contre ecartele de? et arabesques. Haut. 34cM.",,45.3,True,title_direct,,,Cristal
+BO0624_50014,302026,359,358,"Deux bocaux de Venise, les tiges a panses piriformes. XVIme siecle.",,47.1,True,none,,,
+BO0624_50014,302027,360,359,"Bocal a decor artistiquement gravé, l'accouchee dans son lit et la bonne tirant le berceau Het Welvaart van de Kraam-",,50.9,True,none,,,
+BO0624_50014,302028,361,360,"Bocal en cristal de Vénise, la coupe en decor grave de",,53.3,True,title_direct,,,Cristal
+BO0624_50014,302029,362,361,Bocal couvert orangiste. Oranger et VIVAT PRINC VAN ORANIEN. Haut. 28 cM.,,35.0,True,none,,,
+BO0624_50014,302030,363,362,"Moutardier en cristal taillé,a bords dores.",,45.7,True,title_direct,,,Cristal
+BO0624_50014,302031,364,363,"Lot interessant, bocal grave a couvercle, le pied a spirales rouges (le couvercle endommage). Verre a vin et verre a biere graves.",,50.7,True,none,,,
+BO0624_50014,302032,365,364,"Verre a vin a superbe decor gravé, aux armoiries de George I, roi d’Angleterre.",,53.1,True,none,,,
+BO0624_50014,302033,366,365,"Bouteille en verre vert du XVIIme siecle, avec legende",,47.8,True,none,,,
+BO0624_50014,302034,367,366,"Paire de superbes compotiers en cristal taille de Boheme,",,50.4,True,title_direct,,,Cristal
+BO0624_50014,302035,368,367,"Rechaud pour allumer la pipe en superbe decor rehaussée et ajoure, sur trois pieds a volutes lies par une frise ajourée. Superbe piece, epoque Louis XIV. Poincons Amsterdam,lion hollandais, avec la marque du celebre orfevre Johannes Lautma le jeune, poincon A. Poids net gr. 288.5 sur un plateau en",,44.5,True,none,,,
+BO0624_50014,302036,369,368,"Rechaud pareil, a beau decor ajoure, bord cordonné. Poincons Leeuwarde, la Frise, PW et Z. Poids net 214 gr. sur un plateau en acajou.",,44.6,True,none,,,
+BO0624_50014,302037,370,369,"Louche, le cuilleron en forme de coquille manche a filet, vers 1700. Poincons Amsterdam, gr. 151.",,46.7,True,none,,,
+BO0624_50014,302038,371,370,"Cuiller a punch, decor repousse tournant, manche en ebene.",,46.2,True,none,,,
+BO0624_50014,302039,372,371,"Douze cuillers et douze fourchettes de la fin du XVlIme siecle. Poincons de Leeuwarde, la Frise et W (deux fourchettes restituees). Poids gr. 1543.",,49.2,True,none,,,
+BO0624_50014,302040,373,372,"Service a the Empire en argent de premier titre,a bords srries. Se composant:",,45.6,True,none,,,
+BO0624_50014,302041,374,373,"Cafetiere avec son rechaud, a bord strie le couvercle aussi avec serpent enroulé comme bouton.Arg. de 1er titre,le réchaud sur plateau en ébene.",,50.6,True,none,,,
+BO0624_50014,302042,375,374,"Boite a the se fermant a clef, lion couche comme bouton.",,50.0,True,none,,,
+BO0624_50014,302043,376,375,"Sonnette de table en argent massif, vers 1820, gr. 295.",,46.8,True,none,,,
+BO0624_50014,302044,377,376,"Grand plat a large bord repousse a decor de pivoines et autres feurs,beau travail de la premiere moitie du XVlIme siecle de l'école d'Augsbourg. Poincons et WS.Diam. 37 cM. Poids gr. 520.",,46.1,True,none,,,
+BO0624_50014,302045,378,377,"Corbeille a pain ovale en argent cisele et ajoure, bord perlé. Epoque Louis XVI, poincon IHK. A deux anses, diam. 22/31 cM. Poids gr.851.",,48.8,True,none,,,
+BO0624_50014,302046,379,378,"Sonnette de léglise catholique. Superbe travail repoussée, Poincons La Haye,Hollande et Z couronné, avec l'inscription. Laudate eum in Cymbalis bene sonantibus, ps. 150. Belle piece, époque Louis XIV.",,44.8,True,none,,,
+BO0624_50014,302047,380,379,"Boite a the piriforme a cotes bombes et décor repousse tournant. Beau travail d'environ 1660. Poincons de Harlem,",,48.6,True,none,,,
+BO0624_50014,302048,381,380,"Boite a the du meme époque, beau travail repousse a coquilles et fleurs. Poincons Amsterdam, poisson et N.gr.140.",,45.3,True,none,,,
+BO0624_50014,302049,382,381,"Encensoir en beau decor repousse a cotes et feuilles d'acanthe, les chainettes aussi en argent, dont on fait usage a present comme porte-feurs. lere moitie du XVlIme siecle, poincon ancien et linscription Ultie Leuwes Remsma,Triintien Simons Hiddema,Leuwe Ulties Remsma.Vraisemblablement cet encensoir est offert par ces trois femmes a leur église parochiale frisonne. Poids gr. 2250.",,43.4,True,none,,,
+BO0624_50014,302050,383,382,"Sonnette de table massive, a decor de guirlandes ciselees.",,46.2,True,none,,,
+BO0624_50014,302051,384,383,"Paire de vases a saupoudrer a decor tournant,les cuvettes en forme de dome a decor ajoure de feuillage. Poincons Bois-le-Duc, B couronné et FA.Ar. gr. 495.",,49.1,True,none,,,
+BO0624_50014,302052,385,384,Nautulus. Sur un pied oval a decor repousse sujets marins portant le nautulus a riche monture en argent cisele. Bon travail hollandais imitant un chef d'oeuvre d'orfevrerie du,,47.4,True,none,,,
+BO0624_50014,302053,386,385,"Drageoir. Superbe travail repousse renaissance Hector et Andromede se sauvant sur un rocher embosse artistiquement,",,46.3,True,none,,,
+BO0624_50014,302054,387,386,"Gobelet couvert en vermeil, beau decor repousse a guirlandes entourant de medaillons a feurs. Le bouton fait defaut. Poincons Augsburg de 173739 et C-S. Haut. 32 cM. Poids 900 gr.",,49.9,True,none,,,
+BO0624_50014,302055,388,387,"Gobelet couvert en vermeil. Medaillons a figures et a paysages entoures par d'arabesques et sur le pied par des mascarons. Belle piece, le bouton fait defaut. Haut. 36 cM. gr. 950.",,52.9,True,none,,,
+BO0624_50014,302056,389,388,"Six flambeaux Louis XV sur pieds ronds a cotes tournantes, les tiges aussi a decor tournant, les pieds poses sur trois volutes ciselées, avec cinq bobeches. Poincons Amsterdam, gobelet et trefeuille. Poids 365 gr.",,46.9,True,title_direct,,,Flambeaux
+BO0624_50014,302057,390,390,"Pigeon artistiquement repousse, les aigles éployés, la tete",,43.9,True,none,,,
+BO0624_50014,302058,391,391,"Pigeon artistiquement repousse, l'aile droit éploye la tete contournee, peut s'ouvrir comme facon. Belle piece du",,50.9,True,none,,,
+BO0624_50014,302059,392,392,"Faucon comme vase a saupoudrer, artistiquement repoussé, la tete fermant a vis, les yeux formes par deux grenates.",,51.6,True,none,,,
+BO0624_50014,302060,393,393,"Faucon, comme vase a saupoudrer pareil, seulement posé",,43.3,True,none,,,
+BO0624_50014,302061,394,394,"Gobelet a decor gravé, personnages en costume du XVIIme",,49.4,True,none,,,
+BO0624_50014,302062,395,395,"Quatre douzaines de couteaux a manches en argent artistiquement ciseles a décor tournant en style rococo, seront vendus par douzaine.",,46.8,True,none,,,
+BO0624_50014,302063,396,396,"Deux douzaines de couteaux a dessert,aux memes manches,",,45.3,True,none,,,
+BO0624_50014,302064,397,397,"Gobelet posé sur trois boules, decor gravé aux armoiries",,46.7,True,none,,,
+BO0624_50014,302065,398,398,"Pot au lait, a decor gravé, sur trois pieds cintres a genoux",,51.4,True,none,,,
+BO0624_50014,302066,399,399,"Corbeille a fleurs, en joli decor cisele a guirlandes sortant d'une galerie ajourée et a decor perlé. Le bassin en verre fait defaut. Poincons d'Amsterdam. Epoque Louis XVI.",,51.4,True,none,,,
+BO0624_50014,302067,400,400,"Petit plateau a bonbons, joli decor repoussé. Poincons de",,44.6,True,none,,,
+BO0624_50014,302068,401,401,"Paire de boites a biscuits, lune ronde, l'autre carree, a decor perlé. Poids gr. 1111.",,48.0,True,none,,,
+BO0624_50014,302069,402,402,"Aiguiere en superbe decor repousse, a medaillons a paysages,",,51.6,True,none,,,
+BO0624_50014,302070,403,403,"Echafaud de huillier en argent ajoure. Argent de ler titre, vers 1818. Poids net 372 gr.",,46.1,True,none,,,
+BO0624_50014,302071,404,404,"Paire de salieres et moutardier, a medaillons entoures de guirlandes, époque Louis XVI, avec deux bassins en verre bleu. gr. 188.",,57.1,True,none,,,
+BO0624_50014,302072,405,405,"Huillier du commencement du XIXme siecle,a quatre facons en cristal taille de Boheme, poses dans quatre corbeilles a decor ajouré et perlé, fixées sur une base en ébene, au",,47.6,True,title_direct,,,Cristal
+BO0624_50014,302073,406,406,"Paire de ronds de réchauds, pour chauffer les assiettes, d'en-",,45.0,True,none,,,
+BO0624_50014,302074,407,407,"Six cuillers d'une confrerie de charpentiers d'Amsterdam, sur les manches ciseles un maitre portant baquet a ustensiles et ayant un marteau dans la ceinture, sur le baquet les dates 1753,1754, 1756,1757,1759 et 1760. Poingons d'Amsterdam celui de 1753 avec S, de 1754 avec T, de 1756avec cornet, de 1757 avec W, de 1759 avec Y,de 1760 avec Z, touts ont le cornet la marque de lorfevre van Hoorn). Lot fort",,37.5,True,none,,,
+BO0624_50014,302075,408,408,"Coffret en acajou, contenant deux boites a thé en argent et un sucrier en cristal, le couvercle en argent, vers 1820. gr.294.",,49.4,True,title_direct,,,Cristal
+BO0624_50014,302076,409,409,"Deux cabarets (a bouteilles), riche decor ajouré et perlé en style Louis XVI posterieur. gr. 450.",,50.8,True,none,,,
+BO0624_50014,302077,410,410,Livre d'heures des Protestants avec gravures; fermetures et monture en argent cisele renaissance.,,51.9,True,title_direct,,,Livres
+BO0624_50014,302078,411,411,"Paire de cannettes, travail repousse, époque Louis XV.",,48.4,True,none,,,
+BO0624_50014,302079,412,412,Anse tournante d'une coupe a pates en argent gravé.,,48.1,True,none,,,
+BO0624_50014,302080,413,413,"Douzaine de couteaux a fruits en argent, manches en ivoire avec monture en argent.Epoque Empire.",,49.2,True,none,,,
+BO0624_50014,302081,414,414,"Piece de milieu a pied artistiquement repousse, couple de cerfs sous un chene, le coup en cristal taille de Boheme. Poincon V couronné. Poids net 2350 gr.",,52.1,True,title_direct,,,Cristal
+BO0624_50014,302082,415,415,"Cuiller a saupoudrer et cuiller a creme, deux pieces d'environ 1750.gr. 48.",,48.8,True,none,,,
+BO0624_50014,302083,416,416,"Pot au lait a beau decor repousse, anse en bois. Epoque Louis XVI. Poids brut gr. 148. Poincons anciens.",,49.8,True,none,,,
+BO0624_50014,302084,417,417,"Saliere de forme nacelle, decor ajoure et perle. Poincons anciens, époque Empire. gr. 79, le bassin fait defaut.",,50.7,True,none,,,
+BO0624_50014,302085,418,418,Casolette a décor ciselé. gr. 20.,,40.4,True,none,,,
+BO0624_50014,302086,419,419,"Corbeille ovale, décor ajouré et perlé, époque Louis XVI. gr.44.",,44.9,True,none,,,
+BO0624_50014,302087,420,420,Gobelet a decor grave a decor d'arabesques et d'or-,,47.0,True,none,,,
+BO0624_50014,302088,421,421,"Kresse d'un prince, lame artistiquement damasquinee, griffe en palissandre, wrangka en bois satiné avec bande en cajou pellet, fourreau en argent niellé avec figures de betes et d'animaux et de foudres ailees en or. Piece de la plus haute rareté. Dans un coffret en acajou, contenant aussi des ustensiles pour nettoyer des armes.",,46.4,True,none,,,
+BO0624_50014,302089,422,422,"Les chasseurs a cheval a Utrecht, pendant la campagne de 1815. Medaille avec ruban.",,44.9,True,none,,,
+BO0624_50014,302090,423,423,Deux boites de mariage a/bords perlés et a écusson grave aux initiales des fiancees et l'inscription Altijt des heren Segen vint—de hem met got in trou verbint —dus geeft hem Eer 137 chaque boite. Seront vendues par piece.,,45.4,True,none,,,
+BO0624_50014,302091,424,424,"Tabatiere de lépoque Louis XV a decor gravé a figures. Poincons anciens y joint la cure-pipe, statuette d'un fumeur",,48.6,True,none,,,
+BO0624_50014,302092,425,425,Les pions d’'un jeu d'échec. Suite fort interessante repousse,,42.3,True,none,,,
+BO0624_50014,302093,426,426,"Table a cliquet, superbe decor repousse, le pied a decor",,58.3,True,none,,,
+BO0624_50014,302094,427,427,"Cage a perroquet, du XIXme siecle. gr. 22.5.",,46.2,True,none,,,
+BO0624_50014,302095,428,428,Petite corbeille a bonbons en filigraine. Epoque Empire.,,41.9,True,none,,,
+BO0624_50014,302096,429,429,Theiere a décor repousse Louis XVI et pot au lait Louis XV. pieces anciennes. gr. 23.5.,,53.0,True,none,,,
+BO0624_50014,302097,430,430,"Coupe a Boerenjongens et moulin a cafe, deux pieces an-",,46.6,True,none,,,
+BO0624_50014,302098,431,431,"Echauffoir et fer a gauffres, décor ciselé et repoussé. gr. 29.5.",,45.8,True,none,,,
+BO0624_50014,302099,432,432,Souriciere et sonnette de table. Deux jolies pieces anciennes.,,46.3,True,none,,,
+BO0624_50014,302100,433,433,"Pincettes, couteau-tranchant et pelle, trois objets anciens. gr.29.",,41.9,True,none,,,
+BO0624_50014,302101,434,434,"Mouchettes, décor torse, poincons anciens, vers 1700. gr.10.",,44.0,True,none,,,
+BO0624_50014,302102,435,435,"Trepied, deux brosses variees et deux planchettes a aiguiser lot interessant de pieces anciennes. gr. 37.",,48.7,True,none,,,
+BO0624_50014,302103,436,436,"Ressort de bourse avec l'agrafe, la bourse en soie.",,48.0,True,none,,,
+BO0624_50014,302104,437,437,"Homme avec traineau, la chasse au cerf et bureau de banquier. Lot interessant. gr. 96.",,45.4,True,none,,,
+BO0624_50014,302105,438,438,Chaise frisonne atellee a un cheval. gr. 42.,,41.6,True,none,,,
+BO0624_50014,302106,439,439,Traineau ferre attele a un cheval. gr. 51.,,41.5,True,none,,,
+BO0624_50014,302107,440,440,"Chasseur aux lapins, traineau ferre attelé a un cheval, garcon",,42.9,True,none,,,
+BO0624_50014,302108,441,441,Paysanne battant la beurre. Jeune fille sautant a la corde.,,42.3,True,none,,,
+BO0624_50014,302109,442,442,"Siflet du XVIIme siecle, décor imitant la vannerie, gr. 19,",,40.7,True,none,,,
+BO0624_50014,302110,443,443,"Poele a beignets et pelle aux balayures, salon se composant",,47.2,True,none,,,
+BO0624_50014,302111,444,444,"Croisette de patenotre du XVIme siecle, au revers gravé. gr. 12.5.",,49.2,True,none,,,
+BO0624_50014,302112,445,445,"Pelle et brosse a a balayures, broche avec hareng. gr. 20.5.",,45.2,True,none,,,
+BO0624_50014,302113,446,446,"Corbeille a pain, beau décor ajoure et perlé. gr. 23.",,53.0,True,none,,,
+BO0624_50014,302114,447,447,Pelle a superbe décor ciselé a mascaron. gr. 10. Epoque Louis XIV.,,50.8,True,none,,,
+BO0624_50014,302115,448,448,"Boite a gardes les sous, boite a mesure. gr. 15.",,49.5,True,none,,,
+BO0624_50014,302116,449,449,"Petite corbeille a tricoter, decor ajouré, vers 1818. gr. 42.",,48.0,True,none,,,
+BO0624_50014,302117,450,450,Bague avec brillant énorme de premiere eau. Superbe piece.,,43.0,True,none,,,
+BO0624_50014,302118,451,451,"Paire de boutons d'oreille en roses piriformes de belle qualité, monture en or.",,50.0,True,none,,,
+BO0624_50014,302119,452,452,Chronometre en or de 18 carats. Superbe montre.,,45.3,True,none,,,
+BO0624_50014,302120,453,453,"Broche miniature, peint sur porcelaine, monture or et argent.",,53.3,True,title_direct,,,Porcelaine
+BO0624_50014,302121,454,454,"Broche a diamants en forme de rose avec ses feuilles,au centre rose enorme de premiere eau de vieille roche,al'entour plusieurs boutons et feuilles serties de roses, monture or et argent.",,53.7,True,none,,,
+BO0624_50014,302122,455,455,"Collier compose de 42 roses de belle qualite, celles du milieu énormes, en grandeur diminuant ; avec trois roses piriformes",,50.9,True,none,,,
+BO0624_50014,302123,456,456,"Bague marquise sertie de roses de belle qualite, monture en or Louis XV.",,48.7,True,none,,,
+BO0624_50014,302124,457,457,"Bague marquise, sur un fond en émail bleu translucide,",,44.2,True,none,,,
+BO0624_50014,302125,458,458,"Bague ovale, tige de feurs sertie de petits diamants.",,46.4,True,none,,,
+BO0624_50014,302126,459,459,"Bague ovale, sous verre une tige de feurs sertie de petites",,49.2,True,none,,,
+BO0624_50014,302127,460,460,"Bague marquise sertie de petite diamants, representant un vase remplie de fleurs, monture or et argent.",,50.2,True,none,,,
+BO0624_50014,302128,461,461,Broche sertie de grand nombre de petits diamants en forme,,51.7,True,none,,,
+BO0624_50014,302129,462,462,"Broche en forme de croissant enrubanne, avec grand nombre de brillants de bonne qualité, monture en or et argent.",,46.6,True,none,,,
+BO0624_50014,302130,463,463,"Broche ovale, sur un émail en vert translucide,trois roses",,47.9,True,none,,,
+BO0624_50014,302131,464,464,"Collier de deux rangees de perles (d'environ 60 carats), avec fermeture en or orné d'un diamant et de cinq perles.",,48.1,True,none,,,
+BO0624_50014,302132,465,465,"Bague avec rose énorme de vieille roche, monture en or cisele. Belle piece.",,54.5,True,none,,,
+BO0624_50014,302133,466,466,"Bijou renaissance en or émaillé, cerf couche et St. Hubert avec son chien en émail blanc, le revers a pierreries, avec grande perle comme pendatif. Poids brut gr. 71.",,48.5,True,title_direct,,,Bijoux
+BO0624_50014,302134,467,467,"Collier de dix rangees de grenates, fermeture en or cantille, vers 1825.",,48.5,True,none,,,
+BO0624_50014,302135,468,468,"Montre de dame Louis XVI, fond émaille avec miniature, marine au couche du soleil, entourage de feuilles emaillées,",,52.1,True,none,,,
+BO0624_50014,302136,469,469,"Petite boite en ivoire décor cisele, bord en or de 18 carats.",,52.8,True,none,,,
+BO0624_50014,302137,470,470,"Boite a épiceries gothique, en forme de trois tours de chateau en cuivre cisele et argente. Objet fort curieux.",,52.2,True,none,,,
+BO0624_50014,302138,471,471,"Aiguiller en ivoire,artistiquement cisele imitant la dentelle, y ajoute deux ornements de meuble en os gravé et epingle de cravate a camée, monture en argent.",,51.0,True,none,,,
+BO0624_50014,302139,472,472,"Eventail en ivoire a decor sculpte et dore,feuille aquarellée.",,46.9,True,none,,,
+BO0624_50014,302140,473,473,"Deux cannes avec des boutons repousses et ciseles en argent, y ajoute deux autres pieces.",,48.6,True,none,,,
+BO0624_50014,302141,474,474,"Canne avec bouton en porcelaine de Saxe, representant un",,47.5,True,title_direct,,,Porcelaine
+BO0624_50014,302142,475,475,Metre en acajou sculpte et la date 1776.,,48.1,True,none,,,
+BO0624_50014,302143,476,476,Heaume avec visiere. XVIme siecle.,,45.3,True,none,,,
+BO0624_50014,302144,477,477,Lot de six ornements de meuble en laiton.,,46.0,True,none,,,
+BO0624_50014,302145,478,478,Lot de six ornements de meuble antique.,,46.2,True,title_direct,,,Meubles antiques
+BO0624_50014,302146,479,479,Lot pareil de 19 pieces.,,46.5,True,none,,,
+BO0624_50014,302147,480,480,Lot pareil de 19 pieces.,,46.5,True,none,,,
+BO0624_50014,302148,481,481,Porte-montre en bronze ciselé.,,42.9,True,none,,,
+BO0624_50014,302149,482,482,Lot d'objets varies en cuivre etc.,,43.5,True,none,,,
+BO0624_50014,302150,483,483,Peigne en écaille et deux livres a gravures.,,50.5,True,title_direct,,,Gravures
+BO0624_50014,302151,484,484,"Miniature de Napoleon I, peint sur ivoire, diam. 66/88 cM. dans un cadre double d'or.",,47.9,True,none,,,
+BO0624_50014,302152,485,485,Boite a cigarettes en ivoire de forme courbee.,,48.4,True,none,,,
+BO0624_50014,302153,486,486,"Boite a cigares en écaille, monture en corne.",,57.4,True,none,,,
+BO0624_50014,302154,487,487,"Chinoise couchee, artistiquement sculptee en ivoire,tenant dans la main une feuille et portant un bracelet.",,50.5,True,none,,,
+BO0624_50014,302155,488,488,Diptyque en ivoire artistiquement sculpte a sujets bibliques.,,45.1,True,none,,,
+BO0624_50014,302156,489,489,"Fourchette (en argent) et couteau, les manches sculptes",,42.2,True,none,,,
+BO0624_50014,302157,490,490,"Coffret en velours, anses tournantes monture et ferme-",,47.8,True,none,,,
+BO0624_50014,302158,491,491,Poudriere monture en cuivre cisele a decor de feuillage.,,53.3,True,none,,,
+BO0624_50014,302159,492,492,"Deux eventails en ivoire sculpte et ajoure, feuilles aquarellees.",,44.9,True,none,,,
+BO0624_50014,302160,493,493,"Netzuke. Marchand de poisson, superbe sculpture en ivoire avec signature.",,51.1,True,none,,,
+BO0624_50014,302161,494,494,"Hyene affame tenant une tete des mort, deux Netzukes",,46.0,True,none,,,
+BO0624_50014,302162,495,495,"Netzuke, homme riant portant baton,en bas femme voilée",,40.8,True,none,,,
+BO0624_50014,302163,496,496,Netzuke. Serpent enroulé.,,36.4,True,none,,,
+BO0624_50014,302164,497,497,Trois Netzukes satiriques. Lapin tachant de monter sur,,45.0,True,none,,,
+BO0624_50014,302165,498,498,"Lot de 4 Eventails endommages, y joint une feuille d'éven-",,46.3,True,none,,,
+BO0624_50014,302166,499,499,"Quatre salieres en plated a decor repoussé, avec les bas-",,53.4,True,none,,,
+BO0624_50014,302167,500,500,"Huillier oval en plated de Sheffield, décor ajouré, perle et",,48.4,True,none,,,
+BO0624_50014,302168,501,501,"Lanterne de corridor en dinanderie du XVllIme siecle,",,46.6,True,title_direct,,,Dinanderie
+BO0624_50014,302169,502,502,"Rafraichissoir en dinanderie, ovale a anses tournantes.",,42.3,True,title_direct,,,Dinanderie
+BO0624_50014,302170,503,503,"Cafetiere en forme de vase a un robinet, en dinanderie.",,48.7,True,title_direct,,,Dinanderie
+BO0624_50014,302171,504,504,"Applique a décor repousse, buste d’empereur accoste de",,49.2,True,none,,,
+BO0624_50014,302172,505,505,"Lampe des Maccabees en dinanderie, a decor grave et Objets en cuivre, dinanderie, bronze.",,43.3,True,title_direct,,,Dinanderie
+BO0624_50014,302173,506,506,"Bouilloire avec son réchaud en laiton,le réchaud a decor",,48.3,True,none,,,
+BO0624_50014,302174,507,507,"Paire d'appliques en bronze cisele et dore, a deux lumieres.",,46.8,True,none,,,
+BO0624_50014,302175,508,508,"Paire de superbes appliques octogones, a trois lumieres, beau decor repousse, feurs et medaillon.",,52.2,True,none,,,
+BO0624_50014,302176,509,509,Pincettes et pelle en dinanderie. XvlIme siecle.,,49.6,True,title_direct,,,Dinanderie
+BO0624_50014,302177,510,510,Lampe Florentine du XVlIme siecle.,,45.3,True,none,,,
+BO0624_50014,302178,511,511,"Trois martinets appliques du XVlIme siecle, a decor gravé et ajouré. Lot a diviser.",,48.7,True,none,,,
+BO0624_50014,302179,512,512,Paire d'appliques en superbe decor repousse en dinanderie a une lumiere et surmonte d'un reflet repousse. Epoque,,48.1,True,title_direct,,,Dinanderie
+BO0624_50014,302180,513,513,"Paire d'appliques pareilles en superbe decor repoussée,",,52.1,True,none,,,
+BO0624_50014,302181,514,514,"Paire de plats appliques en dinanderie, octogones,au centre buste, entourés de globules, de grappes de raisin etc. Diam.52 cM.",,47.8,True,title_direct,,,Dinanderie
+BO0624_50014,302182,515,515,"Grand plat a decor repousse, l'interieur en relief tournant et inscription gothique. XVIme siecle. Diam. 56 cM.",,45.6,True,none,,,
+BO0624_50014,302183,516,516,"Grand plat en dinanderie a decor repousse, Adam et Eve",,46.0,True,title_direct,,,Dinanderie
+BO0624_50014,302184,517,517,Lampe des maccabees en dinanderie a decor repousse.,,46.4,True,title_direct,,,Dinanderie
+BO0624_50014,302185,518,518,"Jardiniere en cuivre repousse, ferme devant lequel du betail",,45.2,True,none,,,
+BO0624_50014,302186,519,519,Jardiniere pareille. Haut. 34 cM..,,42.6,True,none,,,
+BO0624_50014,302187,520,520,"Paire de candelabres en cuivre poli torse a quatre fambeaux, en style des pieces du XVIIme siecle, au milieu lion",,50.5,True,none,,,
+BO0624_50014,302188,521,521,"Lanterne en joli decor repousse et ajouré, sur quatre pattes",,46.8,True,none,,,
+BO0624_50014,302189,522,522,"Garniture de foyer en dinanderie, aux armoiries d'Amsterdam, surmonte de deux torches et d'ou suspendent cinq ustensiles, style du XVIIIme siecle.",,47.3,True,title_direct,,,Dinanderie
+BO0624_50014,302190,523,523,"Jardiniereen cuivre poli, deforme ovale,adeux anses,long.41cM.",,40.0,True,none,,,
+BO0624_50014,302191,524,524,"Jardiniere ovale en dinanderie, decor repousse a cotes tournantes et feuillage, long. 34 cM.",,47.8,True,title_direct,,,Dinanderie
+BO0624_50014,302192,525,525,"Jardiniere pareille, legerement variee, long. 32 cM.",,43.6,True,none,,,
+BO0624_50014,302193,526,526,"Jardiniere en forme de heaume en cuivre poli, dont on a fait usage jadis comme baquet a charbon.",,47.5,True,none,,,
+BO0624_50014,302194,527,527,Grand bol (Bokor) en cuivre a décor gravé d'arabesques. Diam. 27 cM.,,46.5,True,none,,,
+BO0624_50014,302195,528,528,"Deux grands plats en étain, a déecor grave, lune aux arimoiries écartelées avec la date 1631 et l'autre avec la date 1746. Diam. 37 cM.",,49.2,True,none,,,
+BO0624_50014,302196,529,529,"Quatre assiettes en étain a decor gravé, dont trois a armoiries.",,47.7,True,none,,,
+BO0624_50014,302197,530,530,Monture de meuble Empire.,,43.6,True,none,,,
+BO0624_50014,302198,531,531,"Tabatiere a decor gravé, cuiller du XVIme siecle et trois",,46.3,True,none,,,
+BO0624_50014,302199,532,532,"Grand bol (Bokor) en cuivre, joli décor ciselé d'arabesques. Diam. 24.5 cM.",,43.1,True,none,,,
+BO0624_50014,302200,533,533,Trois bols a decor cisele d'arabesques. Diam. 17 cM.,,44.1,True,none,,,
+BO0624_50014,302201,534,534,"Paire de vases (Tampat loeda), décor ciselé de motifs.",,46.6,True,none,,,
+BO0624_50014,302202,535,535,"Garniture a Sirih, se composant d'une grande coupe, d'un plateau, de coupes a Sirih-tabac, a chaux de Sirih, noix de Pinang et de Gambier, belle ciselure a motifs de feuilles",,43.3,True,none,,,
+BO0624_50014,302203,536,536,"Paire de vases a marrons et deux chandeliers en étain vernissé en rouge a décor doré, quatre plateaux ovales, deux cabarets et deux portes mouchettes en fer blanc au meme",,50.4,True,none,,,
+BO0624_50014,302204,537,537,"Rafraichissoir ou jardiniere en superbe dinanderie, decor repousse et mascarons. Haut. 29, long. 53.5, larg. 53.5 cM.",,44.4,True,title_direct,,,Dinanderie
+BO0624_50014,302205,538,538,Paire d'enormes chandeliers d'eglise en superbe decor repousse. Epoque Louis XIV. Haut. 1.39 M.,,51.3,True,none,,,
+BO0624_50014,302206,539,539,Paire de vases (bouts de cheminee) en bronze partiellement,,47.1,True,none,,,
+BO0624_50014,302207,540,540,"Paire de vases en bronze du Japon, oiseau volant et juchant",,47.0,True,none,,,
+BO0624_50014,302208,541,541,"Paire de jardinieres en laiton repousse, berger avec ses moutons avec bordure en cuivre rouge a motifs de feuilles.",,50.0,True,none,,,
+BO0624_50014,302209,542,542,"Grand plat en étain, a decor grave et inscription en hebreu. Diam.43 cM.",,53.4,True,none,,,
+BO0624_50014,302210,543,543,"Deux ornements en bronze, trois anges tenant des feurs,",,48.3,True,none,,,
+BO0624_50014,302211,544,544,"Deux caryatides en bronze, d'un meuble Louis XIV, long. 33cM.",,42.5,True,none,,,
+BO0624_50014,302212,545,545,"Statuette en bronze, homme nu portant un animal autour de son cou, de sa droite il tient un massue. Haut. 71 cM. Avec un piedestal en bois sculpte, peint et dore. Haut.1.13 M.",,46.3,True,none,,,
+BO0624_50014,302213,546,546,Porte-montre en bronze ciselé a volutes et fleurs.,,44.4,True,none,,,
+BO0624_50014,302214,547,547,"Bouton de porte en laiton, fondu et cisele, dextre tenant",,47.9,True,none,,,
+BO0624_50014,302215,548,548,"Cinq lots d'ornements en cuivre antique,chaque lot quatre",,44.6,True,none,,,
+BO0624_50014,302216,549,549,"Paire de canons en bronze de 1664, aux armoiries des Snouck van Loozen. Les affuts en noyer avec des rayons",,43.9,True,none,,,
+BO0624_50014,302217,550,550,"Jardiniere en fer forge a feurs et feuilles, le bassin en",,50.9,True,none,,,
+BO0624_50014,302218,551,551,"Etouffoir en laiton, anses en cuivre rouge.",,41.4,True,none,,,
+BO0624_50014,302219,552,552,Rechaud a chaufer le the en forme de seau en dinanderie.,,49.2,True,title_direct,,,Dinanderie
+BO0624_50014,302220,553,553,"Marmite en laiton avec couvercle, anses en cuivre rouge,y",,47.2,True,none,,,
+BO0624_50014,302221,554,554,"Foyer en fer forge et laiton, fin du XVIlIme siecle. 3 ps.",,51.9,True,none,,,
+BO0624_50014,302222,555,555,Grand plat applique en dinanderie a superbe decor repousse. Belle piece du XVlIme siecle.,,51.9,True,title_direct,,,Dinanderie
+BO0624_50014,302223,556,556,"Grand plat applique en dinanderie, superbe decor repousse. Belle piece du XVIIme siecle.",,51.1,True,title_direct,,,Dinanderie
+BO0624_50014,302224,557,557,"Coussin en tapisserie en soie sur fond de drap, armoiries couronnees de la Frise tenues par deux lions. Dessous sur un ruban DE HR.DIRK R.COMMIT-TEERDE RAAD 1774.Superbe.",,41.8,True,title_direct,,,Coussins
+BO0624_50014,302225,558,558,Deux coussins en vieille tripe rouge.,,44.7,True,title_direct,,,Coussins
+BO0624_50014,302226,559,559,"Lot de quinze coupons de soie, tripes et autre étoffes anciennes.",,44.0,True,title_direct,,,Etoffes
+BO0624_50014,302227,560,560,Drap de table brode a decor de fleurs.,,43.7,True,none,,,
+BO0624_50014,302228,561,561,Lot de six coupons de soie antique entre autre une jupe.,,46.0,True,none,,,
+BO0624_50014,302229,562,562,Trois draps de lit en toile fine avec broderie en dentelles.,,50.4,True,none,,,
+BO0624_50014,302230,563,563,Couverture en toile fine avec broderie artistique.,,48.4,True,none,,,
+BO0624_50014,302231,564,564,Couverture en toile fine avec broderie artistique.,,48.4,True,none,,,
+BO0624_50014,302232,565,565,"Couverture en Indienne, le revers aussi en indienne.",,47.5,True,none,,,
+BO0624_50014,302233,566,566,"Lot de rideaux et de draperies en drap bronze,avec les embrasses etc.",,45.3,True,none,,,
+BO0624_50014,302234,567,567,Lot de rideaux en tulle brodé.,,53.6,True,none,,,
+BO0624_50014,302235,568,568,Coupon de Dentelles noires long. 9.25 M.,,40.4,True,none,,,
+BO0624_50014,302236,569,569,Coupon pareil.1.95 M.,,33.3,True,none,,,
+BO0624_50014,302237,570,570,Coupon pareil. 10.60 M.,,36.1,True,none,,,
+BO0624_50014,302238,571,571,Coupon pareil. 6.90 M.,,34.1,True,none,,,
+BO0624_50014,302239,572,572,Coupon pareil. 2.— M.,,35.0,True,none,,,
+BO0624_50014,302240,573,573,"Huit coupous de dentelles noires, larg. 0.18, long. total 12 M.",,42.9,True,none,,,
+BO0624_50014,302241,574,574,Coupon de dentelles (Valenciennes). 2.30 M.,,42.3,True,none,,,
+BO0624_50014,302242,575,575,Coupon pareil. 2.85 M.,,34.1,True,none,,,
+BO0624_50014,302243,576,576,Coupon pareil. 4. M.,,35.9,True,none,,,
+BO0624_50014,302244,577,577,Coupon pareil. 7.80 M.,,34.1,True,none,,,
+BO0624_50014,302245,578,578,Coupon pareil. 1.30 M.,,34.1,True,none,,,
+BO0624_50014,302246,579,579,Coupon entre-deux en tulle de Bruxelles. 5.90 M.,,43.8,True,none,,,
+BO0624_50014,302247,580,580,Guipure espagnole en soie noire. 6.30 M.,,42.7,True,none,,,
+BO0624_50014,302248,581,581,Guipure pareille. 2.50 M.,,43.2,True,none,,,
+BO0624_50014,302249,582,582,Guipure pareille. 7.25 M.,,43.2,True,none,,,
+BO0624_50014,302250,583,583,Guipure pareille. 10.25 M.,,42.1,True,none,,,
+BO0624_50014,302251,584,584,"Coupon de dentelles noires, long. 7.15 M.",,42.3,True,none,,,
+BO0624_50014,302252,585,585,"Coupon de dentelles noires, long. 11.80 M.",,41.2,True,none,,,
+BO0624_50014,302253,586,586,"Tableau de marqueur, avec épreuves de broderie et de",,45.0,True,title_direct,,,Tableaux
+BO0624_50014,302254,587,587,"Le triomphe une Cesar romain, l'empereur debout dans une bige et entoure de cavaliers et d'esclaves qui portent les tresors captives. Tapisserie (des gobelins?) de superbe qualite, du XVIIme siecle, avec riche bordure d'arabesques et de fleurs. Long. 4.70,haut.2.90 M.",,49.7,True,title_direct,,,Tapisserie
+BO0624_50014,302255,588,588,"Deux Coupons de cuir de Cordoue,a decor de cacatois et d'autre oiseaux sur des arbres a fruits et a feurs sur fond d'or. Long. 2.50 M. environ la piece.",,49.0,True,none,,,
+BO0624_50014,302256,589,589,"Lot de coupons du meme cuir, de longueur varié.",,43.4,True,none,,,
+BO0624_50014,302257,590,590,"Tapis perse avec franges, belle piece. Long. 1.50, larg. 1 M.",,44.1,True,title_direct,,,Tapis perses
+BO0624_50014,302258,591,591,"Tapis perse avec franges. Long. 1.87, larg. 1.23 M.",,41.8,True,title_direct,,,Tapis perses
+BO0624_50014,302259,592,592,"Tapis perse avec franges, fort belle qualite. Long. 2.91, larg.",,45.7,True,title_direct,,,Tapis perses
+BO0624_50014,302260,593,593,"Tapis perse avec franges, fort belle qualite.",,44.0,True,title_direct,,,Tapis perses
+BO0624_50014,302261,594,594,"Tapis perse avec franges. Long. 2.65, larg. 1.83 M.",,41.8,True,title_direct,,,Tapis perses
+BO0624_50014,302262,595,595,"Tapis perse avec franges. Long. 2.87, larg. 1.60 M.",,41.8,True,title_direct,,,Tapis perses
+BO0624_50014,302263,596,596,"Tapis perse avec franges. Long. 1.88, larg. 1.05 M.",,41.4,True,title_direct,,,Tapis perses
+BO0624_50014,302264,597,597,"Tapis perse avec franges. Long. 2.36, larg. 0.89 M.",,41.8,True,title_direct,,,Tapis perses
+BO0624_50014,302265,598,598,"Buste de femme couvert d'une chale,lescheveux ceints de fleurs, sculpte en marbre blanc. Haut. 73 cM. avec le piedestal drape.",,47.0,True,none,,,
+BO0624_50014,302266,599,599,"Buste en biscuit d'homme avec bonnet et collet en poil, base a guirlandes. Haut. 26 cM.",,47.1,True,none,,,
+BO0624_50014,302267,600,600,"Buste en bronze de Henri IV, socle en marbre avec monture en bronze dore Empire. Haut. total 26 cM.",,46.4,True,none,,,
+BO0624_50014,302268,601,601,"Console en bois sculpte et doré. Epoque Louis XIV. Haut. , larg. 40, prof. 28 cM.",,47.5,True,none,,,
+BO0624_50014,302269,602,602,Deux bustes en marbre sculpte. Mercure et Flore. Haut. cM.,,42.7,True,none,,,
+BO0624_50014,302270,603,603,Deux consoles de cheminée en pierre de sable. Deux caryatides surmontes de tetes de lion. Haut. 1.80 M. XVIme siecle.,,46.3,True,none,,,
+BO0624_50014,302271,604,604,"La fete des vendages, six personnages s'amusant a boire ou a manger des raisins.",,41.9,True,none,,,
+BO0624_50014,302272,605,605,"Leda avec les cygnes dans un marais a plantes marins. Haut. 2.23, larg. 1.67 M.",,42.9,True,none,,,
+BO0624_50014,302273,606,606,Deux enfants nus dans un jardin. dont l'un tache d'atrappes un papillon multicolore sur une rose.,,45.3,True,none,,,
+BO0624_50014,302274,607,607,Dessus de porte. Deux anges endormés.,,49.0,True,none,,,
+BO0624_50014,302275,608,608,"Jean Mabuse. Procession pendant les Rogations en Silezie au XVIme siecle. Grand nombre de personnages a pied ou a cheval, au coin du droit le portrait au peintre.",,45.0,True,title_direct,Jean Mabuse,,
+BO0624_50014,302276,609,609,"Panneau decoratif, paysage avec paysanne sur une mule et",,48.7,True,title_direct,,,Panneaux decoratifs
+BO0624_50014,302277,610,610,"J. Utendijk 1848. Auberge famande, plusieurs personnes autour d'une table,un gaillard veut embrasser la servante.",,44.3,True,title_direct,J. Utendijk,,
+BO0624_50014,302278,611,611,"Pastel, au buste du roi Guillaume I jeune, encadrement seulpte. Haut. 71, larg. 5.50 M.",,45.0,True,none,,,
+BO0624_50014,302279,612,612,"Lion furieux, peint sur verre. Encadrement en bois sculpte et dore Louis XVI.",,47.3,True,none,,,
+BO0624_50014,302280,613,613,"Dessus de cheminee, vase de fleurs pose sur un piedestal accoste de deux Flores et de Cupidon. Toile. Haut. 1.14, larg. 1 M.",,48.4,True,none,,,
+BO0624_50014,302281,614,614,"Van Stry.Superbe tableau, pres d'une ferme ombree par des arbres plusieurs vaches dans un gazon, a l'entree du bois un chariot avec du foin attale a deux cheveaux. Sur le foin le valet est assis. Bois.Haut. 0.73, larg. 1 M.",,46.8,True,title_direct,Van Stry,,
+BO0624_50014,302282,615,615,Maitre inconnu. Portrait d'un chevalier du temps de Maurice de Nassau.,,42.4,True,none,,,
+BO0624_50014,302283,616,616,"J.Verburgh. Effet de Lune. Paysage au bord d'une riviere. Bois. Haut. 41, larg. 61 cM.",,40.4,True,title_direct,J.Verburgh,,
+BO0624_50014,302284,617,617,A.Verhoesen.1826. Het Spanjaarsgat sur le Vreeburg a Utrecht. Ruine devant laquelle promeneur avec son chien.,,43.4,True,title_direct,A.Verhoesen,,
+BO0624_50014,302285,618,618,Mouchoir en soie avec vue de l'incendie du Theatre a Am-,,51.7,True,none,,,
+BO0624_50014,302286,619,619,"Mouchoir pareil, inauguration du nouveau theatre.",,39.3,True,none,,,
+BO0624_50014,302287,620,620,"Medaillon au buste richement drape de l'archiduchesse Isabelle. Superbe, encadré.",,45.1,True,none,,,
+BO0624_50014,302288,621,621,"Six superbes gravures francaises en couleurs, representant l'histoire de Paul et de Virginie encadrées, les légendes decoupees, mais cinq sont ajoutes, avec l'adresse de Descourtis rue St. Landry n. 1 en la cité, Signées Schall pinx, Descourtis sculp.",,47.5,True,title_direct,,,Gravures
+BO0624_50014,302289,622,622,"The Embleme of Englands Distractions. Le roi Guillaume III (d'Orange) debout, gravure satirique rare, sold by Joseph Claver at the Black a mores head etc.",,42.0,True,title_direct,,,Gravures
+BO0624_50014,302290,623,623,"Deux gravures au buste de Ludovicus de Dieu, ministre wallon a Leyde et Mr. Daniel de Dieu Burgemeester d'Amsterdam,encadres.",,41.9,True,title_direct,,,Gravures
+BO0624_50014,302291,624,624,"Gravure anglaise. The Angel departing from Tobet en his family,par Anthony",,40.7,True,title_direct,,,Gravures
+BO0624_50014,302292,625,625,"Deux gravures. a The Fortune Teller. Gravure noire par J. K. Shanin d’apres - Sir Joshua Reynolds. - b Amusements du jeune Age,belle gravure noire,grave par - A. Chevillet, dessine par Wille le fils.",,40.3,True,title_direct,,,Gravures
+BO0624_50014,302293,626,626,"Optique en bois tourné avec 32 planches coloriees, avec vues en France, Angleterre,Italie etc.",,50.8,True,none,,,
+BO0624_50014,302294,627,627,Livres. Inmerzeel. De levens en werken der Hollandsche en Vlaamsche schilders.Amsterdam 1842.,,42.7,True,title_direct,,,Livres
+BO0624_50014,302295,628,628,W. G. Gulland. Chinese porcelain. London 1888.,,41.8,True,none,,,
+BO0624_50014,302296,629,629,Jan Goeree. Godvrugtig Almanach of Lofgedachtenis der,,35.3,True,none,,,
+BO0624_50014,302297,630,630,"Bible par Pieter Keur a Dordrecht 1729 avec des gravures, reliure veau, monture et fermeture en laiton.",,50.5,True,title_direct,,,Gravures
+BO0624_50014,302298,631,631,"Les Bijoux anciennes et modernes, par Eugene Fontenay. Ouvrage illustré de 700 dessins inédits. Paris 1887.",,42.9,True,title_direct,,,Bijoux
+BO0624_50014,302299,632,632,"Histoire de la Verrerie et de lEmaillerie par Edouard Garnier, illustrations d'apres les dessins de l'Auteur. Tours 1886. Epuise.",,49.6,True,none,,,
+BO0624_50014,302300,633,633,Histoire de 1lOrfevrerie francaise par Henry Havard.,,43.2,True,none,,,
+BO0624_50014,302301,634,634,"Bureau-cabinet a glaces, a deux corps, le corps superieur en acajou sculpte a deux battants a glaces, avec entourage artistiquement sculpte a guirlandes de feuilles et au centre un vase. Fronton saillant a crete sculpté d'ou se detache une guirlande. Le corps inferieur sur quatre pieds cintrés avec un grand tiroir et deux plus petits munis de cuivres. Beau meuble. Epoque Louis XVI. Haut. 2.15, larg. 1.15, prof. 0.70 M.",,44.9,True,none,,,
+BO0624_50014,302302,635,635,"Table a jouer en acajou, le dessus peuvant se replier, sur",,47.5,True,none,,,
+BO0624_50014,302303,636,636,"Douze chaises Empire, le dos a trois fleches posées en pal, a filets en cuivre. Deux pieces endommagees.",,50.0,True,none,,,
+BO0624_50014,302304,637,637,"Table console en bois sculpte et dore a quatre caryatides artistiquement sculpte et portant une frise a decor de palmettes et au milieu a une sculpture a deux personnages pres de deux lions. Le dos a glace. Le dessus en marbre empire en mosaique de losanges. Haut. 85, larg. 90, prof. 49cM. Voir la reproduction.",,46.3,True,none,,,
+BO0624_50014,302305,638,638,"Table console pareille, sauf que le module est seulement",,47.8,True,none,,,
+BO0624_50014,302306,639,639,"Commode en acajou a bandes incrustees en bois clair avec deux tiroirs ornes de cuivre. Epoque Louis XVI. Haut. 83,",,50.0,True,none,,,
+BO0624_50014,302307,640,640,"Ratelier pour des plats en chene sculpte, decor de mascarons. Ratelier pareil faisant pendant.",,46.8,True,none,,,
+BO0624_50014,302308,641,641,"Trumeau en acajou demi-lunaire en marbre gris, monture en cuivre.",,46.2,True,none,,,
+BO0624_50014,302309,642,642,Ecran en bois tourné noir avec tableau brode.,,45.1,True,none,,,
+BO0624_50014,302310,643,643,"Coffret en chene ciselé, huisvlijt.",,45.7,True,none,,,
+BO0624_50014,302311,644,644,"Fauteuil Empire en bois sculpte et partiellement doré, couverture en soie jaune de l'époque.",,47.9,True,none,,,
+BO0624_50014,302312,645,645,Banc de corridor artistiquement sculpte et a décor doré. Panneau peint avec de la volaille. Belle piece posterieure.,,53.0,True,none,,,
+BO0624_50014,302313,646,646,"Rechaud a chauffer le thé en bois satiné a marqueterie, sur quatre pieds. Le bassin en laiton.",,44.8,True,none,,,
+BO0624_50014,302314,647,647,"Six chaises et deux fauteuils de Hindeloopen a decor peint a paysages avec fermes, du betail ou marines. Les sieges en jonc.",,49.0,True,none,,,
+BO0624_50014,302315,648,648,"Table Empire en acajou incruste de cuivre et orné de bandes de cuivre; a quadruple usage. En ouvrant le premier abattant il se réforme en table a thé, en ouvrant le second abat tant c'est une table a jouer et le troisieme abattant se reforme en damier, de coté deux cases a cylindre en marqueterie. En poussant un ressort le tout se réforme en jeu de trictrac.Superbe meuble.",,41.8,True,none,,,
+BO0624_50014,302316,649,649,Petit meuble commode en bois de rose et palissandre a trois,,46.3,True,none,,,
+BO0624_50014,302317,650,650,"Table console en acajou légerement cintré, monture en",,47.3,True,none,,,
+BO0624_50014,302318,651,651,"Barometre en acajou avec adresse de W. M. Lageman Haarlem, fin du XVIIIme siecle.",,46.8,True,none,,,
+BO0624_50014,302319,652,652,"a. Ratelier pour des brocs, en chene a frise sculptée, accostée de deux mascarons, orné de six caireaux en vieux Delft a scenes bibliques.",,47.9,True,none,,,
+BO0624_50014,302320,653,653,"Table de bureau Empire en acajou a bandes et incrustations en cuivre. Le dessus en cuir vert a bordure doree avec six tiroirs. Les pieds a cannelures incrustes de cuivre. Long. 38, larg. 0.85 M.",,47.6,True,none,,,
+BO0624_50014,302321,654,654,"Secretaire en bois de rose a marqueterie de palissandre et de bois clair, a abattant sur lequel un grand medaillon en marqueterie a attributs de musique. En ouvrant l'abattant une case et six petits tiroirs. En haut dans le corps du meuble tiroir. Superbe meuble, époque Louis XVI. Haut. 1.50, larg. 0.93, prof. 0.44 M. Le dessus en marbre.",,46.9,True,none,,,
+BO0624_50014,302322,655,655,"Coffret a garder les couvertures en bois des Indes, sur des pieds tournés monture en cuivre. Long. 1.40, haut. 0.75, larg. 0.70 M.",,50.0,True,none,,,
+BO0624_50014,302323,656,656,"Coffret a garder les couvertures en bois du camphrier. Long. , larg. 45, haut. 41 cM.",,45.0,True,none,,,
+BO0624_50014,302324,657,657,"Coffret pareil. Long. 1.03, larg. 0.53, haut. 0.50 M.",,38.9,True,none,,,
+BO0624_50014,302325,658,658,"Grande table a rallonges en chene sculpte, les capitaux incrustes d'ebene. Sur quatre pieds de forme boule reunis par des traverses. Long. 2.25, larg. 0.85, avec les rallonges long. 21 M. Bon meuble d'environ 1600.",,45.6,True,none,,,
+BO0624_50014,302326,659,659,"Glace Empire, cadre en bois sculpte et dore, fronton a vase avec guirlandes. Haut. 1.37, larg. 0.57 M.",,51.1,True,title_direct,,,Glaces
+BO0624_50014,302327,660,660,"Glace Empire, cadre en bois sculpte a bustes et doré. Haut. 1.07, larg. 0.51 M. a Pendule de corridor avec carillon. La caisse en acajou sculpté, cadran indiquant les heures, les minutes, la date, et les phases de la lune. Mouvement réglé.",,44.3,True,title_direct,,,Glaces
+BO0624_50014,302328,661,660a,"Pendule de corridor avec carillon. La caisse en acajou sculpté, cadran indiquant les heures, les minutes, la date, et les phases de la lune. Mouvement réglé.",,47.5,True,title_direct,,,Pendules
+BO0624_50014,302329,662,661,"Pendule en biscuit, enfant avec son chien, de cote tournesol;",,47.5,True,title_direct,,,Pendules
+BO0624_50014,302330,663,662,"a. Pendule en bronze dore avec musique, sur un socle b Deux candelabres dans le meme style avec quatre lumieres celle du milieu peut etre couvert avec un fambeau en bronze. Haut. de la pendule sans la base O.7o M. Haut. des candelabres 0.61 avec la base 0.70 M. les trois cloches sonts",,44.8,True,title_direct,,,Pendules
+BO0624_50014,302331,664,663,"Pendule miniature de Hindeloopen, caisse sculptee a decor de tritons, avec reveil, mouvement réglé. a Assiette en Chine de commande, au buste en medaillon de Martin Luther tenu par deux anges, dessus son écusson, dessous medaillon avec le Christ prechant devant son auditoire. Bordure en arabesques d'or. Belle et ectremement rare.",,44.7,True,title_direct,,,Pendules
+BO0624_50014,302332,665,664,Deux assiettes en Chine de commande aux armoiries de,,44.8,True,none,,,
+BO0624_50014,302333,666,665,"Deux plats aux memes armoiries. Diam. 28.5 cM., felées.",,45.3,True,none,,,
+BO0624_50014,302334,667,666,"Tasse et soucoupe a riche decor émaillé, armoiries écartelées, heaumees et timbrées de la famille Le Grand""avec",,46.1,True,none,,,
+BO0624_50014,302335,668,667,"Trois assiettes aux armoiries des comtes van der Duyn (issus des comtes de Bréderode), d'or au lion de gueules, arm. et lamp. d'azur; au lambel d'azur br. sur la poitrine du lion, cimier un lion de gueules arm. et lamp. d'azur issorant d'une cuve d'or, bordure d'or et bord a brindilles de feurs émaillées. Belles pieces.",,41.9,True,none,,,
+BO0624_50014,302336,669,668,"Quatre plats et trois bols couverts en vieux Japon, godronnes, décor bleu, rouge et or. Un des bols et les couvercles endommages.",,48.0,True,none,,,
+BO0624_50014,302337,670,669,"Tasse et soucoupe, décor émaillé a papillons, y ajoute deux tasses et soucoupes en vieux Japon.",,45.1,True,none,,,
+BO0624_50014,302338,671,670,"Plat a patés en vieux Japon, decor de chrysanthemes, anse tournante en argent. a Paire de vases circulaires(Roluwagens), beau décor de famille verte.Bordure a fond turtshill grisatre, semé de papillons et de feurs multicolores émaillees, avec deux grandes reserves a feurs marines et six reserves plus petites a decor de poissons etc.Marque annelet. Haut.46 cM. Superbes pieces de",,44.7,True,none,,,
+BO0624_50014,302339,672,671,"Paire de potiches, décor a ceps de vigne, une fracture au col. Haut. 26 cM., les boutons des convercles font defaut.",,51.1,True,none,,,
+BO0624_50014,302340,673,672,"Lot interessant de quatre vases de forme variee, deux endommages.",,46.0,True,none,,,
+BO0624_50014,302341,674,673,"Paire de bols godronnés a figures (lyzen), auc sic marques, belle qualité, une piece felée.",,44.7,True,none,,,
+BO0624_50014,302342,675,674,"Bol couvert décor a paysages, et deux a bords recourbes de belle qualité felés, décor a figures (lyzen) et auc sic marques.",,48.2,True,none,,,
+BO0624_50014,302343,676,675,"Neuf petits plats a creme, décor au bambou et feurs, deux felures.",,52.3,True,none,,,
+BO0624_50014,302344,677,676,"Boite a thé, decor a figures, monture en argent gravé.",,49.6,True,none,,,
+BO0624_50014,302345,678,677,Crachoir a décor d'arabesques.,,43.1,True,none,,,
+BO0624_50014,302346,679,678,"Six tasses et soucoupes a la tour de porcelaine, deux tasses",,40.9,True,title_direct,,,Porcelaine
+BO0624_50014,302347,680,679,"Quatre assiettes a figures (lyzen) de superbe qualite, marli damassee a quatre reserves aux objets precieux ou feuilles. a Sept tasses et leurs soucoupes, décor recherche au coucou",,47.8,True,none,,,
+BO0624_50014,302348,681,680,"Lot de 11 tasses et 2 soucoupes variees, lot interessant.",,43.0,True,none,,,
+BO0624_50014,302349,682,681,"Quatre petites soucoupes et une tasse, decor a poissons, su-",,42.7,True,none,,,
+BO0624_50014,302350,683,682,"Beau grand plat, décor de feurs, marli godronné a douze reserves de fleurs. Diam. 33.5 cM. Belle qualitée.",,45.9,True,none,,,
+BO0624_50014,302351,684,683,"Grand plat, fort rare, au Bouddha assis accoste de ses satellites, entourage au persil. Diam. 39 cM.felé. Y ajouté grand plat, decor dit au corbeau 28.5 cM.felé.",,45.3,True,none,,,
+BO0624_50014,302352,685,684,"Lot de six vases d'etagere, dont un a figures (lyzen), quel-",,45.4,True,none,,,
+BO0624_50014,302353,686,685,"Jolie petite garniture de deux potiches a couvercle et de deux cornets, décor de fleurs. Haut. 12 cM.",,49.4,True,none,,,
+BO0624_50014,302354,687,686,"Encrier en porcelaine de La Haye, sur une base flambeau, encrier et vase a sable, joli décor de petits bouquets.",,52.6,True,title_direct,,,Porcelaine
+BO0624_50014,302355,688,687,"Boite a thé en porcelaine francaise, y ajouté deux statuettes",,43.5,True,title_direct,,,Porcelaine
+BO0624_50014,302356,689,688,"Service en porcelaine anglaise, forme élegante, a médaillons Chinoises polychromes, theiere (felée), bol, pot au lait et",,50.0,True,title_direct,,,Porcelaine
+BO0624_50014,302357,690,689,"Terrine en vieux Delft dore. Terrine a legumes avec couvercle et plateau d''une qualite superieure, a paysages avec figures d'un dessin irreprochable. Les anses d'un émail d''une beaute excessive. Chef d'oeuvre d'une conservation parfaite par le renommé Zacharias Dectra.",,47.0,True,none,,,
+BO0624_50014,302358,691,690,"Plat polychrome, port de mer dans la maniere chinoise, arbres et feurs, bordure d'arabesques, le vert dominant.",,47.8,True,none,,,
+BO0624_50014,302359,692,691,"Plat polychrome, prairie avec cheval et vache, entourage",,45.2,True,none,,,
+BO0624_50014,302360,693,692,Assiette avec joli paysage en decor bleu et a l'ex. Elisabet Schots 1758. Belle qualite.,,45.6,True,none,,,
+BO0624_50014,302361,694,693,"Six grands plats de belle qualité, décor récherché au rouet de paon ,Waaierschotels"",marque griffe.Diam. 35 cM.",,43.3,True,none,,,
+BO0624_50014,302362,695,694,"Grand bol polychrome, décor de foudres et lignes courbees, a l'interieur feuille.Diam.25.5 cM:",,45.2,True,none,,,
+BO0624_50014,302363,696,695,"Plat polychrome a fond vert, au centre decor de fougere et papillon, a l'entour quatre reserves en losange a papillons. Diam.25 cM.",,54.1,True,none,,,
+BO0624_50014,302364,697,696,"Plat polychrome a fond violet, au centre coin de jardin avec pincon sur une tige de feurs. Reserves de fleurs sur le bord. Diam.26.5 cM.",,49.3,True,none,,,
+BO0624_50014,302365,698,697,"Plat polychrome des pensees sur un ornement de convention, marli a fond jaune avec huit reserves a feurs.",,49.8,True,none,,,
+BO0624_50014,302366,699,698,"Paire de plats polychromes, marine hollandaise dans un cartouche, entourage d'arabesques. Diam.25.5 cM.",,48.2,True,none,,,
+BO0624_50014,302367,700,699,"Plat polychrome, decor de fleurs, oiseau et reserves,le",,51.2,True,none,,,
+BO0624_50014,302368,701,700,"Garniture enorme de trois potiches a couvercle et de deux cornets. Tres beau décor bleu, paysage hollandais avec maison de campagne et femme assise dans son jardin. Les couvercles ornes de cretes. Restauration insignifiante d'un des cornets et de deux couvercles. Belle garniture, signée a",,44.9,True,none,,,
+BO0624_50014,302369,702,701,"Cinq pots de pharmacien en vieux Delft avec les couvercles, joli decor a cartouches sur lequel corbeille de fruits et deux paons et tete d'ange avec les noms S. Card. Bened. Mel; Rosarum, S.Diacod: S.Rosar Solut:et S. Capill:Ven:",,46.0,True,none,,,
+BO0624_50014,302370,703,702,Trois pots pareils sans couvercle avec S. Cerasor: Nigr: S.Rubi idaei et S.Foeniculi.,,45.2,True,none,,,
+BO0624_50014,302371,704,703,"Couverture de brosse en vieux Delft polychrome, godronnée a superbe décor a cinq medaillons a bouquets rouges, bleu et vert.",,48.7,True,none,,,
+BO0624_50014,302372,705,704,"Nevers. Plat godronne, bouqets de petites feurs. Jolie piece.",,44.1,True,none,,,
+BO0624_50014,302373,706,705,"Moustiers. Plat godronné et ondule, joli decor. Arc de triomphe romain, vers lequel se dirige un voyageur. En pillons, mouches, brindilles de feurs etc. Diam. 27.5 cM. felure insignifiante.",,46.2,True,none,,,
+BO0624_50014,302374,707,706,"Huillier de forme nacelle en argent ajoure,avec deux flacons en verre bleu, monture en argent, au milieu sur une cone s'eleve le poivrier dont le bassin est aussi en verre bleu. Epoque Louis XVI. Poids sans la monture des facons gr. 480.",,50.4,True,none,,,
+BO0624_50014,302375,708,707,"Tabatiere en argent niellé russe, vue sur le Kremlin en 1826.",,47.5,True,none,,,
+BO0624_50014,302376,709,708,"Six couteaux, les manches en nacre, monture en argent.",,46.2,True,none,,,
+BO0624_50014,302377,710,709,"Six couteaux pareils, la monture légerement variée.",,49.1,True,none,,,
+BO0624_50014,302378,711,710,Calice couvert en vermeil d'environ 1600. Le pied orné de,,53.4,True,none,,,
+BO0624_50014,302379,712,711,"Saliere en argent cisele et ajouré, epoque Louis XVI, poin-",,46.8,True,none,,,
+BO0624_50014,302380,713,712,"Theiere et pot au lait de forme calebasse, a superbe décor",1242.0,95.1,False,positional,,,Argenterie antique
+BO0624_50014,302381,714,713,Broc en serpentine avec monture en vermeil a decor re,1244.0,94.6,False,positional,,,Argenterie antique
+BO0624_50014,302382,715,714,"Faucon en vermeil cisele enlevant un enfant dans ses pattes, l'enfant est pose sur une base a cotes. Jolie piece. gr. 301. a Grand plateau oval francais a decor de feuillage et de medaillons en relief. Epoque Louis XVI. Poids gr. 3000.",1246.0,68.3,False,positional,,,Argenterie antique
+BO0624_50014,302383,716,715,"Necessaire de poche en or Louis XVI, artistiquement ciselé. Sur le devant Venus et Amor entoures de guirlandes, rev. médaillon avec deux oiseaux, de cote instruments de musique,",1251.0,98.3,False,positional,,,Orfevrerie antique
+BO0624_50014,302384,717,716,Flacon en cristal en reseau d’or a riche decor ciselé. Louis,1256.0,95.2,False,title_direct,,,Cristal
+BO0624_50014,302385,718,717,"Flacon en cristal de roche en reseau d'or, a riche décor cisele Louis XV. Belle piece.",1261.0,96.6,False,title_direct,,,Cristal
+BO0624_50014,302386,719,718,"Collier de perles fines et de rosettes en or filigraine avec medaillon,le dessus en émail translucide sur lequel corbeille de feurs en or et petits diamants, entourage de perles de belle qualite. Epoque Louis XVI.",1265.0,98.6,False,positional,,,Orfevrerie antique
+BO0624_50014,302387,720,719,"Bonbonniere en porcelaine a beau decor d'oiseaux multicolores sur des tiges, a l'intérieur coq, poules, pigeons etc. monture en or. Epoque Louis XV.",1266.0,98.0,False,title_direct,,,Porcelaine
+BO0624_50014,302388,721,720,"Bonbonniere en ecaille,avec superbe miniature a sujet",1270.0,94.6,False,positional,,,Orfevrerie antique
+BO0624_50014,616420,722,721,"Bonbonniere en ivoire, a linterieur en écaille, miniature",1272.0,95.0,False,positional,,,Orfevrerie antique
+BO0624_50014,616421,723,722,"Bonbonniere en ivoire,l'interieur en écaille, avec superbe",1273.0,95.1,False,positional,,,Orfevrerie antique
+BO0624_50014,616422,724,723,"Bonbonniere en ivoire, linterieur en écaille,belle miniature choc de cavaliers.",1276.0,96.3,False,positional,,,Orfevrerie antique
+BO0624_50014,616423,725,724,Deux miniatures de jeunes dames (modernes) encadrements,1277.0,94.8,False,positional,,,Orfevrerie antique
+BO0624_50014,616424,726,725,"Gobelet en verre avec tige a panse piriforme, le coupe avec Minerve debout, artistiquement grave.",1279.0,97.0,False,positional,,,Orfevrerie antique
+BO0624_50014,616425,727,726,"Tabatiere en écaille sculpte,monture et incrustation en or ciselé, fort artistique. Louis XV.",1280.0,96.9,False,positional,,,Orfevrerie antique
+BO0624_50014,616426,728,727,"Miniature peinte de jeune fille,pendants d'oreille, collier et broche en perles, monture de medaillon en vermeil.",1281.0,97.4,False,positional,,,Orfevrerie antique
+BO0624_50014,616427,729,728,Coffret a bijoux en fer forgé avec riche monture en cuivre a décor d'arabesques ajourees et gravees. Belle piece d'environ 1650.,1282.0,97.7,False,positional,,,Orfevrerie antique
+BO0624_50014,616428,730,660bis,"Escalier de vestibule en chene sculpte,de l'epoque Louis XVI, avec le depart de rampe, les panneaux d'appui etc. Les marches font defaut.",1283.0,96.8,False,positional,,,Orfevrerie antique
+BO0624_50014,616429,731,688bis,"Tasse ansee a bouillon, avec soucoupe et couvercle en porcelaine de Meissen, fond turquoise, a reserves de feurs",1284.0,96.1,False,title_direct,,,Porcelaine
+BO0624_50014,616431,732,688ter,"Plateau en porcelaine de Meissen, signé AR en or, avec sujet burlesque famand, genre Brouwer et a lentour quatre medaillons a paysages au bord d'une riviere en violet.",1286.0,97.4,False,title_direct,,,Porcelaine
+BO0624_50014,616432,733,688quart,"Lion Fabuleux tenant globe et ruban polychrome, endommagé, y joint une theiere en forme de fruit avec ses feuilles, felé.",1287.0,95.7,False,positional,,,Orfevrerie antique
+BO0624_50014,616433,734,703bis,"Paire de potiches en vieux Delft dore, scene bergere a figures, le vert en décor émaillé. Haut. 28 cM. Pieces interessantes,légere restauration aux cols.",1288.0,97.1,False,positional,,,Orfevrerie antique
+BO0624_50014,616434,735,705bis,"Cruche en gres rhenan, armoiries a double aigle tenu par linscr. SPES MEA.DEVS.BALTHASAR REINEN ABBAS.",1289.0,95.8,False,positional,,,Orfevrerie antique
