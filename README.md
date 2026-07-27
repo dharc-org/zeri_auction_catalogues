@@ -7,12 +7,12 @@ Scripts and data of 1.9K auction catalogues from the Zeri photo archive
  - 1. catalogue metadata to RDF: `metadata/Zeri_cataloghi_RDF.ipynb` --> `metadata/zac_catalogues_metadata_<date>.trig`
  - 2. OCR and segmentation: `docling/ocr_chunking.py` --> `documents/<catalogue_id>/all.md` ;  `documents/<catalogue_id>/chunks.csv` ; `documents/<catalogue_id>/inconsistencies.csv`;
  - 3. online app for revision of OCR: `app/app.py`. Run in the folder `uvicorn app:app --reload`
- - 4. reviewed lot descriptions to RDF: `lot_descriptions/zac_lot_descriptions.py` --> `lot_descriptions/zac_lot_descriptions.trig`
+ - 4. [OPTIONAL] reviewed lot descriptions to RDF: `lot_descriptions/zac_lot_descriptions.py` --> `lot_descriptions/zac_lot_descriptions.trig`
  - 5.1 NER on section titles with Claude: `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
  - 5.2 cluster entities into labelled groups `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
  - 5.3 refines/aggregates similar clusters `postprocess_merge_csv.py` --> `docling/schools_merged2.csv`; `docling/artists_merged2.csv`; `docling/object_types_merged2.csv` uploaded on [Gsheet](https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing) for human revision
  - 6. assign reviewed lot descriptions to ungrouped entities `assign_entities_via_title_match.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv`
- - 7. TODO retrieve aggregated clusters and produce RDF graph including relations between lots and entities
+ - 7. retrieve aggregated clusters and produce RDF graph including relations between lots and entities
 
 
 
@@ -119,9 +119,12 @@ Retrieve the normalised aggregated entity label from the google spreadsheet (cre
 
 TODO:
 
+ * Add NER to lot descriptions in the last script and replace point 4
  * finalise human-revision of reconciliation and regenerate the RDF dataset to add Wikidata links
- * aggregate entities extracted with NER
- * associate Named entities to lots
- * revised 73 catalogues returning empty NER
+ * revise 73 catalogues that return empty NER and more that return partial NER
  * remember to add catalogues missing because the OCR failed
  * remember to add 5 new catalogues that have been lately scanned (total must be 1900 catalogues) - do the pipeline from beginning
+ * associate an object type to every lot, if possible, especially for those that have an artist or school associated. Revise those that have no NER associated at all because the NER with Claude partially failed (e.g. lots that have artists' names in the text and not in the titles)
+ * work on dates in lot descriptions
+ * extract collection names, people names in front headers
+ * associate lots to pages in AMS Historica
