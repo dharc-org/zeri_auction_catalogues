@@ -7,12 +7,12 @@ Scripts and data of 1.9K auction catalogues from the Zeri photo archive
  - 1. catalogue metadata to RDF: `metadata/Zeri_cataloghi_RDF.ipynb` --> `metadata/zac_catalogues_metadata_<date>.trig`
  - 2. OCR and segmentation: `docling/ocr_chunking.py` --> `documents/<catalogue_id>/all.md` ;  `documents/<catalogue_id>/chunks.csv` ; `documents/<catalogue_id>/inconsistencies.csv`;
  - 3. online app for revision of OCR: `app/app.py`. Run in the folder `uvicorn app:app --reload`
- - 4. [OPTIONAL] reviewed lot descriptions to RDF: `lot_descriptions/zac_lot_descriptions.py` --> `lot_descriptions/zac_lot_descriptions.trig`
- - 5.1 NER on section titles with Claude: `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
- - 5.2 cluster entities into labelled groups `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
- - 5.3 refines/aggregates similar clusters `postprocess_merge_csv.py` --> `docling/schools_merged2.csv`; `docling/artists_merged2.csv`; `docling/object_types_merged2.csv` uploaded on [Gsheet](https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing) for human revision
- - 6. assign reviewed lot descriptions to ungrouped entities `assign_entities_via_title_match.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv`
- - 7. retrieve aggregated clusters and produce RDF graph including relations between lots and entities
+ - 4. NER
+  - 4.1 NER on section titles with Claude: `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
+  - 4.2 cluster entities into labelled groups `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
+  - 4.3 refines/aggregates similar clusters `postprocess_merge_csv.py` --> `docling/schools_merged2.csv`; `docling/artists_merged2.csv`; `docling/object_types_merged2.csv` uploaded on [Gsheet](https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing) for human revision
+ - 5. assign reviewed lot descriptions to ungrouped entities `assign_entities_via_title_match.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv`
+ - 6. retrieve aggregated and manually revised clusters of terms (schools artists types) and produce RDF graph w/ relations between catalogues + lots + entities: `app/build_lots_entities_graph.py` --> `lot_descriptions/zac_lot_descriptions.ttl`
 
 
 
@@ -115,7 +115,9 @@ Queries documents.db for catalogues already reviewed, extracts lots descriptions
 
 ## 7. Produce final RDF
 
-Retrieve the normalised aggregated entity label from the google spreadsheet (created for human revision of clusters https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing), and produce RDF data for associations between lots and (cleaned) entities.
+`app/build_lots_entities_graph.py` --> `lot_descriptions/zac_lot_descriptions.ttl`
+
+Retrieve the normalised aggregated entity label from the google spreadsheet (created for human revision of clusters https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing), and produce RDF data for associations between lots and (cleaned) entities. This file, along with `metadata/zac_catalogues_metadata_<date>.trig` includes the whole RDF graph populating the final web application.
 
 TODO:
 
