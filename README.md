@@ -55,11 +55,13 @@ Ingests all `../docling/documents/<ID>/chunks.csv` and creates `documents.db` SQ
 
 ### 4. Lot descriptions to RDF
 
-[PIPELINE] `lot_descriptions/zac_lot_descriptions.py` --> `lot_descriptions/zac_lot_descriptions.trig`
+This section is obsolete, see `assign_entities_via_title_match.py` and `app/build_lots_entities_graph.py --all`
+
+[obsolete] `lot_descriptions/zac_lot_descriptions.py` --> `lot_descriptions/zac_lot_descriptions.trig`
 
 Reads `documents.db` locally, selects catalogues that have been reviewed and returns the RDF description of lots associated to those catalogues.
 
-`lot_descriptions/zac_lots_ner.csv` (obsolete)
+[obsolete] `lot_descriptions/zac_lots_ner.csv`
 
 Produces an initial NER from long text descriptions.
 
@@ -115,9 +117,15 @@ Queries documents.db for catalogues already reviewed, extracts lots descriptions
 
 ## 7. Produce final RDF
 
-`app/build_lots_entities_graph.py` --> `lot_descriptions/zac_lot_descriptions.ttl`
+`app/build_lots_entities_graph.py --all` --> `lot_descriptions/zac_lot_descriptions.ttl`
 
 Retrieve the normalised aggregated entity label from the google spreadsheet (created for human revision of clusters https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing), and produce RDF data for associations between lots and (cleaned) entities. This file, along with `metadata/zac_catalogues_metadata_<date>.trig` includes the whole RDF graph populating the final web application.
+
+If `--all` the transformation is applied to all catalogues. Default behaviour on the revised catalogues only.
+
+`historica_mapping.csv`
+
+includes the mapping of IIIF images (from our server to AMS Historica), if applicable (i.e. if we had the page annotated correctly, and if we were able to find the corresponding page in Historica, since the naming conventions slightly differ).
 
 TODO:
 
