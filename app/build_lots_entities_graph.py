@@ -206,10 +206,13 @@ def normalize_object_type(object_type: str, object_type_map: dict[str, str]) -> 
     return object_type_map.get(object_type.strip().lower(), object_type.strip())
 
 
-def normalize_school(school: str, school_map: dict[str, dict]) -> tuple[str, str | None]:
+def normalize_school(
+    school: str,
+    school_map: dict[str, dict]
+) -> tuple[str, str | None, str, str]:
     entry = school_map.get(school.strip().lower())
     if not entry or not entry["rivisto"]:
-        return school.strip(), None, None, 'not validated'
+        return school.strip(), None, 'scuola', 'not validated'
 
     zeri, sotto = entry["zeri"], entry["zeri_sottocategoria"]
     # if artist
@@ -225,12 +228,15 @@ def normalize_school(school: str, school_map: dict[str, dict]) -> tuple[str, str
     if entry and entry["casa d'aste"]:
         return (sotto, zeri, "casa d'aste", 'validated') if sotto else (zeri, None, "casa d'aste", 'validated')
     # if school or artist
-    return (sotto, zeri or None, None, 'validated') if sotto else (zeri or school.strip(), None, None, 'not validated')
+    return (sotto, zeri or None, 'scuola', 'validated') if sotto else (zeri or school.strip(), None, 'scuola', 'not validated')
 
 
-def normalize_author(author: str, artist_map: dict[str, dict]) -> str:
+def normalize_author(
+    author: str,
+    artist_map: dict[str, dict]
+) -> tuple[str, str]:
     entry = artist_map.get(author.strip().lower())
-    return entry["zeri"] or author.strip() if entry and entry["rivisto"] else author.strip()
+    return (entry["zeri"], 'validated') if entry and entry["rivisto"] else (author.strip(), 'not validated')
 
 
 def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, object_type_map: dict[str, str], school_map: dict[str, dict], artist_map: dict[str, dict]):
@@ -246,7 +252,15 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
         return
 
     broader, entity_type, validated = None, None, None
-    artist_or_school = normalize_school(school, school_map)[0] if school else normalize_author(author, artist_map)
+    if school:
+        normalized = normalize_school(school, school_map)
+        artist_or_school = normalized[0]
+        validated = normalized[3]
+    else:
+        normalized = normalize_author(author, artist_map)
+        artist_or_school = normalized[0]
+        validated = normalized[1]
+
     if school:
         artist_or_school, broader, entity_type, validated = normalize_school(school, school_map)
 
@@ -259,7 +273,7 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
         g.add((creation_uri, CRM.P14_carried_out_by, actor_uri))
         g.add((actor_uri, RDFS.label, Literal(artist_or_school)))
 
-        if not entity_type:
+        if entity_type == 'scuola':
             g.add((actor_uri, RDF.type, CRM.E74_Group ))
 
         if entity_type == 'artista':
@@ -333,7 +347,7 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
     if reviewed:
         g.add((URIRef(ZAC[short_id]), CRM.P2_has_type, URIRef(ZAC["reviewed"])))
 
-    # add link to manifest: WEIRD IDs 
+    # add link to manifest: WEIRD IDs
     cur_manifest = historica_manifest_map[catalogue_id.replace("BO0614", "BO0624")] or None
     if cur_manifest:
         g.add((URIRef(ZAC[short_id]), CRM.P138i_has_representation, URIRef(cur_manifest) ))
