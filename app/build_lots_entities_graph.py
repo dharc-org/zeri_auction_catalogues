@@ -251,21 +251,21 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
     if not (school or author):
         return
 
-    broader, entity_type, validated = None, None, None
+    artist_or_school, broader, entity_type, validated = None, None, None, None
     if school:
         normalized = normalize_school(school, school_map)
         artist_or_school = normalized[0]
+        broader = normalized[1]
+        entity_type = normalized[2]
         validated = normalized[3]
-    else:
+    if author:
         normalized = normalize_author(author, artist_map)
         artist_or_school = normalized[0]
+        entity_type = 'artista'
         validated = normalized[1]
 
-    if school:
-        artist_or_school, broader, entity_type, validated = normalize_school(school, school_map)
-
     # school or artist in table "scuole"
-    if not entity_type or entity_type == 'artista':
+    if entity_type and (entity_type == 'artista' or entity_type == 'scuola'):
         creation_uri = URIRef(ZAC[f"creation_{lot_id}"])
         actor_uri = URIRef(ZAC[clean(artist_or_school)])
         g.add((URIRef(ZAC[lot_id]), CRM.P94i_was_created_by, creation_uri))
