@@ -1,0 +1,202 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_83845,164077,1,1,"Deux PLATs creux en ancienne faience de Rouen, decor en plein de style chinois.",12.0,96.9,False,positional,,,FAIENCES
+BO0624_83845,164078,2,2,"GRAND PLAT creux en ancienne faience de Rouen, decor en plein : scene familiale de style chinois.",13.0,65.8,False,positional,,,FAIENCES
+BO0624_83845,164079,3,3,"Deux PLATs analogues, mais plus petits.",15.0,92.9,False,positional,,,FAIENCES
+BO0624_83845,164080,4,4,"Deux pLATEAux octogones sur piedouches, decor bleu et rouge rayonnant.Ancienne faience de Rouen.",16.0,97.5,False,positional,,,FAIENCES
+BO0624_83845,164081,5,5,"DEux VAsEs cYLINDRiQuEs, lambrequins en bleu. Ancienne faience de Rouen.",17.0,82.4,False,positional,,,FAIENCES
+BO0624_83845,164082,6,6,"Deux vAses pots-pourris, lambrequins en bleu. Ancienne faience de Rouen.",19.0,90.5,False,positional,,,FAIENCES
+BO0624_83845,164083,7,7,"Deux PLATEaux sur piedouches, decor rayonnant en bleu. Ancienne faience de Rouen.",20.0,97.0,False,positional,,,FAIENCES
+BO0624_83845,164084,8,8,AUTRE PLATEAU analogue.,21.0,92.0,False,positional,,,FAIENCES
+BO0624_83845,164085,9,9,"PLAr creux, corbeille de fleurs et lambrequins. Ancienne faience de Delft.",22.0,76.1,False,positional,,,FAIENCES
+BO0624_83845,164086,10,10,"BouTEILLE,oiseaux et fleurs.Ancienne faience de Delft.",24.0,93.9,False,positional,,,FAIENCES
+BO0624_83845,164087,11,11,GRoupE en ancienne terre de Lorraine :Hercule et Omphale.,25.0,84.7,False,positional,,,FAIENCES
+BO0624_83845,164088,12,12,"Deux FiGuRINEs en ancienne faience blanche de Lorraine, joueur de cornemuse et joueuse de vielle.",26.0,69.6,False,positional,,,FAIENCES
+BO0624_83845,164089,13,13,"QuATRE BusTEs,grandeur nature,en faience italienne,representant l'un un homme,les autres des femmes portant le costume de la fin du xvi siecle.",28.0,93.5,False,positional,,,FAIENCES
+BO0624_83845,164090,14,14,"Por cylindrique avec couvercle, decor bleu cailloute. Ancienne porcelaine de Chine.",32.0,92.4,False,positional,,,PORCELAINES
+BO0624_83845,164091,15,15,"Bassin en ancienne porcelaine de Chine :branches fleuries, lambrequinsau marli.",33.0,71.3,False,positional,,,PORCELAINES
+BO0624_83845,164092,16,16,"PLAT creux,oiseaux et arbustes.Ancienne porcelaine de Chine,famille verte.",35.0,90.2,False,positional,,,PORCELAINES
+BO0624_83845,164093,17,17,"Coupe decoree de fleurs, en ancienne porcelaine de Chine, famille verte.",36.0,88.6,False,positional,,,PORCELAINES
+BO0624_83845,164094,18,18,"Trois PLATs octogones en ancienne porcelaine de Chine, famille verte;arbustes en fleurs et oiseaux;marli a quatre reserves.",37.0,98.0,False,positional,,,PORCELAINES
+BO0624_83845,164095,19,19,"CINQ pLATs ronds en deux dimensions, armoiries hollandaises et compartiments rayonnants. Ancienne porcelaine de Chine, famille verte.",38.0,98.2,False,positional,,,PORCELAINES
+BO0624_83845,164096,20,20,"Deux cAcHE-roTs en ancienne porcelaine de Chine, famille verte, fleurs;culots ornes.",39.0,96.0,False,positional,,,PORCELAINES
+BO0624_83845,164097,21,21,"Assierre, decor de fleurs et lambrequins, ancienne porcelaine de Chine,famille rose.",40.0,95.5,False,positional,,,PORCELAINES
+BO0624_83845,164098,22,22,"PorichE en ancienne porcelaine de Chine, famille rose, fruits et fleurs sur fond gros bleu. Monture en bronze.",41.0,90.7,False,positional,,,PORCELAINES
+BO0624_83845,164099,23,23,"Detx coupes en porcelaine du Japon, a medaillons dans une monture en bronze, a pieds griffes et tetes de boucs.",42.0,96.9,False,positional,,,PORCELAINES
+BO0624_83845,164100,24,24,"CoMporier decore d'armoiries,en ancienne porcelaine de la Compagnie des Indes.",43.0,85.2,False,positional,,,PORCELAINES
+BO0624_83845,164101,25,25,SucriER avec plateau et couvercle : fleurs et bordure bleus. Ancienne porcelaine de Venise.,44.0,97.3,False,positional,,,PORCELAINES
+BO0624_83845,164102,26,26,"THeierE avec couvercle, decoree de fleurs, en ancienne porcelaine de Saxe.",45.0,85.7,False,positional,,,PORCELAINES
+BO0624_83845,164103,27,27,"Tasse et soucoupe, decorees de larges feuilles, en ancienne porcelaine de Saxe.",46.0,95.8,False,positional,,,PORCELAINES
+BO0624_83845,164104,28,28,"MouTarDiER avec couvercle, decore de fleurs, en ancienne porcelaine de Saxe.",47.0,96.2,False,positional,,,PORCELAINES
+BO0624_83845,164105,29,29,"Trois Tasses ct trois petits presentoirs,a bords festonnes, decores de Chinois, en ancienne porcelaine de Saxe.",48.0,96.9,False,positional,,,PORCELAINES
+BO0624_83845,164106,30,30,"BouRDaLoue, decore de fleurs, en ancienne porcelaine de Saxe.",49.0,93.8,False,positional,,,PORCELAINES
+BO0624_83845,164107,31,31,"Figurine de Renommee, en ancienne porcelaine de Saxe.",50.0,81.1,False,positional,,,PORCELAINES
+BO0624_83845,164108,32,32,"FiGurInE de joueuse de vielle, en ancienne porcelaine de Saxe.",51.0,94.7,False,positional,,,PORCELAINES
+BO0624_83845,164109,33,33,"FiGurINe de joueur de cornemuse, en ancienne porcelaine de Saxe.",52.0,83.6,False,positional,,,PORCELAINES
+BO0624_83845,164110,34,34,FiguRiNE en ancienne porcelaine de Saxe :petit joueur de cornemuse faisant danser un chien.,53.0,95.8,False,positional,,,PORCELAINES
+BO0624_83845,164111,35,35,"VasE avec couvercle, en ancienne porcelaine de Saxe, decor de fleurs, guirlandes et mascarons.",54.0,92.2,False,positional,,,PORCELAINES
+BO0624_83845,164112,36,36,Deux coRBEiLLEs decorees de myosotis. Porcelaine de Saxe.,55.0,95.8,False,positional,,,PORCELAINES
+BO0624_83845,164113,37,37,"Deux PLATEAux forme feuilles,insectes et fleurs. Porcelaine de Saxe.",56.0,96.5,False,positional,,,PORCELAINES
+BO0624_83845,164114,38,38,"Deux conBEiLEs avec plateaux ajoures, decor de fleurs. Ancienne porcelaine de Frankenthal.",57.0,96.3,False,positional,,,PORCELAINES
+BO0624_83845,164115,39,39,"PLATEau en forme de losange, decore de divinites marines. Ancienne porcelaine de Frankenthal.",58.0,96.4,False,positional,,,PORCELAINES
+BO0624_83845,164116,40,40,"Por A EAu et cuvette, et pot de toilette, figure mythologique, fond vert clair. Porcelaine de Vienne.",59.0,93.3,False,positional,,,PORCELAINES
+BO0624_83845,164117,41,41,"Tasse avec soucoupe et couvercle, en porcelaine de Berlin : medaillon en grisaille, portrait de Pierre, duc de Courlande.",60.0,92.7,False,positional,,,PORCELAINES
+BO0624_83845,164118,42,42,"Deux BouGeoirs en bronze, ornes chacun d'une figurine en ancienne porcelaine d'Allemagne, ainsi que de fleurettes.",61.0,97.0,False,positional,,,PORCELAINES
+BO0624_83845,164119,43,43,"PLaTeau rond, decore de figurines allegoriques des Saisons, en ancienne porcelaine d'Allemagne.",62.0,96.4,False,positional,,,PORCELAINES
+BO0624_83845,164120,44,44,"FLAMBEAu a deux lumieres,en bronze,orne d'une statuette de joueur de cornemuse en porcelaine d'Allemagne, et de fleurettes en porcelaines variees.",63.0,98.3,False,positional,,,PORCELAINES
+BO0624_83845,164121,45,45,"AiGuIERE et bassin en ancienne porcelaine d'Oude.Loosdrech, a decor en camaieu rose et dorure.",64.0,95.9,False,positional,,,PORCELAINES
+BO0624_83845,164122,46,46,Por A cREME avec couvercle. Ancienne porcelaine tendre de Mennecy.,65.0,95.0,False,positional,,,PORCELAINES
+BO0624_83845,164123,47,47,"SucriEr quadrilobe, avec plateau et couvercle, decor de branches fleuries. Ancienne porcelaine tendre de Chantilly.",66.0,97.5,False,positional,,,PORCELAINES
+BO0624_83845,164124,48,48,"PoT A FARD avec couvercle, decor a ceils-de-perdrix.Ancienne porcelaine de Locre.",67.0,91.7,False,positional,,,PORCELAINES
+BO0624_83845,164125,49,49,"Deux RAFRAicHissoiRs avec couvercles et doubles-fonds,decores de fleurs.Ancienne porcelaine a la Reine.",68.0,96.7,False,positional,,,PORCELAINES
+BO0624_83845,164126,50,50,"JARDINIERE demi-circulaire, semee de fleurettes. Ancienne porcelaine dure de Paris.",69.0,96.0,False,positional,,,PORCELAINES
+BO0624_83845,164127,51,51,"Jardiniere demi-circulaire, ornée de leurs.",,57.8,True,none,,,
+BO0624_83845,164128,52,52,Deux plaques en ancienne porcelaine dure de Paris.,72.0,68.3,False,positional,,,PORCELAINES
+BO0624_83845,164129,53,53,Petit poelon decore de fleurs,307.0,60.9,False,positional,LACROIX,,
+BO0624_83845,164130,54,54,"JaRDiNIERE demi-circulaire, ornee de fleurs.Ancienne porcelaine dure de Paris.",,42.9,True,none,,,
+BO0624_83845,164131,55,55,"AssieTTE en ancienne porcelaine tendre de Vincennes, oiseaux et arbustes.",,43.0,True,none,,,
+BO0624_83845,164132,56,56,Deux PETITEs soucoupEs decorees de guirlandes de fleurs en ancienne porcelaine tendre de Sevres.,,42.6,True,none,,,
+BO0624_83845,164133,57,57,"Six coQuETIers en ancienne porcelaine tendre de Sevres, fleurs.",,43.2,True,none,,,
+BO0624_83845,164134,58,58,"AuTrE, meme porcelaine, fleurs et filets bleus.",,46.2,True,none,,,
+BO0624_83845,164135,59,59,"QuATRE poTs A soRBETs, fleurs et filets bleus, meme porcelaine.",,40.7,True,none,,,
+BO0624_83845,164136,60,60,"AuTRE analogue, en porcelaine dure.",,39.4,True,none,,,
+BO0624_83845,164137,61,61,"EcueLLe ronde avec plateau a bords festonnes et couvercle, en ancienne porcelaine tendre de Sevres; decor de fleurs et filetsbleus.",,44.0,True,none,,,
+BO0624_83845,164138,62,62,"SucrieR avec couvercle, theiere et pot a lait, decor de fleurs. Ancienne porcelaine tendre de Sevres.",,44.2,True,none,,,
+BO0624_83845,164139,63,63,"PLATEAu oblong,fleurs et filets bleus. Ancienne porcelaine tendre de Sevres.",,42.0,True,none,,,
+BO0624_83845,164140,64,64,"CoMPoTIER ovale,fleurs et filets bleus.Ancienne porcelaine tendre de Sevres.",,43.5,True,none,,,
+BO0624_83845,164141,65,65,"Tasse et deux soucoupes, fleurs et filets bleus. Ancienne porcelaine tendre de Sevres.",,44.6,True,none,,,
+BO0624_83845,164142,66,66,"SucriER ovale avec plateau et couvercle, en ancienne porcelaine tendre de Sevres : fleurs et hachures bleues.",,45.9,True,none,,,
+BO0624_83845,164143,67,67,"SucRIEr ovale avec plateau et couvercle, fleurs et carrelages. Ancienne porcelaine tendre de Sevres.",,42.0,True,none,,,
+BO0624_83845,164144,68,68,"EcueLLE avec plateau et couvercle, decord'oiseaux et d'amours en camaieu rose. Ancienne porcelaine tendre de Sevres.",,42.4,True,none,,,
+BO0624_83845,164145,69,69,"Tasse et soucoupe, oiseaux, fond bleu marbre.Ancienne porcelaine tendre de Sevres.",,42.5,True,none,,,
+BO0624_83845,164146,70,70,"SoupieRE avec couvercle, en ancienne porcelaine tendre de Sevres, a decor de fleurs et hachures.",,43.7,True,none,,,
+BO0624_83845,164147,71,71,"Deux BEURRIERs sur plateaux fixes et avec couvercles, en ancienne porcelaine tendre de Sevres, decor de fleurs avec filets bleus.",,43.5,True,none,,,
+BO0624_83845,164148,72,72,"ComporIER en ancienne porcelaine tendre de Sevres, fleurs et filets bleus.",,45.6,True,none,,,
+BO0624_83845,164149,73,73,"Tasse et soucoupe, en ancienne porcelaine tendre de Sevres, decor de fleurettes, bordure a fond gris bleute.",,46.2,True,none,,,
+BO0624_83845,164150,74,74,"Deux vAses pots-pourris, en ancienne porcelaine tendre de Sevres, decor de rinceaux, quadrilles et fleurettes.",,40.6,True,none,,,
+BO0624_83845,164151,75,75,"EcceLLE, decoree de fleurs et bandes a fond bleu. Ancienne porcelaine tendre de Sevres, epoque revolutionnaire.",,41.4,True,none,,,
+BO0624_83845,164152,76,76,"EcuELLE avec couvercle et presentoir, a decor de fleurs, cn porcelaine tendre de Vincennes. GRouPE en ancien biscuit de Sevres,marque de Leriche",,39.8,True,none,,,
+BO0624_83845,164153,77,77,Groupe en ancien biscuit de Sevres,,47.4,True,none,,,
+BO0624_83845,164154,78,78,"Groupe en ancien biscuit, de personnages allegoriques sur un rocher.",,43.9,True,none,,,
+BO0624_83845,164155,79,79,"Deux sTATuETTes en ancien biscuit : Ceres et faune au chevreau, d'apres l'antique.",,42.6,True,none,,,
+BO0624_83845,164156,80,80,"Sucrier avec couvercle, six tasses et cinq presentoirs varies, decor bleu.Ancienne porcelaine tendre francaise.",,39.3,True,none,,,
+BO0624_83845,164157,81,81,Deux FIGuRINEs en ancienne porcelaine tendre blanche:berger et jardiniere.,,41.9,True,none,,,
+BO0624_83845,164158,82,82,AssieTre en porcelaine tendre : fleurs et hachures bleues.,,44.4,True,none,,,
+BO0624_83845,164159,83,83,PeTITE BALusTRADE en porcelaine blanche.,,42.2,True,none,,,
+BO0624_83845,164160,84,84,"Busre en marbre blanc, grandeur nature, de femme drapee a l'antique, la tete tournee vers l'epaule droite xvin siecle.",,40.7,True,none,,,
+BO0624_83845,164161,85,85,PETIT OBELIsQUE en spath-fluor.,,37.0,True,none,,,
+BO0624_83845,164162,86,86,"Chope en ivoire sculpte, jeux damours, montee en argent repousse et dore.",,52.6,True,none,,,
+BO0624_83845,164163,87,87,"GoBELEr en argent grave a rinceaux ; bordure doree. Nuremberg, xvil siecle.",,42.0,True,none,,,
+BO0624_83845,164164,88,88,"GobELEt plus petit, en argent repousse, grave et partiellement dore, a rinceaux. Augsbourg, xvne siecle.",,40.5,True,none,,,
+BO0624_83845,164165,89,89,"Chope en argent repousse, grave et dore, a decor de rinceaux et de fruits. Anse ornee d'une tete humaine. Nuremberg, xvhle siecle.",,41.5,True,none,,,
+BO0624_83845,164166,90,90,"Chope en argent repousse et dore, decor d'entrelacs et fleurons; anse cariatide. Allemagne, xvil siecle.",,45.0,True,none,,,
+BO0624_83845,164167,91,91,"PeTITE cHopE en argent repousse et partiellement dore,a fleurons et rinceaux. Nuremberg, xvil siecle.",,42.6,True,none,,,
+BO0624_83845,164168,92,92,"CHope en argent repousse et dore, a fleurs et fruits. Nuremberg, xvlll siecle.",,44.8,True,none,,,
+BO0624_83845,164169,93,93,"BocaL sur pied balustre en argent repousse et partiellement dore, a figures de guerriers, au milieu d'entrelacs et de fruits.",,42.5,True,none,,,
+BO0624_83845,164170,94,94,"GRAND BocAL avec couvercle en argent repousse, sur pied balustre,a decor de figures, d'entrelacs et de feuilles. Sur le couvercle, fgurine d'amour.",,42.7,True,none,,,
+BO0624_83845,164171,95,95,"Vase avec couvercle en argent repousse, decore de sujets de chasse; figures heraldiques sur le couvercle.",,45.8,True,none,,,
+BO0624_83845,164172,96,96,"Chope en argent repousse, grave et partiellement dore, decor de godrons en spirales, charges de rinceaux.",,46.2,True,none,,,
+BO0624_83845,164173,97,97,"NauriLE, decore d'un concert d'anges, grave, monture en argent, a feuillages, cygnes, figurines d'amours, etc.",,44.7,True,none,,,
+BO0624_83845,164174,98,98,"Deux PLATs ovales en argent repousse et dore,a sujets de chasse.",,47.7,True,none,,,
+BO0624_83845,164175,99,99,PLAT ovale en argent repousse: Samson et le lion.,,42.6,True,none,,,
+BO0624_83845,164176,100,100,Deux FLAMBEaux canneles et enguirlandes en argent. Epoque Louis XVI.,,37.7,True,none,,,
+BO0624_83845,164177,101,101,"Croix et deux pieds de reliquaires en argent dore, decor de fleurons. xvii siecle.",,46.2,True,none,,,
+BO0624_83845,164178,102,102,"CINQ coNsoLEs-APpLiQrEs en bois sculpte et dore, en plusieurs modeles.",,49.7,True,none,,,
+BO0624_83845,164179,103,103,"Deux BRAs-APpLIQuEs a deux lumieres,en tole vernie, decor de fleurettes en anciennes porcelaines variees.",,40.6,True,none,,,
+BO0624_83845,164180,104,104,QuATRE GAINEs plaquees de marbre.,,40.0,True,none,,,
+BO0624_83845,164181,105,105,"CorrRET en marqueterie dite certosina, decore de plaques d'os d’ancien travail italien, a decor de personnages.",,43.4,True,none,,,
+BO0624_83845,164182,106,106,"PeNDuLE en marqueterie de cuivre sur ecaille garnie de bronzes :bas-relief, char d'Amphitrite, statuette de la Renommee, chutes, cadran,etc.Epoque Louis XIV.",,37.7,True,none,,,
+BO0624_83845,164183,107,107,"GrANDE PENDuLE sur socle-applique en marqueterie de cuivre sur ecaille, garnie de bronzes a decor de rocailles, quadrilles, bas-reliefs allegoriques, statuettes d'amours, les uns tenant une cloche, les autres portant des bras de lumieres. Epoque Regence. Bronzes redores.",,45.0,True,none,,,
+BO0624_83845,164184,108,108,"PetIT BusrE en bronze a patine brune,bacchant couronne de pampres, vetu d'une peau et legerement souriant. xvin siecle. Piedouche et base en bronze.",,40.9,True,none,,,
+BO0624_83845,164185,109,109,"GRANDE HoRLoGE a gaine en racine et marqueterie, garnie de cuivres a decor de rinceaux et rocailles. Cadran decore de peintures a sujets galants.Mouvement a musique. Travail hollandais, xvii siecle.",,40.3,True,none,,,
+BO0624_83845,164186,110,110,"DEUx FLAMBLEAUx coLoNNETTEs en marbre bleu turquin et blanc, et bronzes. Epoque Louis XVI.",,37.5,True,none,,,
+BO0624_83845,164187,111,111,"CarreL en bois sculpte et dore, decore de branches de chene. Fin du xvii siecle.",,50.3,True,none,,,
+BO0624_83845,164188,112,112,"CassoLETTE en marbre,montee en bronze dore et sur pied en albatre onyx.",,48.9,True,none,,,
+BO0624_83845,164189,113,113,"PesDuLE sur socle-applique en bois de placage, garnie de bronzes:chutes et figurine d'amour.",,43.6,True,none,,,
+BO0624_83845,164190,114,114,"GRANDE LANTERNE de vestibule,en bronze,a decor de feuillages.",,37.7,True,none,,,
+BO0624_83845,164191,115,115,"Bas-RELiEr sans fond, en bronze dore :Apollon et Daphne.",,37.7,True,none,,,
+BO0624_83845,164192,116,116,"Deux FLAMBEAux en bronze dore, a tige quadrilaterale; decor de mufles de lions, rinceaux et cornes d'abondance.",,42.4,True,none,,,
+BO0624_83845,164193,117,117,"Decx FAuTeuiLs en bois sculpte, couverts en cuir gaufre, peint et dore. Epoque Regence.",,50.3,True,none,,,
+BO0624_83845,164194,118,118,"CaNape en bois dore, couvert en tapisserie au point et broderie au passe, du temps de Louis XIV, a dessin de figures de femmes,rinceaux,amours, draperies,masque du soleil,le tout sur fond blanc.",,41.6,True,none,,,
+BO0624_83845,164195,119,119,"CaNAPE ET sEPT FAUTEUILs en bois dore, couverts en tapisserie",,41.6,True,none,,,
+BO0624_83845,164196,120,120,"FaureuiL moderne recouvert en etoffe, assorti aux precedents.",,40.7,True,none,,,
+BO0624_83845,164197,121,121,"Deux FauTeuiLs en bois sculpte et peint blanc; sur le siege et le dossier, petits medaillons en tapisserie d'Aubusson du temps de Louis XV, a personnages et sujets tires des Fables de La Fontaine.",,40.8,True,none,,,
+BO0624_83845,164198,122,122,"QuATRE FAUTeuILs en bois sculpte a rocailles, en deux modeles, couverts en velours rouge et etoffe. Travail italien du xvii siecle.",,50.5,True,none,,,
+BO0624_83845,164199,123,123,"FauTeuiL en bois sculpte,de forme contournee, couvert en tapisserie aux armes des marquis de Montault. xvinl siecle.",,49.3,True,none,,,
+BO0624_83845,164200,124,124,"Six FAuTeuILs en bois sculpte,couverts en ancienne tapisserie au point, a larges feuilles sur fond blanc.",,41.7,True,none,,,
+BO0624_83845,164201,125,125,"QuATRE cHAIsEs en bois sculpte et dore, couvertes en ancien damas rouge.",,54.4,True,none,,,
+BO0624_83845,164202,126,126,"QuATRE FAUTeuiLs en bois sculpte et dore, couverts en ancien damas rose.",,54.4,True,none,,,
+BO0624_83845,164203,127,127,"Deux cHAisEs en bois sculpte et dore,couvertes en ancien damas rose.",,51.5,True,none,,,
+BO0624_83845,164204,128,128,"DEUx CANAPEs ET HUIT FAUTEuILs a hauts dossiers, en bois sculpte et dore, couverts en ancien damas rouge.",,51.0,True,none,,,
+BO0624_83845,164205,129,129,"Six FAuTeuILs a dossiers arrondis, en bois sculpte et dore, couverts en ancien damas rouge.",,55.1,True,none,,,
+BO0624_83845,164206,130,130,"BERGERE ET TRois FAUTEuILs en bois dore, couverts en tapisserie au point, a fleurs sur fond carrele.",,41.7,True,none,,,
+BO0624_83845,164207,131,131,"Trois FAuTeuILs en bois sculpte,couverts en ancienne tapisserie au point, a grosses fleurs sur fond marron.",,43.3,True,none,,,
+BO0624_83845,164208,132,132,"BuREau a X, en marqueterie de bois de couleur, etain, cuivre et ecaille.xvii siecle.",,47.3,True,none,,,
+BO0624_83845,164209,133,133,CaBiNEt en marqueterie de bois de couleur. xviii siecle.,,49.0,True,none,,,
+BO0624_83845,164210,134,134,"CaBINET a deux portes Louis XIlI en ebene,a decor de figures et de trophees. Console-support a cariatides.",,44.6,True,none,,,
+BO0624_83845,164211,135,135,"MeuBLe a deux corps, en bois noir, a decor de figures et de moulures guillochees.",,48.8,True,none,,,
+BO0624_83845,164212,136,136,"Deux coLoNNEs torses en bois sculpte, decorees de pampres. Epoque Louis XIll.",,47.6,True,none,,,
+BO0624_83845,164213,137,137,"ConsoLE en bois sculpte et dore, mascaron et statuette d'amour. Dessus de marbre. Epoque Louis XIV.",,47.3,True,none,,,
+BO0624_83845,164214,138,138,"GLace dans un cadre a fronton en glace et bois dore,a decor de moulures, palmettes, fleurs et sphinx. Epoque Louis XIv.",,44.7,True,none,,,
+BO0624_83845,164215,139,139,"CABINET en marqueterie de bois de couleur, decore de perspectives architecturales sur toutes les faces. Dessus orne d'instruments de musique. xvi siecle. Base en bois noir.",,42.5,True,none,,,
+BO0624_83845,164216,140,140,"Coumope a trois rangs de tiroirs en bois de violette,a poignees, chutes a mascarons et entrees de serrures en bronze. Dessus de marbre. Epoque Regence.",,39.5,True,none,,,
+BO0624_83845,164217,141,141,"Deux ENcoiGNuREs en bois de violette a deux portes. Epoque Regence. Garnitures de bronzes, dessus de marbre.",,44.1,True,none,,,
+BO0624_83845,164218,142,142,"CommoDe a trois rangs de tiroirs en bois de placage,garnie de bronzes, dessus de marbre. Epoque Regence.",,41.0,True,none,,,
+BO0624_83845,164219,143,143,"Deux consoLes en bois sculpte et dore,a rocailles, sur deux pieds a dragons relies par une coquille rocaille. Dessus de marbre. Epoque Louis XV.",,46.8,True,none,,,
+BO0624_83845,164220,144,144,"ConsoLe en bois sculpte et dore, a decor de quadrilles et rinceaux, sur deux pieds a volutes relies par une petite traverse. Dessus de marbre. Epoque Regence.",,40.0,True,none,,,
+BO0624_83845,164221,145,145,"CartEL porte-montre en bois sculpte, peint et dore:amours et oiseaux. xvime siecle.",,49.0,True,none,,,
+BO0624_83845,164222,146,146,"Deux consoLes en bois sculpte,a coquilles, fleurs et rocailles. Dessus de marbre. Epoque Louis XV.",,51.9,True,none,,,
+BO0624_83845,164223,147,147,"ConsoLe en bois sculpte et peint gris et bleu, a rocailles et dragons. Dessus de marbre.Epoque Louis XV.",,48.8,True,none,,,
+BO0624_83845,164224,148,148,"ComMode a deux tiroirs en laque noire et or, de style chinois; garnitures de bronzes; dessus de marbre. Epoque Louis XV.",,43.5,True,none,,,
+BO0624_83845,164225,149,149,BuREau a dos d'ane en bois de violette. Epoque Louis XV.,,44.4,True,none,,,
+BO0624_83845,164226,150,150,CaRToNNIER en bois de placage garni de bronzes. Epoque LouisxV.,,40.9,True,none,,,
+BO0624_83845,164227,151,151,SecREtaiRE a abattant et portes en bois de placage. Epoque LouisXv.,,42.3,True,none,,,
+BO0624_83845,164228,152,152,CoMMoDe a deux tiroirs en marqueterie de bois de couleur a fleurs; garnitures de bronzes; dessus de marbre. Epoque Louis XV.,,41.7,True,none,,,
+BO0624_83845,164229,153,153,"Commope demi-lune a portes et tiroirs, en bois de placage, garnitures de cuivres; dessus de marbre. Epoque Louis XVI.",,44.1,True,none,,,
+BO0624_83845,164230,154,154,"SecRETaiRE droit a abattant,portes et tiroirs,en marqueterie de bois de couleur,a decor de draperies,instruments de musique, fleurs et rubans. Dessus de marbre. Epoque Louis XVI.",,37.7,True,none,,,
+BO0624_83845,164231,155,155,"PetIT BuREAU, avec corps superieur vitre, garni de cuivres. Epoque Louis XVI.",,36.9,True,none,,,
+BO0624_83845,164232,156,156,"ComMoDE en marqueterie de bois de couleur,a decor de",,47.5,True,none,,,
+BO0624_83845,164233,157,157,"PetIt BuREAu bonheur-du-jour Louis XV, en bois de placage; corps superieur a coulisse.",,41.0,True,none,,,
+BO0624_83845,164234,158,158,"PETIT MEUBLE-APPLIQuE Louis XVI, a abattant, en marqueterie de bois de couleur.",,41.0,True,title_direct,,,MEUBLES
+BO0624_83845,164235,159,159,"EcRAN en bois sculpte, feuille en ancienne tapisserie au point a personnages.",,45.4,True,none,,,
+BO0624_83845,164236,160,160,"TaBLE-BUREAu en bois de placage, a trois tiroirs. garnitures de bronzes. Dessus de maroquin.",,46.2,True,none,,,
+BO0624_83845,164237,161,161,"PetItE TABLE a un tiroir, marqueterie; dessus de marbre.",,39.6,True,none,,,
+BO0624_83845,164238,162,162,PETITE TABLE TRIcOTEUsE en bois de placage.,,39.4,True,none,,,
+BO0624_83845,164239,163,163,TABLE-coIFrEusE Louis XV en marqueterie de bois de couleur.,,44.2,True,none,,,
+BO0624_83845,164240,164,164,"PETItE TABLE en marqueterie, munie d'un plateau mobile.",,38.7,True,none,,,
+BO0624_83845,164241,165,165,TABLE RoGNoN a dessus de marbre et galeric de cuivre.,,38.3,True,none,,,
+BO0624_83845,164242,166,166,"ConsoLe en bois sculpte et dore,a quatre pieds contournes, decor de feuillages ; tablette de marbre rouge griotte.",,51.7,True,none,,,
+BO0624_83845,164243,167,167,"GRAND PARAvENT en toile de Jouy, a figures en rouge sur foud blanc.",,42.9,True,none,,,
+BO0624_83845,164244,168,168,"CaBinET en bois partiellement laque et garni de cuivres, de travail japonais,sur base a un tiroir, en bois sculpte,peint et",,46.7,True,none,,,
+BO0624_83845,164245,169,169,PETIT PARAvENT en ancien damas rouge.,,41.6,True,none,,,
+BO0624_83845,164246,170,170,"DEUx TABouRETs DE PIEDs, decores d’un carre en ancienne  tapisserie a fleurs.",,37.7,True,none,,,
+BO0624_83845,164247,171,171-174,"SuITE DE QUATRE TAPIssERIEs de la tenture dite des Portieres des dieux, d’apres Claude Audran :",,41.8,True,none,,,
+BO0624_83845,164248,172,175,"TapisserIE en trois parties, tissee de metal,representant un combat de style antique.Flandres,xvue siecle.",,40.5,True,none,,,
+BO0624_83845,164249,173,176,Balen & Kessel. Le Christ et la Vierge entoures de fleurs.,,45.2,True,none,,,
+BO0624_83845,164250,174,177,BOURGUIGNON. Batailles et sieges de ville. Suite de quatre tableaux.,,43.1,True,title_direct,BOURGUIGNON,,Tableaux
+BO0624_83845,164251,175,178,CHAMPAIGNE. Portrait de Georges Langlois Plainbosch. Cadre en bois sculpte.,,59.3,True,title_direct,CHAMPAIGNE,,
+BO0624_83845,164252,176,179,"DAVID, Attribue a LoUIS. Portrait de la princesse Pauline Borghese.",,43.5,True,title_direct,DAVID,,
+BO0624_83845,164253,177,180,Lacroix. Les Baigneuses.,,44.8,True,none,,,
+BO0624_83845,164254,178,181,Lacroix. Bergers et animauc dans la campagne.,,45.7,True,none,,,
+BO0624_83845,164255,179,182,Lacroix. Paysage avec cours d'eau et figures.,,45.7,True,none,,,
+BO0624_83845,164256,180,183,Loo. Portrait de femme tenant des fleurs.,,52.6,True,none,,,
+BO0624_83845,164257,181,184,Loo. Portrait dun chevalier de Saint-Louis.,309.0,91.8,False,positional,LACROIX,,
+BO0624_83845,164258,182,185,Mignard. Portrait de femme avec les attributs de sainte Catherine.,316.0,75.0,False,positional,MIGNARD,,
+BO0624_83845,164259,183,186,Mignard. Portrait de jeune femme en corsage bleu brodedor.,322.0,73.2,False,positional,MIGNARD,,
+BO0624_83845,164260,184,187,Mignard. Jeune femme tenant un miroir et une balance.,330.0,85.4,False,positional,MIGNARD,,
+BO0624_83845,164261,185,188,RIGAUD. Portrait dhomme.,,55.2,True,title_direct,RIGAUD,,
+BO0624_83845,164262,186,189,Rigaud. Portrait d’un gentilhomme.,348.0,76.5,False,positional,RIGAUD,,
+BO0624_83845,164263,187,190,Rigaud. Portrait de Francois Lefeure de Cailly. Cadre en bois sculpte.,356.0,88.6,False,positional,RIGAUD,,
+BO0624_83845,164264,188,191,Rigaud. Portrait de femme en corsage rouge. Cadre en bois sculpte. Toile de forme ovale.,360.0,91.4,False,positional,RIGAUD,,
+BO0624_83845,164265,189,192,Rigaud. Portrait de femme accompagnee d'un amour.,366.0,85.4,False,positional,RIGAUD,,
+BO0624_83845,164266,190,193,"VOUET. La Vierge, lEnfant Jesus, saint Joseph et un ange.",372.0,82.5,False,positional,RIGAUD,,
+BO0624_83845,164267,191,194,WEENIX. Halte de soldats dans un site italien. mportant tableau. Signe a droite.,377.0,60.8,False,title_direct,WEENIX,,
+BO0624_83845,164268,192,195,"WOUWERMANN. Jeu de cavaliers,",385.0,63.0,False,title_direct,WOUWERMANN,,
+BO0624_83845,164269,193,196,ECOLE FRANGAISE. Portrait d'un ecuyer.,391.0,67.7,False,title_direct,,ECOLE FRANGAISE,
+BO0624_83845,164270,194,197,ECOLE FRANGAISE. Portrait du marquis de Rouault.,401.0,76.2,False,title_direct,,ECOLE FRANGAISE,
+BO0624_83845,164271,195,198,ECOLE FRANGAISE. Portrait de la comtesse de Rouault.,405.0,80.5,False,title_direct,,ECOLE FRANGAISE,
+BO0624_83845,164272,196,199,BOUCHER. La Peche.,,50.0,True,title_direct,BOUCHER,,
+BO0624_83845,164273,197,200,Dafry. Depart de chevauc de course.,420.0,85.3,False,positional,DAFRY,,
+BO0624_83845,164274,198,201,DYCK. Portrait de Charles Ier. Grave par Strange. —La Peche.,430.0,79.6,False,positional,DAFRY,,
+BO0624_83845,164275,199,202,VILLERET. Vue de Rouen. Aquarelle. Signee et datee : 1832.,437.0,84.2,False,title_direct,VILLERET,,
+BO0624_83845,740066,200,203,VILLERET. Vue du chateau de Twickenham en 1825. Gravee par Stadler.,438.0,87.7,False,title_direct,VILLERET,,
+BO0624_83845,740067,201,204,VILLERET. Gravures anglaises. Sujets de sport.,439.0,81.8,False,title_direct,VILLERET,,Gravures

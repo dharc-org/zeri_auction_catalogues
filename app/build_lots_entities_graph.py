@@ -154,6 +154,7 @@ def load_school_map(df: pd.DataFrame) -> dict[str, dict]:
         entry = {   "rivisto": parse_bool(row.get("rivisto", "")),
                     "zeri": row.get("ZERI", "").strip(),
                     "zeri_sottocategoria": row.get("ZERI SOTTOCATEGORIA", "").strip(),
+                    "artista":parse_bool(row.get("artista", "")),
                     "oggetti":parse_bool(row.get("oggetti", "")),
                     "collezione":parse_bool(row.get("collezione", "")),
                     "casa d'aste":parse_bool(row.get("casa d'aste", ""))
@@ -208,20 +209,23 @@ def normalize_object_type(object_type: str, object_type_map: dict[str, str]) -> 
 def normalize_school(school: str, school_map: dict[str, dict]) -> tuple[str, str | None]:
     entry = school_map.get(school.strip().lower())
     if not entry or not entry["rivisto"]:
-        return school.strip(), None, None
+        return school.strip(), None, None, 'not validated'
 
     zeri, sotto = entry["zeri"], entry["zeri_sottocategoria"]
+    # if artist
+    if entry and entry['artista']:
+        return (sotto, zeri, 'artista', 'validated') if sotto else (zeri, None, 'artista', 'validated')
     # if object type
     if entry and entry['oggetti']:
-        return (sotto, zeri, 'oggetti') if sotto else (zeri, None, 'oggetti')
+        return (sotto, zeri, 'oggetti', 'validated') if sotto else (zeri, None, 'oggetti', 'validated')
     # if collection
     if entry and entry['collezione']:
-        return (sotto, zeri, 'collezione') if sotto else (zeri, None, 'collezione')
+        return (sotto, zeri, 'collezione', 'validated') if sotto else (zeri, None, 'collezione', 'validated')
     # if casa d'aste
     if entry and entry["casa d'aste"]:
-        return (sotto, zeri, "casa d'aste") if sotto else (zeri, None, "casa d'aste")
+        return (sotto, zeri, "casa d'aste", 'validated') if sotto else (zeri, None, "casa d'aste", 'validated')
     # if school or artist
-    return (sotto, zeri or None, None) if sotto else (zeri or school.strip(), None, None)
+    return (sotto, zeri or None, None, 'validated') if sotto else (zeri or school.strip(), None, None, 'not validated')
 
 
 def normalize_author(author: str, artist_map: dict[str, dict]) -> str:
@@ -230,6 +234,7 @@ def normalize_author(author: str, artist_map: dict[str, dict]) -> str:
 
 
 def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, object_type_map: dict[str, str], school_map: dict[str, dict], artist_map: dict[str, dict]):
+
     #catalogue_id = lot_id
     if object_type:
         norm = normalize_object_type(object_type, object_type_map)
@@ -240,19 +245,30 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
     if not (school or author):
         return
 
-    broader, entity_type = None, None
+    broader, entity_type, validated = None, None, None
     artist_or_school = normalize_school(school, school_map)[0] if school else normalize_author(author, artist_map)
     if school:
-        artist_or_school, broader, entity_type = normalize_school(school, school_map)
+        artist_or_school, broader, entity_type, validated = normalize_school(school, school_map)
 
     # school or artist in table "scuole"
-    if not entity_type:
+    if not entity_type or entity_type == 'artista':
         creation_uri = URIRef(ZAC[f"creation_{lot_id}"])
         actor_uri = URIRef(ZAC[clean(artist_or_school)])
         g.add((URIRef(ZAC[lot_id]), CRM.P94i_was_created_by, creation_uri))
         g.add((creation_uri, RDF.type, CRM.E65_Creation))
         g.add((creation_uri, CRM.P14_carried_out_by, actor_uri))
         g.add((actor_uri, RDFS.label, Literal(artist_or_school)))
+
+        if not entity_type:
+            g.add((actor_uri, RDF.type, CRM.E74_Group ))
+
+        if entity_type == 'artista':
+            g.add((actor_uri, RDF.type, CRM.E21_Person ))
+
+        if validated and validated == 'validated':
+            g.add((creation_uri, CRM.P2_has_type, URIRef(ZAC['validated']) ))
+        else:
+            g.add((creation_uri, CRM.P2_has_type, URIRef(ZAC['not_validated']) ))
 
         if broader:
             broader_uri = URIRef(ZAC[clean(broader)])
@@ -265,9 +281,10 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
             g.add((URIRef(ZAC[lot_id]), CRM.P2_has_type, object_uri))
             g.add((object_uri, RDFS.label, Literal(norm)))
 
-        if entity_type == 'collezione':
-            # crm:P16_used_specific_object
-        if entity_type == "casa d'aste":
+        # if entity_type == 'collezione':
+        #     # crm:P16_used_specific_object
+        # if entity_type == "casa d'aste":
+
 
 def get_historica_image_for_lot(catalogue_id, image_online, historica_manifest_map, historica_mapping, historica_manifest_cache, new_historica_mappings):
     page_label = extract_historica_page_label(image_online)
@@ -316,6 +333,11 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
     if reviewed:
         g.add((URIRef(ZAC[short_id]), CRM.P2_has_type, URIRef(ZAC["reviewed"])))
 
+    # add link to manifest: WEIRD IDs 
+    cur_manifest = historica_manifest_map[catalogue_id.replace("BO0614", "BO0624")] or None
+    if cur_manifest:
+        g.add((URIRef(ZAC[short_id]), CRM.P138i_has_representation, URIRef(cur_manifest) ))
+
     for chunk in chunks:
         num, title, full_text, image_online = chunk["num"], chunk["title"], chunk["text"], chunk["image_online"]
         lot_id = f"{short_id}_lot_{num.strip().replace(' ', '_')}"
@@ -323,7 +345,7 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
 
         g.add((lots_uri, CRM.P46_is_composed_of, lot_uri))
         g.add((lot_uri, RDF.type, LA["Set"]))
-        g.add((lot_uri, RDFS.label, Literal(f"{num} - {title}")))
+        #g.add((lot_uri, RDFS.label, Literal(f"{num} - {title}")))
 
         lot_identifier_uri = URIRef(ZAC[f"{lot_id}_id"])
         g.add((lot_uri, CRM.P1_is_identified_by, lot_identifier_uri))
@@ -342,7 +364,7 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
         g.add((description_uri, CRM.P2_has_type, AAT["300435416"]))
 
         if image_online:
-            g.add((lot_uri, CRM.P138i_has_representation, URIRef(image_online)))
+            #g.add((lot_uri, CRM.P138i_has_representation, URIRef(image_online)))
             historica_image_url = get_historica_image_for_lot(catalogue_id, image_online, historica_manifest_map, historica_mapping, historica_manifest_cache, new_historica_mappings)
             if historica_image_url:
                 g.add((lot_uri, CRM.P138i_has_representation, URIRef(historica_image_url)))

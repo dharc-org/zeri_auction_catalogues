@@ -113,7 +113,7 @@ The CSV files are uploaded in google spreadsheet for human revision.
 
 [PIPELINE] `assign_entities_via_title_match.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
 
-Queries documents.db for catalogues already reviewed, extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot.
+Queries documents.db for catalogues already reviewed, extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot. In the last script (below), the raw entity is replaced with the normalised form of the name that has been automatically clustered and manually revised in "ZERI_NER" spreadsheets.
 
 ## 7. Produce final RDF
 
@@ -129,7 +129,6 @@ includes the mapping of IIIF images (from our server to AMS Historica), if appli
 
 TODO:
 
- * Add NER to lot descriptions in the last script and replace point 4
  * finalise human-revision of reconciliation and regenerate the RDF dataset to add Wikidata links
  * revise 73 catalogues that return empty NER and more that return partial NER
  * remember to add catalogues missing because the OCR failed
@@ -137,4 +136,3 @@ TODO:
  * associate an object type to every lot, if possible, especially for those that have an artist or school associated. Revise those that have no NER associated at all because the NER with Claude partially failed (e.g. lots that have artists' names in the text and not in the titles)
  * work on dates in lot descriptions
  * extract collection names, people names in front headers
- * associate lots to pages in AMS Historica

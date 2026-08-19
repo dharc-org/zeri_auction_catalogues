@@ -1,0 +1,249 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_83738,107215,1,1,"PeTIt por a une anse en gres gris et violet, orne d'une rangee de disques. xvre siecle.",54.0,96.1,False,positional,,,GRES; FAIENCES
+BO0624_83738,107216,2,2,"CrucHe en gres gris et bleu, ornee d'une frise a petits mascarons.Raeren,xvi siecle.",58.0,96.6,False,positional,,,GRES; FAIENCES
+BO0624_83738,107217,3,3,"PeTit poT a une anse en gres gris et bleu, seme de petits motifs. Raeren, xvie siecle.",62.0,96.6,False,positional,,,GRES; FAIENCES
+BO0624_83738,107218,4,4,"CrucHE en gres gris et bleu, a feuillages et mascarons. Raeren, xv1e siecle.",66.0,96.8,False,positional,,,GRES; FAIENCES
+BO0624_83738,107219,5,5,"CruchE en gres gris et bleu, decoree d'une frise presentant des arquebusiers. Raeren, commencement du xvil siecle.",70.0,97.9,False,positional,,,GRES; FAIENCES
+BO0624_83738,107220,6,6,"CrucHE en gres gris, bleu ct violet, aux armes de France. xvi siecle.",74.0,96.5,False,positional,,,GRES; FAIENCES
+BO0624_83738,107221,7,7,"PLAT, decore de deux oiseaux et de feurs. Ancienne faience de Rhodes.",77.0,88.7,False,positional,,,GRES; FAIENCES
+BO0624_83738,107222,8,8,"PLAT, decor a refets metalliques : feuillages. Ancienne faience hispano-mauresque.",81.0,90.5,False,positional,,,GRES; FAIENCES
+BO0624_83738,107223,9,9,"PLAt, decore en bleu avec refets metalliques, motifs rayonnants et larges feuilles. Ancienne faience hispano-mauresque.",85.0,93.4,False,positional,,,GRES; FAIENCES
+BO0624_83738,107224,10,10,"Deux corNErs, a decor bleu avec reflets metalliques, petites feuilles. Ancienne faience hispano-mauresque.",89.0,93.1,False,positional,,,GRES; FAIENCES
+BO0624_83738,107225,11,11,"VasE A PANs avec couvercle, decore de feurs et lambrequins en bleu. Ancienne faience de Delft.",93.0,92.2,False,positional,,,GRES; FAIENCES
+BO0624_83738,107226,12,12,"GRAND PLAT rond, decor en bleu, armoiries. Faience du Midi.",97.0,86.9,False,positional,,,GRES; FAIENCES
+BO0624_83738,107227,13,13,"FoNTAINE-AppLiQuE et son bassin, decores de motifs de rocailles, de dauphins et d'une figure d'enfant nu. Faience blanche du Midi.",101.0,97.4,False,positional,,,GRES; FAIENCES
+BO0624_83738,107228,14,14,PLATEAu rond: Persee et Andromede. Faience de la suite de Palissy.,105.0,82.6,False,positional,,,GRES; FAIENCES
+BO0624_83738,107229,15,15,"PLAT ovale, decore en bleu d'un sujet de chasse, d'apres Tempesta.Ancienne faience de Moustiers.",109.0,96.0,False,positional,,,GRES; FAIENCES
+BO0624_83738,107230,16,16,Dix pieces: assiettes et compotiers a decor de paysages animes. Ancienne faience de Marseille.,112.0,94.9,False,positional,,,GRES; FAIENCES
+BO0624_83738,107231,17,17,"Deux pETITs cAcHE-PoTs decores de feurs, anses-branchages. Ancienne faience de Marseille.",116.0,91.3,False,positional,,,GRES; FAIENCES
+BO0624_83738,107232,18,18,"JArDINIERE oblongue,a couvercle ajoure, decoree de guirlandes de feurs.Ancienne faience de Lorraine.",120.0,97.6,False,positional,,,GRES; FAIENCES
+BO0624_83738,107233,19,19,Deux sTATuETTEs: PAYsAN ET PAYsANNE debout aupres d'un vase. Ancienne faience de Lorraine.,124.0,82.8,False,positional,,,GRES; FAIENCES
+BO0624_83738,107234,20,20,"Coupe sur piedouche, decoree en bleu avec refets metalliques : monogramme du Christ.Ancienne faience de Deruta.",128.0,96.9,False,positional,,,GRES; FAIENCES
+BO0624_83738,107235,21,21,"PLAT, buste de femme; marli a compartiments.Ancienne faience de Faenza.",132.0,82.8,False,positional,,,GRES; FAIENCES
+BO0624_83738,107236,22,22,"PLAT, decore, au centre, du sujet de saint Jerome dans le desert ; marli a compartiments. Ancienne faience de Faenza.",136.0,96.7,False,positional,,,GRES; FAIENCES
+BO0624_83738,107237,23,23,"Deux VAsEs DE PHARMAcIE, decores de bustes, sur fond gros-bleu charge de feurs. Ancienne faience de Castel-Durante.",140.0,97.5,False,positional,,,GRES; FAIENCES
+BO0624_83738,107238,24,24,"Vase, decore de trophees en camaieu jaune, sur fond gros-bleu, avec medaillon en couleurs. Ancienne faience de Castel-Durante.",144.0,96.9,False,positional,,,GRES; FAIENCES
+BO0624_83738,107239,25,25,DEux cRUcHEs DE PHARMAcIE a decor de personnages mythologiques sur fond de paysages. Ancienne faience d'Urbino.,147.0,93.4,False,positional,,,GRES; FAIENCES
+BO0624_83738,107240,26,26,"VAsE avec couvercle et a anses-torsades:decor en bleu,Loth et ses filles, l'Ivresse de Noe. Ancienne faience italienne.",151.0,93.4,False,positional,,,GRES; FAIENCES
+BO0624_83738,107241,27,27,"Coupe decoree en bleu ; au fond, Venus et l'Amour ; a la chute, des grotesques. Ancienne faience italienne.",155.0,96.8,False,positional,,,GRES; FAIENCES
+BO0624_83738,107242,28,28,"PLaT a decor grave sur engobe, rosace et feuillages. Ancienne terre de la Frata.",159.0,95.8,False,positional,,,GRES; FAIENCES
+BO0624_83738,107243,29,29,"PLAT, orne de trois vases de feurs avec animaux au marli.",165.0,94.2,False,positional,,,PORCELAINES
+BO0624_83738,107244,30,30,"PLAT creux, decore d'ustensiles et d'attributs. Ancienne porcecelaine de Chine. Famille verte.",170.0,95.9,False,positional,,,PORCELAINES
+BO0624_83738,107245,31,31,"PLAT creux, decore de feuilles d'eau, en ancienne porcelaine de Chine.Famille verte.",174.0,96.6,False,positional,,,PORCELAINES
+BO0624_83738,107246,32,32,"Deux vAsEs cylindriques, decores de branches feuries et de lambrequins, a fond rouge. Ancienne porcelaine de Chine. Famille verte.",178.0,92.7,False,positional,,,PORCELAINES
+BO0624_83738,107247,33,33,"Por ovoide avec couvercle, decor de rochers feuris et d'ustensiles. Ancienne porcelaine de Chine. Famille verte.",182.0,97.0,False,positional,,,PORCELAINES
+BO0624_83738,107248,34,34,"Bassin rond, decore de fleurs et de papillons.Ancienne porcelaine de Chine. Famille rose.",186.0,96.7,False,positional,,,PORCELAINES
+BO0624_83738,107249,35,35,"Deux GRANDs VAsEs-LANcELLEs, decores de nombreux personnages sur la panse et sur le col. Ancienne porcelaine de Chine. Famille rose.",190.0,97.4,False,positional,,,PORCELAINES
+BO0624_83738,107250,36,36,"VAsE a deux anses, personnages en bleu. Ancienne porcelaine de Chine.",194.0,94.5,False,positional,,,PORCELAINES
+BO0624_83738,107251,37,37,"PoT ovoide avec couvercle, decor en bleu,branches fleuries avec encadrements cailloutes. Ancienne porcelaine de Chine.",198.0,94.6,False,positional,,,PORCELAINES
+BO0624_83738,107252,38,38,"GourDe, decoree d'oiseaux et de lambrequins en bleu. Ancienne porcelaine de Chine.",202.0,96.5,False,positional,,,PORCELAINES
+BO0624_83738,107253,39,39,"PoT ovoide avec couvercle,decore de branchages en bleu.Ancienne porcelaine de Chine.",206.0,92.0,False,positional,,,PORCELAINES
+BO0624_83738,107254,40,40,"Coupr, decoree de feurs, en ancienne porcelaine de Chine.",210.0,93.4,False,positional,,,PORCELAINES
+BO0624_83738,107255,41,41,"VAsE-LANcELLE, decore, en bleu, d'animaux chimeriques. Ancienne porcelaine de Chine.",214.0,79.3,False,positional,,,PORCELAINES
+BO0624_83738,107256,42,42,"Deux corNETs cylindriques, decor en bleu, scenes familiales. Ancienne porcelaine de Chine.",217.0,96.8,False,positional,,,PORCELAINES
+BO0624_83738,107257,43,43,"Deux cAcHE-poTs, decores de rinceaux feuris en bleu.Ancienne porcelaine de Chine. Monture en bronze dore, a anses-mufles de lions, en partie du temps de Louis XIV.",221.0,95.5,False,positional,,,PORCELAINES
+BO0624_83738,107258,44,44,"CorBEILLE ovale et son plateau, en ancienne porcelaine de la Compagnie des Indes; pourtours ajoures; decor de feurs.",225.0,66.7,False,positional,,,PORCELAINES
+BO0624_83738,107259,45,45,"Deux GourDEs a double renfement, decor de personnages avec feurs en relief en bleu,rouge et or. Ancienne porcelaine du Japon.",230.0,94.9,False,positional,,,PORCELAINES
+BO0624_83738,107260,46,46,"PoTicHE avec couvercle, decoree en bleu, rouge et or : arbustes, feurs et lambrequins. Ancienne porcelaine du Japon.",234.0,97.1,False,positional,,,PORCELAINES
+BO0624_83738,107261,47,47,"Deux BouTEILLEs, decorees de branches feuries dans des compartiments en couleurs. Ancienne porcelaine du Japon.",238.0,67.8,False,positional,,,PORCELAINES
+BO0624_83738,107262,48,48,"CaBARET compose d’une theiere, d’une cafetiere, d'un pot a lait, d'un flacon a the avec couvercles, d'un bol, d'un petit plateau, de huit tasses a the, de quatre tasses a cafe et de douze soucoupes a decor de medaillons contenant des paysages et des marines. Ancienne porcelaine de Saxe, epoque Marcolini.",244.0,87.8,False,positional,,,PORCELAINES
+BO0624_83738,107263,49,49,"LEGuMieR avec couvercle, a decor de feurs avec hachures bleues. Ancienne porcelaine tendre de Sevres.",249.0,88.0,False,positional,,,PORCELAINES
+BO0624_83738,107264,50,50,"EcuELLe avec couvercle et plateau, en ancienne porcelaine tendre de Sevres, decoree, en camaieu carmin, de feurs et d'amours tenant divers attributs. Sous 1'écuelle, la date : 1763.",253.0,98.4,False,positional,,,PORCELAINES
+BO0624_83738,107265,51,51,"Tasse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres, ornees de feurs sur fond gros-bleu charge de rinceaux dorés. Annee 1774; decor par Tandart.",257.0,97.6,False,positional,,,PORCELAINES
+BO0624_83738,107266,52,52,"PeTIT poT A LAIT avec son couvercle, decore d'une guirlande de feurs. Ancienne porcelaine tendre de Mennecy.",261.0,97.3,False,positional,,,PORCELAINES
+BO0624_83738,107267,53,53,"PLAQuE oblongue, en cuivre champleve et émaille, presentant le sujet de la Visitation, composition de quatre personnages, sur fond charge de rinceaux. xie siecle. Travail limousin.",267.0,97.8,False,positional,,,EMAUX
+BO0624_83738,107268,54,54,"CHANDELIER en cuivre champleve et émaille de Limoges, xive siecle, a decor d'oiseaux,rinceaux et quartefeuilles.",271.0,97.0,False,positional,,,EMAUX
+BO0624_83738,107269,55,55,Pyxive en cuivre champleve et émaille de Limoges;rinceaux et feurons avec le monogramme du Christ.,276.0,97.0,False,positional,,,EMAUX
+BO0624_83738,107270,56,56,"BaisER DE PAix en bronze, orne d'une plaque: lAdoration des Rois Mages, en émail peint de Limoges, atelier des Penicaud.",280.0,97.2,False,positional,,,EMAUX
+BO0624_83738,107271,57,57,"AssiETTE en émail peint de Limoges, par Pierre Remond; decor en grisaille et or, la Tour de Babel; revers a entrelacs.",284.0,97.1,False,positional,,,EMAUX
+BO0624_83738,107272,58,58,PLAQuE DE BAIsER DE PAIx :la Vierge tenant lEnfant Jesus et assise sur un trone. Email peint de Limoges. Annee 1557.,288.0,92.0,False,positional,,,EMAUX
+BO0624_83738,107273,59,59,"PLAquE presentant un medaillon ovale : la Flagellation.Email peint de Limoges, par Leonard HI Limousin.",292.0,91.0,False,positional,,,EMAUX
+BO0624_83738,107274,60,60,"PLAQuE :le Christ crucifie, composition de nombreux personnages. Email peint de Limoges. Fin du xvi siecle.",296.0,91.3,False,positional,,,EMAUX
+BO0624_83738,107275,61,61,"Coupe polylobee, decoree de feurs et d'un buste d'empereur. Email peint de Limoges. xvine siecle.",300.0,92.0,False,positional,,,EMAUX
+BO0624_83738,107276,62,62,"PeTIT vAsE avec couvercle et a anses-poissons, en ancien émail cloisonne de la Chine,a rinceaux sur fond bleu.",304.0,96.9,False,positional,,,EMAUX
+BO0624_83738,107277,63,63,PETIT DIpTyQuE en ivoire : la Mort et le Couronnement de la Vierge. Sujets disposes sous deux triples arcatures. xive siecle.,309.0,93.0,False,positional,,,IVOIRES
+BO0624_83738,107278,64,64,"PLAQuE en ivoire sculpte, presentant, sous une triple arcature, le Christ crucife. Composition de sept personnages. xive siecle.",313.0,92.7,False,positional,,,IVOIRES
+BO0624_83738,107279,65,65,"PLAQuE en ivoire sculpte, presentant, sous des arcatures gothiques, quatre compositions : l'Annonciation, et trois groupes de martyrs.xive siecle.",317.0,89.9,False,positional,,,IVOIRES
+BO0624_83738,107280,66,66,"VoLET DE DIPTyQuE en ivoire sculpte, offrant, sous une triple arcature gothique, la Vierge tenant l'Enfant Jesus, assise sur un trone et entouree d'anges.xive siecle.",322.0,84.7,False,positional,,,IVOIRES
+BO0624_83738,107281,67,67,"Groupe en ivoire :Venus debout tenant l'Amour a califourchon sur un taureau. Sur la base, divers attributs. Allemagne, fin du xvi siecle.",327.0,96.8,False,positional,,,IVOIRES
+BO0624_83738,107282,68,68,Groupe en ivoire sculpte :la Vierge allaitant l'Enfant Jesus et reposant sur des nuages. xvine siecle.,331.0,96.7,False,positional,,,IVOIRES
+BO0624_83738,107283,69,69,Groupe en ivoire sculpte : la Vierge debout portant l'Enfant Jesus et foulant aux pieds le demon. xvii siecle.,335.0,95.6,False,positional,,,IVOIRES
+BO0624_83738,107284,70,70,"STATuETTE, en ivoire sculpte :baigneuse debout s'enveloppant le corps d'une draperie. xvine siecle.",338.0,97.1,False,positional,,,IVOIRES
+BO0624_83738,107285,71,71,"STATuETTE, en ivoire sculpte, d'homme nu debout,une draperie autour des reins. xviii siecle.",342.0,95.2,False,positional,,,IVOIRES
+BO0624_83738,107286,72,72,"FiGuRINE, en ivoire, de moine debout. xvii siecle.",346.0,90.6,False,positional,,,IVOIRES
+BO0624_83738,107287,73,73,Grattoir à poignée d'ivoire. XVII siecle.,368.0,67.4,False,positional,,,IVOIRES
+BO0624_83738,107288,74,74,"CourEau a poignee d'ivoire, pique de cuivre; gaine en cuir. XVII siecle.",,53.7,True,none,,,
+BO0624_83738,107289,75,75,"CHRisT, en ivoire sculpte, dans un cadre en bois dore, orne de larges feuilles et de quatre tetes de cherubins. xviii siecle.",,59.8,True,none,,,
+BO0624_83738,107290,76,76,"FRAGMENT cylindrique, en ivoire sculpte, presentant une frise a sujets tires de romans de chevalerie. Composition de personnages portant le costumedu xiv siecle.",,54.7,True,none,,,
+BO0624_83738,107291,77,77,"CorrrET rectangulaire, en ivoire,avec traces de decor dore; rosaces et inscriptions. Ancien travail oriental. GRATToIr a poignee d'ivoire. xvii siecle.",,57.2,True,none,,,
+BO0624_83738,107292,78,78,"PETIT GroupE, en bois sculpte, Jupiter et Junon. xvii siecle.",371.0,92.2,False,positional,,,IVOIRES
+BO0624_83738,107293,79,79,MinIATuRE representant le sujet de la Nativite. xvne siecle. Encadree.,375.0,95.2,False,positional,,,IVOIRES
+BO0624_83738,107294,80,80,"MinIATuRE ovale:portrait presume de Louis XVII, dans un encadrement en bois sculpte aux armes de France, avec draperie feurdelysee.Fin du xviii siecle.",379.0,97.1,False,positional,,,IVOIRES
+BO0624_83738,107295,81,81,"MINIATuRE ronde:portrait de jeune femme assise, en corsage raye. Signee :David, Nizza. Fin du xviii siecle. Encadree.",383.0,87.9,False,positional,,,IVOIRES
+BO0624_83738,107296,82,82,"BoiTE en écaille blonde, ornee d'une miniature en grisaille : portrait d'homme de profil, par Sauvage.",387.0,97.1,False,positional,,,IVOIRES
+BO0624_83738,107297,83,83,"CHATELAINE en or cisele, medaillons a sujets pastoraux. Epoque Louis XVI.",391.0,96.7,False,positional,,,IVOIRES
+BO0624_83738,107298,84,84,"MoNTrE en acier avec applications d'or, a sujets chinois. Cadran signe:Klett a Sihl. Fin du xviii siecle.",395.0,88.9,False,positional,,,IVOIRES
+BO0624_83738,107299,85,85,"CoFFRET PoRTE-MissEL en fer, a decor de motifs gothiques. Commencement du xvi siecle.",880.0,70.8,False,positional,,,MEUBLES
+BO0624_83738,107300,86,86,"CoFFRET PoRTE-MIssEL en fer, decore d'un reseau gothique. Commencement du xvi siecle.",,58.6,True,none,,,
+BO0624_83738,107301,87,87,PoRTe-LUMIEREs a deux douilles en fer. xvii siecle.,,52.9,True,none,,,
+BO0624_83738,107302,88,88,PAIRE DE CHENETS-BOULES en fer. xvii siecle.,,51.5,True,none,,,
+BO0624_83738,107303,89,89,"PeTIt vAsE avec couvercle en étain,a decor d'entrelacs. xvii siecle.",,50.4,True,none,,,
+BO0624_83738,107304,90,90,"PLATEau rond en etain, a decor de rinceaux. xvii siecle.",,52.3,True,none,,,
+BO0624_83738,107305,91,91,"SryLET en fer, poignee ornee d'un buste d'enfant. xvii siecle.",,50.0,True,none,,,
+BO0624_83738,107306,92,92,PAIRE DE PETITs PISToLETs a silex en bois et fer. xviii siecle.,,50.8,True,none,,,
+BO0624_83738,107307,93,93,"PuLvErIN en corne de cerf, presentant un personnage au milieu d'animaux. Allemagne,xviii siecle.",,49.8,True,none,,,
+BO0624_83738,107308,94,94,"CoFFRET en bois incruste d'ivoire grave; decor de bustes, oiseaux, personnages et feuillages. Italie. Fin du xvii siecle.",,53.5,True,none,,,
+BO0624_83738,107309,95,95,"Boire rectangulaire en ebene,incrustee d'ivoire, munie d'un tiroir sur le cote; decor de rinceaux. xvii siecle.",,53.2,True,none,,,
+BO0624_83738,107310,96,96,"Boire en velours rouge avec broderie metallique, decoree d'entrelacs et d'une arcade. xvii siecle.",,57.1,True,none,,,
+BO0624_83738,107311,97,97,"Boirr en bois incruste de nacre et de cuivre, a feurs. xvi siecle.",,53.3,True,none,,,
+BO0624_83738,107312,98,98,"Tric-TRAc echiquier en marqueterie de bois et d'os, a motifs reguliers. Italie, xvii siecle.",,54.4,True,none,,,
+BO0624_83738,107313,99,99,"PETIT cABINET en marqueterie de bois clair, vases de feurs et rinceaux. xvii siecle.",,53.5,True,none,,,
+BO0624_83738,107314,100,100,"CeiNTuRe, forme chainette, decoree de petits bas-reliefs, a grotesques et rinceaux. Allemagne, xvi siecle.",,52.2,True,none,,,
+BO0624_83738,107315,101,101,"PeTIT vAsE avec couvercle simulant un hibou. Argent grave et doré. Travail allemand, fin du xvi siecle.",,49.5,True,none,,,
+BO0624_83738,107316,102,102,"CaLice en argent dore, a decor de tetes de cherubins avec ecusson armorie et date 1635.Allemagne, xvii siecle.",,50.7,True,none,,,
+BO0624_83738,107317,103,103,"LeGuMiER avec couvercle en argent, anses plates a rocailles, couvercle orne de deux rangees d'oves. Poincons de J.-J. Prevost, adjudicataire des droits de marque, annee 1765-66.",,48.4,True,none,,,
+BO0624_83738,107318,104,104,"PeTIT MiroiR rond dans un cadre en cuivre repousse et dore, a decor de coquilles, cornes d'abondance et entrelacs. xviii siecle.",,57.5,True,none,,,
+BO0624_83738,107319,105,105,"Vase avec couvercle, forme d'une noix de coco, a monture et pied d'argent. Allemagne, xvii siecle.",,51.0,True,none,,,
+BO0624_83738,107320,106,106,HUET. Oiseaux et branches fleuries.,,43.2,True,title_direct,HUET,,
+BO0624_83738,107321,107,107,"Huet. Vases de fleurs, canards, colombes et arbustes.",,43.5,True,none,,,
+BO0624_83738,107322,108,108,"Mignard, ecol de. Portrait de femme.",,39.6,True,none,,,
+BO0624_83738,107323,109,109,Perronneau. Portrait d'homme.,,35.5,True,none,,,
+BO0624_83738,107324,110,110,Rigaud. Portrait presume de l'acteur Verdier.,,42.7,True,none,,,
+BO0624_83738,107325,111,111,Ecole Allemande. La mise au tombeau; la Resurrection.,,40.4,True,none,,,
+BO0624_83738,107326,112,112,Ecole Francaise. Groupe d'Amours dans un paysage.,,44.7,True,none,,,
+BO0624_83738,107327,113,113,Ecole Francaise. Portrait de jeune femme.,,44.2,True,none,,,
+BO0624_83738,107328,114,114,Ecole Francaise. Allegorie de l'Amour.,,44.2,True,none,,,
+BO0624_83738,107329,115,115,ECOLE FRANCAISE. Portrait de femme.,,33.8,True,title_direct,,ECOLE FRANCAISE,
+BO0624_83738,107330,116,116,ECOLE FRANCAISE. Portrait de femme.,,33.8,True,title_direct,,ECOLE FRANCAISE,
+BO0624_83738,107331,117,117,"CiBoirE en cuivre dore, a décor de nervures en spirales. xvi siecle.",,55.3,True,none,,,
+BO0624_83738,107332,118,118,"Ciboire en cuivre et argent, forme d'un calice a noeud orne, du xvi siecle.",,53.8,True,none,,,
+BO0624_83738,107333,119,119,"CaLice en cuivre grave, avec parties champlevees et émaillees sur le noeud et la tige. Travail italien,xvi siecle.",,48.1,True,none,,,
+BO0624_83738,107334,120,120,"Croix ProcEssioNNELLE plaquee de cuivre grave, a decor de feuillages, avec les symboles des Evangelistes. Revers orne. xvi siecle.",,51.8,True,none,,,
+BO0624_83738,107335,121,121,"BaisER DE PAIx, en bronze dore:Pieta.Italie, xvi siecle.",,47.8,True,none,,,
+BO0624_83738,107336,122,122,"STATuETTE en bronze, provenant d'un lustre:personnage debout, vetu d'un ample manteau. xvi siecle.",,49.7,True,none,,,
+BO0624_83738,107337,123,123,"StATuETTE en bronze: Sainte Femme debout,les bras croises sur la poitrine.xvii siecle.",,50.8,True,none,,,
+BO0624_83738,107338,124,124,"SoNNETTE en metal de cloche, decoree de cartouches et de branchages. Poignee ornee d'une figurine. Italie, xvi siecle.",,51.8,True,none,,,
+BO0624_83738,107339,125,125,"MorTiER en metal de cloche,orne de cariatides. Italie, xvi siecle.",,51.2,True,none,,,
+BO0624_83738,107340,126,126,"LusTRE famand a deux rangs de lumieres, en dinanderie. Il est decore de figurines d'amours, et la tige est ornee d'une statuette de femme.xvi siecle.",,52.5,True,none,,,
+BO0624_83738,107341,127,127,"CoFFreT oblong en bronze a patine brune, decore, sur les faces anterieure et posterieure, d'un mascaron place entre deux cornes d'abondance que soutiennent des centaures sur lesquels sont assises des nymphes. Sur les faces laterales, des tetes de Meduse et des guirlandes de laurier. Le couvercle presente un mascaron au milieu d'une couronne de feuillages avec amour de chaque cote. Italie, xvi siecle.",,58.1,True,none,,,
+BO0624_83738,107342,128,128,"Deux ENSEIGNEs DE coiFFuRE en bronze dore, a sujets mytholo- giques. Fin du xvi siecle",,56.5,True,none,,,
+BO0624_83738,107343,129,129,ENsEIGNE DE coiFFuRE en bronze dore : Herodiade. xvi siecle.,,50.0,True,none,,,
+BO0624_83738,107344,130,130,"LAMpe en bronze dore, de style antique, en forme de tete de negrillon. Travail italien, fin du xvi siecle.",,52.8,True,none,,,
+BO0624_83738,107345,131,131,"CAGE cylindrique de petite horloge de table, en bronze grave et dore :buste et feuillages. Fin du xvre siecle.",,53.5,True,none,,,
+BO0624_83738,107346,132,132,"PETITE HoRLoGE de table, en bronze dore, en forme d'edicule a quatre faces. Chacune des faces presente un bas-relief, en argent repousse, a figure symbolique. Commencement du xvine siecle.",,51.9,True,none,,,
+BO0624_83738,107347,133,133,"HorLoGe de table, en bronze grave et dore, en forme d'edicule a quatre faces; decor de rinceaux feuris et de figures bibliques; tetes de cherubins aux angles de la base. Commencement du xvii siecle.",,54.3,True,none,,,
+BO0624_83738,107348,134,134,"PETITE HoRLoGE de table, de forme hexagone, en bronze dore. Mouvement apparent. Signeea l'interieur: Ferdinant Engelschalk,",,42.2,True,none,,,
+BO0624_83738,107349,135,135,STATuETTE en bronze dore: Minerve debout. xvii siecle.,,53.3,True,none,,,
+BO0624_83738,107350,136,136,FRAGMENT en bronze :Amour sur un dauphin. xvii siecle.,,51.1,True,none,,,
+BO0624_83738,107351,137,137,"INsTRUMENT D'AsTRoNoMIE en cuivre grave et dore, a decor de rinceaux. Allemagne, xvi siecle.",,48.5,True,none,,,
+BO0624_83738,107352,138,138,"HorLoGe de table hexagone, en bronze grave et dore, a mouvement apparent. Le cadran presente une chasse a l'ours. Signee : Michael Fabian, Thorn. Allemagne, commencement du xvii siecle.",,48.8,True,none,,,
+BO0624_83738,107353,139,139,"HorLoGE en cuivre dore, a mouvement compris dans une base ovale qui supporte un griffon, appuye sur un cartouche, contenant un cadran partiellement émaille;une figurine de negrillon tient en laisse le griffon. Allemagne, xviii siecle.",,50.6,True,none,,,
+BO0624_83738,107354,140,140,"Bas-RELiEF en bronze: Sainte Famille. Italie, xvi siecle. Encadre.",,49.0,True,none,,,
+BO0624_83738,107355,141,141,"PLAT a ombilic, en cuivre:rosace au centre et inscription simulee. xvii siecle.",,47.2,True,none,,,
+BO0624_83738,107356,142,142,"Mascaron, tete de cherubin, provenant d'une fontaine. Bronze patine. xvii siecle.",,50.0,True,none,,,
+BO0624_83738,107357,143,143,"HorLoGe a gaine, en ecaille et ebene incrustees d''etain. Garnitures en bronze; decor de feuillages et d'entrelacs.xviii siecle.",,50.6,True,none,,,
+BO0624_83738,107358,144,144,"PAIRE DE BRAs-APpLIQuEs a une lumiere, en bronze dore, decorés de bustes et de groupes d'amours Epoque Louis XIv.",,45.4,True,none,,,
+BO0624_83738,107359,145,145,PAIRE DE BRAs-APPLIQUEs a deux lumieres :branches contournées s'echappant d'une volute ornee d'un mascaron. Epoque Regence.,,43.8,True,none,,,
+BO0624_83738,107360,146,146,"PeNDuLe plaquee d'ecaille et ornce de cariatides, de volutes, de mascarons et de petits vases, en bronze dore. Cadran signe : Francis Perigat. Commencement du xvi siecle.",,55.1,True,none,,,
+BO0624_83738,107361,147,147,"PAiRE D'AppLIQuEs a deux lumieres, en bronze dore, a gaine feuillagee et cannelee, surmontees d'un vase enguirlande et a branches contournees. Epoque Louis XVI.",,49.4,True,none,,,
+BO0624_83738,107362,148,148,"PAiRE DE FLAMBEAux en bronze,en forme de vases a anses-tetes d'oiseaux. Epoque Louis XVI.",,44.0,True,none,,,
+BO0624_83738,107363,149,149,"PrEssE-PApIER forme d'un chien,en bronze dore, assis sur une base en marbre. Travail allemand.",,45.1,True,none,,,
+BO0624_83738,107364,150,150,"Bassin en cuivre grave, avec traces de damasquine d'argent; decor d'inscriptions. Ancien travail persan.",,43.1,True,none,,,
+BO0624_83738,107365,151,151,"PeTIT BAssiN en cuivre damasquine d'argent, a decor d'inscriptions. Ancien travail persan.",,41.5,True,none,,,
+BO0624_83738,107366,152,152,"PeTIT BAssIN en cuivre grave,a inscriptions. Ancien travail persan.",,41.0,True,none,,,
+BO0624_83738,107367,153,153,"AiGuieRE en cuivre jaune, a anse contournee et long deversoir; panse ornee d'une palmette sur chaque cote,ainsi que d'une inscription arabe. Ancien travail arabe.",,49.3,True,none,,,
+BO0624_83738,107368,154,154,"CHIMERE en ancien bronze de la Chine, avec applications de malachite, cristal de roche, grenats, etc.",,46.0,True,none,,,
+BO0624_83738,107369,155,155,"CorNET en bronze damasquine d'argent, a decor de motifs irreguliers, avec aretes saillantes. Ancien bronze chinois.",,47.6,True,none,,,
+BO0624_83738,107370,156,156,"STatuETTE, en bronze, de danseuse japonaise; decor grave, avec traces de dorure. Ancien travail japonais.",,50.0,True,none,,,
+BO0624_83738,107371,157,157,"MeDAiLLoN ovale en terre cuite: buste de jeune homme,de profil.xviii siecle.",,44.4,True,none,,,
+BO0624_83738,107372,158,158,"Busre en marbre blanc, grandeur nature, de jeune femme, figuree sous les traits de Sapho. Elle tient une lyre et est vetue d'une draperie laissant les deux seins a decouvert; la tete, tournee monogramme.Par Chinard. Signe.",,48.1,True,none,,,
+BO0624_83738,107373,159,159,"Haut-relief sans fond en bois sculpté, peint et doré",,51.2,True,none,,,
+BO0624_83738,107374,160,160,"HAuT-RELIEF sans fond, provenant d'un calvaire: Sainte Femme agenouillee, la tete levee. Bois sculpte, peint et dore. xvi siecle.",,51.1,True,none,,,
+BO0624_83738,107375,161,161,"Frise en bois sculpte, ornee d'un écusson soutenu par deux amours dont le corps se termine en rinceaux. xvi siecle.",,52.2,True,none,,,
+BO0624_83738,107376,162,162,"PANNEau en bois sculpte, presentant sous une arcade deux bustes affrontes et des rinceaux. xvi siecle.",956.0,60.7,False,positional,,,MEUBLES
+BO0624_83738,107377,163,163,"HAuT-RELiEF en bois sculpte, presentant le sujet de l'Annonciation. xvi siecle.",,50.5,True,none,,,
+BO0624_83738,107378,164,164,"Deux HAuTs-RELIEFs ovales, decores chacun d'un griffon. xvi siecle.",,49.6,True,none,,,
+BO0624_83738,107379,165,165,"PeTIT PANNEau en bois sculpte, orne d'un cartouche avec mascarons. xvi siecle.",,54.8,True,none,,,
+BO0624_83738,107380,166,166,"PorTE DE MEuBLE en chene sculpte, ornee de grotesques avec bustes affrontes et oiseaux.xvi siecle.",,49.1,True,none,,,
+BO0624_83738,107381,167,167,"Deux porTEs en chene sculpte, presentant chacune, sous une arcade a jour, une statuette de saint personnage. A la partie inferieure, fenestrages gothiques et eveque en prieres. Commencement du xvi siecle.",,53.1,True,none,,,
+BO0624_83738,107382,168,168,Deux porte en chene sculpté. XVI siecle.,,46.7,True,none,,,
+BO0624_83738,107383,169,169,"PeTItE porTE en chene sculpte, ornee de quatre panneaux a medaillons-bustes. xvi siecle.",,48.5,True,none,,,
+BO0624_83738,107384,170,170,"Deux roRTEs DE MEuBLEs en bois scuipte, decorees d'une cariatide au milieu de rinceaux. xvi siecle.",,54.3,True,none,,,
+BO0624_83738,107385,171,171,"PorTE en bois sculpte, decoree de six bandes a motifs reguliers, separees par des encadrements a entrelacs. Fin du xvi siecle.",,58.7,True,none,,,
+BO0624_83738,107386,172,172,"CorrreT en bois sculpte en bas-relief, a decor d''entrelacs, avec medaillon en marbre. Couvercle bombe.xvii siecle.",,51.6,True,none,,,
+BO0624_83738,107387,173,173,"Groupe en bois sculpte:la Vierge debout,vetue d'une ample draperie et tenant, du bras gauche, l'Enfant Jesus. xvi siecle.",,51.7,True,none,,,
+BO0624_83738,107388,174,174,"STATuETTE en bois sculpte : personnage debout, vetu d'une tunique et d'un manteau a pelerine. xvii siecle.",,53.6,True,none,,,
+BO0624_83738,107389,175,175,"SuppoRT-APpLIQUE en bois sculpte et dore,a rinceaux feuillages et tete d'homme barbu aile. xvi siecle.",,52.5,True,none,,,
+BO0624_83738,107390,176,176,"CHAIrE en bois sculpte,decorée,sur le dossier,d'un mascaron au milieu d'une couronne de fruits, surmontee de branches de laurier. A la couronne est suspendu un cartouche contenant une tete de taureau. De chaque cote, un balustre cannele supportant un buste humain. Les bras, soutenus par des volutes et des balustres, se terminent en tetes de lions. Le siege, formant coffre, est orne d'entrelacs. Travail lyonnais,xvi siecle.",,50.4,True,none,,,
+BO0624_83738,107391,177,177,"CHAIRE en bois sculpte,decorée,sur le dossier,de deux chimeres supportant un fronton et places au milieu de branchages; sur chaque cote, un montant a cariatides. Le siege est orne de palmettes et les bras feuillages se terminent en tetes de beliers et sont relies aux pieds-griffes par un corps d'animal chimerique. Travail lyonnais, xvi siecle.",,58.3,True,none,,,
+BO0624_83738,107392,178,178,"Deux cAQuETeusEs en bois sculpte, palmettes et entrelacs sur le dossier; entrelacs egalement autour du siege. En partie de la fin du xvi siecle.",,56.1,True,none,,,
+BO0624_83738,107393,179,179,"FAuTeui en bois sculpte, avec incrustations de bois noir et de pate blanche. Dossier decoupe avec montant au centre. Bras termines par des tetes de beliers. En partie du xvi siecle.",,56.7,True,none,,,
+BO0624_83738,107394,180,180,"FAuTeuiL en bois sculpte, avec incrustations de bois noir et de filets de bois clair. Dossier a double arcade et fronton armorie. Siege orne d'un cul-de-lampe a mascaron. En partie du xvi siecle.",,54.6,True,none,,,
+BO0624_83738,107395,181,181,"FauTeuil. en bois sculpte, avec incrustations de bois noir et de marbre. Dossier decore de rosaces et palmettes. En partie de la fin du xvi siecle.",,57.9,True,none,,,
+BO0624_83738,107396,182,182,"FAuTeuiL en bois sculpte, a feuillages, couvert en tapisserie au point, a fond blanc et dessin d'oiseaux. xvi siecle.",,56.1,True,none,,,
+BO0624_83738,107397,183,183,"Six FAUTeuILs en bois sculpte, a dossiers rectangulaires; traverses et bras tors termines en tetes de lions. xvire siecle.",,49.8,True,none,,,
+BO0624_83738,107398,184,184,"FauTeuiL a dossier carre, en bois sculpte, a decor de feuillages. Pietement a traverses. ll est couvert de tapisserie au point. xvii siecle.",,57.1,True,none,,,
+BO0624_83738,107399,185,185,"FAuTeuiL en bois sculpte, a petites feuilles, couvert en tapisserie au point, a personnages sur fond noir. xvi siecle.",,53.4,True,none,,,
+BO0624_83738,107400,186,186,"FAuTEuIL ET TRois cHAIsEs en bois sculpte et marqueterie de bois de couleurs, a decor de rinceaux; traverses du dossier et des pieds a bordures decoupees. xviii siecle.",,55.4,True,none,,,
+BO0624_83738,107401,187,187,"Deux FAuTeuILs cannes, en bois sculpte, a feuillages, palmettes et quadrilles.Epoque Regence.",,49.3,True,none,,,
+BO0624_83738,107402,188,188,"Deux cHAisEs cannees, en bois sculpte, a quadrilles et rocailles avec croisillon d'entrejambes. Epoque Regence.",,48.9,True,none,,,
+BO0624_83738,107403,189,189,"FauTeuiL en bois sculpte, decore de rocailles et de feuillages. Epoque Louis XV. ll est couvert de soie.",,53.2,True,none,,,
+BO0624_83738,107404,190,190,"TAbouRET oblong, en bois sculpte a rocailles. Epoque Louis XV. Il est recouvert de soie.",,49.7,True,none,,,
+BO0624_83738,107405,191,191,"CANApe en bois sculpte, de forme contournee, a decor de moulures et feuillages. Epoque Louis XV. ll est recouvert en velours cisele rouge.",,53.7,True,none,,,
+BO0624_83738,107406,192,192,"CaNApE a joues, en bois sculpte a rocailles. Epoque Louis XV. Il est recouvert de velours cisele rouge.",,48.9,True,none,,,
+BO0624_83738,107407,193,193,"HuIT FAuTeuILs pouvant accompagner le canape precedent, mais couverts de damas. Epoque Louis XV.",,45.2,True,none,,,
+BO0624_83738,107408,194,194,"Deux FAuTeuILs en bois peint gris, couverts en tapisserie d'Aubusson, medaillons a personnages et sujets tires des fables de La Fontaine. Epoque Louis XVI.",,50.6,True,none,,,
+BO0624_83738,107409,195,195,"DEUX FAUTEuILS ET QUATRE CHAISEs en bois peint gris, couverts en tapisserie d'Aubusson, a personnages, animaux et draperies. Epoque Louis XVI.",,43.8,True,none,,,
+BO0624_83738,107410,196,196,"CorrrE en bois sculpte, a fenestrages gothiques et aux armes de France. Commencement du xvi siecle.",1024.0,66.7,False,positional,,,MEUBLES
+BO0624_83738,107411,197,197,"CoffrE en bois sculpte, orne de quatre bustes places au milieu de grotesques. Commencement du xvi siecle.",,56.0,True,none,,,
+BO0624_83738,107412,198,198,"CoffRE en bois sculpte,a decor de fenestrages gothiques. Commencement du xvi siecle.",,56.7,True,none,,,
+BO0624_83738,107413,199,199,"CoffrE en bois sculpte, a arcades et fenestrages gothiques, avec angelots, au milieu, tenant un écusson. Serrure a moraillon. Commencement du xvi siecle.",,57.7,True,none,,,
+BO0624_83738,107414,200,200,"CoffrE en bois sculpte, decore, sur la facade, de six arcades,",,48.6,True,none,,,
+BO0624_83738,107415,201,201,"Corrre en bois sculpte, decore, sur la facade, de cinq arcades abritant des rinceaux et des amours, et supportees par des pilastres a entrelacs, rubans et medaillons a tetes humaines. Au-dessus de chaque pilastre, un buste d'angelot tenant les instruments de la Passion. Cotes decores d'arcades. France, commencement du",,46.2,True,none,,,
+BO0624_83738,107416,202,202,Coffre en chene sculpté. xvi siecle.,,58.6,True,none,,,
+BO0624_83738,107417,203,203,"Coffre en bois sculpte, decore, sur la facade, de quatre panneaux separes par cinq pilastres engages, et presentant des medaillons a tetes humaines au milieu de rinceaux, de feuillages",,49.9,True,none,,,
+BO0624_83738,107418,204,204,"MeuBLe en bois sculpte, a deux portes et deux tiroirs, sur base a fond plein et colonnettes cannelees. Il est compose de panneaux a entrelacs, separes par des couples de pilastres canneles. En partie du xvi siecle.",,50.1,True,none,,,
+BO0624_83738,107419,205,205,TABLE rectangulaire en bois sculpte avec incrustations de bois noir et flets de bois clair. Pietement a arcades et sept colonnettes. Culs-de-lampe a mascarons a chaque extremite. xvi siecle.,,55.6,True,none,,,
+BO0624_83738,107420,206,206,"TaBLE rectangulaire en bois sculpte, a ceinture ornee de palmettes, et reposant sur un pietement a six colonnettes reliees par des traverses. xvi siecle.",,55.1,True,none,,,
+BO0624_83738,107421,207,207,"TaBLE rectangulaire en bois sculpte, a ceinture ornee d'oves. Pietement a larges motifs composes de volutes, entremeles de mascarons, de palmettes et de masques chimeriques,avec traverse",,55.0,True,none,,,
+BO0624_83738,107422,208,208,"CoffrE en bois sculpte, decore, sur la facade, d'un large cartouche, orne de mascarons, de rosaces, de palmettes et de guirlandes de fruits;aux angles, des cariatides d'hommes; sur les cotes, deux cartouches a mufles de lions. A la partie superieure, frise presentant une inscription religieuse latine. Travail lyonnais. xvI siecle.",,49.3,True,none,,,
+BO0624_83738,107423,209,209-210,"DEUx coFFREs DE MARIAGE en bois sculpte,avec incrustations",,40.0,True,none,,,
+BO0624_83738,107424,210,211,"MeuBLe a deux corps, en bois sculpte, fermant a quatre portes",,49.1,True,none,,,
+BO0624_83738,107425,211,212,"MeuBLE en bois sculpte, avec incrustations de bois de couleurs, muni d'une porte et d'un tiroir sur la facade et de portes sur les cotes. Il presente, de chaque cote de la porte anterieure, deux colonnettes engagees et,entre elles, une niche contenant une pyramide;la porte est ornee d'une figure d'Hebe, dans un medaillon surmonte de deux genies. A la base, quatre balustres supportant le corps du meuble. Ile de France, milieu du xvi siecle.",,50.1,True,none,,,
+BO0624_83738,107426,212,213,"MeuBLE en bois sculpte, muni de deux portes et de deux tiroirs ct porte par une console a fond plein et a deux balustres; sur les portes, le sacrifice d'Abraham et la benediction de Jacob par Isaac, ainsi que les figures de la Justice et de la Charite. Aux angles, des cariatides, ainsi que des palmettes et des feuillages; sur les cotes, un motif a personnages et chimeres; sur le fond de la console, deux cartouches contenant, l'un,la date 157o,l'autre, un ecusson armorie. Bourgogne, année 1570.",,48.9,True,none,,,
+BO0624_83738,107427,213,214,"CorFRE en bois sculpte :le Christ et les Apotres, debout, sous des arcades.Fin du xvi siecle.",,54.7,True,none,,,
+BO0624_83738,107428,214,215,"CoFrrE en bois sculpte, orne, sur la facade, de deux motifs d'architecture, contenant chacun une figure allegorique. Au milieu et sur chaque angle, un personnage en haut-relief. Fin",,48.7,True,none,,,
+BO0624_83738,107429,215,216,"CoFFre en bois sculpte, orne de quatre arcades, separees par des pilastres et abritant des vases,des dauphins, des oiseaux et des chimeres. France, fin du xvie siecle.",,52.4,True,none,,,
+BO0624_83738,107430,216,217,Meuble à deux corps. XVI siecle.,,48.1,True,none,,,
+BO0624_83738,107431,217,218,"MeuBLE en bois sculpte, a deux portes et deux tiroirs et sur base a fond plein; decor de chimeres, vases de feurs et feuillages. Garnitures et serrures de fer.Fin du xvi siecle.",,55.5,True,none,,,
+BO0624_83738,107432,218,219,"Corrre en bois sculpte, decore en leger relief, sur la facade, du sujet : Diane et Acteon et, sur les cotes, d'un cartouche soutenu par deux chimeres.France, fin du xvi siecle.",,54.2,True,none,,,
+BO0624_83738,107433,219,220,"MeuBLE en bois sculpte,contenant deux petits tiroirs, fermant",,42.2,True,none,,,
+BO0624_83738,107434,220,221,"MeuBLE a hauteur d’appui, a deux portes, en bois sculpte.",,44.6,True,none,,,
+BO0624_83738,107435,221,222,"MeuBLe a deux corps en bois sculpte, fermant a quatre portes et contenant deux tiroirs. Les portes presentent les sujets de I'Annonciation, de la Creche et de l'Adoration des Mages. Le reste du meuble est orné de tetes de cherubins, d'angelots, de guirlandes de feurs, de rosaces et de feuilles. Travail lyonnais de la fin du xvi siecle.",,51.5,True,none,,,
+BO0624_83738,107436,222,223,"MeuBl.E a deux corps en bois sculpte et marqueterie de bois de couleurs, avec incrustations de marbre. Il ferme a quatre portes et contient deux tiroirs. Decor de rinceaux feuris, avec statuettes, mascarons et mufles de lions, de chaque cote des portes. Fin du xvI siecle.",,52.8,True,none,,,
+BO0624_83738,107437,223,224,"TABLE rectangulaire en bois sculpte, ornee, sur la ceinture, de palmettes et de godrons.Le pietement se compose de six arcades supportees par une traverse et venant aboutir, de chaque cote, a un large motif compose de colonnettes engagees et de chimeres.",,46.4,True,none,,,
+BO0624_83738,107438,224,225,"MeuBLE en bois sculpte,a deux portes, sur console a un tiroir et a fond plein. Decor de guerriers, de trophees d'armes et de cariatides; divinites marines, sur le tiroir. Pieds a cariatides adossees. Travail bourguignon de la fin du xvI siecle.",,50.3,True,none,,,
+BO0624_83738,107439,225,226,"MeuBLe a deux corps, quatre portes et quatre tiroirs, en bois sculpte, decore de motifs rayonnants ovales au milieu d'entrelacs, et de six colonnettes engagees et cannelees. Fin du xvi siecle.",,53.4,True,none,,,
+BO0624_83738,107440,226,227,"TABLE rectangulaire en bois sculpte;pietement a arcades et balustres canneles, aboutissant, a chaque extremite, a un large motif, decore de trophees d'armes avec chimeres.Fin du xvi siecle,",,50.6,True,none,,,
+BO0624_83738,739945,227,228,"MeuBLe a deux corps, quatre portes et deux tiroirs, a decor de rinceaux avec gros godrons sur les tiroirs, trois cariatides sur la facade du corps superieur, et trois pilastres sur celle du corps inferieur.Fin du xvi siecle.",,50.8,True,none,,,
+BO0624_83738,739946,228,229,"CorrrE en bois sculpte, orne de cinq arcades abritant chacune un personnage. Commencement du xvii siecle.",,56.2,True,none,,,
+BO0624_83738,739947,229,230,"PETiTE TABLE rectangulaire en bois sculpte; pietement orne d'oiseaux fantastiques, avec écusson armorie entre eux. Commencement du xvii siecle.",1028.0,96.3,False,positional,,,MEUBLES
+BO0624_83738,739948,230,231,"CaBINeT en ebene incrustee d'ivoire, a decor de figures allegoriques et mythologiques, ainsi que de nombreux oiseaux varies. Il contient plusieurs tiroirs et est muni de trois portes. xviii siecle.",1032.0,97.0,False,positional,,,MEUBLES
+BO0624_83738,739949,231,232,"Miroir de 1orme contournee, dans un cadre en bois sculpte et dore, a mascarons et chimeres ailees. xvii siecle.",1036.0,91.3,False,positional,,,MEUBLES
+BO0624_83738,739950,232,233,"TaBLE en marqueterie de bois de couleurs, a quadrilles et des. Dessus en laque de Hollande. xviii siecle.",1040.0,94.1,False,positional,,,MEUBLES
+BO0624_83738,739951,233,234,"PANNEAu peint sur soie : vase de feurs, oiseaux, guirlandes et medaillons",1045.0,86.7,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739952,234,235,"PeTIT PANNEAu, presentant un éveque debout, en broderie de soies de couleurs. xvii siecle.",1050.0,91.9,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739953,235,236,"Six NAPperoNs, guipure et fils tires. xviii siecle.",1054.0,89.1,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739954,236,237,"GARNITuRE DE LIT en coton brode, a feurs. xvii siecle.",1055.0,72.4,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739955,237,238,NAppEroN en fils tires et guipure. xvii siecle.,1056.0,90.2,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739956,238,239,FoND DE LIT en guipure. xviii siecle.,1057.0,78.0,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739957,239,240,"EscarcELLE en velours noir, avec garnitures de bronze dore a torsade du xvii siecle.",1058.0,94.9,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739958,240,241,"EscArcELLE en satin brode, munie d’une monture en bronze dore,a figurine, du commencement du xvii siecle.",1062.0,66.3,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739959,241,242,"EscarcELLE en velours rouge, munie d'une monture en argent dore, du commencement du xvie siecle, a figures, mascarons et guirlandes de fruits.",1067.0,96.9,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739960,242,243,Cinq Pieces pour sieges en tapisserie au petit point,,39.1,True,none,,,
+BO0624_83738,739961,243,244,Siege et dossier en tapisserie au point,,37.1,True,none,,,
+BO0624_83738,739962,244,245,"apissERIE rectangulaire famande, presentant le sujet : le Christ et la Samaritaine. Composition de cinq personnages, sur fond de paysage avec habitations. Bordure de branchages feuris. Commencement du xvi siecle.",1077.0,93.5,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739963,245,246,"GrANDE TArissERIE rectangulaire famande, presentant le sujet de la Descente d'Enee aux Enfers sous la conduite de la Sibylle. Composition de nombreux personnages, tels que Charon, Minos, Didon, Procris, etc., avec legendes latines. Fond de paysage montagneux, au milieu duquel serpente le Styx et ou sont delimites les divers cercles de l'Enfer. Bordure de vases de fruits et fleurs, aux armes des Montmorency. Commencement du xvi siecle.",1081.0,97.2,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739964,246,247,"TaPIssERIE FLAMANDE presentant le sujet de la Resurrection; sur la bordure, des feurs et des fruits, avec les Evangelistes aux angles. xvi siecle.",1085.0,90.0,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739965,247,248,"FRAGMENT DE TAPIssERIE FLAMANDE presentant trois personnages dans la campagne. Bordure, haut et bas, a decor d'animaux et fruits, sur fond jaune. xvii siecle.",1090.0,95.4,False,positional,,,ETOFFES; TAPISSERIES
+BO0624_83738,739966,248,249,"GRANDE TAPIssERIE de Bruxelles, presentant le Triomphe  d'Amphitrite, une nymphe surprise par des satyres et I'Olympe. Epoque Louis XV.",1098.0,74.4,False,positional,,,ETOFFES; TAPISSERIES

@@ -1,0 +1,761 @@
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
+BO0624_81823,57864,1,I,Lotto di quattro frammenti di lamina di bronzo sbalzati a soggetti diversi.Bella patina.Scavo.,11.0,95.8,False,positional,,,Oggetti di Scavo
+BO0624_81823,57865,2,2,"Lotto di una fbbia, un pettine, una scatolina.una testina di leone. Bronzi di scavo.",12.0,90.7,False,title_direct,,,Bronzi
+BO0624_81823,57866,3,3,Lotto di figurina rappresentante guerriero. Due frammenti di ruote. Bronzi di scavo.,13.0,74.9,False,title_direct,,,Bronzi
+BO0624_81823,57867,4,4,QUATTRO FRAMMENTI variati in terracotta di scavo. Taranto.,14.0,83.3,False,positional,,,Oggetti di Scavo
+BO0624_81823,57868,5,5,DUE MASCHERE in terracotta con tracce di policromia.Taranto.,15.0,91.9,False,positional,,,Oggetti di Scavo
+BO0624_81823,57869,6,6,TRE ANTEFISSE in terracotta di scavo.Taranto.,16.0,83.0,False,positional,,,Oggetti di Scavo
+BO0624_81823,57870,7,7,SETTE PiCCOLE TESTE in terracotta di scavo.Taranto.,17.0,81.1,False,positional,,,Oggetti di Scavo
+BO0624_81823,57871,8,8,PIATTo decorato ad ornati ed a busto di santa.Urbino. Maioliche e Porcellane,21.0,79.7,False,title_direct,,,Maioliche
+BO0624_81823,57872,9,9,"DUE PICCOLI PIATTI decorati a guide di frutta ed ornati. Faenza, （restaurati).",22.0,92.5,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57873,10,11,"PIATTO in maiolica decorato nel centro da figura di santo a colori; sul fondo, ornati in bianco su bianco.Faenza.",30.0,95.2,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57874,11,12,BOTTIGLIA decorata da fiori bleu su fondo bianco. Maiolica di Faenza.,31.0,95.1,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57875,12,13,ALBERELLO decorato da piccoli fiori policromi su fondo bianco. Maiolica di Caffaggiolo.,32.0,96.1,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57876,13,14,"BUSTINo di giovanetto. Porcellana a colori, di Capodimonte.",33.0,92.7,False,title_direct,,,Porcellane
+BO0624_81823,57877,14,15,"Scuola Fiorentina (Secolo XV). Angelo in terracotta, in parte frammentato.",34.0,87.6,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57878,15,16,"DUE BOCCALI frammentati decorati da ornati, stemmi e ritratti. Maiolica primitiva di Orvieto.",35.0,90.1,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57879,16,17,DUE DETTI variati.Maioliche e Porcellane,,44.4,True,title_direct,,,Maioliche
+BO0624_81823,57880,17,18,"PIATTo CONCAVO a soggetto umoristico,bordo a disegno geometrico policromo. Faenza.",37.0,81.7,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57881,18,19,"Palo di antichi alberelli ispano arabi, a smalto bleu.",38.0,95.6,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57882,19,20,Fiasca in maiolica decorata a stecco ad ornati ed uccelli. Fratte.,39.0,94.9,False,positional,,,Maioliche; Porcellane
+BO0624_81823,57883,20,21,CopERTA in broccatello in seta ad ornati ed uccelli in giallo su fondo rosso.,43.0,97.5,False,positional,,,Stoffe; Tappeti
+BO0624_81823,57884,21,22,STENDARDINo in velluto rosso; nel centro e nel bordo ricamo in argento. Sec. XVI.,44.0,97.0,False,positional,,,Stoffe; Tappeti
+BO0624_81823,57885,22,23,PALioTTo in velluto rosso interamente ricamato ad ornati in argento.,45.0,95.8,False,positional,,,Stoffe; Tappeti
+BO0624_81823,57886,23,24,"BELLA GUIDA persiana a penne di pavone su fondo bleu, tre bordi.",46.0,87.1,False,positional,,,Stoffe; Tappeti
+BO0624_81823,57887,24,25,TAPPETo persiano ad ornati su fondo rosso.,47.0,84.0,False,positional,,,Stoffe; Tappeti
+BO0624_81823,57888,25,26,QUATTRO SEGGIOLE coperte di cuoio. Sec. XVII.,51.0,94.7,False,positional,,,Mobili
+BO0624_81823,57889,26,27,MoBILE in noce a due corpi con decorazione di modanature. La parte superiore con stemmi scolpiti:quattro sportelli. Secolo XVII.,52.0,98.5,False,positional,,,Mobili
+BO0624_81823,57890,27,28,"PoLTRoNA a bracciali diritti e traverse tornite, dossello in cuoio impresso a piccoli fusi, decorazione di bolloni e fiamme dorate. Secolo XVI.",53.0,97.6,False,positional,,,Mobili
+BO0624_81823,57891,28,29,"PoLTroNA a braccioli diritti in noce in parte scolpito, piano e dossello ricoperti di cuoio,decorazione di bolloni e fiamme dorate",54.0,98.1,False,positional,,,Mobili
+BO0624_81823,57892,29,30,"VETRINA in mogano, col fondo dipinto a paesaggio.",55.0,95.1,False,positional,,,Mobili
+BO0624_81823,57893,30,31,"MoBiLINo bolognese a due corpi, la parte inferiore ad uno sportello e cassetto, la superiore a due sportelli.Pomi d'ottone. Secolo XvII.",56.0,97.8,False,positional,,,Mobili
+BO0624_81823,57894,31,32,"PoLrRoNA a braccioli diritti,in noce;piano e dossello coperti di cuoio.",57.0,96.6,False,positional,,,Mobili
+BO0624_81823,57895,32,33,"PiccoLA coMMoDr di noce scolpito a mascheroni, frutta ed altri ornati; uno sportello e cassetto.Secolo XVII. FINIssIMA coRNIcE in legno lumeggiato oro e dipinto;con stemmi agli angoli. Arte veneziana.Secolo XVI.",58.0,67.5,False,positional,,,Mobili
+BO0624_81823,57896,33,34,Piola. La Forza raffgurata dalla figura di un bambino tenente con la destra una spada e vicino a se una corazza.Pittura ad olio con cornice dorata.,63.0,89.5,False,positional,,,Quadri
+BO0624_81823,57897,34,34a,"LA MUSICA, quadro pendant al precedente.",64.0,82.8,False,positional,,,Quadri
+BO0624_81823,57898,35,35,"Kaufmann (Aug). Ritratto di vecchia signora. Quadro ad olio su tela, cornice intagliata e dorata.",65.0,91.9,False,positional,,,Quadri
+BO0624_81823,57899,36,36,Mytens (Isack). Ritratto: pittura ad olio. Cornice a sbalzo.,66.0,78.0,False,positional,,,Quadri
+BO0624_81823,57900,37,37,Scuola Veneta (Sec. XVIll). Il passaggio del Mar Rosso; grande bozzo ad olio. Cornice intagliata e dorata.,67.0,89.6,False,positional,,,Quadri
+BO0624_81823,57901,38,38,"Benozzo Gozzoli (?) Testa di Santo. Meravigliosa pittura, con cornice dorata.",68.0,88.5,False,positional,,,Quadri
+BO0624_81823,57902,39,39,"Solimene. Soggetto sacro, grande bozzo ad olio per plafond di chiesa. Cornice dorata.",69.0,85.9,False,positional,,,Quadri
+BO0624_81823,57903,40,40,Jacopo da Ponte (detto Bassano). Il giudizio di Salomone; pittura ad olio su tela. Cornice intagliata e dorata.,70.0,92.5,False,positional,,,Quadri
+BO0624_81823,57904,41,41,Murillo (Bart. Est.). S. Giovannino; bozzetto ad olio. Cornice dorata.,71.0,87.5,False,positional,,,Quadri
+BO0624_81823,57905,42,42,Parmigianino (attribuito a). L'Annunciazione; bella pittura ad olio con cornice intagliata e dorata.,72.0,78.5,False,positional,,,Quadri
+BO0624_81823,57906,43,43,Scuola Fiamminga. Paesaggio con figurine; grazioso quadro ad olio su tavola. Cornice dorata.,73.0,97.9,False,positional,,,Quadri
+BO0624_81823,57907,44,44,Van Dyck (Scuola di). Ritratto di un bambino. Bella pittura ad olio su tela. Cornice di legno intagliata e dorata.,74.0,89.4,False,positional,,,Quadri
+BO0624_81823,57908,45,45,"Scuola Fiamminga (Sec. XVIll). Soggetto di genere. Bel quadretto d'olio su tela,ricca cornice in legno intagliato e dorato.",75.0,86.4,False,positional,,,Quadri
+BO0624_81823,57909,46,46,Hackert. Paesi. Due quadri ad olio su tela. Cornici dorate.,76.0,85.5,False,positional,,,Quadri
+BO0624_81823,57910,47,47,"Van Bloemen (maniera di). L'Angelo e Tobia; simpatico quadro ad olio su nero. Cornice Salvator Rosa, nero ed oro.",77.0,89.0,False,positional,,,Quadri
+BO0624_81823,57911,48,48,Rembrandt (copia da). Ritratto di gentiluomo;bel quadro ad olio su tela. Cornice intagliata e dorata.,78.0,83.9,False,positional,,,Quadri
+BO0624_81823,57912,49,49,"Scuola Fiamminga. Cristo e i pellegrini; bel quadro dipinto ad olio a fondo di paese. Cornice dorata. o.Due pannelli dipinti a vedute fantasiose di Roma, con architetture e figurine. Secolo XVI1I (qualche restauro).",80.0,64.7,False,positional,,,Quadri
+BO0624_81823,57913,50,50,"Due pannelli dipinti a vedute fantasiose di Roma, con architetture e figurine. Secolo XVIII (qualche restauro).",,49.6,True,none,,,
+BO0624_81823,57914,51,50a,Altro detto più grande.,81.0,62.9,False,positional,,,Quadri
+BO0624_81823,57915,52,51,Caravaggio (M.A.). San Giovanni Evangelista. Bel quadro dipinto ad olio su tela. Cornice graffita e dorata.,82.0,89.7,False,positional,,,Quadri
+BO0624_81823,57916,53,52,"Brill Paolo (1556-1626). Festa campestre; fine pittura ad olio su tavola, con cornice di pero a sbalzo,filettata d'argento.",83.0,92.8,False,positional,,,Quadri
+BO0624_81823,57917,54,53,"Incognito.Secolo XVII. Il Porta-bandiera,pittura ad olio su tela con cornice do rata.",84.0,81.9,False,positional,,,Quadri
+BO0624_81823,57918,55,54,"Scuola Tedesca. Veduta di una piazza con cattedrale, pittura ad olio su tavola Secolo XVII.",85.0,97.8,False,positional,,,Quadri
+BO0624_81823,57919,56,55,"Scuola Umbra. La Sacra Famiglia, pittura ad olio su tavola, con ricca cornice di pero scolpito ed in parte dorato.",86.0,92.7,False,positional,,,Quadri
+BO0624_81823,57920,57,56,"Bronzino (maniera di). Ritratto di gentildonna,pittura ad olio su tela, cornici intagliata e dorata.",87.0,91.7,False,title_direct,,,Bronzi
+BO0624_81823,57921,58,57,"A. Caracci Testa del Nazzareno, fine pittura ad olio su tela,in ricca cornice de legno intagliato e dorato.",88.0,91.8,False,positional,,,Quadri
+BO0624_81823,57922,59,58,Soggetto biblico. Quadro dipinto su tela a chiaroscuro con cornice intagliata e dorata.Secolo XVII.,89.0,86.9,False,positional,,,Quadri
+BO0624_81823,57923,60,59,Locatelli (P.) S. Pietro che predica alle turbe; bel quadro ad olio su tela. Cornice intagliata e dorata.,90.0,82.6,False,positional,,,Quadri
+BO0624_81823,57924,61,60,Frutta.Quadro ad olio su tela. Cornice.,91.0,77.1,False,positional,,,Quadri
+BO0624_81823,57925,62,61,Sacra Famiglia.Antica copia ad olio su tavola dall'originale di Raffaello.,92.0,77.1,False,positional,,,Quadri
+BO0624_81823,57926,63,62,Maschere. Importante quadro ad olio su tela. Cornice dorata a pastiglia.,93.0,97.3,False,positional,,,Quadri
+BO0624_81823,57927,64,62a,Aspasia. Piccolo busto in marmo. Arte greca. Scavo. Base.,97.0,87.6,False,positional,,,Marmi
+BO0624_81823,57928,65,63,"GRANDE CAPITELLo da pilastro in marmo, decorato da foglie,volute e figura alata nel centro.Secolo XVI.",98.0,90.2,False,positional,,,Marmi
+BO0624_81823,57929,66,64,FRAMMENTo in marmo di una figurina rappresentante un pescatore. Epoca Alessandtina.,99.0,97.6,False,positional,,,Marmi
+BO0624_81823,57930,67,65,GRAzIoso CINERARIo in marmo a forma ovoide decorato a guide di edera. Bucrani e targa. Scavo.,100.0,97.9,False,positional,,,Marmi
+BO0624_81823,57931,68,66,"BeLLA TAzzA in portasanta antica a corpo baccellato,piede ottagono,in parte scanalato.",101.0,81.1,False,positional,,,Marmi
+BO0624_81823,57932,69,67,"L'IMPERAroRE AUGUsTo,statuetta di marmo, testa e braccio destro restaurati. I. S.D.C. Alt.",102.0,74.7,False,positional,,,Marmi
+BO0624_81823,57933,70,68,"VAscA in pietra sorretta da giovanetto accovacciato,la tazza scolpita a teste e foglie,base quadrangolare in peperino.Tipo d'arte Romanica.",103.0,94.0,False,positional,,,Marmi
+BO0624_81823,57934,71,69,G. L. Bernini (Scuola di).Acquasantiera in marmo decorata da teste di Serafini Cornice di legno e pastiglia dipinta e dorata.,104.0,91.4,False,positional,,,Marmi
+BO0624_81823,57935,72,70,Scuola Lombarda (Secolo XV). La Pieta; fine scultura in marmo. Bellissima patina.,105.0,94.4,False,positional,,,Marmi
+BO0624_81823,57936,73,71,"T. Lombardo (147o-1532). Busto del Redentore, bella scultura in marimo.",107.0,87.7,False,positional,,,Marmi
+BO0624_81823,57937,74,72,"DuE CoLoNNINE a doppio tortiglione in marmo con decorazione dl mosaico a colori, Capitelli.",108.0,88.6,False,positional,,,Marmi
+BO0624_81823,57938,75,73,"Agostino Duccio. Genio alato, altorilievo in marmo. Secolo XV. La testa e restaurata.",110.0,97.7,False,positional,,,Marmi
+BO0624_81823,57939,76,74,"PARTE SUPERIORE DI UN CIBORIO in marmo finemente scopito ad animali, teste di serafino e mascheroni. Bella patina.Secolo XV.",111.0,76.1,False,positional,,,Marmi
+BO0624_81823,57940,77,75,"TEsTA IN MARMo di giovane,imitazione dall'antico. Base di giallo.",113.0,89.6,False,positional,,,Marmi
+BO0624_81823,57941,78,76,CAvALLINo in bronzo su base di porfido. Secolo XVII.,117.0,96.3,False,positional,,,Bronzi
+BO0624_81823,57942,79,77,"FAUNo in bronzo che suona la siringa, base di granito. Secolo. XVII.",118.0,97.1,False,positional,,,Bronzi
+BO0624_81823,57943,80,78,"CAvALLo assalito da un leone, gruppo in bronzo su base di porfido. Impero.",119.0,97.4,False,positional,,,Bronzi
+BO0624_81823,57944,81,79,Lotto di tre placchette diverse delle quali due in bronzo ad una in piombo.,120.0,93.6,False,positional,,,Bronzi
+BO0624_81823,57945,82,80,Lotto di quattro medaglie diverse in bronzo.,121.0,89.4,False,positional,,,Bronzi
+BO0624_81823,57946,83,81,MisuRA IN BRoNzo a forma ottagonale con tracce di ageminatura di argento. Un'ansa.Secolo XV.,122.0,97.9,False,positional,,,Bronzi
+BO0624_81823,57947,84,82,BRAcIERE in rame con manichi a teste di leone. Sec. XV.,123.0,96.5,False,positional,,,Bronzi
+BO0624_81823,57948,85,83,SANTO e SANTA.Due figurine in bronzo. Secolo XV.,124.0,96.0,False,positional,,,Bronzi
+BO0624_81823,57949,86,84,DIVINITA CINESE in bronzo dorato.,125.0,70.4,False,positional,,,Bronzi
+BO0624_81823,57950,87,85,CROCE AsTILE in bronzo. Secolo XVI.,126.0,91.9,False,positional,,,Bronzi
+BO0624_81823,57951,88,86,CoRNicINA in legno finemente intagliato e dorato;la luce di sesto circolare contiene una pittura ad olio su rame rapp.te il Presepe.,129.0,95.3,False,positional,,,Legni Intagliati
+BO0624_81823,57952,89,88,"BEL TABERNAcoLo di forma architettonica in legno in parte intagliato, dorato e dipinto ad ornati in chiaroscuro su fondo bleu. Arte Umbra del Secolo XVI.",130.0,92.6,False,positional,,,Legni Intagliati
+BO0624_81823,57953,90,89,"SEI DAVANTI DI cAssETTI in noce riccamente scolpiti a figure, ornati e foglie, ma niglie in bronzo. Secolo XVI.",131.0,96.9,False,positional,,,Legni Intagliati
+BO0624_81823,57954,91,89a,"CoLoNNA scOLPITA IN LEGNO, a baccelli vuoti e pieni, in parte dorata ed in parte dipinta.",132.0,95.7,False,positional,,,Legni Intagliati
+BO0624_81823,57955,92,90,"ScAToLINA monastica a forma di stella,interamente dorata e dipinta a fiori, e figure. Arte Veneziana.Secolo XVII.",133.0,88.8,False,positional,,,Legni Intagliati
+BO0624_81823,57956,93,91,QUATTRO MENsOLETTE di legno scolpito e dipinto.,134.0,78.0,False,positional,,,Legni Intagliati
+BO0624_81823,57957,94,92,"QUATTRO CARIATIDI in legno, due a putti e due a busti di donne. Sec. XVII.",135.0,97.4,False,positional,,,Legni Intagliati
+BO0624_81823,57958,95,93,LEONE CHE SBRANA UN CAVALLO: scultura in legno.,136.0,95.9,False,positional,,,Legni Intagliati
+BO0624_81823,57959,96,94,"GRANDE ToRCIERE in legno tornito e scolpito a grandi foglie,in parte dorato.Piede a tripode terminante a zampe di leone. Secolo XVI.",137.0,93.6,False,positional,,,Legni Intagliati
+BO0624_81823,57960,97,95,L'ARcANGELo S. MicHELE in ato di uccidere il Demonio. Importante avorio del sec.XVI.,141.0,83.2,False,positional,,,Legni Intagliati
+BO0624_81823,57961,98,96,Donatello (Scuola di). Il Presepe;bello stucco con tracce di dorature e policromia. La parte superiore di sesto circolare.,142.0,92.1,False,positional,,,Legni Intagliati
+BO0624_81823,57962,99,97,"FRANcEsco I o'AusTRIA, fine miniatura su avorio mantata in oro.",143.0,96.2,False,positional,,,Legni Intagliati
+BO0624_81823,57963,100,98,CAMMEo in sardonica rappresentante Ninfa danzante e Satiro. Secolo XVI.,144.0,95.9,False,positional,,,Legni Intagliati
+BO0624_81823,57964,101,99,SPALLIERA in cuoio impresso a piccoli ferri dorati.,145.0,83.6,False,positional,,,Legni Intagliati
+BO0624_81823,57965,102,100,Lotto di quattro medaglie diverse in bronzo.,146.0,89.4,False,positional,,,Legni Intagliati
+BO0624_81823,57966,103,101,Lotto di tre medaglie diverse in bronzo.,147.0,88.4,False,positional,,,Legni Intagliati
+BO0624_81823,57967,104,102,Lotto di sette medaglie diverse in bronzo.,148.0,88.9,False,positional,,,Legni Intagliati
+BO0624_81823,57968,105,103,LEGATURA DI LIBRO in velluto rosso con riporti in argento finemente cesellato.  Nel centro due miniature rappresentanti S. Michele. Secolo XVI.,149.0,68.7,False,positional,,,Legni Intagliati
+BO0624_81823,57969,106,104,NAvETTA in argento aizata di piastra.Secolo XVIII.,151.0,94.3,False,positional,,,Legni Intagliati
+BO0624_81823,57970,107,105,Lotto di due teste con berretto frigio.Figurina coricata. Terracotte provenienti dagli scavi di Taranto.,160.0,82.7,False,positional,,,Oggetti di scavo
+BO0624_81823,57971,108,106,CrNQuE TEsTE variate in terracotta provenienti dagli scavi di Taranto.,162.0,95.2,False,positional,,,Oggetti di scavo
+BO0624_81823,57972,109,107,Lotto di due teste e tre frammenti in terracotta provenienti dagli scavi di Taranto.,163.0,94.3,False,positional,,,Oggetti di scavo
+BO0624_81823,57973,110,108,Lotto di tre teste e tre frammenti di figurine in terracotta provenienti dagli scavi di Taranto.,164.0,90.3,False,positional,,,Oggetti di scavo
+BO0624_81823,57974,111,109,ScARABEo in corniolainciso a figura di toro.Scavo.,166.0,95.2,False,positional,,,Oggetti di scavo
+BO0624_81823,57975,112,110,Lotto di due teste e due frammenti di animali in terracotta. Scavi di Taranto.,167.0,93.8,False,positional,,,Oggetti di scavo
+BO0624_81823,57976,113,111,DuE ANTEFIssE in terracotta di scavo provenienti da Taranto.,168.0,95.2,False,positional,,,Oggetti di scavo
+BO0624_81823,57977,114,112,DuE PIATTI in maiolica di Giustiniani. Uno a forma di cestello.,172.0,94.7,False,positional,,,Maioliche; porcellane
+BO0624_81823,57978,115,113,FLoRIERA a forma di cestello con fiori a rilievo. Sassonia.,173.0,94.4,False,positional,,,Maioliche; porcellane
+BO0624_81823,57979,116,114,PiaTro in maiolica decorato nel centro da cavaliere armato di lancia ed altri ornati a riverbero metallico.Deruta.,174.0,79.6,False,positional,,,Maioliche; porcellane
+BO0624_81823,57980,117,115,DuE ANTIcHE BRoccHETTE di maiolica con iscrizioni in bleu e stemma di casa Stuart.,176.0,93.3,False,positional,,,Maioliche; porcellane
+BO0624_81823,57981,118,116,DUE DETTi.,182.0,72.0,False,positional,,,Maioliche; porcellane
+BO0624_81823,57982,119,117,DUE DETTI.,,46.2,True,none,,,
+BO0624_81823,57983,120,118,DUE DETTi.,,44.4,True,none,,,
+BO0624_81823,57984,121,119,DUE ALBERELLI d'accompagno.,743.0,66.7,False,positional,,,Quadri
+BO0624_81823,57985,122,120,DUE DETTI.,,44.4,True,none,,,
+BO0624_81823,57986,123,121,DUE DETTI.,,44.4,True,none,,,
+BO0624_81823,57987,124,122,DUE DETTI.,,44.4,True,none,,,
+BO0624_81823,57988,125,I23,DuE PoTIcHEs in porcellana della Cina decorate da fiori ed uccelli a colori su fondo bianco. Guarnizioni di bronzo dorato.,,47.6,True,title_direct,,,porcellane
+BO0624_81823,57989,126,124,PANNEAU in droghetto rosso con grandi oinati a ripoito contornati di cordonetto Nel centro lo stemma della famiglia Malvezzi di Bologna. Secolo XVII.,,48.6,True,none,,,
+BO0624_81823,57990,127,125,ALTRO DETTO.,847.0,77.4,False,positional,,,Legni intagliati
+BO0624_81823,57991,128,126,ALTRO DETTO.,947.0,66.7,False,positional,,,Bronzi
+BO0624_81823,57992,129,127,TAPpETINo di velluto a controtaglio in bleu e rosso su fondo bianco. Scutari.,,49.1,True,none,,,
+BO0624_81823,57993,130,128,TAPPETo KAsAc a tre losanghe e piccoli ornati su fondo bleu.,,51.5,True,none,,,
+BO0624_81823,57994,131,I29,CAssA NUzIALE in noce a semplici modanature. Cordone intagliato ad ovoli.,,47.9,True,none,,,
+BO0624_81823,57995,132,130,ALTRA DETTA.,1021.0,69.0,False,positional,,,Maioliche; porcellane
+BO0624_81823,57996,133,132,"CAssAPANcA in noce scolpito,sul dossello pilastri scanalati, intarsi, l'iscrizione sedens quasi vigilans est. Secolo XVI.",,50.0,True,none,,,
+BO0624_81823,57997,134,133,ALTRA DETTA d'accompagno con liscrizione Vena vitae os iusti. Secolo XVI.,,49.3,True,none,,,
+BO0624_81823,57998,135,135,TAvoLo coNsoLE di legno intagliato ed in parte dorato su fondo celeste:piano in portasanta.,,57.3,True,none,,,
+BO0624_81823,57999,136,136,"GRANDE ANTIcA PENDOLA con sottoposta mensola in boule,riccamente guarnita in bronzi dorati.",,46.5,True,none,,,
+BO0624_81823,58000,137,137,Jacopo Courtois (detto Borgognone). Battaglie: due graziose pitture ad olio: cornici intagliate e dorate.,,50.5,True,none,,,
+BO0624_81823,58001,138,138,Cagliari (Carletto) (attribuito a). Giovane donna con pecora: pittura ad olio cornice intagliata e dorata.,,57.1,True,none,,,
+BO0624_81823,58002,139,139,"Caracci (Annibale) Due putti e due vasi; pittura ad olio, cornice intagliata e dorata.",,53.6,True,none,,,
+BO0624_81823,58003,140,140,"Teniers (scuola di). I bevitori: piccolo quadro ad olio su tela, cornice dorata.",,53.9,True,none,,,
+BO0624_81823,58004,141,141,Scuola Veneziana. La Vergine ed il Bambino: quadro su tavola sec. XVI.,,50.9,True,none,,,
+BO0624_81823,58005,142,142,Murillo (E.) (attribuito a) Bambino con nido. Bellissima pittura ad olio su tela. Cornice intagliata e dorata.,,55.0,True,none,,,
+BO0624_81823,58006,143,143,Scuola Veneziana. San Pietro liberato dal Carcere. Quadro ad olio su tela cornice noce ed oro.,1049.0,65.3,False,positional,,,Quadri
+BO0624_81823,58007,144,144,"Incognito. Figura di vecchio. Pittura ad olio su tavola, cornice dorata.",,53.1,True,none,,,
+BO0624_81823,58008,145,145,Marko (Carlo). Paese con anacoreta: magnifico quadro ad olio di questo grande maestro.Cornice int. e dorata.,,48.2,True,none,,,
+BO0624_81823,58009,146,146,"Scuola Inglese. Secolo XVIlI. Ritratto di magistrato in costume, quadro ad olio su tela, cornice dorata.",,52.1,True,none,,,
+BO0624_81823,58010,147,147,"LA MADDALENA nel deserto, pittura ad olio su tavola entro cornice in palissandro e tartaruga,filettata d'avorio.",,45.6,True,none,,,
+BO0624_81823,58011,148,148,"LA SAcRA FAMIGLIA,pittura ad olio su tavola di sesto ovale,cornice intagliata ed in parte dorata.",,54.0,True,none,,,
+BO0624_81823,58012,149,149,"LA VERGINE, pittura ad olio su tavola con cornice dorata.",,57.1,True,none,,,
+BO0624_81823,58013,150,150,"NAruRA MoRTA, quadro ad olio dipinto su tela,cornice intagliata e dorata.",,54.1,True,none,,,
+BO0624_81823,58014,151,151,"RITRATTo DI GIovANETTo, quadro dipinto ad olio su tela cornice dorata. Impero.",1057.0,60.6,False,positional,,,Quadri
+BO0624_81823,58015,152,152,Bordone (Paris) (Treviso 1500-1570). Ritratto Mediceo. Pittura su tela. Cornice dorata.,,48.1,True,none,,,
+BO0624_81823,58016,153,153,"Neuville (Afonso de) (1836, attribuito a). La sentinella. Pittura su tela. Cornice dorata.",,52.2,True,none,,,
+BO0624_81823,58017,154,154,Paolo Veronese (scuola di. Il Salvatore. Pittura su rame di accurata esecuzione e grande sentimento. Cornice dorata.,,50.5,True,none,,,
+BO0624_81823,58018,155,155,Giulio Romano (attribuito a). Santa Caterina: pittura su tavola con cornice circolare intagliata e policromata.,,52.6,True,none,,,
+BO0624_81823,58019,156,156,Teniers (David) (Anversa 1582-1649). I Fumatori. Pittura su tela. Cornice nera.,,47.4,True,none,,,
+BO0624_81823,58020,157,157,Clouet (attribuito a I85-1541). Ritratto di giovane dama. Quadretto su tela di finezza ed esecuzione straordinaria.Cornice nera.,,46.6,True,none,,,
+BO0624_81823,58021,158,158,Diaz N.(attribuito a 1899). Donne Orientali. Pittura su tavola. Cornice dorata.,,53.2,True,none,,,
+BO0624_81823,58022,159,158a,"Pratella. Il Mercato di Napoli. Bella pittura ad olio, su tavola. Cornice intagliata e dorata.",,58.7,True,none,,,
+BO0624_81823,58023,160,158b,Idem. Marina di Napoli. Quadro pendent al suddetto.,,47.3,True,none,,,
+BO0624_81823,58024,161,159,Benefiale (E.). Tre teste di putti. Quadretto ad olio su tela. Cornice dorata ad ornati puntinati.,,54.3,True,none,,,
+BO0624_81823,58025,162,16,o. Incognito Secolo XVIll. Ritratto di gentiluomo in armatura e perruccone. Pit tura ad olio su tela di sesto ovale. Cornice di legno scolpito e dorato.,,53.6,True,none,,,
+BO0624_81823,58026,163,161,Scuola Francese (Secolo XIX). Scene campestri.Due splendidi acquarelli. Cornice e cristalli.,,45.9,True,none,,,
+BO0624_81823,58027,164,162,Marco Palmezzano (Secolo XVI). Il Presepe con figure di Santi e devoto inginocchiato. Nel fondo il corteo dei Re Maggi e fine paesaggio. Pittura su tavola.,,47.9,True,none,,,
+BO0624_81823,58028,165,162a,"Nuntius (Benedictus).(Gubbio, secolo XVI). Importante Stendardino dipinto,dall'altra S. Bernardino con devoti: fondo di paese, firmato. Annessa cornice intagliata ed in parte dorata.",,41.7,True,none,,,
+BO0624_81823,58029,166,163,"Moroni (G. B.) Ritratto di un gentiluomo;quadro ad olio su tela,cornice dorata.",,59.2,True,none,,,
+BO0624_81823,58030,167,164,"Gerard (Cov). Ritratto di giovane donna,quadro ad olio su tela. Cornice rera ed oro.",,55.2,True,none,,,
+BO0624_81823,58031,168,165,Scuola Inglese. Ritratto di donna:pittura ad olio; cornice intagliata e dorata.,,49.8,True,none,,,
+BO0624_81823,58032,169,166,Scuola Spagnuola. Madonna col Bambino e due santi. Pittura ad olio con cornice dorata.,,57.1,True,none,,,
+BO0624_81823,58033,170,167,Scuola Napolitana. Soggetti sacri: sei quadretti ovali con cornici intagliate e dorate.,,49.7,True,none,,,
+BO0624_81823,58034,171,168,LA VERGINE cOL BAMBINO ed un angelo: grazioso bozzetto ad olio con cornice.,,48.6,True,none,,,
+BO0624_81823,58035,172,169,Sansovino (attribuito a). La Vergine ed il Bambino: bassorilievo in marmo di forma circolare.,,44.8,True,none,,,
+BO0624_81823,58036,173,170,LA VERGINE col Bambino e due angeli. Bassorilievo in pietra. Arte Francese. Secolo XIV.,,41.2,True,none,,,
+BO0624_81823,58037,174,171,FRAMMENTo DI LEGGIo in marmo formato da unaquila che tiene con gli artigli il Vangelo.Secolo XIV.,,48.6,True,none,,,
+BO0624_81823,58038,175,171a,"BAssoRILIEvo in pietra rappresentante la Vergine orante sotto un tabernacolo scolpito con l'iscrizione ""AVE-GRATIA-PLENA-DOMINUS-TEO"". Secolo XVI.",,46.0,True,none,,,
+BO0624_81823,58039,176,172,"VAso MAssiccio da decorazione in marmo greco: dalla pancia che e baccellata e decorata nel centro con una ghirlanda,escono tre protomi di grifi. Epoca di Augusto. Rarissima forma ricordante i vasi di Nemi del Tempio di Diana.In parte restaurato.",,39.2,True,none,,,
+BO0624_81823,58040,177,172a,ALTRO DETTO.,,52.6,True,none,,,
+BO0624_81823,58041,178,173,VAso in marmo a forma ovoide a tre anse a teste di cavallo. Scavo.,,46.8,True,none,,,
+BO0624_81823,58042,179,174,ALTRO DETTO.,,52.6,True,none,,,
+BO0624_81823,58043,180,175,"VAso rotondo da giardino, in marmo pentelico decorato da bassorilievo con fogliami e due Menadi danzanti Epoca Augustea.",,43.9,True,none,,,
+BO0624_81823,58044,181,176,"PALIOTTO decorato da mosaici di porido, serpentino e dorato, disposti a disegno eometrico:Arte de' Cosmati.",,44.5,True,none,,,
+BO0624_81823,58045,182,177,DuE cAPITELLI da pilastri scolpiti in marmo a cornucopi e foglie. Secolo XVI.,,52.5,True,none,,,
+BO0624_81823,58046,183,178,CAMINETTo in marmo decorato nella cimasa da soggetto di caccia in mosaico di Firenze.,,47.0,True,none,,,
+BO0624_81823,58047,184,179,Torso di un amorino in marmo greco: porta la pelle di una capra. Tipo Elleni stico.Base formata da un capitello.,,48.0,True,none,,,
+BO0624_81823,58048,185,180,STEMMA NOBILIARE scolpito in pietra.Epoca Luigi XIV.,,44.8,True,none,,,
+BO0624_81823,58049,186,181,Esculapio.Figurina in miarmo grego di scavo. Naso restaurato. Lavoro del II secolo d.Cr. da una opera greca del IV sec. a.C.,,42.7,True,none,,,
+BO0624_81823,58050,187,182,VAscA DA BAGNo di marmo grechetto di epoca romana.pancia centinata.Perfetta conservazione. Circa 2 sec. d.Cr.,,43.2,True,none,,,
+BO0624_81823,58051,188,183,"Dausch. Piccola figura di Bacco giovane danzante,in marmo.",,47.6,True,none,,,
+BO0624_81823,58052,189,184,DuE CARIATIDI diverse in bronzo cesellato e dorato. Secolo XVIII.,1108.0,61.0,False,positional,,,Bronzi
+BO0624_81823,58053,190,185,CrocEFisso in bronzo finemente cesellato e dorato. Secolo XVIII.,,57.1,True,none,,,
+BO0624_81823,58054,191,186,"L'ABBONDANzA, graziosa figurina in bronzo dorato,mancante della mano sinistra. Secolo XVIII.",,47.4,True,none,,,
+BO0624_81823,58055,192,187,"FIGURINA di donna distesa, in bronzo dorato. Secolo XVIII.",1109.0,62.3,False,positional,,,Bronzi
+BO0624_81823,58056,193,188,"Paio DI ALARI in bronzo finemente cesellato e dorato decorati,da sfinge alata e da ara a tripode sorretto da cariatidi di aquila. Arte Francese. Epoca Luigi XVI.",,42.1,True,none,,,
+BO0624_81823,58057,194,189,"GRANDE PENDoLA in marmo colorato guarnita di bronzi dorati e sormontata da gruppo rapp. Amore e Psiche, pure in bronzo dorato. Sul quadrante: L.RAVRIO BRONZIER A PARIS.",,42.0,True,none,,,
+BO0624_81823,58058,195,190,DuE CANDELABRI in bronzo finemente cesellato e dorato a dodici bracci ciascuno.,,43.4,True,none,,,
+BO0624_81823,58059,196,191,DuE PUTTINI in bronzo dorato. Secolo XVlII.,,55.0,True,none,,,
+BO0624_81823,58060,197,192,DUE PIccoLI ANGELI in bronzo dorato. Secolo XVIII. (Riporti).,,46.4,True,none,,,
+BO0624_81823,58061,198,193,PeNDoLA in bronzo dorato decorata da figura di donna simboleggiante la musica. Secolo XVIII.,,52.6,True,none,,,
+BO0624_81823,58062,199,195,Dausch. Piccola Fontana in verde di Germania decorata da figura di ninfa in bronzo.,,49.0,True,none,,,
+BO0624_81823,58063,200,195,DUE CARIATIDI scolpite in noce. Secolo XVI.,,56.1,True,none,,,
+BO0624_81823,58064,201,196,"DuE ANGELI con candelieri,policromati ed in parte dorati. Basi di legno con ornati bianchi su fondo bleu. Secolo XVII.",,50.5,True,none,,,
+BO0624_81823,58065,202,197,SPEccHIo con ricca cornice di legno intagliato e dorato. Luigi XV.,,50.6,True,none,,,
+BO0624_81823,58066,203,198,DuE ANGELI in legno policromati e dorati:eseguiti dal Fantoni di Bergamo nel sec.XVII.,,49.2,True,none,,,
+BO0624_81823,58067,204,199,"PIccoLo TABERNAcoLo in legno scolpito,dorato e policromato.Secolo XVI.",,56.7,True,none,,,
+BO0624_81823,58068,205,200,"GRANDE coRNIcE di legno intagliato,in parte tinto nero ed in parte dorato.Ci masa riccamente scolpita a rocaille.",,58.8,True,none,,,
+BO0624_81823,58069,206,201,PiccoLo coFANo in legno laccato bianco e dipinto a raffaellesche.Arte Veneziana.,,45.9,True,none,,,
+BO0624_81823,58070,207,202,SAN GEROLAMo in orazione. Scultura in legno intagliato dorato e policromato. Secolo XVI.,,59.2,True,none,,,
+BO0624_81823,58071,208,203,LA PIETA. Frammento di scultura in legno. Secolo XVI.,,54.7,True,none,,,
+BO0624_81823,58072,209,204,PiccoLA scULTURA in avorio rappresentante un gruppo di cervi.,,41.1,True,none,,,
+BO0624_81823,58073,210,205,BEL vENTAGLio in pelle dipinto a soggetto rappresentante Aronne che riceve i doni dagli ebrei per fondere il Vitello d'oro:cornice in noce e bronzi dorati. Epoca Luigi XV.,,44.8,True,none,,,
+BO0624_81823,58074,211,206,"SERMENT DU JEU DU PAUME. Bella incisione in rame alla maniera nera di Jazet, dall'originale di David. Cornice dorata e cristallo.",,40.2,True,none,,,
+BO0624_81823,58075,212,207,"BAssoRILIEvo in avorio rappresentante La Vergine, Il Bambino e S. Giovanni; entro cornice in bronzo dorato con riporti di argento. Secolo XVIII.",,42.5,True,none,,,
+BO0624_81823,58076,213,208,S. GiovANNI: bustino in terracotta policromata.,,44.9,True,none,,,
+BO0624_81823,58077,214,209,PAIO DI TORCERI in ferro battuto.,,39.4,True,none,,,
+BO0624_81823,58078,215,210,DUE ToRcERI in ferro forgiato.,,38.1,True,none,,,
+BO0624_81823,58079,216,211,LA VERGINE E IL REDENToRE:due belle miniature in cornice dorata.,,43.9,True,none,,,
+BO0624_81823,58080,217,212,DUE SALIERE in argento.Luigi XVI.,,40.6,True,none,,,
+BO0624_81823,58081,218,213,"Due incisioni di Bamey dall'originale di Hamilton rapp. figure di giovinette: conice,passe-par-tout e vetro.",,39.4,True,none,,,
+BO0624_81823,58082,219,214,"ARIBALLo in terracotta, Corinzio, decorato da quattro figure di guerrieri.",,55.1,True,none,,,
+BO0624_81823,58083,220,215,DUE PICCOLI BALSAMARI in vetro di scavo.,,40.4,True,none,,,
+BO0624_81823,58084,221,216,CoPPA E BALSAMARIO in Vetro di scaVo.,,43.8,True,none,,,
+BO0624_81823,58085,222,217,PuNTA DI LANCIA e campano in bronzo di scavo.,,47.7,True,none,,,
+BO0624_81823,58086,223,5,"Grande balsamario di bronzo: sulla pancia sono rappresentati quattro putti, dei quali uno porta due ceste sulle spalle, l'altro conduce un caprone, il terzo tiene una fiaccola,e l'ultimo regge, come il Pastor Bonus,l'agnello sulle spalle. Patina bleu verde.Lavoro del I secolo dopo Cristo.",,32.8,True,none,,,
+BO0624_81823,58087,224,219,"GRANDE BRoNzo rappresentante un giovane Romano avvolto nel manto:porta al collo una bulla,e veste i calzari. Lavoro di molto carattere di patina verde chiara.II secolo avanti Cristo.",,40.4,True,none,,,
+BO0624_81823,58088,225,220,ALCUNI FRAMMENTI in bronzo di un cinturone. Scavo.,,43.9,True,none,,,
+BO0624_81823,58089,226,221,"VAso A DUE ANsE decorato da ghirlande di foglie e frutta, stemma e nastro con iscrizione a colori su fondo bianco.Faenza.",,49.7,True,none,,,
+BO0624_81823,58090,227,222,DuE BRoccHE con ornati in bleu ed iscrizioni in nero. Maiolica faentina del secolo XVII.,,48.7,True,none,,,
+BO0624_81823,58091,228,223,DUE DETTE.,,27.8,True,none,,,
+BO0624_81823,58092,229,224,"BroccA in maiolica con ornati in giallo su fondo rosso, ad un'ansa. Maiolica delle Fratte.",,43.3,True,none,,,
+BO0624_81823,58093,230,225,DuE BUsTINI in maiolica rappresentanti guerriero e giovane donna. Maiolica di Napoli.,,44.0,True,none,,,
+BO0624_81823,58094,231,226,LoTTo composto di: a) Coppetta maiolica Orvieto; b) Coppetta maiolica con chimera;  c) Piattino maiolica ad ornati geometrici; d) Piattini con ornati e fiore in bleu su fondo bianco.,,36.4,True,none,,,
+BO0624_81823,58095,232,227,PiATTINo a tre piedi ed un'ansa decorato a fiori policromi su fondo bianco. Porcellana di Sax.,,46.7,True,title_direct,,,Porcellane
+BO0624_81823,58096,233,228,"BoccALE decorato nel centro da raggiera ad ornati a colori su fondo bianco, maiolica di Caffaggiolo (primitivo).",,44.6,True,none,,,
+BO0624_81823,58097,234,229,"PAIO DI ALBERELLI decorati da ornati in bleu e giallo, nel centro nastro con iscri zione.Maiolica di Faenza.",,45.3,True,none,,,
+BO0624_81823,58098,235,230,"DuE BusTINI rappresentanti uno Diana,l'altro giovanetta.Porcellana a colori di Capodimonte.",,43.1,True,title_direct,,,Porcellane
+BO0624_81823,58099,236,231,PiccoLA coPpA decorata a rilievo dalla figura di S. Francesco. Maiolica a colori di Deruta.,,40.9,True,none,,,
+BO0624_81823,58100,237,232,"PiaTro in maiolica decorato da guerriero in armatura a corazza recante uno scudo con la scritta VIvA.Probabilmente eseguito\_da un fiorentino,ed il lustro metallico applicato a Deruta.",,39.7,True,none,,,
+BO0624_81823,58101,238,233,PiccoLo TAPPETo di velluto controtagliato a pampani di colore rosso e verde su fondo gialletto. Scutari.,,51.5,True,none,,,
+BO0624_81823,58102,239,234,PIANETA e tonacella di antico broccato a fiori su fondo gialletto.,,48.7,True,none,,,
+BO0624_81823,58103,240,235,"FINIssIMO ED ANTICo TAPPETo Persiano a disegno su fondo bleu, bordura su fondo rosso.",,36.6,True,none,,,
+BO0624_81823,58104,241,236,"ArAzzo tessuto in lana, a soggetto biblico, bordo a frutta e fiori.",,42.0,True,none,,,
+BO0624_81823,58105,242,237,PiccoLo TAPPEro da preghiera (Anatolia) a fondo giallo.,,37.2,True,none,,,
+BO0624_81823,58106,243,238,ALTRO DETTO a fondo rosso.,,50.0,True,none,,,
+BO0624_81823,58107,244,239,DuE PoLTroNE in legno laccato bianco con piani e dosselli cannee. Cuscini di tela ricamata in seta a ghirlanda di piccole foglie. Epoca Luigi XVI.,,47.9,True,none,,,
+BO0624_81823,58108,245,240,DUE DETTE.,,27.8,True,none,,,
+BO0624_81823,58109,246,241,UNA DETTA.,,33.3,True,none,,,
+BO0624_81823,58110,247,242,"BEL BUREAU scrittoio a due corpi interamente intarsiato ad animali, figure ed ornati. La parte inferiore a tre cassetti e sportello calatore. La superiore ad uno sportello con luce di specchio, e nell'interno con tre cassetti e varie divisioni.Epoca Luigi XVI.",,42.2,True,none,,,
+BO0624_81823,58111,248,243,"MoBILE a due corpi in noce, decorato da riquadrature e borchie, la parte inferiore a quattro sportelli e divisione interna,la superiore a due sportelli. Secolo XVI.",,53.8,True,none,,,
+BO0624_81823,58112,249,244,"CHAIsE-LONGUE in legno intagliato in parte dorato ed in parte laccato bianco, coperta di damasco verde. E formata da due poltrone bergeres e da una panchetta.Secolo XVIlI.",,46.5,True,none,,,
+BO0624_81823,58113,250,245,PiccoLo TAvoLo da giuoco in legno intarsiato a figure e foglie. Piano a cerniera girevole.Secolo XVIII.,,46.3,True,none,,,
+BO0624_81823,58114,251,246,ALTRO DETTO.,,52.6,True,none,,,
+BO0624_81823,58115,252,247,GRANDE cOFANo in legno ricoperto da riquadri in velluto e ferro sbalzato. Secolo XVI.,,55.0,True,none,,,
+BO0624_81823,58116,253,248,"Van Bloemen (attribuito a): Paesaggio con figure: grande bozzo ad olio, cornice dorata.",,38.4,True,none,,,
+BO0624_81823,58117,254,249,"Migliara Fr. Piazza del Duomo di Como: quadro ad olio, cornice nera a sbalzo.",,41.9,True,none,,,
+BO0624_81823,58118,255,250,Marko Carlo. Paese: splendida pittura ad olio con cornice dorata.,,41.3,True,none,,,
+BO0624_81823,58119,256,251,Rufter I. Paesaggio: pittura ad olio con cornice intagliata e dorata.,,51.6,True,none,,,
+BO0624_81823,58120,257,252,Carbone. Ritratto di gentiluomo di Casa Spinola. Bella pittura ad olio su tela con cornice dorata.,,44.5,True,none,,,
+BO0624_81823,58121,258,253,"Mengs Raff. David che suona l'arpa. Quadro ad olio su tela, con cornice dorata.",,41.4,True,none,,,
+BO0624_81823,58122,259,254,"Scuola Fiamminga. Gallina con pulcini: pittura ad olio,con cornice intagliata e dorata.",,49.7,True,none,,,
+BO0624_81823,58123,260,255,Ribera (scuola di). S. Girolamo : pittura ad olio con cornice dorata.,,41.5,True,none,,,
+BO0624_81823,58124,261,256,"256.Vernet Ch. (maniera di). Marina: pittura ad olio su tela, con cornice intagliata e dorata.",,48.9,True,none,,,
+BO0624_81823,58125,262,257,Id. Id. Altra d’accompagno.,,33.0,True,none,,,
+BO0624_81823,58126,263,258,"Paolo Veronese (copia da). S. Giovanni che predica alle turbe: pittura ad olio su tela,con cornice dorata.",,39.8,True,none,,,
+BO0624_81823,58127,264,259,"Id. Id. Sacra Famiglia: pittura ad olio, con cornice dorata.",,45.3,True,none,,,
+BO0624_81823,58128,265,259a,"Ducci. (attribuito a) Madonna e Bambino.Quadro ad olio su tavola,a fondo oro.",,40.7,True,none,,,
+BO0624_81823,58129,266,260,"Andrea del Sarto.La Madonna,il Bambino,S. Giovanni e tre angeli: bellissima pittura ad olio su tavola, con cornice intagliata e dorata.",,47.1,True,none,,,
+BO0624_81823,58130,267,261,"Scuola Veneziana. Baccante addormentata:bel quadro ad olio su tela, con cornice dorata.",,45.5,True,none,,,
+BO0624_81823,58131,268,262,"Rigaud (attribuito a). Ritratto di gentiluomo con parruccone:pittura ad olio su tela, con cornice intagliata e dorata.",,47.1,True,none,,,
+BO0624_81823,58132,269,263,"ALTRO DETTO, pendant.",,55.3,True,none,,,
+BO0624_81823,58133,270,264,"264.L'ANNUNcIAzIoNE: quadro ad olio dipinto su tavola, con cornice dorata.",,44.3,True,none,,,
+BO0624_81823,58134,271,265,"L'ANNUNcIAzIoNE:pittura ad olio su tavola, con cornice intagliata e dorata.",,46.7,True,none,,,
+BO0624_81823,58135,272,266,"Pinturicchio B. Importante stendardo processionale,dipinto su tavola da ambo le parti. Sopra una di queste la Vergine seduta che tiene sulle ginocchia il Bambino in piedi,in atto di benedire. Nel basso, gruppi di devoti in abito dei fratelli della Misericordia:il fondo a finissima veduta di paese. Sull'altra i Santi Bernardino e Bonaventura, il primo insegna con la mano sinistra il monograinma di Cristo che spicca in oro sul cielo;laltro legge un breviario; fondo di paese che lascia vedere in alto,a destra,una chiesa e nel basso e si nistra una processione di fedeli. Tabernacolo originale a sesto in parte dorato. Qualche traccia di restauro eseguito nel secolo XVI. Questa pittura deve appartenere alla prima maniera del grande maestro e ricorda un poco la fattura del quadro di Citta di Castello.",,21.3,True,none,,,
+BO0624_81823,58136,273,267,"LA SAcRA FAMIGLIA:importante pittura ad olio su tavola,in parte decorata in oro. Sec. XV.",,47.1,True,none,,,
+BO0624_81823,58137,274,268,Velde (Isac Van de) (Haarlem 1587-1640). Combattimento di cavalieri:pittura su tavola.Cornice dorata.,,36.4,True,none,,,
+BO0624_81823,58138,275,269,Lebrun (Vigee M.me) (Parigi 1755-1842.) Ritratto di giovane dama: pittura su tela. Bellissima cornice intagliata e dorata.,,45.7,True,none,,,
+BO0624_81823,58139,276,270,Ostade (Van) (attribuito a) (Lubeck 1647). Il suonatore ambulante:pittura su tavola.Cornice ebano.,,36.6,True,none,,,
+BO0624_81823,58140,277,271,Tempera Tiepolesca. L'aurora : pittura su tela.,,42.6,True,none,,,
+BO0624_81823,58141,278,272,"Wouwerman (attribuito a) (Haarlem 162o-I68.) Partenza per la caccia:pittura su tavola. Cornice in noce dorata,Luigi XIV.",,42.1,True,none,,,
+BO0624_81823,58142,279,273,Gerome (G. Leous) (attribuito a) (1824). Leone in agguato: pittura su tela. Cornice dorata.,,42.2,True,none,,,
+BO0624_81823,58143,280,274,"Vasari Giorgio (Arezzo 1512-1574. Annunciazione. Miniatura in pergamena, con tabernacolo policromato e dorato, stile quattrocento.",,43.3,True,none,,,
+BO0624_81823,58144,281,275,Scuola Francese (secolo XVIll). Soggetto mitologico: pittura ad olio su tela. Cornice.,,40.0,True,none,,,
+BO0624_81823,58145,282,276,"PAESI cON FIGURE ED ANIMALI: due finissime pitture alla tempera, con cornici dorate.",,40.5,True,none,,,
+BO0624_81823,58146,283,277,"DUE DETTE,pendant.",,31.8,True,none,,,
+BO0624_81823,58147,284,278,"RITRATTo DI GENTILUoMo: pittura ad olio su tela, con cornice dorata. Secolo XVIII.",,46.7,True,none,,,
+BO0624_81823,58148,285,278a,Scuola napolitana. Ritratto di generale. Quadretto ad olio su tavola; cornice dorata.,,46.2,True,none,,,
+BO0624_81823,58149,286,279,"Busto in marmo,rappresentante uomo barbato. Epoca di Antonino Pio.",,43.1,True,none,,,
+BO0624_81823,58150,287,280,"PARTE INFERIORE DI UNA TESTA BARBATA,in porfido orientale. Scavo.",,35.7,True,none,,,
+BO0624_81823,58151,288,281,"TEsTA DI NERONE, un poco più grande del vero. Scultura in marmo grechetto; manca l'occipite.",,40.6,True,none,,,
+BO0624_81823,58152,289,282,"ToRsETTo dell'Ercole Farnese,in marmo di Luni Il collo ed una parte della barba, restaurati.",,45.1,True,none,,,
+BO0624_81823,58153,290,284,"IMPORTANTE PORTICINA di marmo,composta da formelle con figure di Santi e simboli apocalittici. Sec.XIV.",,43.1,True,none,,,
+BO0624_81823,58154,291,285,FIGURA D'AposToLo:fine scultura in marmo di arte fiorentina.,,41.9,True,none,,,
+BO0624_81823,58155,292,286,CARLo III. Bassorilievo circolare in marmo. Sec. XVIII.,,40.3,True,none,,,
+BO0624_81823,58156,293,287,INNOcENzo XI. Bassorilievo circolare in marmo. Sec. XVII.,,39.7,True,none,,,
+BO0624_81823,58157,294,288,"FRONToNE di un sarcofago in marmo pario. In quattro nicchie stanno le gure delle quattro stagioni. Nel mezzo un tempio colla porta dell' inferno. Ai lati del tempio due geni con cesti di frutta. Sul timpano quattro amorini, due per parte. III secolo d. Cr. Rara conservazione.",,38.6,True,none,,,
+BO0624_81823,58158,295,289,GeNio in marmo pario con cornucopia nella sinistra e patera nella destra. Presso i piedi un fasio di volumi. Testa restaurata. II secolo d. Cr.,,44.2,True,none,,,
+BO0624_81823,58159,296,290,"STUPENDo SARcoFAGO perfettamente conservato, in marmo greco. Sul frontone due Vittorie reggono la targa per l'iscrizione (che era dipinta). Ai lati due amorini con ghirlande. Sotto la targhette due cornucopie ed un cesto con frutta.In terra due aliri cesti e due foglie di palma.Ai lati del sarcofago, due grifi. Sul coperchio sei putti che reggono le ghirlande. Ai lati del coperchio due teste barbate. Epoca di Traiano.",,29.8,True,none,,,
+BO0624_81823,58160,297,292,Canova Ant. La Virti che vince il Vizio. Mirabile scultura in marmo.,,40.5,True,none,,,
+BO0624_81823,58161,298,293,"PAcE in bronzo dorato, rappresentante la vestizione di un Santo. Nel basso due stemmi cardinalizi. Sec.XVI.",,49.1,True,none,,,
+BO0624_81823,58162,299,294,GRANDE MoRTAIo in bronzo con foglie e ritratti d’'imperatori romani a rilievo. Sul bordo 1 iscrizione: Capitano Gioseppe Nicola Ianni da Canapina 1709.,,54.9,True,none,,,
+BO0624_81823,58163,300,295,CorpA in bronzo decorata da ornati ed iscrizioni grafite. Arte orientale del secolo XV.,1110.0,60.9,False,positional,,,Bronzi
+BO0624_81823,58164,301,296,CHIMERA in bronzo.Sec.XVI.,,47.5,True,none,,,
+BO0624_81823,58165,302,297,"GENIO ALATo in bronzo, su base cesellata. Impero.",,43.3,True,none,,,
+BO0624_81823,58166,303,298,LEONE RAMPANTE in bronzo.Arte Veneziana del Sec. XIV.,,39.5,True,none,,,
+BO0624_81823,58167,304,299,SiGILLo in bronzo dorato sormontato dalla figura di Ercole. Sec. XVIII.,,45.4,True,none,,,
+BO0624_81823,58168,305,300,"DuE PLAccHE in bronzo, rappresentanti:La Deposizione di Amore e Psiche.",,40.3,True,none,,,
+BO0624_81823,58169,306,301,Busto in bronzo di grandezza naturale del Papa Benedetto XIll. Magnifica patina. Base ad erma di legno in parte intagliato e dorato.,,53.0,True,none,,,
+BO0624_81823,58170,307,302,"Busro di Alessandro VIII, pendant al precedente.",,41.0,True,none,,,
+BO0624_81823,58171,308,303,CoFANo in noce in parte scolpito ed intarsiato;nel centro stemma dei Visconti.,,53.5,True,none,,,
+BO0624_81823,58172,309,304,CoFANETTo in noce scolpito a rosoni ed in parte intarsiato. Sec. XV.,1123.0,60.6,False,positional,,,Legni intagliati
+BO0624_81823,58173,310,305,"CoRNIcINA Veneziana decorata da soggetto di caccia, uccelli e figure. Sec. XVIII.",,41.0,True,none,,,
+BO0624_81823,58174,311,306,"ScAToLA per necessaire da lavoro,in legno finemente scolpito e dorato. Piano di velluto rosso. Sec. XVIII.",,48.2,True,none,,,
+BO0624_81823,58175,312,307,"Due grandi torceri in legno scolpito a guide di foglie ed ornamenti, interamente dorati. Sec. XVIII.",,58.4,True,none,,,
+BO0624_81823,58176,313,308,"GRANDE coRNIcE per trittico in legno riccamente scolpito a frutta, ornati e colonne a tortiglione.Dorata e policromata.Luci superiormente di sesto circolare. Sec. XVI.",,45.2,True,none,,,
+BO0624_81823,58177,314,309,"DuE ANGELI con candelieri,policromati ed in parte dorati. Basi ottagone con ornati bianchi su fondo bleu.",,42.1,True,none,,,
+BO0624_81823,58178,315,310,ANTICO CANDELABRO in legno.,,34.0,True,none,,,
+BO0624_81823,58179,316,311,SaN PAoLo.Figurina scolpita in quercia su piccola mensola a testa di putto.Secolo XVI.,,42.2,True,none,,,
+BO0624_81823,58180,317,312,DUE CANDELIERI in argento. Sec. XVIII.,,37.5,True,none,,,
+BO0624_81823,58181,318,313,"BusTo in terracotta, di Lorenzo Monaco, in tipo robbiano. Importante opera d’arte, roveniente dalla vendita di Alessandro Castellani.",,40.6,True,none,,,
+BO0624_81823,58182,319,314,"Lotto di tre medaglie in bronzo: Giovan Batt. Salviati, Giorgio di Scanderbeg e Leon Batt.Alberti.Riproduzioni.",,41.5,True,none,,,
+BO0624_81823,58183,320,315,MEDAGLIA di Nicola Sanuto.,,51.6,True,none,,,
+BO0624_81823,58184,321,316,"Lotto di quattro medaglie in bronzo: Sigismondo Malatesta, Virgilio Malvezzi, Vittorino da Feltre. Copie.",,44.4,True,none,,,
+BO0624_81823,58185,322,317,"Lotto di tre medaglie:Isotta da Rimini, Sigismondo Malatesta e Nicola Piccinino. Copie.",,40.0,True,none,,,
+BO0624_81823,58186,323,318,Lotto di quattro medaglie diverse in bronzo.,1131.0,80.4,False,positional,,,Legni intagliati
+BO0624_81823,58187,324,319,LA SAMARITANA AL POzZo. Pittura ad olio Su vetro. Cornice di legno intagliato e e dorato.,,56.1,True,none,,,
+BO0624_81823,58188,325,320,"MINIATURA su pelle,rappresentante putti al giuoco delle piastrelle. Cornice intagliata e dorata.",,55.0,True,none,,,
+BO0624_81823,58189,326,321,SETTE PIccOLE TESTE in terracotta di scavo. Taranto.,,36.8,True,none,,,
+BO0624_81823,58190,327,322,Lorro di quattro frammenti di terracotta di scavo.,,35.2,True,none,,,
+BO0624_81823,58191,328,323,"ERcoLE, piccola figurina etrusca in bronzo, manca il braccio destro. III S. A. C.",,42.0,True,none,,,
+BO0624_81823,58192,329,325,"VENERE PUDIcA. Figurina in bronzo, tipo ellenistico. Base.",,36.7,True,none,,,
+BO0624_81823,58193,330,326,"BEL BALsAMAIo di smalto a zone policrome, becco trilobato. Scavo.",,36.1,True,none,,,
+BO0624_81823,58194,331,327,MANo DEsrRA in bronzo appartenente ad una grande statua. Scavo.,,36.8,True,none,,,
+BO0624_81823,58195,332,328,"GRUPPO DI CAsE in maiolica di Abruzzo. Maioliche, Porcellane,Stucchi.",,40.0,True,title_direct,,,Maioliche
+BO0624_81823,58196,333,329,"PIATTO a forma centinata ad ombelico: decorato al centro con una figura rappresentante un Cesare coronato d' alloro. Deruta a rifiesso metallico. Maioliche, Porcellane,Stucchi.",,34.1,True,title_direct,,,Maioliche
+BO0624_81823,58197,334,330,"Scuola Robbiana. Lunetta di un tabernacolo in maiolica, decorata dalla figura del Salvatore e due angeli a tutto rilievo,policromata. Maioliche, Porcellane,Stucchi.",,36.4,True,title_direct,,,Maioliche
+BO0624_81823,58198,335,331,"Scuola Robbiana. Due teste di serafini a rilievo, in maiolica a colori Secolo XVI. Maioliche, Porcellane,Stucchi.",,37.4,True,title_direct,,,Maioliche
+BO0624_81823,58199,336,332,"DuE LEoNI in maiolica policromata.Urbino, primitivo.Maioliche, Porcellane,Stucchi.",,38.5,True,title_direct,,,Maioliche
+BO0624_81823,58200,337,333,"MADoNNA coL BAMBINo contornata da angeli stucco policromuato entro cornice circolare di legno,dipinta.Secolo XVI.Maioliche, Porcellane,Stucchi.",,44.4,True,title_direct,,,Maioliche
+BO0624_81823,58201,338,334,"MATroNELLA rappresentante la visita dei Re Maggi,maiolica policromata di Pesaro,marcata. Cornice finemente intagliata e dorata.Maioliche, Porcellane,Stucchi.",,40.5,True,title_direct,,,Maioliche
+BO0624_81823,58202,339,335,"GRANDE BROccA di maiolica, nel prospetto medaglione con ritratto di giovanetta e targa con iscrizione Acqua de Rose, ornati bianchi su bianco. Beccuccio legato da un nastro. Maioliche, Porcellane,Stucchi.",,35.5,True,title_direct,,,Maioliche
+BO0624_81823,58203,340,336,"Lotto composto di coppetta con ansa decorata da ornati a riflesso madreperlaceo. Maiolica ispano-araba. Piattino maiolica di Rodi. Maioliche, Porcellane,Stucchi.",,34.3,True,title_direct,,,Maioliche
+BO0624_81823,58204,341,337,"LA VERGINE COL BAMBINo, gruppo in maiolica smaltata a colori. Pesaro. SecoloXVI.Maioliche, Porcellane,Stucchi.",,36.2,True,title_direct,,,Maioliche
+BO0624_81823,58205,342,338,"ALBERELLo in maiolica decorato da ornati e fiori policromi su fondo bleu. Caltagirone. Maioliche, Porcellane,Stucchi.",,40.6,True,title_direct,,,Maioliche
+BO0624_81823,58206,343,339,TovAGLIoLo umbro con bordi bleu a disegni di cavalli e losanghe.,,40.3,True,none,,,
+BO0624_81823,58207,344,340,DuE TELi di stoffa broccata a falchi entro corone in verde su fondo rosso.,,46.3,True,none,,,
+BO0624_81823,58208,345,341,TeLo DI sTOFFA rossa ricamata a disegni di colore. Abruzzo.,,40.3,True,none,,,
+BO0624_81823,58209,346,342,"GRANDE ED ANTICo TAPPETo Persiano Khorassan, a penne di paone su fondo rosa: bordo a disegno geometrico.",,38.2,True,none,,,
+BO0624_81823,58210,347,343,PivIALE di broccato bianco con gallone dorato.,,37.0,True,none,,,
+BO0624_81823,58211,348,344,TarpETo orientale Mussul a piccoli ornati su fondo grigio.,,37.6,True,none,,,
+BO0624_81823,58212,349,345,TAvoLo coNsoLE di legno intagliato e dorato; piano di giallo.Epoca Luigi XVI.,,48.6,True,none,,,
+BO0624_81823,58213,350,346,"ScRIGNo in ebano palissandro e legni vari, di forma architettonica con decoiazione di avorio graffito.Sec.XVI.",,44.0,True,none,,,
+BO0624_81823,58214,351,347,"PiccoLo scRiGNo in noce, di forma architettonica con ornati intarsiati in avorio, su fondo di ebano. Sec.XVI.",,42.1,True,none,,,
+BO0624_81823,58215,352,348,"SEI sGABELLI in noce riccamente intagliata, stile Rinascimento.",,39.1,True,none,,,
+BO0624_81823,58216,353,349,PiccoLA coNsoLE di legno intagliato e dorato: piano di breccia corallina.Impero.,,47.8,True,none,,,
+BO0624_81823,58217,354,350,TAvoLo da giuoco in noce intarsiato di legno angiolino.,,43.9,True,none,,,
+BO0624_81823,58218,355,351,BEL CAssoNE in noce scolpito con pannelli intarsiati. Secolo XVII.,,43.4,True,none,,,
+BO0624_81823,58219,356,352,Van Dyck (scuola di). La flagellazione di N. Signore. Bozzetto ad olio con bella cornice intagliata e dorata.,,43.5,True,none,,,
+BO0624_81823,58220,357,353,LA STRAGE DEGLI INNoCENTI. Bozzetto su pergamena. Sec. XVI. Ricca cornice intagliata e dorata.,,45.4,True,none,,,
+BO0624_81823,58221,358,354,Correggio (copia da). Danze. Pittura ad olio con cornice intagliata e dorata.,,47.4,True,none,,,
+BO0624_81823,58222,359,355,Scuola Napolitana. Bambocciata campestre Pittura ad olio su tela. Cornice intagliata e dorata.,,50.9,True,none,,,
+BO0624_81823,58223,360,356,Guido Reni (scuola di). Giona deposto a terra dalla balena. Pittura ad olio con icca cornice intagliata e dorata.,,43.6,True,none,,,
+BO0624_81823,58224,361,359,Scuola Francese. Paese con figure. Bel quadretto ad olio su tela. Cornice ad ornati d'oro su fondo nero.,,45.4,True,none,,,
+BO0624_81823,58225,362,360,"Cerquozzi (M.A.) (maniera di). I giocatori. Bel quadretto ad olio su tela. Cornice Salvator Rosa,nera ed oro.",,39.2,True,none,,,
+BO0624_81823,58226,363,361,"Botticelli (copia antica da). Madonna, Bambino ed angeli. Pittura ad olio su tavola, con cornice dorata.",,39.2,True,none,,,
+BO0624_81823,58227,364,362,"Incognito (secolo XVIl). Sacra Famiglia,pittura ad olio su tela con cornice dorata.",,38.0,True,none,,,
+BO0624_81823,58228,365,363,Benvenuto Tisi detto il Garofalo (1491-1559). Il Presepe.Pittura ad olio su tavola con cornice intagliata e dorata.,,45.3,True,none,,,
+BO0624_81823,58229,366,364,Mengs R.Ritratto di Carlo III di Borbone giovanetto. Pittura ad olio su tela con cornice intagliata a foglie e dorata.,,44.6,True,none,,,
+BO0624_81823,58230,367,365,"Barbieri (G. Francesco deto il Guercino).(Cento 159I-1666).Natura morta. Due quadri ad olio su tela veramente importanti, eseguiti con assoluto verismo. Cornice dorata.",,40.3,True,none,,,
+BO0624_81823,58231,368,366,"Berchem (Nicolas) detto pure Van Haarlem.Nato ad Haarlem,morto ad Amsterdam,1624-1683.Paesaggio e anima i.E maestro molto ricercato. Pittura su tela. Cornice in noce intagliata e dorata.",,38.3,True,none,,,
+BO0624_81823,58232,369,367,Rigaud (Gaspard) (1641-i7o1).Ritratto di un principe di Savoia.Pittura su tela. Cornice policromata ed intagliata.,,42.3,True,none,,,
+BO0624_81823,58233,370,368,Lairesse (Gerard) (164o-1711). Leandro portato a riva dalle Ninfe. Composizione allegorica.Il corpo del temerario Leandro vien portato ariva vicino alla torre dove Ero segnalava la propria presenza per mezzo di una fiaccola accesa.Pittura finissima su rame.I dipinti di questo esimio artista sono oltremodo rari.Cornice dorata.,,27.3,True,none,,,
+BO0624_81823,58234,371,369,Sustermans (luste) (attribuito a).(Anversa 1547-1681). Ritratto di Cosimo II de'Medici giovinetto.Pittura su tela. Cornice dorata.,,41.0,True,none,,,
+BO0624_81823,58235,372,370,Teniers (Dauid). (Anversa 1582-1649). Interno di cucina. Pittura su tavola. Cornice nera e oro.,,40.0,True,none,,,
+BO0624_81823,58236,373,371,Koninck (Salomon) (1906). Un sapiente. Pittura su tela. Cornice dorata. L'artista ha tutte le caratteristiche del Rembrandt.,,39.2,True,none,,,
+BO0624_81823,58237,374,372,Palma il Vecchio. Testa di donna. Quadro ad olio su tela. Cornice dorata.,,45.9,True,none,,,
+BO0624_81823,58238,375,373,"Vernet (Ch.) (attribuito a). Marina al tramonto. Bellissimo quadro ad olio su tela, con cornice intagliata e dorata.",,44.0,True,none,,,
+BO0624_81823,58239,376,374,RITRATTI DI GENTILUOMINI.Due quadri dipinti ad olio su tela. Cornici intagliate e dorate.,,58.5,True,none,,,
+BO0624_81823,58240,377,375,"Incognito. (Secolo XV) La Vergine in trono col Bambino, ai lati due santi. dro su tavola. Cornice dorata.",,46.7,True,none,,,
+BO0624_81823,58241,378,376,RoMA SPARITA. Castel S. Angelo. Fine tempera su pergamena. Cornice di legno intagliato e dorato.,,52.6,True,none,,,
+BO0624_81823,58242,379,377,CiocIARA. Grande disegno al pastello. Cornice dorata.,,42.2,True,none,,,
+BO0624_81823,58243,380,377a,"Casciaro. Veduta di Capri. Bel pastello,firmato. Cornice dorata e vetro.",,49.0,True,none,,,
+BO0624_81823,58244,381,377b,"Casciaro. L'eruzione del Vesuuio. Bel pastello, firmato. Cornice e vetro.",,43.2,True,none,,,
+BO0624_81823,58245,382,378,Carcano (F.). Paesaggio. Splendida pittura con cornice nera.,,34.7,True,none,,,
+BO0624_81823,58246,383,379,Marko (C.). Scena campestre. Bozzetto ad olio con cornice dorata.,,36.4,True,none,,,
+BO0624_81823,58247,384,380,De Wael (Lucas e Corn). Una cavalcata. Bella pittura ad olio su tela. Cornice dorata.,,48.8,True,none,,,
+BO0624_81823,58248,385,381,Id.Id. Soggetto pastorale. Quadro d’accompagno.,,36.1,True,none,,,
+BO0624_81823,58249,386,382,Agneni (Eiy). Ritratto di un leterato. Quadro ad olio su tela. Cornice dorata. a.Ferdinando re di Sicilia. Ritratto dipinto ad olio su tela. Cornice dorata.,,37.2,True,none,,,
+BO0624_81823,58250,387,383,TRE FRAMMENTI in marmo: - a) Bassorilievo con mano che regge una targa con iscrizione greca; b)Fregio a palmette; c) Maschera scenica.Scavo.,,36.5,True,none,,,
+BO0624_81823,58251,388,384,CAPITELLo gotico in marmo; nel prospetto aquila.,,35.7,True,none,,,
+BO0624_81823,58252,389,385,BAssoRILIEvo in marmo rappresentate la Vergine col Bambino.,,38.9,True,none,,,
+BO0624_81823,58253,390,386,Bernini (G. L.). Busto del Capitano Haro. Bella scultura in marmo.,,39.7,True,none,,,
+BO0624_81823,58254,391,387,VIERA DA Pozzo in marmo scolpito ad ornati e monogramma; due gradini. Arte gotica.,,38.5,True,none,,,
+BO0624_81823,58255,392,388,PiLAsTRINo in marmo decorato da mosaici. Arte dei Cosmati.,,40.6,True,none,,,
+BO0624_81823,58256,393,389,"BAssoRILIEvo CIRcoLARE in marmo, rappresentante un Centauro che solleva una lepre. Epoca di Marco Aurelio.",,37.8,True,none,,,
+BO0624_81823,58257,394,390,MosAico rappresentante un satiro coronato di lauro ed una capra. Colori molto vivaci.Prima epoca degli Imperatori.,,37.4,True,none,,,
+BO0624_81823,58258,395,391,"FIGURA DI SILENo in marmo, frammentata. Epoca degli Antonini.",,38.2,True,none,,,
+BO0624_81823,58259,396,392,"FiGURINA in marmo rappresentante un filosofo seduto, acefala. Epoca ellenistica.",,38.7,True,none,,,
+BO0624_81823,58260,397,393,STATUETTA acefala in marmo rappresentante la Fortuna. I. S. d. C.,,40.0,True,none,,,
+BO0624_81823,58261,398,394,GRANDE TESTA DI LEONE. Marmo d'epoca romana.,,40.0,True,none,,,
+BO0624_81823,58262,399,395,"Dausch. Testa di donna, in marmo greco fasciato, tipo arcaico. Base di rosso.",,38.4,True,none,,,
+BO0624_81823,58263,400,396,"Giove. Figurina in bronzo su base di marmo colorato, Secolo XVIII.",,37.3,True,none,,,
+BO0624_81823,58264,401,397,"DuE BusTINI in bronzo rappresentanti Flora, basette di legno in parte dorato. Secolo XVIII.",,45.0,True,none,,,
+BO0624_81823,58265,402,398,DuE CAvALLINI in bronzo su basi di alabastro. Secolo XVI.,,35.7,True,none,,,
+BO0624_81823,58266,403,399,FAUNo DANzANTE. Figurina in bronzo del XVI secolo. Base di marmo africano.,,37.6,True,none,,,
+BO0624_81823,58267,404,400,LEONE in bronzo.,,30.8,True,none,,,
+BO0624_81823,58268,405,401,MoRTAIo in bronzo con stemma centrale. Secolo XVI.,,38.7,True,none,,,
+BO0624_81823,58269,406,402,MoRTAlo in bronzo con decorazione di figure e gigli. Secolo XVI.,,41.6,True,none,,,
+BO0624_81823,58270,407,403,BAcILE di rame ad ornati sbalzati. Arte Veneziana. Sec. XVII.,,38.2,True,none,,,
+BO0624_81823,58271,408,404,PAIO DI CANDELIERI VENEZIANI in bronZo. Secolo XVII.,,30.3,True,none,,,
+BO0624_81823,58272,409,405,ALTRO PAIo d'accompagno.,,40.0,True,none,,,
+BO0624_81823,58273,410,406,"Dausch. Piccola fontana in bigio, decorata da erma di donna in bronzo a patina verde.",,46.9,True,none,,,
+BO0624_81823,58274,411,407,DAvANTI DI CAssA in noce intagliato ad ornati geometrici. Secolo XV.,,48.8,True,none,,,
+BO0624_81823,58275,412,408,BusTo DI SANTo E DI SANTA in legno scolpito e policromato. Secolo XVI.,,45.9,True,none,,,
+BO0624_81823,58276,413,409,"SANTA RuFFINA. Figurina in legno scolpito, dorato e policromato. Secolo XVI.",,46.6,True,none,,,
+BO0624_81823,58277,414,410,SAN LUCIANo.Figurina simile.,,34.4,True,none,,,
+BO0624_81823,58278,415,411,"DuE ANGELI inginocchiati, scolpiti in legno, in parte dorati e in parte policromati. Secolo XVI.",,48.0,True,none,,,
+BO0624_81823,58279,416,412,FINALE DI STENDARDINo in legno scolpito a figure di Santi e teste di serafini interamente dorato.Secolo XVI.,,45.2,True,none,,,
+BO0624_81823,58280,417,413,PiccoLo scRIGNo in legno interamente laccato a foglie dorate e guarnito di bronzi graffiti. Nove cassetti.Venezia.,,42.1,True,none,,,
+BO0624_81823,58281,418,414,DuE APPLIQUEs a tre bracci ciascuna in ferro dorato. Sec. XVIII.,,39.0,True,none,,,
+BO0624_81823,58282,419,415,EccE HoMo. Importante scoltura in legno del sec. XVI.,,39.1,True,none,,,
+BO0624_81823,58283,420,416,NAVICELLA'IN ARGENTO con ornati alzati di piastra. Secolo XVII.,,39.3,True,none,,,
+BO0624_81823,58284,421,417,OROLOGIO IN ARGENTO traforato. Secolo XVII.,,31.9,True,none,,,
+BO0624_81823,58285,422,418,"MIssALE RoMANUM VENETIIs MDCXXVI, con bella legatura in cuoio impresso a piccoli ferri dorati.",,43.3,True,none,,,
+BO0624_81823,58286,423,419,S. SEBASTIANO. Finissima figurina in corallo. Base in legno Secolo XVI.,,38.5,True,none,,,
+BO0624_81823,58287,424,420,VENTAGLIO con stecche in osso traforate ed intagliate a figure ed ornati. Epoca Luigi XV.,,45.5,True,none,,,
+BO0624_81823,58288,425,421,RITRATTO DI UOMO. Bella placca in piombo.,,44.2,True,none,,,
+BO0624_81823,58289,426,422,LOTTO DI TRE MEDAGLIE e due placchette.,,37.3,True,none,,,
+BO0624_81823,58290,427,423,"LOTTO DI TRE MEDAGLIE DI BRONZO, due di Giuseppe Averano e una di Francesco di Toscana.",,32.1,True,none,,,
+BO0624_81823,58291,428,424,LOTTO di sedici medaglie diverse in bronzo.,,37.3,True,none,,,
+BO0624_81823,58292,429,425,LAMPADA e tre piccoli vasi in terracotta. Scavo.,,38.1,True,none,,,
+BO0624_81823,58293,430,426,PiccoLo vAso baccellato a tre anse in terracotta di scavo.,,39.2,True,none,,,
+BO0624_81823,58294,431,427,Pixis in terracotta ad ornati bianchi su fondo nero. Scavo.,,41.6,True,none,,,
+BO0624_81823,58295,432,428,"Bacco,piccola erma in bronzo di epoca arcaistica.",,33.1,True,none,,,
+BO0624_81823,58296,433,428a,STATUETTA in bronzo.Scavo.,,38.5,True,none,,,
+BO0624_81823,58297,434,429,LoTTO di: Figurina in argento rappresentante Esculapio. Maschera comica in bronzo di bella patina. Bustino di Giove in bronzo. Maschera di Ercole barbato in bronzo.,,32.6,True,none,,,
+BO0624_81823,58298,435,430,"ANFoRA apula, decorata da giovane Efebo e a giovanetta danzante. Scavo.",,38.4,True,none,,,
+BO0624_81823,58299,436,431,PIccoLo vAso in terracotta decorato a figure. Scavo.,,39.4,True,none,,,
+BO0624_81823,58300,437,432,VAso in maiolica smaltata bianca.Restaurato. Napoli.Maioliche a Porcellane.,,37.3,True,title_direct,,,Maioliche
+BO0624_81823,58301,438,433,DuE scoDELLOTTI in maiolica decorati a frutti. Faenza. Restaurati.Maioliche a Porcellane,,36.8,True,title_direct,,,Maioliche
+BO0624_81823,58302,439,434,CENTRO DA TAvOLA in maiolica di Nove. Maioliche a Porcellane.,,39.2,True,title_direct,,,Maioliche
+BO0624_81823,58303,440,435,"DuE VAsI in maiolica Giustiniani, forma ovoide. Uno difettoso. Maioliche a Porcellane.",,39.8,True,title_direct,,,Maioliche
+BO0624_81823,58304,441,436,Lorro di un piatto in porcellana del Giappone e tre frammenti di maiolica. Due scodellotti e Madonna con Bambino. Maioliche a Porcellane.,,40.5,True,title_direct,,,Maioliche
+BO0624_81823,58305,442,437,I GIARDINIERI. Bel gruppo in porcellana li Sassonia a colori. Marcato.Maioliche a Porcellane.,,42.5,True,title_direct,,,Maioliche
+BO0624_81823,58306,443,438,UNA FEsTA CAMPESTRE. Bel gruppo in porcellan di Sassonia a colori. Marcato. Maioliche a Porcellane.,,36.2,True,title_direct,,,Maioliche
+BO0624_81823,58307,444,439,"SoGGETTo ALLEGoRIco; grande gruppo in bisquit di Sevres con splendida base in marmo colorato, decorata da guida di foglie e perlee in bronzo dorato. Arte Francese,epoca Luigi XVI.",,37.3,True,none,,,
+BO0624_81823,58308,445,440,BoL in porcellana decorata da fiori policromi su fondo bianco Cina.Maioliche a Porcellane.,,40.0,True,title_direct,,,Maioliche
+BO0624_81823,58309,446,441,DETTA VARIATA.Maioliche a Porcellane.,,34.3,True,title_direct,,,Maioliche
+BO0624_81823,58310,447,442,DETTA con figure.Maioliche a Porcellane.,,35.6,True,title_direct,,,Maioliche
+BO0624_81823,58311,448,443,CavALIERE E DAMA. Due figure in antica porcellana a colori. Difettosi.Maioliche a Porcellane.,,37.3,True,title_direct,,,Maioliche
+BO0624_81823,58312,449,444,VAso in maiolica decorato da ornati a tiflesso dorato. Quattro anse. Ispano-Arabo. Maioliche a Porcellane.,,37.6,True,title_direct,,,Maioliche
+BO0624_81823,58313,450,445,DUE ALTI MERLETTI per guarnizione di cornice.,,42.0,True,none,,,
+BO0624_81823,58314,451,446,ALTo MERLETTo punto di Milano.,,45.5,True,none,,,
+BO0624_81823,58315,452,447,"ANTIcA BORDURA da moschea, ad ornati a rilievo su fondo grigio.",,36.2,True,none,,,
+BO0624_81823,58316,453,448,DuE MANIcHE di camice in merletto e vari pezzi di gallone dorato.,,42.9,True,none,,,
+BO0624_81823,58317,454,449,TAPpETINo di seta verde con larga bordura in etamine interamente ricamato a fiori. Sec.XVII.,,46.2,True,none,,,
+BO0624_81823,58318,455,450,DuE TAPPETINI di broccato a fiori su fondo celeste.,,42.6,True,none,,,
+BO0624_81823,58319,456,451,"TappEto orientale a penne di pavone su fondo bleu, tre bordi ad ornati policromi.",,43.1,True,none,,,
+BO0624_81823,58320,457,452,CAssoNE in noce con riquadri intarsiati di legni vari.,,41.9,True,none,,,
+BO0624_81823,58321,458,453,"TAvoLo in noce in parte scolpito, piedi torniti e traversa.Un cassetto.",,37.3,True,none,,,
+BO0624_81823,58322,459,454,PICCOLO COFANO interamente ricoperto di cuoio impresso a piccoli ferri Montatura originale in ferro. Secolo XVI.,,43.4,True,none,,,
+BO0624_81823,58323,460,455,"GRANDE coFANo in legno interamente ricoperto di cuoio impresso a piccoli ferri dorati, ove ripetesi lo stemma dell'E.ma famiglia Colonna. Ricca decorazione di bolloni. Coperchio a forma bombata. Secolo XVI.",,38.6,True,none,,,
+BO0624_81823,58324,461,456,"GRANDE TABERNAcOLo di forma architettonica di legno scolpito e dorato, sul timpano la figura dell'eterno Padre,due Profeti ed iscrizione dorata su fondo bleu, sulla predella il Salvatore e sei figure di Santi. Secolo XVI.",,36.1,True,none,,,
+BO0624_81823,58325,462,457,"GRANDE TAvoIo da centro in noce, con piedi sagomati, quattro cassetti. Sec.XVII.",,43.3,True,none,,,
+BO0624_81823,58326,463,458,SGABELLo in noce interamente scolpito.,,35.4,True,none,,,
+BO0624_81823,58327,464,459,"CAssA DA NozzE in noce scolpito a putti, ornati e stemmi terminante a zampe di leone.",,38.9,True,none,,,
+BO0624_81823,58328,465,460,Diana Giacinto. La fuga in Egitto; quadro ad olio su tela. Cornice intagliata e dorata.,,56.8,True,none,,,
+BO0624_81823,58329,466,461,"Moretto da Brescia (attrib.a).Il sacrificio di Abramo,pittura ad olio. Cornice intagliata e dorata.",,46.0,True,none,,,
+BO0624_81823,58330,467,462,"GiuDITTA, pittura ad olio su tela di forma ovale. Cornice.",,46.6,True,none,,,
+BO0624_81823,58331,468,463,"CLEOPATRA,quadro d'accompagno.",,32.1,True,none,,,
+BO0624_81823,58332,469,464,Scuola Fiamminga. Uno stagno gelato; fine quadro ad olio su tela. Cornice nera e d'oro.,,48.1,True,none,,,
+BO0624_81823,58333,470,465,"LA SAcRA FAMIGLIA ed il casto Giuseppe, due pitture ad olio su rame del secolo XVII.",,40.2,True,none,,,
+BO0624_81823,58334,471,466,"Scuola Veneziana. Ritratto di gentildonnna, quadro ad olio dipinto su tela cornice intagliata e dorata.",,50.6,True,none,,,
+BO0624_81823,58335,472,467,"AcQuARELLo, rappresentante la copia di un arazzo. Cornice in nocc.",,41.1,True,none,,,
+BO0624_81823,58336,473,468,"RITRATTo DI PERSONAGGIo in armatura,quadro dipinto ad olio su tela. Cornice in legno dipinto.Epoca Luigi XVIII.",,44.5,True,none,,,
+BO0624_81823,58337,474,469,ALTRO DETTo d'accompagno.,,51.0,True,none,,,
+BO0624_81823,58338,475,470,Scuola Francese. Busto di bambino. Bel disegno al pastello. Cornice dorata.,,40.0,True,none,,,
+BO0624_81823,58339,476,471,Horemans (Jean il Vecchio) (Anversa 1682-1759). Refezione. Interessantissimo quadro su tela. Cornice.,,38.6,True,none,,,
+BO0624_81823,58340,477,472,Allegri P. (Correggio) (1522). La Vergine e il Bambino. S.ta Caterina. Sta. Lucia. Tre quadri su tavola formanti trittico. Le tre tavole sono di fattura veramente eccezionale e benissimo conservate.,,34.7,True,none,,,
+BO0624_81823,58341,478,473,Grandi (Ercole) detto Ercole da Ferrara (Ferrara 1491-1531). Cristo al Calvario. Pittura su tela.Cornice dorata.,,36.6,True,none,,,
+BO0624_81823,58342,479,474,Stoop (Dirk o Thierry) (Utrecht 1610-1686). Battaglia. Pittura su tavola. Cornice nera. Quadro firmato. Tutti i principali musei posseggono opere di questo grande maestro.,,37.4,True,none,,,
+BO0624_81823,58343,480,475,"Heem (David de) (Utrecht 1570-1632). Frutta etc. Pregevole e rara pittura primitiva Olandese,su tavola.Cornice dorata.",,34.2,True,none,,,
+BO0624_81823,58344,481,476,Dyck (Antonio Van) (attribuito a) (Anversa 1599-1641). Il Cavaliere bruno. Pittura su tela.Cornice nera.,,34.0,True,none,,,
+BO0624_81823,58345,482,477,Scuola Spagnuola. Ritratto di vecchia che fila. Quadro ad olio su tela. Cornice dorata.,,40.7,True,none,,,
+BO0624_81823,58346,483,478,Incognito (Secolo XVIll). Bambini con cane; pittura ad olio su tela in cornice intagliata e dorata.,,46.0,True,none,,,
+BO0624_81823,58347,484,479,"Incognito (Sec. XVIl1). Soggetto biblico. Pittura ad olio su tela. Cornice di legno, intagliato e dorato.",,48.8,True,none,,,
+BO0624_81823,58348,485,480,"Rosa da Tivoli. Scena pastorale, cornice intagliata e dorata.",,52.9,True,none,,,
+BO0624_81823,58349,486,481,Ribera (l.). Lot e le figlie; quadro ad olio. Cornice dorata.,,50.0,True,none,,,
+BO0624_81823,58350,487,482,Koloinienkie (Scuola Russa). Studio dal vero; quadro ad olio con cornice intagliata e dorata.,,48.8,True,none,,,
+BO0624_81823,58351,488,483,Incognito. (Secolo XVIll). Apollo che scortica Marsia. Pittura ad olio su tela. Cornice.,,39.3,True,none,,,
+BO0624_81823,58352,489,484,DANAE. Fine pittura su rame. Cornice.,,39.3,True,none,,,
+BO0624_81823,58353,490,485,Mackold. Paesaggio. Grazioso quadro con cornice nera.,,32.2,True,none,,,
+BO0624_81823,58354,491,486,De Gregorio. Un bosco. Bel quadro originale. Cornice intagliata e dorata.,,48.6,True,none,,,
+BO0624_81823,58355,492,487,Luzzi (F.). Marina con barche peschereccie. Quadro ad olio con cornice intagliata e dorata.,,43.4,True,none,,,
+BO0624_81823,58356,493,488,Bronzino (copia da). Ritratto di gentiluomo. Quadro ad olio su tavola.,,42.8,True,title_direct,,,Bronzi
+BO0624_81823,58357,494,449,Scuola Genovese. (Secolo XVI). Ritratto di Doge. Pittura a olio su tela con cornice intagliata e dorata.,,43.1,True,none,,,
+BO0624_81823,58358,495,490,"Scuola Senese. Pannello dipinto su tavola, rappresentante Santo Vescovo che battezza una donna inginocchiata. Secolo XV. Cornice dorata.",,39.8,True,none,,,
+BO0624_81823,58359,496,491,BUSTO PANNEGGIATO di personaggio romano. Marmo del II S. d. C.  preso da un tipo Ellenistico.,,41.7,True,none,,,
+BO0624_81823,58360,497,492,FIGURINA IN MARMo rappresentante Fauno che suona i cembali e che col piede destro preme il crupezio. Arte Ellenistica.,,38.5,True,none,,,
+BO0624_81823,58361,498,493,ERcoLE GIovANE che strozza i serpenti. Marmo frammentato Romano del I S. d. C. preso da un tipo Ellenistico.,,39.4,True,none,,,
+BO0624_81823,58362,499,494,GRANDE TEsTA DI LEONE con le corna. Marmo di epoca Romana.,,36.7,True,none,,,
+BO0624_81823,58363,500,495,"SARcoFAGo in marmo, decorato sul coperchio da quattro delfini e due maschere, sul davanti da due amorini che reggono uno scudo nel cui centro la testa di Ercole, in basso due mostri marini e due cornucopi. Ai lati due amorini appoggiantesi sopra la fiaccola rovesciata. Sui fianchi del sarcofago due grif. Epoca degli Antonini.",,29.7,True,none,,,
+BO0624_81823,58364,501,496,"BusTo D'uOMO coN coLLARE ed ermellino, scultura in marmo del secolo XVI.",,37.2,True,none,,,
+BO0624_81823,58365,502,497,Busto DI DoNNA d’accompagno al precedente.,,33.3,True,none,,,
+BO0624_81823,58366,503,498,"FIGURA DI SANTA scolpita in marmo, in parte dorata.",,41.3,True,none,,,
+BO0624_81823,58367,504,499,ALTRA DETTA.,1136.0,63.2,False,positional,,,Legni intagliati
+BO0624_81823,58368,505,500,IL SIsTEMA PLANETARIo. Pittura su marmo con pietre incastonate con cornice nera.,,30.1,True,none,,,
+BO0624_81823,58369,506,501,"PILA PER ACQUA SANTA, in palombino. XIV secolo.",,35.0,True,none,,,
+BO0624_81823,58370,507,502,PAIO DI BELLE COLONNINE GOTICHE in marmo con basi e capitelli.,,29.5,True,none,,,
+BO0624_81823,58371,508,503,DUE DETTE.,,25.0,True,none,,,
+BO0624_81823,58372,509,504,GRUPPO IN MARMO rappresentante due ragazzi che lottano. Epoca Romana; in parte restaurato.,,26.0,True,none,,,
+BO0624_81823,58373,510,505,ToRso DI ERcoLE. Marmo d'epoca Romana preso da un tipo greco del IV S.,,27.2,True,none,,,
+BO0624_81823,58374,511,506,DUE MANIGLIE IN BRONZO formate da delfini con conchiglie. Secolo XVII.,,29.1,True,none,,,
+BO0624_81823,58375,512,507,"LoTTo DI TRE CoRNIcINE, due ovali e una triangolare in bronzo con smalti. Secolo XVI.",,27.1,True,none,,,
+BO0624_81823,58376,513,508,CoRNICINA TRIANGoLARE IN BRONZO con Smalti a colori. Secolo XVI.,,24.7,True,none,,,
+BO0624_81823,58377,514,509,DUE CORNICINE IN BRONZO Smaltato a colori. Secolo XVI.,,27.6,True,none,,,
+BO0624_81823,58378,515,510,"DUE BRACCI DA PARETE IN BRONzO a roccailles,interamente dorati. Secolo XVII.",,27.5,True,none,,,
+BO0624_81823,58379,516,511,IL TEMPo.Bel riposto per mobile in bronzo dorato. Secolo XVIII.,,29.2,True,none,,,
+BO0624_81823,58380,517,512,"GRANDE PLACCA IN BRONZO DORATO con cariatidi,angeli e stemma Cardinalizio. Vi e stata adottata una lampada ebraica.",,21.6,True,none,,,
+BO0624_81823,58381,518,513,PAIo DI CANDELIERI veneziani in bronzo.,,33.3,True,none,,,
+BO0624_81823,58382,519,514,ALTRO PAIO piu piccolo.,,35.7,True,none,,,
+BO0624_81823,58383,520,515,ALTRO piu piccolo.,,35.3,True,none,,,
+BO0624_81823,58384,521,515a,"ORoLoGIo in bronzo dorato,con suoneria.",,30.6,True,none,,,
+BO0624_81823,58385,522,515b,STATUETTA in bronzo. Secolo XVII.,,27.3,True,none,,,
+BO0624_81823,58386,523,516,LOTTO DI QUATTRO cORNICINE di varie grandezze.,,53.2,True,none,,,
+BO0624_81823,58387,524,517,"PIccOLO TABERNACoLO IN NOCE, di forma architettonica.Secolo XVII.",,30.6,True,none,,,
+BO0624_81823,58388,525,518,"DAvANTI DI CAssoNE in legno intagliato a figure, ornati ed animali.",,28.0,True,none,,,
+BO0624_81823,58389,526,519,CoRNIcE IN LEGNO a cassetta interamente dorata.,,30.0,True,none,,,
+BO0624_81823,58390,527,520,BELLA CORNICE IN LEGNO dorato.,,31.7,True,none,,,
+BO0624_81823,58391,528,521,"GUARNIzIONE ESTERNA DI UNA PORTA formata da due colonne scanalate con capitelli scolpiti,l'architrave pure scolpito,in parte dorato e policromato.",,21.2,True,none,,,
+BO0624_81823,58392,529,522,ALTRA DETTA.,,33.3,True,none,,,
+BO0624_81823,58393,530,523,DuE CRocEFissI scolpiti in legno. Grandezze diverse. Secolo XVI.,,28.9,True,none,,,
+BO0624_81823,58394,531,524,PIccOLA FLoRIERA in argento sbalzato.,,25.7,True,none,,,
+BO0624_81823,58395,532,525,"LAVANDINO VENEZIANO IN FERRO FORGIATO, con bacile e fontanina di rame.",,31.1,True,none,,,
+BO0624_81823,58396,533,526,"GRANDE BAssORILIEvo sbalzato in metallo,rappresentante soggetto storico.Cornice nera.",,27.1,True,none,,,
+BO0624_81823,58397,534,527,Dausch. Quattro bozzetti originali in terracotta.,,29.3,True,none,,,
+BO0624_81823,58398,535,528,Id.Id.QUATTRO DETTI.,,30.2,True,none,,,
+BO0624_81823,58399,536,529,Id.Id.QUATTRO DETTI.,,30.2,True,none,,,
+BO0624_81823,58400,537,530,GRANDE MINIATURA SU PERGAMENA rapresentante una dama ed un cavaliere recanti ciascuno un blasone. Cornice.,,25.9,True,none,,,
+BO0624_81823,58401,538,531,MINIATURA SU PERGAMENA. Secolo XVI.,,23.5,True,none,,,
+BO0624_81823,58402,539,532,PLACCA SCOLPITA IN AVORIO rapp. nel basso la Crocefissione; nella parte superiore l'Incoronazione della Vergine.Arte francese. Secolo XIV.,,19.9,True,none,,,
+BO0624_81823,58403,540,533,FIGURA DI SANTo in osso. (Frammentato). Secolo XV.,,26.5,True,none,,,
+BO0624_81823,58404,541,534,"SEI PIccOLE TEsTE in terracotta di scavo, Taranto.",,31.3,True,none,,,
+BO0624_81823,58405,542,535,FRAMMENTo di un Ippopifo in marmo. Scavo.,,29.7,True,none,,,
+BO0624_81823,58406,543,536,PAIo DI MANIcHI in bronzo decorati da mascheroni di Satiri; bella patina I. S. d.C.,,27.6,True,none,,,
+BO0624_81823,58407,544,537,PiccoLo vAso in terracotta a figure nere su fondo rosso. Scavo.,,27.1,True,none,,,
+BO0624_81823,58408,545,538,"LoTTo DI TRE coLLANE, delle quali due in metallo ed una di acini di smalto. Scavo.",,26.1,True,none,,,
+BO0624_81823,58409,546,539,DUE DIsCHI IN ORO decorati di piccoli fiori Scavo.,,33.7,True,none,,,
+BO0624_81823,58410,547,540,ALTRO DETTO.,,33.3,True,none,,,
+BO0624_81823,58411,548,541,ScALDINo decorato da medaglioni ed ornati a rilievo. Napoli.,,36.6,True,none,,,
+BO0624_81823,58412,549,542,SALIERA di forma architettonica in maiolica di Abruzzo.,,36.4,True,none,,,
+BO0624_81823,58413,550,543,La Vergine e il Bambino contornati da angeli; importante terracotta smaltata d'arte robbiana.,,22.2,True,none,,,
+BO0624_81823,58414,551,544,PiATTo in maiolica decorato ad ornati e nel centro da leone rampante a riflesso metallico.Ispano-arabo.,,23.5,True,none,,,
+BO0624_81823,58415,552,545,PIATTO in 1 maiolica con baccelli a rilievo e lobo centrale decorato da ornati a riflesso.Ispano-arabo.,,26.5,True,none,,,
+BO0624_81823,58416,553,546,"PIATTo in maiolica con ornati, foglie ed iscrizioni a riflesso metallico. Ispano-arabo.",,33.3,True,none,,,
+BO0624_81823,58417,554,547,DETto variato.,,34.0,True,none,,,
+BO0624_81823,58418,555,548,"PAIo DI GRANDI ALBERELLI in maiolica decorati da foglie, e nastro con iscrizione in bleu lumeggiato di bianco. Nel centro vaso in giallo. Faenza.",,19.1,True,none,,,
+BO0624_81823,58419,556,549,BoTTIGLIA in maiolica decorata da due medaglioni con ritratti e da fiori policromi su fondo bleu. Caltagirone.,,21.0,True,none,,,
+BO0624_81823,58420,557,550,GRANDE ALBERELLo in maiolica decorato a fiori e foglie policrome. Maiolica di Caltagirone.,,27.6,True,none,,,
+BO0624_81823,58421,558,551,VASO in porcellana finemente dipinto e decorato. Berlino. Wegely 1750-57.,,34.0,True,title_direct,,,porcellane
+BO0624_81823,58422,559,552,PAIO DI ANTICHI ALBERELLI decorati in bleu.Faenza.,,31.3,True,none,,,
+BO0624_81823,58423,560,553,PIccoLo PALIoTTo di recamo a riporto. Sec.XVII.,,32.5,True,none,,,
+BO0624_81823,58424,561,554,PIANETA E MANIPOLo di broccatello a fiori. Secolo XVII.,,31.8,True,none,,,
+BO0624_81823,58425,562,555,ANTIco TAPPETo Schirvan a disegni geometrici.,,33.3,True,none,,,
+BO0624_81823,58426,563,556,CHALE in seta recamato a punto arazzo. Secolo XIX.,,26.5,True,none,,,
+BO0624_81823,58427,564,557,TAPPEro Guendie ad orn ati su fondo bleu e rosso.,,26.8,True,none,,,
+BO0624_81823,58428,565,558,"TavoLo di noce a gambe centinate in parte intagliate,un cassetto.",,24.5,True,none,,,
+BO0624_81823,58429,566,559,"PiccoLo MoBILE in noce intarsiato di osso, riquadrature a sbalzo, quattro cassetti. con maniglie di bronzo.Secolo XVIII.",,20.9,True,none,,,
+BO0624_81823,58430,567,560,INGINoccHIATO1o in noce in parte scolpito. Secolo XVII.,,29.5,True,none,,,
+BO0624_81823,58431,568,561,"SEGGIoLoNE in noce a braccioli di itti, traversa traforata, dossello scolpito. Secolo XVII.",,24.2,True,none,,,
+BO0624_81823,58432,569,562,"SEcRETAIRE in palissando,due sportelli e piano a cerniera,interno di forma architettonica intarsiato di legni vari, decorazione di bronzi dorati. Impero.",,20.4,True,none,,,
+BO0624_81823,58433,570,563,"PA1o DI DANTEscHE in noce in parte intagliate, piano a dossello in velluto rosso in seta.",,24.6,True,none,,,
+BO0624_81823,58434,571,564,DUE DETTE.,,25.0,True,none,,,
+BO0624_81823,58435,572,565,PiccoLo TAvoLo in noce con gambe a mensola in parte intagliato; un cassetto. Secolo XVI.,,23.1,True,none,,,
+BO0624_81823,58436,573,566,Rosa da Tivoli. Pastore con mandria di animali. Grande quadro ad olio su tela con cornice dorata.,,24.6,True,none,,,
+BO0624_81823,58437,574,567,RITRATTo DI FANCIULLo. Pittura ad olio con cornice dorata. Secolo XVIII.,,30.5,True,none,,,
+BO0624_81823,58438,575,568,Scuola Francese (Sec. XVII). Giuditta. Quadro ad olio con cornice intagliata e dorata.,,25.2,True,none,,,
+BO0624_81823,58439,576,569,Incognito (Sec. XVIIl). La Piazza di S.Pietro. Pittura ad olio su tela. Cornice dorata.,,25.0,True,none,,,
+BO0624_81823,58440,577,570,Smith. Marina. Splendido pastello con cornice dorata.,,30.2,True,none,,,
+BO0624_81823,58441,578,571,"Casciaro.VEDUTA DI NAPoLI. Finissimo pastello, firmato. Cornice dorata e vetro.",,26.8,True,none,,,
+BO0624_81823,58442,579,571,Rosa da Tivoli (Scuola di). Pastori con capre. Quadro ad olio su tela. Cornice dorata.,,26.9,True,none,,,
+BO0624_81823,58443,580,572,Dutuit A.). Paese con pecore. Pittura ad olio con cornice intagliata e dorata.,,27.0,True,none,,,
+BO0624_81823,58444,581,573,Scuola Veneta. Bustino da giovanetto. Quadro ad olio su tavola. Cornice di pastiglia.,,23.7,True,none,,,
+BO0624_81823,58445,582,574,RITRATTO DEL PAPA INNOCENZO XI. Pittura ad olio su tela con ricca cornice ovale scolpita in legno e dorata. Sec. XVII.,,29.1,True,none,,,
+BO0624_81823,58446,583,575,PARANZA IN ALTO MARE. Quadro ad olio con cornice dorata.,,31.5,True,none,,,
+BO0624_81823,58447,584,576,PREPARATIVI PER LA PESCA. Quadro d’accompagno.Quadro.,,32.6,True,none,,,
+BO0624_81823,58448,585,577,Hayez. Figura di donna. Graziosa pittura ad olio con cornice circolare dorata.,,23.4,True,none,,,
+BO0624_81823,58449,586,578,Induno (Gir.). Convalescenza. Bellissimo quadro ad olio con cornice intagliata e dorata.,,23.1,True,none,,,
+BO0624_81823,58450,587,579,Messonier (Maniera di). Scena militare della Campagna di Russia del 1813. Cornice.,,24.3,True,none,,,
+BO0624_81823,58451,588,580,IL CRisTo. Pitttura ad olio su rame. Cornice.,,35.9,True,none,,,
+BO0624_81823,58452,589,581,Scuola Fiamminga. Paese con pastori e pecore.Quadro ad olio. Cornice intagliata e dorata.,,26.2,True,none,,,
+BO0624_81823,58453,590,582,Tintoretto (Attrib.a). S. Giovanni che predica. Pittura ad olio su tela. Cornice intagliata e dorata.,,23.9,True,none,,,
+BO0624_81823,58454,591,583,Jacopo da Ponte (detto Bassano). Cristo deriso. Pittura ad olio con cornice in ebano.,,25.4,True,none,,,
+BO0624_81823,58455,592,584,Angelo di Cosimo (detto Bronzino). Ritratto di donna sotto l'effigie di S. Caterina.Pittura ad olio. Cornice dorata.,,18.8,True,title_direct,,,Bronzi
+BO0624_81823,58456,593,585,Michelangelo da Caravaggio (Attrib. a). S. Sebastiano. Pittura ad olio su tela cornice intagliata e dorata.,,22.9,True,none,,,
+BO0624_81823,58457,594,586,Bellini (Giov.) (Scuola di). Madonna col Bambino. Pittura ad olio con cornice originale.,,26.4,True,none,,,
+BO0624_81823,58458,595,587,ROMA SPARITA. Il Ponte rotto. Quadro ad olio su tela. Cornice dorata.,,31.4,True,none,,,
+BO0624_81823,58459,596,588,Van Dyck (Scuola di). Ritratto di giovanetta. Grazioso quadro ad olio. Cornice ovale intagliata e dorata(Restaurato).,,20.0,True,none,,,
+BO0624_81823,58460,597,589,Scuola Ferrarese. L'Annunciazione. Quadro ad olio dipinto su tavola a sesto semi-circolare.,,27.4,True,none,,,
+BO0624_81823,58461,598,590,"PIAzZA DELLA SiGNoRIA e Panorama di Firenze. Due fine pitture ad olio su tela, con cornici intagliate e dorate.",,23.6,True,none,,,
+BO0624_81823,58462,599,589a,Scuola Bolognese. La veglia di S. Antonio. Quadro dipinto ad olio su tela. Cornice intagliata e dorata.,,25.0,True,none,,,
+BO0624_81823,58463,600,591,Murillo (Attribuito a) Cacciatore. Pittura ad olio su tela; cornice dorata.,,27.8,True,none,,,
+BO0624_81823,58464,601,592,RITRATTo DI GIOvANE SIGNORA. Grande bozzo ad olio. Epoca Impero.,,28.9,True,none,,,
+BO0624_81823,58465,602,593,SoGGETTo BIBLico. Bozzetto ad olio su tela. Cornice dorata.,,30.4,True,none,,,
+BO0624_81823,58466,603,594,Scuola Francese (Secolo XVIll). Soggetti mitologici. Due fini pitture su rame. Cornici dorate.,,22.0,True,none,,,
+BO0624_81823,58467,604,595,LA VERGINE coL BAMBINo. Pittura ad olio su tavola. Cornice dorata.,,28.3,True,none,,,
+BO0624_81823,58468,605,596,LA VERGINE che libera unanima dal Purgatorio. Pittura ad olio su tela. Cornice a porfido con listelli dorati.,,22.5,True,none,,,
+BO0624_81823,58469,606,597,"Scuola Veneziana. Disegni a penna su fondo di tavola. Studio ad olio su tela, con cornice dorata.",,21.5,True,none,,,
+BO0624_81823,58470,607,598,VITToRIA. Figurina Arcaistica in marmo mancante della testa. I S.d.C.,,29.4,True,none,,,
+BO0624_81823,58471,608,599,BEL cAPITELLo in maimo decorato da ornati e foglie di buonissima conservazione. II S. d.C.,,29.3,True,none,,,
+BO0624_81823,58472,609,600,FIGuRINA in marmo rappresentante una Vittoria.Il braccio destro ed una gamba in parte restaurati. Epoca romana.,,20.8,True,none,,,
+BO0624_81823,58473,610,601,TEsTA DI PERSONAGGIO ROMANo. Marmo d'epoca della Repubblica Su capitello di scavo.,,24.3,True,none,,,
+BO0624_81823,58474,611,602,"DuE coLoNNINE di antica breccia di Francia, basi e capitelli di marmo.",,23.3,True,none,,,
+BO0624_81823,58475,612,603,"RoccHio di colonna in verdc antico, base e cimasa di marmo.",,26.1,True,none,,,
+BO0624_81823,58476,613,604,"RoccHio di colonna in pavonazzetto,base e cimasa di marmo;quest'ultima intagliata ad ovoli.",,22.6,True,none,,,
+BO0624_81823,58477,614,605,CoLoNNINA in marmo con base e capitello intagliato ad ornati. Sec.XVI.,,25.2,True,none,,,
+BO0624_81823,58478,615,607,ALTRO DETTO.,,33.3,True,none,,,
+BO0624_81823,58479,616,608,DuE FRAMMENTi di candeliere in marmo con decorazione d’ornati.,,31.6,True,none,,,
+BO0624_81823,58480,617,609,"FRAMMENTo di candeliera in marmo, con decorazione di ornati e sfingi.",,25.5,True,none,,,
+BO0624_81823,58481,618,610,"Dausch. Busto in marmo colorato di donna acconciata all'egizia,simboleggiante la superbia.",,21.1,True,none,,,
+BO0624_81823,58482,619,611,LEONE RAMPANTE in bronzo.Arte Veneziana.,,32.9,True,none,,,
+BO0624_81823,58483,620,612,ALTRO DETTO Variato.,,34.0,True,none,,,
+BO0624_81823,58484,621,613,"PAIo DI ALARI in bronzo finemente cesellato e dorato, decorati da vasi e teste di ariete. Arte Francese. Epoca Luigi XVI.",,22.1,True,none,,,
+BO0624_81823,58485,622,614,PAIo DI BATTENTI in bronzo a putti e stemma.,,28.6,True,none,,,
+BO0624_81823,58486,623,615,LoTTo di tre placchette diverse in bronzo.,,34.7,True,none,,,
+BO0624_81823,58487,624,616,"SILENo coRIcATo. Piccolo bronzo di buona patina, arcaico.",,26.7,True,none,,,
+BO0624_81823,58488,625,617,"CENTAURo in bronzo, su base di gialo. Secolo XVII.",,26.5,True,none,,,
+BO0624_81823,58489,626,618,S. GiovANNI. Figurina in bronzo in parte dorata. Secolo XVI.,,28.0,True,none,,,
+BO0624_81823,58490,627,619,DUE PLACCHETTE in bronzo dorato rappresentanti soggetti mitologici. Sec. XVII.,,28.8,True,none,,,
+BO0624_81823,58491,628,620,"PAcE in bronzo rappresentante, nel centro, la Ss. Trinita. Secolo XVII.",,23.1,True,none,,,
+BO0624_81823,58492,629,621,"PiccoLo corANo laccato ad animali, fiori policromi. Arte Veneziana.",,28.0,True,none,,,
+BO0624_81823,58493,630,622,"CoRNIcE in legno scolpito a grandi foglie e fiori, intieramente dorata. Sec. XVIII.",,25.9,True,none,,,
+BO0624_81823,58494,631,623,GRANDE coRNIcE in noce con lumeggiature in oro.,,27.5,True,none,,,
+BO0624_81823,58495,632,624,"CoRNicINA in pastiglia dorata con ornatia rilievo, contenente una lettera miniata su pergamena. Secolo XV.",,23.0,True,none,,,
+BO0624_81823,58496,633,625,"GUARNIZIONE ESTERNA DI UNA PORTA in legno, composta da due colonne scanalate con capitelli scolpiti,l'architrave intagliato ad ornati dorato e policromato. Secolo XVI.",,18.0,True,none,,,
+BO0624_81823,58497,634,626,PIccoLo TABERNAcoLo in noce a colonne scanalate in parte dipinto. Secolo XV.,,25.7,True,none,,,
+BO0624_81823,58498,635,627,DuE coRNIcI di epoca e grandezza diversa.,,32.4,True,none,,,
+BO0624_81823,58499,636,628,Lotto di tre cornicine di grandezze diverse.,,33.8,True,none,,,
+BO0624_81823,58500,637,629,BELLA coRNIcE in legno intagliato e dorato; sul piano ornati in oro su fondo bleu. Secolo XVI.,,23.6,True,none,,,
+BO0624_81823,58501,638,630,BELLA PAcE in argento sbalzato a soggetto rappr. la Deposizione dalla Croce. Secolo XVI.,,23.1,True,none,,,
+BO0624_81823,58502,639,631,Lotto di sei piombi diversi e una piccola medaglia in bronzo.,,27.7,True,none,,,
+BO0624_81823,58503,640,632,QUANTITA DI MEDAGLIE in bronzo Varie.,,45.7,True,none,,,
+BO0624_81823,58504,641,633,"PuGNALE;il manico d'argento formato da statuina di guerriero in armatura,il fodero di velluto con guarnizioni d'argento.",,20.9,True,none,,,
+BO0624_81823,58505,642,634,SEI ANTIcHI CUccHIAI in argento decorati sul manico da figure di Apostoli.,,28.0,True,none,,,
+BO0624_81823,58506,643,635,OLIERA in argento. Epoca Luigi XVI.,,32.4,True,none,,,
+BO0624_81823,58507,644,636,ZuccHERIERA in argento.Impero.,,31.7,True,none,,,
+BO0624_81823,58508,645,637,CAFFETTIERA in argento. Impero.,,34.4,True,none,,,
+BO0624_81823,58509,646,638,BEILA DOPPIA cOPPA in argento cesellato ed in parte dorata.,,30.4,True,none,,,
+BO0624_81823,58510,647,639,RIPRODUZIoNE IN BRONzo di un Casco Gladiatorio esistente nel Museo Nazionale di Napoli.,,20.0,True,none,,,
+BO0624_81823,58511,648,640,"Ferrari G. Amor vince la forza. Gruppo in terracotta, firmato.",,31.6,True,none,,,
+BO0624_81823,58512,649,641,TRE TEsTE in terracotta di scavo.Taranto.,,32.4,True,none,,,
+BO0624_81823,58513,650,642,NovE PIccOLE TESTE in terracotta di scavo. Taranto.,,31.0,True,none,,,
+BO0624_81823,58514,651,643,LEcHITos e due frammenti di piccoli vasi. Terrecotte di Taranto.,,35.1,True,none,,,
+BO0624_81823,58515,652,644,CINQUE FRAMMENTI VARIATI in terracotta di scavo. Taranto.,,31.1,True,none,,,
+BO0624_81823,58516,653,645,QuATrRO TEsTE in terracotta di scavo.Taranto.,,35.9,True,none,,,
+BO0624_81823,58517,654,646,"ANTICO VAso PERSIANO,a Smalto iridescente. Scavo.",,31.7,True,none,,,
+BO0624_81823,58518,655,647,"CENTRo DA TAvOLA in maiolica decorata a soggetti etruschi. Napoli, Giustiniani, (qualche restauro).",,24.2,True,none,,,
+BO0624_81823,58519,656,648,DuE GRANDI VAsI in maiolica decorata a figure. Abruzzi.,,36.4,True,none,,,
+BO0624_81823,58520,657,649,ZuPPIERA E PIATTo in porcellana dipinta e dorata. Manifattura francese. Epoca Luigi XVI.,,31.4,True,title_direct,,,porcellane
+BO0624_81823,58521,658,650,PAlo Di vAsI in maiolica decorata a figure.Urbino.,,28.9,True,none,,,
+BO0624_81823,58522,659,651,BoccALE con iscrizione entro corona di frutta. Faenza.,,32.2,True,none,,,
+BO0624_81823,58523,660,652,"DuE PIccoLI PrATTI decorati da ornati,melagrane e figure,Faenza. Restaurati.",,34.9,True,none,,,
+BO0624_81823,58524,661,653,DuE PIATTINI decorati da paesaggi e figure di putti. Abruzzo.,,36.2,True,none,,,
+BO0624_81823,58525,662,654,"PIATTO curo decorato a stecco, a busto di giovanetta e foglie. Fratta.",,36.9,True,none,,,
+BO0624_81823,58526,663,655,"DuE BOcCALI ED UNA FIAsCA in maiolica, Cafaggiolo. Restaurati. Secolo XV.",,24.5,True,none,,,
+BO0624_81823,58527,664,656,FRUTTIERA in maiolica decorata da amorino su tritone. Urbino.,,27.7,True,none,,,
+BO0624_81823,58528,665,657,ScALDINo in maiolica ad ornati traforati. Abruzzo.,,33.7,True,none,,,
+BO0624_81823,58529,666,658,ALTRO DETTO.,,33.3,True,none,,,
+BO0624_81823,58530,667,659,PiccoLo BOccALE decorato da mascherone. Urbino.,,30.0,True,none,,,
+BO0624_81823,58531,668,659a,"PIATTINo con pieduccio, in antica maiolica a decoro bleu.Faenza.",,26.8,True,none,,,
+BO0624_81823,58532,669,660,ToNAcELLA in antico damasco rosso.,,26.9,True,none,,,
+BO0624_81823,58533,670,661,"TELo di antico damasco rosso, circa m.2.",,30.1,True,none,,,
+BO0624_81823,58534,671,662,TRE TONAcELLE di anticastoffa a righe.Impero.,,30.8,True,none,,,
+BO0624_81823,58535,672,663,TAPPETO DA PREGHIERA PERSIANo in seta a porta di Moschea su fondo rosso.Cinque bordi.,,32.2,True,none,,,
+BO0624_81823,58536,673,664,"CREDENzINA in noce decorata da riquadrature e borchie,in parte intagliata, terminante a zampe di leone;due sportelli. Secolo XVI.",,18.5,True,none,,,
+BO0624_81823,58537,674,665,DUE SGABELLI di noce interamente intagliati. Secolo XVII.,,31.1,True,none,,,
+BO0624_81823,58538,675,666,"SEGGIOLoNE a braccioli diritti in noce scolpito,piano e dossello imbottiti e ricoperti di velluto.",,21.4,True,none,,,
+BO0624_81823,58539,676,667,"SEcRETAIRE in radica di noce,flettato di metallo, sportello calatore,l'interno intarsiato di legni vari a sei cassetti, la parte inferiore a due sporteli con divisioni interne. Impero.",,17.5,True,none,,,
+BO0624_81823,58540,677,668,CASSETTA intarsiata alla Certosina in osso e legni vari. Secolo XV.,,28.0,True,none,,,
+BO0624_81823,58541,678,669,"DuE sEDIE con gambe ad X con traverse tornite, interamente ricoperte di cuoio e decorate da bolloni.",,24.1,True,none,,,
+BO0624_81823,58542,679,670,DUE DETTE.,,25.0,True,none,,,
+BO0624_81823,58543,680,671,DUE SEGGIOLE a rocchetti. Secolo XVIII.,,30.6,True,none,,,
+BO0624_81823,58544,681,672,"PiccoLA scRIvANIA in radice di noce, sportello a cerniera e nell'interno luce di specchio.",,21.1,True,none,,,
+BO0624_81823,58545,682,673,ANTICA COMMoDE in radica di noce ad ornati intarsiati. Secolo XVIII.,,27.7,True,none,,,
+BO0624_81823,58546,683,674,TRE GRANDI POLTRONE interamente coperte di cuoio.,,31.7,True,none,,,
+BO0624_81823,58547,684,675,"Gagliardi (P.). Cinque bozzetti ad olio per gli affreschi eseguiti nella chiesa di S.Agostino in Roma, con cornici intagliate e dorate.",,19.0,True,none,,,
+BO0624_81823,58548,685,676,"Lebrun (Vigie). Ritratto di giovanetta a pastello,alquanto sciupato. Cornice ovale.",,24.1,True,none,,,
+BO0624_81823,58549,686,677,"Scuola Bizantina. Testa della Vergine. Quadro ad olio su tela, cornice nera ed oro.",,27.6,True,none,,,
+BO0624_81823,58550,687,678,Fracassini. Studio di testa di donna. Cornice nera.,,28.6,True,none,,,
+BO0624_81823,58551,688,679,Scuola Lombarda. Madonna e Bambino. Pittura ad olio con cornice intagliata e dorata.,,27.4,True,none,,,
+BO0624_81823,58552,689,680,Giulio Romano (attrib.a). La Conversione di S. Paolo. Pittura ad olio con cornice intagliata e dorata.,,22.2,True,none,,,
+BO0624_81823,58553,690,681,"Correggio (Scuola del). Madonna,Bambino e S. Giovanni. Pittura ad olio. Cornice intagliata e dorata.",,21.1,True,none,,,
+BO0624_81823,58554,691,682,Scuola Francese. L'Innocenza.Quadro ad olio su tela Cornice di legno intagliata e dorata.,,27.9,True,none,,,
+BO0624_81823,58555,692,683,Scuola Veneta.Ritratti di gentildonna e cavaliere. Due quadri ad olio su tela Cornici dorate.,,25.4,True,none,,,
+BO0624_81823,58556,693,684,Vouvermans (Copia da). Soggetti militari. Due quadretti ad olio su tela. Cornice nera ed oro.,,25.4,True,none,,,
+BO0624_81823,58557,694,685,"RITRATro DI GENTILUOMo in armatura, pittura ad olio su tela in cornice dorata.",,30.6,True,none,,,
+BO0624_81823,58558,695,686,"Scuola Umbra,L'Eterno Padre in gloria.Quadro ad olio su tela.Secolo XVII.",,24.5,True,none,,,
+BO0624_81823,58559,696,687,Scuola Bergamasca. Caricature. Due spiritosi quadri ad olio su tela. Cornici in tagliate e dorate.,,24.4,True,none,,,
+BO0624_81823,58560,697,688,"Nanin. Dama e Ganimede in giardino.Quadro ad olio su tela,firmato. Cornice dorata.",,22.6,True,none,,,
+BO0624_81823,58561,698,689,Pannini (Maniera di). Architettura con figurine. Quadro ad olio su tela con cornice nera ed oro.,,24.8,True,none,,,
+BO0624_81823,58562,699,690,LA FUGA IN EGITTO. Pittura ad olio su rame. Cornice nera ed oro.,,33.0,True,none,,,
+BO0624_81823,58563,700,691,Fragala.Paesaggio Quadro ad olio con cornice dorata.,,30.6,True,none,,,
+BO0624_81823,58564,701,692,PAEsAGGIo. Quadro ad olio con cornice dorata.,,35.9,True,none,,,
+BO0624_81823,58565,702,693,"Incognito (Secolo XV). L'incoronazione della Vergine. Pittura su tavola a fondo oro. Cornice di legno intagliata e dorata,in parte restaurata.",,18.3,True,none,,,
+BO0624_81823,58566,703,694,PAEsAGGIo. Quadro ad olio con cornice dorata.,,35.9,True,none,,,
+BO0624_81823,58567,704,695,PAEsI cON FIGURE. Due antichi quadri ad olio su tela. Cornici nere ed oro.,,33.6,True,none,,,
+BO0624_81823,58568,705,696,"Scuola Ferrarese. Cristo e la Samaritana. Quadro ad olio su tela Bella cornice  dorata a cassetta a doppio listello, intagliata ed ornati puntinati. Secolo XVI.",,16.7,True,none,,,
+BO0624_81823,58569,706,697,Scuola Veneziana.Ritratto di un letterato. Quadro ad olio su tavola. Cornice dorata.,,23.9,True,none,,,
+BO0624_81823,58570,707,697a,Scuola Veneziana (Secolo XVI). Il BATTESIMO DI GEST. Pittura ad olio su tavola. Cornice intagliata e dorata. dell'epoca.,,20.9,True,none,,,
+BO0624_81823,58571,708,698,MADoNNA E BAMBINo.Quadro ad olio su tela.Cornice dorata.,,36.0,True,none,,,
+BO0624_81823,58572,709,699,RITRATTo DEL PAPA PIo VII. Quadro ad olio su tela.Cornice dorata.,,40.8,True,none,,,
+BO0624_81823,58573,710,700,CoMBATTIMENTo.Quadro ad olio su tela.Cornice dorata.,,35.3,True,none,,,
+BO0624_81823,58574,711,701,RITRATTO DEL CARDINAL BARONIO.Quadro ad olio su tela. Cornice dorata.,,35.3,True,none,,,
+BO0624_81823,58575,712,702,DANZATRICE SPAGNUoLA. Quadro ad olio con cornice nera.,,32.2,True,none,,,
+BO0624_81823,58576,713,703,IL RITORNo DALLA PESCA. Quadro pendant al precedente.,,30.2,True,none,,,
+BO0624_81823,58577,714,704,Scuola Spagnuola. S. Giovanni. Quadro ad olio su tela. Cornice dorata.,,25.2,True,none,,,
+BO0624_81823,58578,715,705,STUDio DI CIELo. Due graziosi quadri ad olio con cornici nere.,,37.9,True,none,,,
+BO0624_81823,58579,716,706,"TRE CAPITELLI scolpiti in marmo, sul davanti stemma. Secolo XV.",,29.2,True,none,,,
+BO0624_81823,58580,717,707,MENsoLA in marmo finemente intagliata. Secolo XV.,,29.3,True,none,,,
+BO0624_81823,58581,718,708,FRAMMENTO DI PAVIMENTO a mosaico policromo.,,34.2,True,none,,,
+BO0624_81823,58582,719,709,Scuola Pisana (Secolo XV). Figurina di Santo in marmo.,,23.0,True,none,,,
+BO0624_81823,58583,720,710,"MARSIA LEGATO ALL'ALBERO. Bassorilievo in marmo, frammento d'epoca Alessandrina.",,28.3,True,none,,,
+BO0624_81823,58584,721,711,"GRANDE ERMA arcaistica,rappresentante Dionisio Barbato.",,27.3,True,none,,,
+BO0624_81823,58585,722,712,FRAMMENTo di marmo di una grande testa simboleggiante un fiume. Epoca di Traiano.,,31.6,True,none,,,
+BO0624_81823,58586,723,713,"CoLoNNA in breccia corallina antica, base di marmo bianco e capitello parimenti di marmo scolpito a palmette.",,22.5,True,none,,,
+BO0624_81823,58587,724,714,"BELLA coLoNNA di portasanta antica, base e capitello di marmo finemente scolpito.",,26.3,True,none,,,
+BO0624_81823,58588,725,715,PiccoLA sTATUA panneggiata in rosso antico.,,23.7,True,none,,,
+BO0624_81823,58589,726,716,"PAIO DI GRAZIOSE COLONNINE in marmo, guarnite di mosaico.",,33.3,True,none,,,
+BO0624_81823,58590,727,717,MARSIA LEGATO AD UN TRONCO D'ALBERO. Figura in marmo. Scavo.,,30.1,True,none,,,
+BO0624_81823,58591,728,718,"PiccoLo cIBORIO scolpito in pietra, a testa di Serafini ed ornati.",,28.3,True,none,,,
+BO0624_81823,58592,729,719,Dausch. Mater Dolorosa. Busto in marmo policromato.,,23.8,True,none,,,
+BO0624_81823,58593,730,720,Dausch. Testa in marmo di Minerva. Base in rosso.,,31.7,True,none,,,
+BO0624_81823,58594,731,721,PIccoLo cROcEFIssO in bronzo dorato. Secolo XVIII.,,28.9,True,none,,,
+BO0624_81823,58595,732,722,PuTTINo in bronzo con ghirlanda di fiori. Secolo XVI.,,32.6,True,none,,,
+BO0624_81823,58596,733,723,CoRNICINA in bronzo con smalto a colori. Secolo XVI.,,23.5,True,none,,,
+BO0624_81823,58597,734,724,ALTRA DETTA.Secolo XVI.,,21.4,True,none,,,
+BO0624_81823,58598,735,725,PUSTINo in bronzo di uomo barbato.,,23.9,True,none,,,
+BO0624_81823,58599,736,726,CoRNIcINA ovale in bronzo con smalti a colori. Secolo XVI.,,26.4,True,none,,,
+BO0624_81823,58600,737,727,FIGURA DI SANTA in bronzo dorato. Secolo XVII.,,30.4,True,none,,,
+BO0624_81823,58601,738,728,DuE ANGELI in bronzo dorato. Secolo XVII.,,32.4,True,none,,,
+BO0624_81823,58602,739,729,GRANDE MORTAIo in bronzo decorato da ritratti ed iscrizioni.,,30.1,True,none,,,
+BO0624_81823,58603,740,730,"Dausch. Figurina di donna in bronzo argentato, rappresentate l'anima risorta.",,23.6,True,none,,,
+BO0624_81823,58604,741,731,"Dausch. Figurina di donna in bronzo, simboleggiante la luna.",,25.8,True,none,,,
+BO0624_81823,58605,742,732,PICCoLA VENERE in bronzo.,,27.6,True,none,,,
+BO0624_81823,58606,743,733,BAsE A TRIpoDE in legno scolpito a teste di serafini e cariatidi dorata ed in parte policromata.Secolo XVI.,,22.9,True,none,,,
+BO0624_81823,58607,744,734,"TRE BAsI in legno dorato ed in parte intagliato, d’epoche e grandezze diverse.",,25.2,True,none,,,
+BO0624_81823,58608,745,735,"DuE coRNIct dorate, delle quali una alla Salvator Rosa intagliata, l'altra circolare.",,22.0,True,none,,,
+BO0624_81823,58609,746,736,"DuE BRAccI da parete in legno riccamente scolpito a teste di putto e volute, interamente dorate. Secolo XVIII.",,23.8,True,none,,,
+BO0624_81823,58610,747,737,"CAssETTA alla Certosina, intarsiata di osso e legni vari. Secolo XVI.",,27.5,True,none,,,
+BO0624_81823,58611,748,738,"PICCOLO COFANO con coperchio a doppio piovente, in legno ricoperto di stiglia con piccoli ornati.",,23.1,True,none,,,
+BO0624_81823,58612,749,739,PIccoLo TABERNAcoLo Sansovinesco in legno scolpito e dorato. Riquadrature per reliquie. SecoloXVI.,,21.4,True,none,,,
+BO0624_81823,58613,750,740,ALTARINo in legno scolpito ed in parte dorato. Secolo XVIlI.,,25.8,True,none,,,
+BO0624_81823,58614,751,741,"DUE ELEGANTI TORCIERI in legno scolpito a teste di Serafini, foglie ed ornati, terminanti a zampe di leone.Interamente dorati.Secolo XVII.",,24.6,True,none,,,
+BO0624_81823,58615,752,742,"Lotto di ventotto medaglioni in bronzo, diversi.",,29.6,True,none,,,
+BO0624_81823,58616,753,743,"Lotto di ventisette medaglioni in bronzo,diversi.",,29.3,True,none,,,
+BO0624_81823,740074,754,744,"Lotto di otto medaglie in bronzo, diverse.",,34.7,True,none,,,
+BO0624_81823,740079,755,745,MEDAGLIA in piombo di Maometto.,,34.4,True,none,,,
+BO0624_81823,740080,756,746,"SAN GIovANNI E LA VERGINE. Due bustini in cera policromata, entro custodia di legno intagliato. a, MINIATURA inglese dipinta su vetro. Cornicina intagliata e dorata.",,18.2,True,none,,,
+BO0624_81823,740083,757,747,ScAToLINA veneziana laccata; sul coperchio figure di bambini a colori su fondo verde.,,25.4,True,none,,,
+BO0624_81823,740084,758,748,ALTRA DETTA Variata.,,30.2,True,none,,,
+BO0624_81823,740085,759,749,TABACCHERIA decorata in Vernis Martin. Sul coperchio scena familiare.,,31.4,True,none,,,
+BO0624_81823,740086,760,750,QUATTRO ELMI di varie forme.,1137.0,85.2,False,positional,,,Legni intagliati
