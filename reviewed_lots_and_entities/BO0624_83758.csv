@@ -1,66 +1,66 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_83758,33700,1,1,Bonington. Vue De Venise.,,57.1,True,none,,,
-BO0624_83758,33701,2,2,"DELACROIX, EUGENE. Un Vase de feurs",33.0,61.8,False,title_direct,DELACROIX,,
-BO0624_83758,33702,3,3,Gerome. Le Pifferaro.,50.0,70.0,False,positional,GEROME,,
-BO0624_83758,33703,4,4,"ISABEY, EUGENE.  Les Apprets du dejeuner de chasse.",61.0,76.4,False,title_direct,ISABEY,,
-BO0624_83758,33704,5,5,Jacquet. La Reponse.,74.0,68.6,False,positional,JACQUET,,
-BO0624_83758,33705,6,6,Lèvy. Scene tiree d’un roman.,90.0,84.2,False,positional,LEVY,,
-BO0624_83758,33706,7,7,"ROUSSEAU, THEODORE. Le Pecheur.",,52.4,True,title_direct,ROUSSEAU,,
-BO0624_83758,33707,8,8,Bachelier. 1724-1806. Le CHeval et le loup.,,52.3,True,none,,,
-BO0624_83758,33708,9,9,"BELLINI, Giovanni. 1426-1516. La Vierge et l'Enfant aux cerises.",137.0,68.0,False,title_direct,BELLINI,,
-BO0624_83758,33709,10,10,BERGHEM. 1620-1685. La Sortie des troupeaux.,164.0,70.4,False,title_direct,BERGHEM,,
-BO0624_83758,33710,11,11,BREUGHEL et BALEN. 1560-1632. Allegorie de l'Abondance.,181.0,62.7,False,title_direct,BALEN,,
-BO0624_83758,33711,12,12,BREUGHEL et BALEN. Les Tresors de l'Art et de la Science,198.0,78.0,False,title_direct,BALEN,,
-BO0624_83758,33712,13,13,Coypel.1694-1752. Le Jugement de Sancho Panca dans lile,217.0,78.0,False,positional,COYPEL,,
-BO0624_83758,33713,14,14,"CRAESBECK, JOOST VAN. xvi siecle. Les Politiques flamands.",,59.1,True,title_direct,CRAESBECK,,
-BO0624_83758,33714,15,15,"CRANACH, LUCAS SUNDER,DIT. 1472-1553. La Vierge a la grappe de raisin.",,41.8,True,title_direct,CRANACH,,
-BO0624_83758,33715,16,16,"Crome. 1769-1821. La Route, pres Yarmouth.",266.0,75.0,False,positional,CROME,,
-BO0624_83758,33716,17,17,"Crome. Une Ferme, pres Norwich.",283.0,82.0,False,positional,CROME,,
-BO0624_83758,33717,18,18,"CROOS, J.VAN. 1650. Marine par un gros temps.",297.0,71.2,False,title_direct,CROOS,,
-BO0624_83758,33718,19,19,"Cuyp, Albert. 1606-1667. Le Depart pour la chasse.",316.0,66.7,False,positional,CUYP,,
-BO0624_83758,33719,20,20,Drolling. 1752-1817. La Fuite.,,50.0,True,none,,,
-BO0624_83758,33720,21,21,Drolling. 1752-1817. Le Regret.,,52.6,True,none,,,
-BO0624_83758,33721,22,22,"GRYF, ADRIEN. XVII siecle. Chasseurs, chiens et gibier.",364.0,67.4,False,title_direct,GRYF,,
-BO0624_83758,33722,23,23,"HALS, DIRCK.1589-1656. Scene de cour.",,54.9,True,title_direct,HALS,,
-BO0624_83758,33723,24,24,Mierevelt. 1567-1641. Portrait d’une Dame de qualite.,399.0,74.2,False,positional,MIEREVELT,,
-BO0624_83758,33724,25,25,Mierevelt.  Portrait d'un seigneur hollandais.,416.0,80.5,False,positional,MIEREVELT,,
-BO0624_83758,33725,26,26,Mierevelt. Portrait d'homme.,429.0,72.0,False,positional,MIEREVELT,,
-BO0624_83758,33726,27,27,Mierevelt. Portrait de jeune femme.,443.0,80.6,False,positional,MIEREVELT,,
-BO0624_83758,33727,28,28,"MIERIS, FRANCOISVAN. 1689-1763. L'Attente.",,46.6,True,title_direct,MIERIS,,
-BO0624_83758,33728,29,29,Moro. 1512-1581. Portrait d'une princesse.,469.0,74.0,False,positional,MORO,,
-BO0624_83758,33729,30,30,Moucheron. Velde. 1633-1672. Le Parc.,,44.8,True,none,,,
-BO0624_83758,33730,31,31,"MURILLO, BARTHELEMY-ESTEBAN. 1618-1682. Sainte Rose.",,50.0,True,title_direct,MURILLO,,
-BO0624_83758,33731,32,32,Navez. 1787. Portrait du peintre David.,526.0,76.1,False,positional,NAVEZ,,
-BO0624_83758,33732,33,33,"NETSCHER, GASPARD. 1639-1684. La Lecon de chant. mportante composition. Cadre en bois sculpte.",,54.3,True,title_direct,NETSCHER,,
-BO0624_83758,33733,34,34,OMMEGANCK. 1755-1826. Paturage flamand.,562.0,61.3,False,title_direct,OMMEGANCK,,
-BO0624_83758,33734,35,35,Ostade. 1610-1685. La Partie.,,57.8,True,none,,,
-BO0624_83758,33735,36,36,Raphael Sanzio. Le Mariage mystique de sainte Catherine.,596.0,76.9,False,positional,RAPHAEL SANZIO,,
-BO0624_83758,740009,37,37,Raoux. 1677-1734. Danae.,,48.5,True,none,,,
-BO0624_83758,740010,38,38,Rubens. 1577-1640. Loth et ses filles.,642.0,65.6,False,positional,RUBENS,,
-BO0624_83758,740011,39,39,RUYSDAEL. 1628-1682. Entrèe de foret.,,57.6,True,title_direct,RUYSDAEL,,
-BO0624_83758,740012,40,40,Velde. 1633-1707. Marine hollandaise.,686.0,70.0,False,positional,VELDE,,
-BO0624_83758,740013,41,41,"VINCI, Leonarde de. Jesus et saint Jean-Baptiste enfants.",713.0,78.7,False,title_direct,VINCI,,
-BO0624_83758,740014,42,42,Vos. 1585-1651. Portraits d’une dame et de ses enfants.,728.0,81.6,False,positional,VoS,,
-BO0624_83758,740015,43,43,Vos. Portraits d'un homme et d'un jeune garcon.,747.0,64.0,False,positional,VOS,,
-BO0624_83758,740016,44,44,VoS. 1590-1678. Oiseaux de divers plumages.,776.0,76.7,False,title_direct,VoS,,
-BO0624_83758,740017,45,45,VoS. 1590-1678. Chiens et gibier.,782.0,67.9,False,title_direct,VoS,,
-BO0624_83758,740018,46,46,Wouwerman. 1620-1668. Le Depart pour la chasse.,793.0,60.0,False,positional,WOUWERMAN,,
-BO0624_83758,740019,47,47,Wouwerman. Halte devant une chaumiere.,812.0,76.1,False,positional,WOUWERMAN,,
-BO0624_83758,740020,48,48,"WYNANTS, JEAN. 1600-1670. Paysage; effet de soleil couchant.",833.0,71.4,False,title_direct,WYNANTS,,
-BO0624_83758,740022,49,49,Ecole hollandaise. XVIII siecle. Paravent a six feuilles.,,57.5,True,none,,,
-BO0624_83758,740023,50,50,Garniture de cinq pieces,,46.4,True,none,,,
-BO0624_83758,740024,51,51,Deux grandes potiches,,37.7,True,none,,,
-BO0624_83758,740025,52,52,Medaillon ovale,,40.0,True,none,,,
-BO0624_83758,740026,53,53,Medaillon ovale,,40.0,True,none,,,
-BO0624_83758,740027,54,55,Deux grands landiers en bronze,,42.3,True,none,,,
-BO0624_83758,740028,55,56,Grande pendule,,50.0,True,none,,,
-BO0624_83758,740029,56,57,Statuette en bronze,,45.5,True,none,,,
-BO0624_83758,740030,57,58,Paire de candelabres,,46.2,True,none,,,
-BO0624_83758,740031,58,59,Paire de candelabres,,46.2,True,none,,,
-BO0624_83758,740032,59,60,Deux Chenets,,35.3,True,none,,,
-BO0624_83758,740033,60,61,Grande pendule,,50.0,True,none,,,
-BO0624_83758,740034,61,62,Deux grands candelabres,,36.4,True,none,,,
-BO0624_83758,740035,62,63,Ecran en bois sculptè,841.0,74.4,False,positional,WYNANTS,,
-BO0624_83758,740036,63,64,Paravent en bois dorè,,47.1,True,none,,,
-BO0624_83758,740037,64,65,Tapisserie rectangulaire,,38.3,True,none,,,
-BO0624_83758,740038,65,66,Tapis rectangulaire,,36.4,True,none,,,
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83758,33700,1,1,Bonington. Vue De Venise.,16,72.2,False,positional,BONINGTON,,,,
+BO0624_83758,33701,2,2,"DELACROIX, EUGENE. Un Vase de feurs",33,65.3,False,title_direct,DELACROIX,,,,
+BO0624_83758,33702,3,3,Gerome. Le Pifferaro.,50,78.8,False,positional,GEROME,,,,
+BO0624_83758,33703,4,4,"ISABEY, EUGENE.  Les Apprets du dejeuner de chasse.",61,80.5,False,title_direct,ISABEY,,,,
+BO0624_83758,33704,5,5,Jacquet. La Reponse.,74,71.4,False,positional,JACQUET,,,,
+BO0624_83758,33705,6,6,Lèvy. Scene tiree d’un roman.,90,90.2,False,positional,LEVY,,,,
+BO0624_83758,33706,7,7,"ROUSSEAU, THEODORE. Le Pecheur.",101,52.6,False,title_direct,ROUSSEAU,,,,
+BO0624_83758,33707,8,8,Bachelier. 1724-1806. Le CHeval et le loup.,122,66.7,False,positional,BACHELIER,,,,Sec. XVIII
+BO0624_83758,33708,9,9,"BELLINI, Giovanni. 1426-1516. La Vierge et l'Enfant aux cerises.",137,69.5,False,title_direct,BELLINI,,,,Sec. XV
+BO0624_83758,33709,10,10,BERGHEM. 1620-1685. La Sortie des troupeaux.,164,71.9,False,title_direct,BERGHEM,,,,Sec. XVII
+BO0624_83758,33710,11,11,BREUGHEL et BALEN. 1560-1632. Allegorie de l'Abondance.,181,63.2,False,title_direct,BALEN,,,,Sec. XVI
+BO0624_83758,33711,12,12,BREUGHEL et BALEN. Les Tresors de l'Art et de la Science,198,77.9,False,title_direct,BALEN,,,,
+BO0624_83758,33712,13,13,Coypel.1694-1752. Le Jugement de Sancho Panca dans lile,217,83.3,False,positional,COYPEL,,,,Sec. XVIII
+BO0624_83758,33713,14,14,"CRAESBECK, JOOST VAN. xvi siecle. Les Politiques flamands.",236,57.5,False,title_direct,CRAESBECK,,,,
+BO0624_83758,33714,15,15,"CRANACH, LUCAS SUNDER,DIT. 1472-1553. La Vierge a la grappe de raisin.",251,39.0,False,title_direct,CRANACH,,,,Sec. XVI
+BO0624_83758,33715,16,16,"Crome. 1769-1821. La Route, pres Yarmouth.",266,79.4,False,positional,CROME,,,,Sec. XVIII
+BO0624_83758,33716,17,17,"Crome. Une Ferme, pres Norwich.",283,83.0,False,positional,CROME,,,,
+BO0624_83758,33717,18,18,"CROOS, J.VAN. 1650. Marine par un gros temps.",297,73.8,False,title_direct,CROOS,,,,Sec. XVII
+BO0624_83758,33718,19,19,"Cuyp, Albert. 1606-1667. Le Depart pour la chasse.",316,65.8,False,positional,CUYP,,,,Sec. XVII
+BO0624_83758,33719,20,20,Drolling. 1752-1817. La Fuite.,329,45.7,False,positional,DROLLING,,,,Sec. XVIII
+BO0624_83758,33720,21,21,Drolling. 1752-1817. Le Regret.,333,53.1,False,positional,DROLLING,,,,Sec. XVIII
+BO0624_83758,33721,22,22,"GRYF, ADRIEN. XVII siecle. Chasseurs, chiens et gibier.",364,68.4,False,title_direct,GRYF,,,,Sec. XVII
+BO0624_83758,33722,23,23,"HALS, DIRCK.1589-1656. Scene de cour.",384,55.3,False,title_direct,HALS,,,,Sec. XVII
+BO0624_83758,33723,24,24,Mierevelt. 1567-1641. Portrait d’une Dame de qualite.,399,77.1,False,positional,MIEREVELT,,,,Sec. XVI
+BO0624_83758,33724,25,25,Mierevelt.  Portrait d'un seigneur hollandais.,416,86.1,False,positional,MIEREVELT,,,,
+BO0624_83758,33725,26,26,Mierevelt. Portrait d'homme.,429,75.6,False,positional,MIEREVELT,,,,
+BO0624_83758,33726,27,27,Mierevelt. Portrait de jeune femme.,443,81.4,False,positional,MIEREVELT,,,,
+BO0624_83758,33727,28,28,"MIERIS, FRANCOISVAN. 1689-1763. L'Attente.",454,64.6,False,title_direct,MIERIS,,,,Sec. XVIII
+BO0624_83758,33728,29,29,Moro. 1512-1581. Portrait d'une princesse.,469,72.7,False,positional,MORO,,,,Sec. XVI
+BO0624_83758,33729,30,30,Moucheron. Velde. 1633-1672. Le Parc.,502,50.0,False,positional,VELDE,,,,Sec. XVII
+BO0624_83758,33730,31,31,"MURILLO, BARTHELEMY-ESTEBAN. 1618-1682. Sainte Rose.",505,54.5,False,title_direct,MURILLO,,,,Sec. XVII
+BO0624_83758,33731,32,32,Navez. 1787. Portrait du peintre David.,526,81.2,False,positional,NAVEZ,,,,Sec. XVIII
+BO0624_83758,33732,33,33,"NETSCHER, GASPARD. 1639-1684. La Lecon de chant. mportante composition. Cadre en bois sculpte.",553,65.2,False,title_direct,NETSCHER,,,,Sec. XVII
+BO0624_83758,33733,34,34,OMMEGANCK. 1755-1826. Paturage flamand.,562,61.8,False,title_direct,OMMEGANCK,,,,Sec. XVIII
+BO0624_83758,33734,35,35,Ostade. 1610-1685. La Partie.,581,57.9,False,positional,OSTADE,,,,Sec. XVII
+BO0624_83758,33735,36,36,Raphael Sanzio. Le Mariage mystique de sainte Catherine.,596,83.3,False,positional,RAPHAEL SANZIO,,,,
+BO0624_83758,740009,37,37,Raoux. 1677-1734. Danae.,635,52.4,False,positional,RAOUX,,,,Sec. XVIII
+BO0624_83758,740010,38,38,Rubens. 1577-1640. Loth et ses filles.,642,67.9,False,positional,RUBENS,,,,Sec. XVII
+BO0624_83758,740011,39,39,RUYSDAEL. 1628-1682. Entrèe de foret.,657,57.7,False,title_direct,RUYSDAEL,,,,Sec. XVII
+BO0624_83758,740012,40,40,Velde. 1633-1707. Marine hollandaise.,686,65.5,False,positional,VELDE,,,,Sec. XVII
+BO0624_83758,740013,41,41,"VINCI, Leonarde de. Jesus et saint Jean-Baptiste enfants.",713,80.0,False,title_direct,VINCI,,,,
+BO0624_83758,740014,42,42,Vos. 1585-1651. Portraits d’une dame et de ses enfants.,728,84.4,False,positional,VoS,,,,Sec. XVII
+BO0624_83758,740015,43,43,Vos. Portraits d'un homme et d'un jeune garcon.,747,71.4,False,positional,VOS,,,,
+BO0624_83758,740016,44,44,VoS. 1590-1678. Oiseaux de divers plumages.,776,78.8,False,title_direct,VoS,,,,Sec. XVII
+BO0624_83758,740017,45,45,VoS. 1590-1678. Chiens et gibier.,782,65.3,False,title_direct,VoS,,,,Sec. XVII
+BO0624_83758,740018,46,46,Wouwerman. 1620-1668. Le Depart pour la chasse.,793,73.2,False,positional,WOUWERMAN,,,,Sec. XVII
+BO0624_83758,740019,47,47,Wouwerman. Halte devant une chaumiere.,812,83.1,False,positional,WOUWERMAN,,,,
+BO0624_83758,740020,48,48,"WYNANTS, JEAN. 1600-1670. Paysage; effet de soleil couchant.",833,71.1,False,title_direct,WYNANTS,,,,Sec. XVII
+BO0624_83758,740022,49,49,Ecole hollandaise. XVIII siecle. Paravent a six feuilles.,837,38.9,False,positional,WYNANTS,,,,Sec. XVIII
+BO0624_83758,740023,50,50,Garniture de cinq pieces,839,43.6,False,positional,WYNANTS,,,,
+BO0624_83758,740024,51,51,Deux grandes potiches,841,42.9,False,positional,WYNANTS,,,,
+BO0624_83758,740025,52,52,Medaillon ovale,845,40.9,False,positional,WYNANTS,,,,
+BO0624_83758,740026,53,53,Medaillon ovale,847,32.4,False,positional,WYNANTS,,,,
+BO0624_83758,740027,54,55,Deux grands landiers en bronze,848,38.3,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83758,740028,55,56,Grande pendule,852,40.0,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83758,740029,56,57,Statuette en bronze,858,34.0,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83758,740030,57,58,Paire de candelabres,865,51.6,False,positional,,,PORCELAINES,,
+BO0624_83758,740031,58,59,Paire de candelabres,879,38.8,False,positional,,,SCULPTURES,,
+BO0624_83758,740032,59,60,Deux Chenets,886,38.9,False,positional,,,SCULPTURES,,
+BO0624_83758,740033,60,61,Grande pendule,888,73.3,False,positional,,,BRONZES; PENDULES,,
+BO0624_83758,740034,61,62,Deux grands candelabres,890,34.1,False,positional,,,BRONZES; PENDULES,,
+BO0624_83758,740035,62,63,Ecran en bois sculptè,903,41.9,False,positional,,,BRONZES; PENDULES,,
+BO0624_83758,740036,63,64,Paravent en bois dorè,909,46.8,False,positional,,,BRONZES; PENDULES,,
+BO0624_83758,740037,64,65,Tapisserie rectangulaire,938,66.7,False,positional,,,TAPISSERIE; TAPIS,,
+BO0624_83758,740038,65,66,Tapis rectangulaire,945,33.3,False,positional,,,TAPISSERIE; TAPIS,,

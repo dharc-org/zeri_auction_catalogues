@@ -1,133 +1,133 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_6334,74802,1,1,PERUZZI BALDASSARRE  Accaiano-1481-1536. Didone accoglie Cupido e i doni offerti da Enea.,69.0,73.4,False,title_direct,PERUZZI BALDASSARRE,,
-BO0624_6334,74803,2,2,DOMENICO MORONE o ANDREA MANTEGNA  (SCUOLA DI). Trionfo di Costantino sopra i Franchi.,,50.0,True,title_direct,ANDREA MANTEGNA,,
-BO0624_6334,74804,3,3,MARCO D'OGGIONO  discepolo di LEONARDO DA VINCI.  Milano-morto nel 1530. Riproduzione esatta della Cena del suo maestro Leonardo da Vinci.,,53.7,True,title_direct,MARCO D'OGGIONO,,
-BO0624_6334,74805,4,4,GARRUCCI GIACOMO  detto PONTORNO.  Pontorno-1493-1558.Ritratto dello storico Guicciardini.,,45.3,True,title_direct,GARRUCCI GIACOMO,,
-BO0624_6334,74806,5,5,AMERIGHI MICHEL-ANGELO  detto CARAVAGGIO  Milano-1569-1609.Ritratto di D. Eudemio Raimondi.,,40.7,True,title_direct,AMERIGHI MICHEL-ANGELO,,
-BO0624_6334,74807,6,6,SCUOLA BERGAMASGA  Maniera del MoRoNE. Mezza figura di un Cavaliere di Malta.,,58.6,True,title_direct,,SCUOLA BERGAMASCA,
-BO0624_6334,74808,7,7,BARBIERI GIANFRANCESCO  detto il GUERCINO.  Scuola bolognese 1591-1666.Ritratto di Beatrice Cenci.,,43.8,True,title_direct,BARBIERI GIANFRANCESCO,,
-BO0624_6334,74809,8,8,"PROCACCINI ERCOLE  detto il VECCHIO.  Bologna.-1520-1591. Fregio rappresentante il 《 Trionfo di Galatea 》. Tela.-Cornice dorata.-Altezza m.0,80X2,22. Frise representant le《Tri",181.0,78.6,False,title_direct,PROCACCINI ERCOLE,,
-BO0624_6334,74810,9,9,"LANDINI JACOPO  detto JACOPO DA CASENTINO Prato Vecchio.-1310. Scuola primitiva fiorentina. Gesu sulle rive del Giordano,chiamando a se Pietro e Andrea.",185.0,65.5,False,title_direct,LANDINI JACOPO,,
-BO0624_6334,74811,10,10,PROCACCINI CAMILLO  Bologna -1546-1626.L'Annunciazione.,,52.1,True,title_direct,PROCACCINI CAMILLO,,
-BO0624_6334,74812,11,11,GIAMPETRINO da MILANO  (ATTRIBUITO A). Cristo alla colonna.,,53.7,True,title_direct,GIAMPETRINO da MILANO,,
-BO0624_6334,74813,12,12,RAFFAELLINO DAL COLLE  Seuola Fiorentina.-1546.Busto raffigurante 《!a Modestia》.,212.0,60.9,False,title_direct,RAFFAELLINO DAL COLLE,,
-BO0624_6334,74814,13,13,RAZZI GIOV.ANTONIO  detto il SODOMA.  Scuola piemontese -1479-1554. Giunone.,,56.3,True,title_direct,RAZZI GIOV.ANTONIO,,
-BO0624_6334,74815,14,14,BOCCACCINO BOCCACCIO  Cremona-1516.Ritratto della celebre 《Dama di Challant.》,,56.2,True,title_direct,BOCCACCINO BOCCACCIO,,
-BO0624_6334,74816,15,15,MORONE DOMENICO  (ATTRIBUITO A) Ritratto virile di prospetto.,248.0,63.0,False,title_direct,MORONE DOMENICO,,
-BO0624_6334,74817,16,16,CARIANI GIOVANNI  Bergamo -1519. Ritratto di personaggio della famiglia Albani da,259.0,77.3,False,title_direct,CARIANI GIOVANNI,,
-BO0624_6334,74818,17,17,BASAITI MARCO  del Friuli-1520. San Girolamo nel deserto;dipinto firmato:Busaitti.,273.0,66.2,False,title_direct,BASAITI MARCO,,
-BO0624_6334,74819,18,18,"PENNI GIANFRANCESCO  detto il PASTORE.  Firenze-1488(?)-1528. Madonna col Bambino e San Giovanni;allato, monogramma.",291.0,62.8,False,title_direct,PENNI GIANFRANCESCO,,
-BO0624_6334,74820,19,19,"VANNUCCHI ANDREA  detto ANDREA DEL SARTO.  Firenze --1488-1530. Madonna col Bambino, San Giuseppe e San Giovanni.",,57.9,True,title_direct,VANNUCCHI ANDREA,,
-BO0624_6334,74821,20,20,"CAPRIOLI FRANCESCO  Scuola Umbra -Sec.XV.  - 20.Madonna col Bambino, S. Giuseppe e S.Giovanni.  Tavola.-Cornice dorata.--Altezza m.0,46X0,42  Tav.XII del Catalogo.  La Vierge avec IEnfant, St Joseph et St Jean.-Tableau de tres beau dessin et colori, signe avec la marque DC.",,57.7,True,title_direct,CAPRIOLI FRANCESCO,,
-BO0624_6334,74822,21,21,VECELLIO TIZIANO  Cadore-1477-1576. Madonna col Bambino e S. Giovanni.,332.0,63.6,False,title_direct,VECELLIO TIZIANO,,
-BO0624_6334,74823,22,22,TISIO BENVENUTO  detto il GAROFOLO.  Ferrarese-1181-1559.Deposizione della Croce.,,46.7,True,title_direct,TISIO BENVENUTO,,
-BO0624_6334,74824,23,23,TISIO BENVENUTO  detto il GAROFOLO.  Ferrarese-1181-1559. Ritratto di un duchino.,,47.2,True,title_direct,TISIO BENVENUTO,,
-BO0624_6334,74825,24,24,"CANAL ANTONIO  detto il CANALETTO. Veduta della Piazza di San Marco di Venezia, dalla",371.0,68.8,False,title_direct,CANAL ANTONIO,,
-BO0624_6334,74826,25,25,"GUARDI FRANCESCO  Venezia-1712-1793. Veduta della Piazza di San Marco di Venezia, dalla Piazzetta omonima.",,46.3,True,title_direct,GUARDI FRANCESCO,,
-BO0624_6334,74827,26,26,CALIARI PAOLO  detto il VERONESE.  Verona -1530-1588. Il Ratto di Europa.,,44.8,True,title_direct,CALIARI PAOLO,,
-BO0624_6334,74828,27,27,COMI GIROLAMO  Modena- Secolo XVI. Le nozze di Canaan; firmato dall'autore: HlERONVMVS COMIVS SMVTINENSISPINGEBAT MDLXVIIII.,391.0,83.3,False,title_direct,COMI GIROLAMO,,
-BO0624_6334,74829,28,28,CASSANA GIOV.AGOSTINO  Prov.di Genova -1658-1720. A.Due dipinti:Conigli.,,52.1,True,title_direct,CASSANA GIOV.AGOSTINO,,
-BO0624_6334,74830,29,29,GIORDANO LUCA  detto FA PRESTO.  Napoli-1632-1705. Favola d'Esopo.,,40.0,True,title_direct,GIORDANO LUCA,,
-BO0624_6334,74831,30,30,STROZZI BERNARDO  detto il PRETE GENOVESE.  Genova-1581-1694. Ritratto di un prelato.,,45.5,True,title_direct,STROZZI BERNARDO,,
-BO0624_6334,74832,31,31,RENI GUIDO  (SCUOLA DI). S. Giuseppe tenendo Gesu Bambino.,434.0,72.3,False,title_direct,RENI GUIDO,,
-BO0624_6334,74833,32,32,DURANTE GIORGIO (conte)  Brescia-1683-1755. Gallo e gallina.,,54.1,True,title_direct,DURANTE GIORGIO,,
-BO0624_6334,74834,33,33-34,"CRESPI GIO.BATTISTA  detto CERANO.  Cerano (Novara)-1557-1633.Due quadretti,raffiguranti due puttini alati.",453.0,61.5,False,title_direct,CRESPI GIO.BATTISTA,,
-BO0624_6334,74835,34,35,DOLCI CARLO  Firenze-1616-1686. L'Addolorata.,,58.1,True,title_direct,DOLCI CARLO,,
-BO0624_6334,74836,35,36,DOLCI CARLO  Firenze-1616-1686. La Maddalena.,,58.1,True,title_direct,DOLCI CARLO,,
-BO0624_6334,74837,36,37-38,SCUOLA DEI CARACCI. Due piccoli dipinti di forma ovale:《 La Concezione 》 e 《la Maddalena 》.,477.0,86.4,False,title_direct,,SCUOLA DEI CARACCI,
-BO0624_6334,74838,37,39-40,CARPIONI GIULIO  Venezia -1611-1671.Due dipinti ovali: Puttini e paesaggi.,486.0,68.4,False,title_direct,CARPIONI GIULIO,,
-BO0624_6334,74839,38,41,NUVOLONE PANFILO  Cremona -XVIIo Secolo. La Seduzione.,,58.7,True,title_direct,NUVOLONE PANFILO,,
-BO0624_6334,74840,39,42,GHISLANDI DOMENICO  detto FRA CALGAR.  Bergamo.-1662. Busto di prospetto di un giovane cavaliere.,510.0,64.8,False,title_direct,GHISLANDI DOMENICO,,
-BO0624_6334,74841,40,43,AMIGONI GIACOMO  Venezia-1675-1752. Oratore Sacro. Mezza figura di un Cappuccino. l est represente debout de face tenant un mouchoir dans la main droite et tournant de la gauche les feuilles d'un livre pose sur une table.,526.0,77.2,False,title_direct,AMIGONI GIACOMO,,
-BO0624_6334,74842,41,44,DAVID LUIGI ANTONIO  Lugano -1718. Ritratto di giovane uomo incognito.,531.0,67.3,False,title_direct,DAVID LUIGI ANTONIO,,
-BO0624_6334,74843,42,45,GUIDOBONO BARTOLOMEO  detto il PRETE DI SAVONA.  Scuola genovese-1654-1709. Ritratto di giovane donna con orecchini di perle,,51.2,True,title_direct,GUIDOBONO BARTOLOMEO,,
-BO0624_6334,74844,43,46,LONGHI  Secolo XVIII  - 46.Ritratto di giovane donna milanese.Miniatura  - firmata:Longhi:f.  Avorio.-Cornice in bronzo dorato.  Portrait de jeune dame milanaise. Miniature sur ivoire signee Longhi:f.,,53.4,True,title_direct,LONGHI,,
-BO0624_6334,74845,44,47,ZUCCARELLI FRANCESCO  Putignano (Siena)-1702-1788. Giovanetta seduta tenendo fra le braccia il fra-,562.0,68.0,False,title_direct,ZUCCARELLI FRANCESCO,,
-BO0624_6334,74846,45,48-49,ZUCCARELLI FRANCESCO  Putignano (Siena)-1702-1788.Due quadri:boscaglie.,,47.4,True,title_direct,ZUCCARELLI FRANCESCO,,
-BO0624_6334,74847,46,50-51,CITTADINI GAETANO.  Secolo xVIlI. Due piccoli paesaggi con figure.,575.0,63.5,False,title_direct,CITTADINI GAETANO,,
-BO0624_6334,74848,47,52,MAGNASCO ALESSANDRO  dettO LISSANDRINO.  da Genova-1681-1747. Paesaggio con eremita.,,44.4,True,title_direct,MAGNASCO ALESSANDRO,,
-BO0624_6334,74849,48,53,MAGNASCO ALESSANDRO  dettO LISSANDRINO.  da Genova-1681-1747. Due figure in maschera.,,43.6,True,title_direct,MAGNASCO ALESSANDRO,,
-BO0624_6334,74850,49,54,PORTA FERDINANDO  Milano-1689-1760. Busto di Santo in adorazione.,599.0,60.4,False,title_direct,PORTA FERDINANDO,,
-BO0624_6334,74851,50,55,PANNINI GIOV.PAOLO  Piacenza 1692-1765. Architettura.,,53.5,True,title_direct,PANNINI GIOV.PAOLO,,
-BO0624_6334,74852,51,56,BATTONI POMPEO  Lucca-1708-1787.Asceta; fondo di paesaggio.,620.0,62.9,False,title_direct,BATTONI POMPEO,,
-BO0624_6334,74853,52,57,RICCI SEBASTIANO  Cividale di Belluno-1662-1734. Il Ratto d'Europa. Enlevement d'Europe. Tres belle composition avec nombreuses figures.,634.0,66.7,False,title_direct,RICCI SEBASTIANO,,
-BO0624_6334,74854,53,58-59,ZAIS GIUSEPPE.  Venezia-1784.. Due Quadri: Paesaggi.,,53.2,True,title_direct,ZAIS GIUSEPPE,,
-BO0624_6334,74855,54,60,ZAIS GIUSEPPE.  Venezia-1784. Baccanale.,,53.6,True,title_direct,ZAIS GIUSEPPE,,
-BO0624_6334,74856,55,61-64,CARLEVARIS LUGA.  detto da CA ZENoBIO.  Udine-1665-1718.. Quattro paesaggi e porti di mare.,,54.3,True,title_direct,CARLEVARIS LUCA,,
-BO0624_6334,74857,56,65-66,ROSA SALVATORE  Napoli-1615-1673.Due Paesaggi.,,56.2,True,title_direct,ROSA SALVATORE,,
-BO0624_6334,74858,57,67,"FORABOSCO GIROLAMO  Veneto -Secolo xVII. Il Redentore.  Tela.-Cornice dorata.-Altezza m.0.65X0,53.  Le Sauveur.",,57.3,True,title_direct,FORABOSCO GIROLAMO,,
-BO0624_6334,74859,58,68,FORABOSCO GIROLAMO  Veneto -Secolo xVII. San Girolamo.,,54.8,True,title_direct,FORABOSCO GIROLAMO,,
-BO0624_6334,74860,59,69,RICCHI PIETRO  detto il LuccHEsE.  Lucca-1606-1675.L'Adorazione dei Magi.,,49.5,True,title_direct,RICCHI PIETRO,,
-BO0624_6334,74861,60,70,DELLA VECCHIA PIETRO  Venezia-1605-1678. Busto di giovane paggio con berretto rosso or- nato di piuma.,707.0,60.9,False,title_direct,DELLA VECCHIA PIETRO,,
-BO0624_6334,74862,61,71,DELLA VECCHIA PIETRO  Venezia-1605-1678. Sant'Andrea.,,41.7,True,title_direct,DELLA VECCHIA PIETRO,,
-BO0624_6334,74863,62,72,NOGARI GIUSEPPE  Veneto-1700(3)-1763. Archimede.,,59.7,True,title_direct,NOGARI GIUSEPPE,,
-BO0624_6334,74864,63,73,LAZZARINI GREGORIO  Venezia-1655-1730.()La Carita.,,58.0,True,title_direct,LAZZARINI GREGORIO,,
-BO0624_6334,74865,64,74,CARPIONI GIULIO  Venezia-1611-1674. Baccanale.,,54.8,True,title_direct,CARPIONI GIULIO,,
-BO0624_6334,74866,65,75,CASTIGLIONE GIOV.BENEDETTO  detto il GRECHETTO.  Genova-1616-1670. L'Arca d'Israele.,,46.8,True,title_direct,CASTIGLIONE GIOV.BENEDETTO,,
-BO0624_6334,74867,66,76,RICCI MARCO  Belluno-1679-1729.Paesaggio.,764.0,62.1,False,title_direct,RICCI MARCO,,
-BO0624_6334,74868,67,77-78,PAOLETTI PIETRO  Padova -1735.Due quadri:Battaglie.,770.0,62.3,False,title_direct,PAOLETTI PIETRO,,
-BO0624_6334,74869,68,79-80,LANGETTI GIOV.BATTISTA  Genova -1635-1676. Due dipinti: Teste virili.,,56.0,True,title_direct,LANGETTI GIOV.BATTISTA,,
-BO0624_6334,74870,69,81,LAMBERTI BONAVENTURA  Carpi-1652-1721. Contadina che tiene un mastello.,790.0,66.0,False,title_direct,LAMBERTI BONAVENTURA,,
-BO0624_6334,74871,70,82,BISSONI GIO. BATTISTA  Padova -1576-1636. Bacco attorniato da puttini.,,59.4,True,title_direct,BISSONI GIO. BATTISTA,,
-BO0624_6334,74872,71,83,CESARI GIUSEPPE  dettO il CAVALIER D'ARPINO. Arpino-1560-1640. Martirio di un santo.,807.0,70.3,False,title_direct,CESARI GIUSEPPE,,
-BO0624_6334,74873,72,84,MARATTI CARLO  (ATTRIBUITO A)  Camerino -1625-1713. San Giovanni fanciullo.,,46.5,True,title_direct,MARATTI CARLO,,
-BO0624_6334,74874,73,85-86,PITOCCHI (de') MATTEO  Firenze -1700. Due quadri:Beone e vecchia con cane.,829.0,67.2,False,positional,PITOCCHI MATTEO,,
-BO0624_6334,74875,74,87,SCUOLA CREMONESE. Madonna col Bambino.,,59.6,True,title_direct,,SCUOLA CREMONESE,
-BO0624_6334,74876,75,88-89,SCUOLA ROMANA  Secolo XVI. Due battaglie.,,50.0,True,title_direct,,SCUOLA ROMANA,
-BO0624_6334,74877,76,95,"SCUOLA PRIMITIVA FIORENTINA  - 95.Cristo e i dodici Apostoli.Predella di altare in - campo d'oro.  Tavola -Cornice dorata.-Altezza m. 0,23X1,31.  Le Christ et les douze Apotres; devant de retable.Peinture sur fond d'or.",,50.5,True,title_direct,,SCUOLA PRIMITIVA FIORENTINA,
-BO0624_6334,74878,77,96,"SCUOLA VENEZIANA  - 96.Madonna del Rosario.  Tela.--Altezza m.0,90X0,73.  La Vierge du Rosaire.",,45.4,True,title_direct,,SCUOLA VENEZIANA,
-BO0624_6334,74879,78,90-91,"IGNOTO. Due quadri: Teste di Santi.  Tele.-Cornici di noce.—Altezza m. 0,34X0.28.  Deux tableaux:tetes de Saints.",,56.8,True,none,,,
-BO0624_6334,74880,79,92,IGNOTO. La Crocifissione.,879.0,73.9,False,positional,,SCUOLA VENEZIANA,
-BO0624_6334,74881,80,93,"SCUOLA SPAGNUOLA  Secolo XVII. La Sacra Famiglia.  Tela.-Cornice dorata.-Altezza m.1,50X1.10.  La Vierge assise et St Joseph tiennent ensemble I'Enfant Jesus.",,57.8,True,title_direct,,SCUOLA SPAGNUOLA,
-BO0624_6334,74882,81,94,IGNOTO. Madonna col Bambino.,,57.1,True,none,,,
-BO0624_6334,74883,82,97,IGNOTO. Il Redentore e la Madonna.,900.0,85.7,False,positional,,SCUOLA SPAGNUOLA,
-BO0624_6334,74884,83,98,"IGNOTO. La Vergine con Gesu bambino,attorniati da",906.0,80.0,False,positional,,SCUOLA SPAGNUOLA,
-BO0624_6334,74885,84,99,SCUOLA GENOVESE  Secolo XVII. Ritratto di un Cardinale di famiglia Grimaldi.,,59.7,True,title_direct,,SCUOLA GENOVESE,
-BO0624_6334,74886,85,100,SCUOLA GENOVESE  Secolo XVII. Ritratto di un doge genovese.,925.0,65.2,False,title_direct,,SCUOLA GENOVESE,
-BO0624_6334,74887,86,101,"SCUOLA NAPOLETANA  Secolo XVII. Gesu morto, le tre Marie e Giuseppe d'Arimatea.",935.0,72.3,False,title_direct,,SCUOLA NAPOLETANA,
-BO0624_6334,74888,87,102,INCERTO (NARDI FELICE?). Busto di un frate Cappuccino.,945.0,68.2,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74889,88,103,"INCERTO Secolo XVII. Busto di eremita.  Tela. - Cornice a finto ebano a sbalzo. -Altezza m. 0,39X0,29  Buste d'un hermite.",956.0,67.4,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74890,89,104,"IGNOTO Secolo XVII. S. Giovanni Evangelista.  Dipinto sopra agata.- Cornice di ebano.  St Jean l'Evangeliste assis; fond de paysage; au dessus, la Conception.",968.0,62.6,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74891,90,105,IGNOTO Secolo XVII.  Santa Cecilia.  Dipinto sopra agata.- Cornice di ebano e pietre dure. Sainte Cecile.Peinture sur agathe.,972.0,83.4,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74892,91,106,IGNOTO Secolo XVII. Paesaggio con figure.,974.0,65.7,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74893,92,107,IGNOTO Secolo XVII. Sacra Famiglia in un paesaggio.,978.0,71.3,False,positional,,SCUOLA NAPOLETANA,
-BO0624_6334,74894,93,108,SCUOLA ITALIANA  Secolo XVII. Susanna tentata dai vecchioni.,986.0,66.0,False,title_direct,,SCUOLA ITALIANA,
-BO0624_6334,74895,94,109,SCUOLA ITALIANA  Secolo XVIII. Diana cacciatrice.,,48.6,True,title_direct,,SCUOLA ITALIANA,
-BO0624_6334,74896,95,110-110A,SCUOLA ITALIANA  Secolo XVIII. Due quadri: Paesaggi.,,50.6,True,title_direct,,SCUOLA ITALIANA,
-BO0624_6334,74897,96,111,ELASQUEZ (RODRIGUEZ DE SILVA Y) DIEGO  Sevilla.-1599-1660.. Ritratto di Filippo Spinola.,,48.4,True,none,,,
-BO0624_6334,74898,97,112,"MIEREVELT MICHELE GIOVANNI  Delft.-1567-1611,Ritratto di giovanetto.",,52.6,True,title_direct,MIEREVELT MICHELE GIOVANNI,,
-BO0624_6334,74899,98,113-114,MOLYN PIETRO  detto il TEMPEsTA. Haarlem -1637()-1701. Due dipinti:Mare in burrasca.,1023.0,65.0,False,title_direct,MOLYN PIETRO,,
-BO0624_6334,74900,99,119,"BREUGHEL PIETRO (il Giovane)  detto l'ENFER.  Bruxelles-1564(l)-1638. L'Inferno. 'Enfer et ses tourments. Representation etrange avec figures hu- maines,monstres et animaux fantastiques.",1034.0,72.4,False,title_direct,BREUGHEL PIETRO,,
-BO0624_6334,74901,100,120,RUYTEN (van) GIOV. MICHELE  Anversa.-1813. Paesaggio con figure.,,58.4,True,none,,,
-BO0624_6334,74902,101,115-116,MIEL GIOVANNI  detto DELLA VITE.  Anversa.-1599. Due dipinti:Bevitori allosteria e soggetto campestre.,1052.0,70.4,False,title_direct,MIEL GIOVANNI,,
-BO0624_6334,74903,102,117-118,TENIERS DAVIDE （il Giovane)  Anversa.-1610-1690? Due quadri: testa di uomo e testa di donna.,1062.0,64.8,False,title_direct,TENIERS DAVIDE,,
-BO0624_6334,74904,103,121,VERMEULEN ANDREA  Dordrecht-1763-1814. Interno di una cattedrale.,,59.6,True,title_direct,VERMEULEN ANDREA,,
-BO0624_6334,74905,104,122,VOS (de) CORNELIO  Anversa.-1585-1651. La Flagellazione.,,51.9,True,none,,,
-BO0624_6334,74906,105,123,NEER (van der) ARTURO  Scuola Olandese.-1660. Marina.,,59.5,True,none,,,
-BO0624_6334,74907,106,124-129,SCUOLA FIAMMINGA  Secolo xVII. Sei dipinti:Fiori.,,48.6,True,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74908,107,130,ZEGERS DANIELE  Anversa -—1590-61. La Maddalena entro ghirlanda di fiori.,1113.0,71.9,False,title_direct,ZEGERS DANIELE,,
-BO0624_6334,74909,108,131,"SUSTERMANN JUSTE  di Anversa, ma Scuola Fiorentina. -1597-1681. Ritratto di Cosimo IHI de’ Medici.",1122.0,61.0,False,title_direct,SUSTERMANN JUSTE,,
-BO0624_6334,74910,109,132,HONTHORST GHERARD  detto GHERARDO DELLE NoTTI  Utrecht.-—1592-16..? La Cena.,,52.0,True,title_direct,HONTHORST GHERARD,,
-BO0624_6334,74911,110,133-134,ZEEMAN J.  Scuola Olandese.-1807. Due Marine.,1144.0,66.7,False,title_direct,ZEEMAN J.,,
-BO0624_6334,74912,111,135,"VAN DYCK ANTONIO  (attribuito a)  Secolo XVIl. Ritratto di giovane donna in costume, la testa con lunga capigliatura adorna di piume.",1158.0,78.4,False,title_direct,VAN DYCK ANTONIO,,
-BO0624_6334,74913,112,136,HELST (van der) BARTOLOMEO (?)  mort en 1670. Due bambine in costume dei sec.XVI condotte da una istitutrice.,1167.0,75.4,False,positional,HELST BARTOLOMEO,,
-BO0624_6334,74914,113,137-138,"POELEMBURG (von) CORNELIO  Scuola Olandese,-1586-1667. Due dipinti: figure e paesaggi.",,52.8,True,none,,,
-BO0624_6334,74915,114,139,BOOKS. Scuola Fiamminga. Bambocciata.,1185.0,60.4,False,positional,POELEMBURG CORNELIO,,
-BO0624_6334,74916,115,140,CRANACH LUCA (il Vecchio)  (attribuito a). Busto di prospetto di personaggio olandese.,1195.0,66.2,False,title_direct,CRANACH LUCA,,
-BO0624_6334,74917,116,141,"DENNER BALTHAZAR  Hambourg -1685-1749. Mezza figura di vecchia, con rosario nelle mani.",1206.0,74.8,False,title_direct,DENNER BALTHAZAR,,
-BO0624_6334,74918,117,142,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl. Battaglia.,1216.0,72.3,False,title_direct,STOM MATTEO,,
-BO0624_6334,74919,118,143-146,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl. Quattro Battaglie.,,36.4,True,title_direct,STOM MATTEO,,
-BO0624_6334,74920,119,147-148,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl.Due Battaglie.,,36.2,True,title_direct,STOM MATTEO,,
-BO0624_6334,74921,120,149,POUSSIN NICCOLO'  Les Andelys (Normandie).-1594-1665. Gesu Cristo consegna le chiavi a San Pietro.,1240.0,65.8,False,title_direct,POUSSIN NICCOLO',,
-BO0624_6334,74922,121,150-151,SCUOLA TEDESCA. Due dipinti: Cavalieri.,1247.0,64.8,False,title_direct,,SCUOLA TEDESCA,
-BO0624_6334,74923,122,152,SCUOLA OLANDESE  Secolo xVII. Paesaggio con pastori ed armenti.,1257.0,68.0,False,title_direct,,SCUOLA OLANDESE,
-BO0624_6334,74924,123,153,SCUOLA OLANDESE  Secolo xVII. Carovana in riposo.,,52.8,True,title_direct,,SCUOLA OLANDESE,
-BO0624_6334,74925,124,154,SCUOLA OLANDESE  Secolo xVII. Interno di abitazione fiamminga.,1271.0,66.0,False,title_direct,,SCUOLA OLANDESE,
-BO0624_6334,74926,125,155,SCUOLA OLANDESE  Secolo xVII. Battaglia.,,45.6,True,title_direct,,SCUOLA OLANDESE,
-BO0624_6334,74927,126,156,"SCUOLA FIAMMINGA. Tre dipinti ovali su tela, animali.",1285.0,79.6,False,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74928,127,157-158,SCUOLA FIAMMINGA.Tre paesaggi.,,54.9,True,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74929,128,159,SCUOLA FIAMMINGA. Natura morta.,,58.3,True,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74930,129,160,SCUOLA FIAMMINGA Secolo XVI. La Madonna col Bambino; mezze figure.,1300.0,68.5,False,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74931,130,161-162,SCUOLA FIAMMINGA Secolo XVI.  Due dipinti: Vasi di fiori e frutta.,1308.0,66.1,False,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,74932,131,163-164,SCUOLA FIAMMINGA Secolo XVI.  Due dipinti:Animali morti.,,58.4,True,title_direct,,SCUOLA FIAMMINGA,
-BO0624_6334,740283,132,165,SCUOLA FRANCESE. Busto di giovane donna con capelli cadenti sulle spalle.,1320.0,83.6,False,title_direct,,SCUOLA FRANCESE,
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_6334,74802,1,1,PERUZZI BALDASSARRE  Accaiano-1481-1536. Didone accoglie Cupido e i doni offerti da Enea.,69,72.6,False,title_direct,PERUZZI BALDASSARRE,,,,Sec. XVI
+BO0624_6334,74803,2,2,DOMENICO MORONE o ANDREA MANTEGNA  (SCUOLA DI). Trionfo di Costantino sopra i Franchi.,84,63.3,False,title_direct,ANDREA MANTEGNA,,,,
+BO0624_6334,74804,3,3,MARCO D'OGGIONO  discepolo di LEONARDO DA VINCI.  Milano-morto nel 1530. Riproduzione esatta della Cena del suo maestro Leonardo da Vinci.,115,66.3,False,title_direct,MARCO D'OGGIONO,,,,Sec. XVI
+BO0624_6334,74805,4,4,GARRUCCI GIACOMO  detto PONTORNO.  Pontorno-1493-1558.Ritratto dello storico Guicciardini.,127,60.2,False,title_direct,GARRUCCI GIACOMO,,,,Sec. XVI
+BO0624_6334,74806,5,5,AMERIGHI MICHEL-ANGELO  detto CARAVAGGIO  Milano-1569-1609.Ritratto di D. Eudemio Raimondi.,142,53.8,False,title_direct,AMERIGHI MICHEL-ANGELO,,,,Sec. XVI
+BO0624_6334,74807,6,6,SCUOLA BERGAMASGA  Maniera del MoRoNE. Mezza figura di un Cavaliere di Malta.,152,67.3,False,title_direct,,SCUOLA BERGAMASCA,,,
+BO0624_6334,74808,7,7,BARBIERI GIANFRANCESCO  detto il GUERCINO.  Scuola bolognese 1591-1666.Ritratto di Beatrice Cenci.,164,44.3,False,title_direct,BARBIERI GIANFRANCESCO,,,,Sec. XVII
+BO0624_6334,74809,8,8,"PROCACCINI ERCOLE  detto il VECCHIO.  Bologna.-1520-1591. Fregio rappresentante il 《 Trionfo di Galatea 》. Tela.-Cornice dorata.-Altezza m.0,80X2,22. Frise representant le《Tri",181,75.9,False,title_direct,PROCACCINI ERCOLE,,,,Sec. XVI
+BO0624_6334,74810,9,9,"LANDINI JACOPO  detto JACOPO DA CASENTINO Prato Vecchio.-1310. Scuola primitiva fiorentina. Gesu sulle rive del Giordano,chiamando a se Pietro e Andrea.",185,65.8,False,title_direct,LANDINI JACOPO,,,,Sec. XIV
+BO0624_6334,74811,10,10,PROCACCINI CAMILLO  Bologna -1546-1626.L'Annunciazione.,193,49.3,False,title_direct,PROCACCINI CAMILLO,,,,Sec. XVI
+BO0624_6334,74812,11,11,GIAMPETRINO da MILANO  (ATTRIBUITO A). Cristo alla colonna.,201,56.0,False,title_direct,GIAMPETRINO da MILANO,,,,
+BO0624_6334,74813,12,12,RAFFAELLINO DAL COLLE  Seuola Fiorentina.-1546.Busto raffigurante 《!a Modestia》.,212,58.5,False,title_direct,RAFFAELLINO DAL COLLE,,,,Sec. XVI
+BO0624_6334,74814,13,13,RAZZI GIOV.ANTONIO  detto il SODOMA.  Scuola piemontese -1479-1554. Giunone.,222,55.7,False,title_direct,RAZZI GIOV.ANTONIO,,,,Sec. XVI
+BO0624_6334,74815,14,14,BOCCACCINO BOCCACCIO  Cremona-1516.Ritratto della celebre 《Dama di Challant.》,236,71.3,False,title_direct,BOCCACCINO BOCCACCIO,,,,Sec. XVI
+BO0624_6334,74816,15,15,MORONE DOMENICO  (ATTRIBUITO A) Ritratto virile di prospetto.,248,65.9,False,title_direct,MORONE DOMENICO,,,,
+BO0624_6334,74817,16,16,CARIANI GIOVANNI  Bergamo -1519. Ritratto di personaggio della famiglia Albani da,259,77.5,False,title_direct,CARIANI GIOVANNI,,,,Sec. XVI
+BO0624_6334,74818,17,17,BASAITI MARCO  del Friuli-1520. San Girolamo nel deserto;dipinto firmato:Busaitti.,273,72.0,False,title_direct,BASAITI MARCO,,,,Sec. XVI
+BO0624_6334,74819,18,18,"PENNI GIANFRANCESCO  detto il PASTORE.  Firenze-1488(?)-1528. Madonna col Bambino e San Giovanni;allato, monogramma.",291,67.9,False,title_direct,PENNI GIANFRANCESCO,,,,Sec. XV
+BO0624_6334,74820,19,19,"VANNUCCHI ANDREA  detto ANDREA DEL SARTO.  Firenze --1488-1530. Madonna col Bambino, San Giuseppe e San Giovanni.",320,59.6,False,title_direct,VANNUCCHI ANDREA,,,,Sec. XVI
+BO0624_6334,74821,20,20,"CAPRIOLI FRANCESCO  Scuola Umbra -Sec.XV.  - 20.Madonna col Bambino, S. Giuseppe e S.Giovanni.  Tavola.-Cornice dorata.--Altezza m.0,46X0,42  Tav.XII del Catalogo.  La Vierge avec IEnfant, St Joseph et St Jean.-Tableau de tres beau dessin et colori, signe avec la marque DC.",326,58.5,False,title_direct,CAPRIOLI FRANCESCO,,,,
+BO0624_6334,74822,21,21,VECELLIO TIZIANO  Cadore-1477-1576. Madonna col Bambino e S. Giovanni.,332,67.3,False,title_direct,VECELLIO TIZIANO,,,,Sec. XVI
+BO0624_6334,74823,22,22,TISIO BENVENUTO  detto il GAROFOLO.  Ferrarese-1181-1559.Deposizione della Croce.,344,46.6,False,title_direct,TISIO BENVENUTO,,,,Sec. XII
+BO0624_6334,74824,23,23,TISIO BENVENUTO  detto il GAROFOLO.  Ferrarese-1181-1559. Ritratto di un duchino.,350,45.5,False,title_direct,TISIO BENVENUTO,,,,Sec. XII
+BO0624_6334,74825,24,24,"CANAL ANTONIO  detto il CANALETTO. Veduta della Piazza di San Marco di Venezia, dalla",359,74.6,False,title_direct,CANAL ANTONIO,,,,
+BO0624_6334,74826,25,25,"GUARDI FRANCESCO  Venezia-1712-1793. Veduta della Piazza di San Marco di Venezia, dalla Piazzetta omonima.",371,80.2,False,title_direct,GUARDI FRANCESCO,,,,Sec. XVIII
+BO0624_6334,74827,26,26,CALIARI PAOLO  detto il VERONESE.  Verona -1530-1588. Il Ratto di Europa.,385,43.8,False,title_direct,CALIARI PAOLO,,,,Sec. XVI
+BO0624_6334,74828,27,27,COMI GIROLAMO  Modena- Secolo XVI. Le nozze di Canaan; firmato dall'autore: HlERONVMVS COMIVS SMVTINENSISPINGEBAT MDLXVIIII.,391,84.1,False,title_direct,COMI GIROLAMO,,,,Sec. XVI
+BO0624_6334,74829,28,28,CASSANA GIOV.AGOSTINO  Prov.di Genova -1658-1720. A.Due dipinti:Conigli.,400,52.6,False,title_direct,CASSANA GIOV.AGOSTINO,,,,Sec. XVII
+BO0624_6334,74830,29,29,GIORDANO LUCA  detto FA PRESTO.  Napoli-1632-1705. Favola d'Esopo.,410,41.6,False,title_direct,GIORDANO LUCA,,,,Sec. XVII
+BO0624_6334,74831,30,30,STROZZI BERNARDO  detto il PRETE GENOVESE.  Genova-1581-1694. Ritratto di un prelato.,420,44.7,False,title_direct,STROZZI BERNARDO,,,,Sec. XVII
+BO0624_6334,74832,31,31,RENI GUIDO  (SCUOLA DI). S. Giuseppe tenendo Gesu Bambino.,434,74.4,False,title_direct,RENI GUIDO,,,,
+BO0624_6334,74833,32,32,DURANTE GIORGIO (conte)  Brescia-1683-1755. Gallo e gallina.,437,55.3,False,title_direct,DURANTE GIORGIO,,,,Sec. XVIII
+BO0624_6334,74834,33,33-34,"CRESPI GIO.BATTISTA  detto CERANO.  Cerano (Novara)-1557-1633.Due quadretti,raffiguranti due puttini alati.",453,62.3,False,title_direct,CRESPI GIO.BATTISTA,,,,Sec. XVI
+BO0624_6334,74835,34,35,DOLCI CARLO  Firenze-1616-1686. L'Addolorata.,461,57.6,False,title_direct,DOLCI CARLO,,,,Sec. XVII
+BO0624_6334,74836,35,36,DOLCI CARLO  Firenze-1616-1686. La Maddalena.,469,49.1,False,title_direct,DOLCI CARLO,,,,Sec. XVII
+BO0624_6334,74837,36,37-38,SCUOLA DEI CARACCI. Due piccoli dipinti di forma ovale:《 La Concezione 》 e 《la Maddalena 》.,477,86.1,False,title_direct,,SCUOLA DEI CARACCI,,,
+BO0624_6334,74838,37,39-40,CARPIONI GIULIO  Venezia -1611-1671.Due dipinti ovali: Puttini e paesaggi.,486,67.9,False,title_direct,CARPIONI GIULIO,,,,Sec. XVII
+BO0624_6334,74839,38,41,NUVOLONE PANFILO  Cremona -XVIIo Secolo. La Seduzione.,494,57.1,False,title_direct,NUVOLONE PANFILO,,,,
+BO0624_6334,74840,39,42,GHISLANDI DOMENICO  detto FRA CALGAR.  Bergamo.-1662. Busto di prospetto di un giovane cavaliere.,510,64.7,False,title_direct,GHISLANDI DOMENICO,,,,Sec. XVII
+BO0624_6334,74841,40,43,AMIGONI GIACOMO  Venezia-1675-1752. Oratore Sacro. Mezza figura di un Cappuccino. l est represente debout de face tenant un mouchoir dans la main droite et tournant de la gauche les feuilles d'un livre pose sur une table.,526,78.3,False,title_direct,AMIGONI GIACOMO,,,,Sec. XVIII
+BO0624_6334,74842,41,44,DAVID LUIGI ANTONIO  Lugano -1718. Ritratto di giovane uomo incognito.,531,68.0,False,title_direct,DAVID LUIGI ANTONIO,,,,Sec. XVIII
+BO0624_6334,74843,42,45,GUIDOBONO BARTOLOMEO  detto il PRETE DI SAVONA.  Scuola genovese-1654-1709. Ritratto di giovane donna con orecchini di perle,541,53.3,False,title_direct,GUIDOBONO BARTOLOMEO,,,,Sec. XVII
+BO0624_6334,74844,43,46,LONGHI  Secolo XVIII  - 46.Ritratto di giovane donna milanese.Miniatura  - firmata:Longhi:f.  Avorio.-Cornice in bronzo dorato.  Portrait de jeune dame milanaise. Miniature sur ivoire signee Longhi:f.,556,54.1,False,title_direct,LONGHI,,,,Sec. XVIII
+BO0624_6334,74845,44,47,ZUCCARELLI FRANCESCO  Putignano (Siena)-1702-1788. Giovanetta seduta tenendo fra le braccia il fra-,562,68.1,False,title_direct,ZUCCARELLI FRANCESCO,,,,Sec. XVIII
+BO0624_6334,74846,45,48-49,ZUCCARELLI FRANCESCO  Putignano (Siena)-1702-1788.Due quadri:boscaglie.,568,47.3,False,title_direct,ZUCCARELLI FRANCESCO,,,,Sec. XVIII
+BO0624_6334,74847,46,50-51,CITTADINI GAETANO.  Secolo xVIlI. Due piccoli paesaggi con figure.,575,68.7,False,title_direct,CITTADINI GAETANO,,,,
+BO0624_6334,74848,47,52,MAGNASCO ALESSANDRO  dettO LISSANDRINO.  da Genova-1681-1747. Paesaggio con eremita.,587,42.7,False,title_direct,MAGNASCO ALESSANDRO,,,,Sec. XVIII
+BO0624_6334,74849,48,53,MAGNASCO ALESSANDRO  dettO LISSANDRINO.  da Genova-1681-1747. Due figure in maschera.,593,45.1,False,title_direct,MAGNASCO ALESSANDRO,,,,Sec. XVIII
+BO0624_6334,74850,49,54,PORTA FERDINANDO  Milano-1689-1760. Busto di Santo in adorazione.,599,62.4,False,title_direct,PORTA FERDINANDO,,,,Sec. XVIII
+BO0624_6334,74851,50,55,PANNINI GIOV.PAOLO  Piacenza 1692-1765. Architettura.,605,52.9,False,title_direct,PANNINI GIOV.PAOLO,,,,Sec. XVIII
+BO0624_6334,74852,51,56,BATTONI POMPEO  Lucca-1708-1787.Asceta; fondo di paesaggio.,620,61.9,False,title_direct,BATTONI POMPEO,,,,Sec. XVIII
+BO0624_6334,74853,52,57,RICCI SEBASTIANO  Cividale di Belluno-1662-1734. Il Ratto d'Europa. Enlevement d'Europe. Tres belle composition avec nombreuses figures.,634,67.7,False,title_direct,RICCI SEBASTIANO,,,,Sec. XVII
+BO0624_6334,74854,53,58-59,ZAIS GIUSEPPE.  Venezia-1784.. Due Quadri: Paesaggi.,640,59.2,False,title_direct,ZAIS GIUSEPPE,,,,Sec. XVIII
+BO0624_6334,74855,54,60,ZAIS GIUSEPPE.  Venezia-1784. Baccanale.,646,41.7,False,title_direct,ZAIS GIUSEPPE,,,,Sec. XVIII
+BO0624_6334,74856,55,61-64,CARLEVARIS LUGA.  detto da CA ZENoBIO.  Udine-1665-1718.. Quattro paesaggi e porti di mare.,658,57.4,False,title_direct,CARLEVARIS LUCA,,,,Sec. XVII
+BO0624_6334,74857,56,65-66,ROSA SALVATORE  Napoli-1615-1673.Due Paesaggi.,669,54.8,False,title_direct,ROSA SALVATORE,,,,Sec. XVII
+BO0624_6334,74858,57,67,"FORABOSCO GIROLAMO  Veneto -Secolo xVII. Il Redentore.  Tela.-Cornice dorata.-Altezza m.0.65X0,53.  Le Sauveur.",671,48.6,False,title_direct,FORABOSCO GIROLAMO,,,,
+BO0624_6334,74859,58,68,FORABOSCO GIROLAMO  Veneto -Secolo xVII. San Girolamo.,675,52.9,False,title_direct,FORABOSCO GIROLAMO,,,,
+BO0624_6334,74860,59,69,RICCHI PIETRO  detto il LuccHEsE.  Lucca-1606-1675.L'Adorazione dei Magi.,697,49.5,False,title_direct,RICCHI PIETRO,,,,Sec. XVII
+BO0624_6334,74861,60,70,DELLA VECCHIA PIETRO  Venezia-1605-1678. Busto di giovane paggio con berretto rosso or- nato di piuma.,707,64.4,False,title_direct,DELLA VECCHIA PIETRO,,,,Sec. XVII
+BO0624_6334,74862,61,71,DELLA VECCHIA PIETRO  Venezia-1605-1678. Sant'Andrea.,713,40.6,False,title_direct,DELLA VECCHIA PIETRO,,,,Sec. XVII
+BO0624_6334,74863,62,72,NOGARI GIUSEPPE  Veneto-1700(3)-1763. Archimede.,721,58.1,False,title_direct,NOGARI GIUSEPPE,,,,Sec. XVIII
+BO0624_6334,74864,63,73,LAZZARINI GREGORIO  Venezia-1655-1730.()La Carita.,729,56.2,False,title_direct,LAZZARINI GREGORIO,,,,Sec. XVII
+BO0624_6334,74865,64,74,CARPIONI GIULIO  Venezia-1611-1674. Baccanale.,739,56.7,False,title_direct,CARPIONI GIULIO,,,,Sec. XVII
+BO0624_6334,74866,65,75,CASTIGLIONE GIOV.BENEDETTO  detto il GRECHETTO.  Genova-1616-1670. L'Arca d'Israele.,747,49.5,False,title_direct,CASTIGLIONE GIOV.BENEDETTO,,,,Sec. XVII
+BO0624_6334,74867,66,76,RICCI MARCO  Belluno-1679-1729.Paesaggio.,764,60.7,False,title_direct,RICCI MARCO,,,,Sec. XVIII
+BO0624_6334,74868,67,77-78,PAOLETTI PIETRO  Padova -1735.Due quadri:Battaglie.,770,62.2,False,title_direct,PAOLETTI PIETRO,,,,Sec. XVIII
+BO0624_6334,74869,68,79-80,LANGETTI GIOV.BATTISTA  Genova -1635-1676. Due dipinti: Teste virili.,780,55.3,False,title_direct,LANGETTI GIOV.BATTISTA,,,,Sec. XVII
+BO0624_6334,74870,69,81,LAMBERTI BONAVENTURA  Carpi-1652-1721. Contadina che tiene un mastello.,790,64.7,False,title_direct,LAMBERTI BONAVENTURA,,,,Sec. XVII
+BO0624_6334,74871,70,82,BISSONI GIO. BATTISTA  Padova -1576-1636. Bacco attorniato da puttini.,800,58.9,False,title_direct,BISSONI GIO. BATTISTA,,,,Sec. XVII
+BO0624_6334,74872,71,83,CESARI GIUSEPPE  dettO il CAVALIER D'ARPINO. Arpino-1560-1640. Martirio di un santo.,807,69.9,False,title_direct,CESARI GIUSEPPE,,,,Sec. XVI
+BO0624_6334,74873,72,84,MARATTI CARLO  (ATTRIBUITO A)  Camerino -1625-1713. San Giovanni fanciullo.,821,49.5,False,title_direct,MARATTI CARLO,,,,Sec. XVII
+BO0624_6334,74874,73,85-86,PITOCCHI (de') MATTEO  Firenze -1700. Due quadri:Beone e vecchia con cane.,829,68.5,False,positional,PITOCCHI MATTEO,,,,Sec. XVIII
+BO0624_6334,74875,74,87,SCUOLA CREMONESE. Madonna col Bambino.,837,69.0,False,title_direct,,SCUOLA CREMONESE,,,
+BO0624_6334,74876,75,88-89,SCUOLA ROMANA  Secolo XVI. Due battaglie.,845,52.6,False,title_direct,,SCUOLA ROMANA,,,Sec. XVI
+BO0624_6334,74877,76,95,"SCUOLA PRIMITIVA FIORENTINA  - 95.Cristo e i dodici Apostoli.Predella di altare in - campo d'oro.  Tavola -Cornice dorata.-Altezza m. 0,23X1,31.  Le Christ et les douze Apotres; devant de retable.Peinture sur fond d'or.",861,51.4,False,title_direct,,SCUOLA PRIMITIVA FIORENTINA,,,
+BO0624_6334,74878,77,96,"SCUOLA VENEZIANA  - 96.Madonna del Rosario.  Tela.--Altezza m.0,90X0,73.  La Vierge du Rosaire.",867,44.0,False,title_direct,,SCUOLA VENEZIANA,,,
+BO0624_6334,74879,78,90-91,"IGNOTO. Due quadri: Teste di Santi.  Tele.-Cornici di noce.—Altezza m. 0,34X0.28.  Deux tableaux:tetes de Saints.",875,55.9,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_6334,74880,79,92,IGNOTO. La Crocifissione.,879,81.0,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_6334,74881,80,93,"SCUOLA SPAGNUOLA  Secolo XVII. La Sacra Famiglia.  Tela.-Cornice dorata.-Altezza m.1,50X1.10.  La Vierge assise et St Joseph tiennent ensemble I'Enfant Jesus.",893,58.8,False,title_direct,,SCUOLA SPAGNUOLA,,,Sec. XVII
+BO0624_6334,74882,81,94,IGNOTO. Madonna col Bambino.,897,83.3,False,positional,,SCUOLA SPAGNUOLA,,,
+BO0624_6334,74883,82,97,IGNOTO. Il Redentore e la Madonna.,900,86.7,False,positional,,SCUOLA SPAGNUOLA,,,
+BO0624_6334,74884,83,98,"IGNOTO. La Vergine con Gesu bambino,attorniati da",906,91.3,False,positional,,SCUOLA SPAGNUOLA,,,
+BO0624_6334,74885,84,99,SCUOLA GENOVESE  Secolo XVII. Ritratto di un Cardinale di famiglia Grimaldi.,917,76.0,False,title_direct,,SCUOLA GENOVESE,,,Sec. XVII
+BO0624_6334,74886,85,100,SCUOLA GENOVESE  Secolo XVII. Ritratto di un doge genovese.,925,65.9,False,title_direct,,SCUOLA GENOVESE,,,Sec. XVII
+BO0624_6334,74887,86,101,"SCUOLA NAPOLETANA  Secolo XVII. Gesu morto, le tre Marie e Giuseppe d'Arimatea.",935,75.8,False,title_direct,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74888,87,102,INCERTO (NARDI FELICE?). Busto di un frate Cappuccino.,945,71.6,False,positional,,SCUOLA NAPOLETANA,,,
+BO0624_6334,74889,88,103,"INCERTO Secolo XVII. Busto di eremita.  Tela. - Cornice a finto ebano a sbalzo. -Altezza m. 0,39X0,29  Buste d'un hermite.",956,66.3,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74890,89,104,"IGNOTO Secolo XVII. S. Giovanni Evangelista.  Dipinto sopra agata.- Cornice di ebano.  St Jean l'Evangeliste assis; fond de paysage; au dessus, la Conception.",968,62.9,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74891,90,105,IGNOTO Secolo XVII.  Santa Cecilia.  Dipinto sopra agata.- Cornice di ebano e pietre dure. Sainte Cecile.Peinture sur agathe.,972,83.6,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74892,91,106,IGNOTO Secolo XVII. Paesaggio con figure.,974,66.7,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74893,92,107,IGNOTO Secolo XVII. Sacra Famiglia in un paesaggio.,978,74.7,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74894,93,108,SCUOLA ITALIANA  Secolo XVII. Susanna tentata dai vecchioni.,986,66.7,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVII
+BO0624_6334,74895,94,109,SCUOLA ITALIANA  Secolo XVIII. Diana cacciatrice.,991,53.7,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVIII
+BO0624_6334,74896,95,110-110A,SCUOLA ITALIANA  Secolo XVIII. Due quadri: Paesaggi.,997,62.3,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVIII
+BO0624_6334,74897,96,111,ELASQUEZ (RODRIGUEZ DE SILVA Y) DIEGO  Sevilla.-1599-1660.. Ritratto di Filippo Spinola.,1001,59.8,False,positional,VELASQUEZ DIEGO,,,,Sec. XVII
+BO0624_6334,74898,97,112,"MIEREVELT MICHELE GIOVANNI  Delft.-1567-1611,Ritratto di giovanetto.",1013,55.6,False,title_direct,MIEREVELT MICHELE GIOVANNI,,,,Sec. XVI
+BO0624_6334,74899,98,113-114,MOLYN PIETRO  detto il TEMPEsTA. Haarlem -1637()-1701. Due dipinti:Mare in burrasca.,1023,62.5,False,title_direct,MOLYN PIETRO,,,,Sec. XVII
+BO0624_6334,74900,99,119,"BREUGHEL PIETRO (il Giovane)  detto l'ENFER.  Bruxelles-1564(l)-1638. L'Inferno. 'Enfer et ses tourments. Representation etrange avec figures hu- maines,monstres et animaux fantastiques.",1034,74.4,False,title_direct,BREUGHEL PIETRO,,,,Sec. XVI
+BO0624_6334,74901,100,120,RUYTEN (van) GIOV. MICHELE  Anversa.-1813. Paesaggio con figure.,1036,57.5,False,positional,MOLYN PIETRO,,,,Sec. XIX
+BO0624_6334,74902,101,115-116,MIEL GIOVANNI  detto DELLA VITE.  Anversa.-1599. Due dipinti:Bevitori allosteria e soggetto campestre.,1052,71.8,False,title_direct,MIEL GIOVANNI,,,,Sec. XVI
+BO0624_6334,74903,102,117-118,TENIERS DAVIDE （il Giovane)  Anversa.-1610-1690? Due quadri: testa di uomo e testa di donna.,1062,67.2,False,title_direct,TENIERS DAVIDE,,,,Sec. XVII
+BO0624_6334,74904,103,121,VERMEULEN ANDREA  Dordrecht-1763-1814. Interno di una cattedrale.,1077,59.3,False,title_direct,VERMEULEN ANDREA,,,,Sec. XVIII
+BO0624_6334,74905,104,122,VOS (de) CORNELIO  Anversa.-1585-1651. La Flagellazione.,1085,51.4,False,positional,VERMEULEN ANDREA,,,,Sec. XVII
+BO0624_6334,74906,105,123,NEER (van der) ARTURO  Scuola Olandese.-1660. Marina.,1093,59.7,False,positional,NEER ARTURO,,,,Sec. XVII
+BO0624_6334,74907,106,124-129,SCUOLA FIAMMINGA  Secolo xVII. Sei dipinti:Fiori.,1103,53.5,False,title_direct,,SCUOLA FIAMMINGA,,,
+BO0624_6334,74908,107,130,ZEGERS DANIELE  Anversa -—1590-61. La Maddalena entro ghirlanda di fiori.,1113,73.4,False,title_direct,ZEGERS DANIELE,,,,Sec. XVI
+BO0624_6334,74909,108,131,"SUSTERMANN JUSTE  di Anversa, ma Scuola Fiorentina. -1597-1681. Ritratto di Cosimo IHI de’ Medici.",1122,62.1,False,title_direct,SUSTERMANN JUSTE,,,,Sec. XVII
+BO0624_6334,74910,109,132,HONTHORST GHERARD  detto GHERARDO DELLE NoTTI  Utrecht.-—1592-16..? La Cena.,1132,55.3,False,title_direct,HONTHORST GHERARD,,,,Sec. XVI
+BO0624_6334,74911,110,133-134,ZEEMAN J.  Scuola Olandese.-1807. Due Marine.,1144,66.7,False,title_direct,ZEEMAN J.,,,,Sec. XIX
+BO0624_6334,74912,111,135,"VAN DYCK ANTONIO  (attribuito a)  Secolo XVIl. Ritratto di giovane donna in costume, la testa con lunga capigliatura adorna di piume.",1158,79.4,False,title_direct,VAN DYCK ANTONIO,,,,
+BO0624_6334,74913,112,136,HELST (van der) BARTOLOMEO (?)  mort en 1670. Due bambine in costume dei sec.XVI condotte da una istitutrice.,1167,78.3,False,positional,HELST BARTOLOMEO,,,,Sec. XVII
+BO0624_6334,74914,113,137-138,"POELEMBURG (von) CORNELIO  Scuola Olandese,-1586-1667. Due dipinti: figure e paesaggi.",1177,56.9,False,positional,POELEMBURG CORNELIO,,,,Sec. XVII
+BO0624_6334,74915,114,139,BOOKS. Scuola Fiamminga. Bambocciata.,1185,64.0,False,positional,POELEMBURG CORNELIO,,,,
+BO0624_6334,74916,115,140,CRANACH LUCA (il Vecchio)  (attribuito a). Busto di prospetto di personaggio olandese.,1195,68.8,False,title_direct,CRANACH LUCA,,,,
+BO0624_6334,74917,116,141,"DENNER BALTHAZAR  Hambourg -1685-1749. Mezza figura di vecchia, con rosario nelle mani.",1206,74.2,False,title_direct,DENNER BALTHAZAR,,,,Sec. XVIII
+BO0624_6334,74918,117,142,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl. Battaglia.,1216,71.8,False,title_direct,STOM MATTEO,,,,
+BO0624_6334,74919,118,143-146,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl. Quattro Battaglie.,1224,45.8,False,title_direct,STOM MATTEO,,,,
+BO0624_6334,74920,119,147-148,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl.Due Battaglie.,1230,40.0,False,title_direct,STOM MATTEO,,,,
+BO0624_6334,74921,120,149,POUSSIN NICCOLO'  Les Andelys (Normandie).-1594-1665. Gesu Cristo consegna le chiavi a San Pietro.,1240,66.7,False,title_direct,POUSSIN NICCOLO',,,,Sec. XVII
+BO0624_6334,74922,121,150-151,SCUOLA TEDESCA. Due dipinti: Cavalieri.,1247,70.8,False,title_direct,,SCUOLA TEDESCA,,,
+BO0624_6334,74923,122,152,SCUOLA OLANDESE  Secolo xVII. Paesaggio con pastori ed armenti.,1257,68.8,False,title_direct,,SCUOLA OLANDESE,,,
+BO0624_6334,74924,123,153,SCUOLA OLANDESE  Secolo xVII. Carovana in riposo.,1263,55.9,False,title_direct,,SCUOLA OLANDESE,,,
+BO0624_6334,74925,124,154,SCUOLA OLANDESE  Secolo xVII. Interno di abitazione fiamminga.,1271,68.1,False,title_direct,,SCUOLA OLANDESE,,,
+BO0624_6334,74926,125,155,SCUOLA OLANDESE  Secolo xVII. Battaglia.,1283,41.5,False,title_direct,,SCUOLA OLANDESE,,,
+BO0624_6334,74927,126,156,"SCUOLA FIAMMINGA. Tre dipinti ovali su tela, animali.",1285,78.2,False,title_direct,,SCUOLA FIAMMINGA,,,
+BO0624_6334,74928,127,157-158,SCUOLA FIAMMINGA.Tre paesaggi.,1290,57.1,False,title_direct,,SCUOLA FIAMMINGA,,,
+BO0624_6334,74929,128,159,SCUOLA FIAMMINGA. Natura morta.,1294,57.8,False,title_direct,,SCUOLA FIAMMINGA,,,
+BO0624_6334,74930,129,160,SCUOLA FIAMMINGA Secolo XVI. La Madonna col Bambino; mezze figure.,1300,70.6,False,title_direct,,SCUOLA FIAMMINGA,,,Sec. XVI
+BO0624_6334,74931,130,161-162,SCUOLA FIAMMINGA Secolo XVI.  Due dipinti: Vasi di fiori e frutta.,1308,71.2,False,title_direct,,SCUOLA FIAMMINGA,,,Sec. XVI
+BO0624_6334,74932,131,163-164,SCUOLA FIAMMINGA Secolo XVI.  Due dipinti:Animali morti.,1314,62.8,False,title_direct,,SCUOLA FIAMMINGA,,,Sec. XVI
+BO0624_6334,740283,132,165,SCUOLA FRANCESE. Busto di giovane donna con capelli cadenti sulle spalle.,1320,86.2,False,title_direct,,SCUOLA FRANCESE,,,

@@ -1,322 +1,322 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_44452,230518,1,1,3 Schriftscheiben.Joh.Simen A. C.1657.— M.Hinderich Blome Schmit z. Embsteke 1681. —Diederich Meyer z. Embsteke 1681.,46.0,96.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230519,2,2,"2 Bauernscheiben. Ein Wappen mit Hirsch, Joh. Fohne Mohrvoegt A. 1707.— Reiter Wilcken Poppe mit Frau A. 1707.",47.0,72.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230520,3,3,"Schriftscheibe in Kartuche. H: Johan von Schorlemer. Thum Probst zu Minden. Thum Her zu Ossnab. Probst z. S. Johann, 1615.",49.0,98.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230521,4,4,"Schriftscheibe aus 9 Sticken. H. Benedict von Bahlen Tumher z.0snab.1659.—J Jodoco Ortman Commissario z. S. Johan 1651. H. Johan Keidenrich von Vorden Senior z. Osnab. 1659. — Hendricus Veltkamp 1676. 一 Heinrich Ryebeneke 1663.-- Johan Tolke 1676.— Catharina Elisabeth Schorlemmers 1687. — H. Robanus Heisterman Thumher z. Lubeck 1648.  Hohe 49, Breite 40cm.",50.0,99.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230522,5,5,"- Ovales Wappen. Auf weissem Grunde und gelbem Rand das Wappen Martin v. Benkendorff zu Salzwedel anno 1651. Hohe 16, Breite 12cm.",52.0,100.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230523,6,6,"Ovales Wappen. Hans Rohen, schon gemaltes, roth. Hohe 15, Breite 11 1/2 cm.",53.0,90.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230524,7,7,"Ovales Wappen. H. Diedrich Doringk, alte Patrizier-Familie, Helmzier im rothen Felde silberner Lowe und Inschrift: Obyt 6 Juni Anno 1614. Aetatis sue 47. Hohe 14, Breite 11 cm. 4 Sprunge.",55.0,99.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230525,8,8,"2 Vierpass-Fragmente mit Zwickeln und Fuss. Auf blauem Damast rother Renaissance-Schild, worin ein Baumstamm, aus welchem ein Zweig hervorwachst. Umrahmung ornamentirt und Inschrift Andreas Meier",56.0,97.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230526,9,9,"Gegenstick in ahnlicher Ausfuihrung und aufgesetztem Wappen. Melchior Maurer Glassmaller zu Reittlingen Anno 1658.Inschrift Andreas Homborgh.Wappen gesprungen. Hohe 23, Breite 18 cm.",58.0,99.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230527,10,10,Runde Wappenscheibe mit der Jahreszahl 1557.Umrahmung und Schild zum Theil Erganzung. Diam. 251/2 cm.,60.0,98.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230528,11,11,Runde emaillirte Scheibe mit Wappen und Kranz. Anno 1703. Diam. 15 cm.,61.0,87.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230529,12,12,"In Rautenform das Wappen der beruihmten Familie Stael v. Holstein. Hohe 221/2, Breite 15 cm.",64.0,98.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230530,13,13,"Ovale Wappenscheibe mit der Unterchrift Her Andreas Falcke senior der Thumkirchen zu Osznabrugk 16i2.  2 Springe. Hohe 16, Breite 13 cm.",65.0,98.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230531,14,14,"Runde Wappenscheibe, vom weiss und Gold gespaltenem Schild mit einer halben Lilie und Adler. Ende des 18. Jahrh. Diam. 23 cm.",66.0,98.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230532,15,15,Krug mit Henkel und Zinnbeschlag. Kunkelglas.18. Jahrh.,67.0,96.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230533,16,16,"Gefass mit Deckel, Rococoform mit Henkel. Unbekannte Marke.",69.0,96.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230534,17,17,"Kleines Gefass mit Deckel und aufgelegten Blumen. Meissen, 18. Jahrh.Etwas ladirt.",70.0,97.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230535,18,18,"Weibllche Figur,Bronze. Unterarm und Hande fehlen. Hohe mit Postament 22 cm.",71.0,86.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230536,19,19,"Ofenkachel, Frih-Renaissance. Weibliches Portrat in Architektur.",73.0,97.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230537,20,20,"Ovale Uhr. Eierform. Gehause, Deckel, Boden und Seitentheile mit Ornamenten. Zifferblatt und Werk nicht aus der Zeit. Deutschland 16. Jahrh. Lange 6, Breite 4 cm.",74.0,98.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230538,21,21,"Schriftscheibe aus 9 Stucken. R. D. Fridericus Vincke Vicarius in Thum 1689. M. Furgen Kiffermeyer, Margareta Renckemeyer seine ehliche Haus Frauw 1663. — Johan Brunss d. elte. 1672 —Peter Euersman 1649. Margareta Anna Stael Tochter zu Witthausen V. G. G. Sophia Scharlotte geborn Herzogin zu Braunschweig und Luneburg 1678.— Johan Ehrich Kugel Secretare 1677. Hohe 51, Breite 42 cm.",76.0,82.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230539,22,22,"Scheibe mit 6 Wappen, darunter 4 mit Monogramm. Johan Peter Hasberg a. 1720.— Johan Heinrich Essen Notarius-Caesari a. 1725. 一 Johan Rudolph Negengerd 1720.— Johan Nicolaus v. Monster 1725.— Conrad Henrich Greiff v. Ostercapplen 1720. Johan Rudoff Bever Fohren 1725. Hohe 43, Breite 43 cm.",77.0,90.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230540,23,23,"Runde Scheibe. Christus, das Evangelium predigend; im Hintergrunde  Architektur. Feine Ausfuhrung gin gelb und Grisaille. Diam. 0,20 cm. 4 Nothverbleiungen.",79.0,98.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230541,24,24,"2 Wappenscheiben, im halbkreisformigen Bogen auf weissem Grunde Ehewappen; im Schilde ein goldener Stern und Kleeblatt, das Roth vortrefflich gemalt. Links Taube auf einem Baumstamm sitzend, Zweig im Schnabel, Grund Gold; rechts Pfug mit drei Raben. Hohe 24, Breite 18 cm.",80.0,96.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230542,25,25,"Gegenstick. Auf dem Helm ein gefugelter Engelskopf, schwarz und braune Decken; im Schilde die Hausmarke A. M. C. 17. Jahrh. Hohe 24, Breite 18 cm.",82.0,91.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230543,26,26,"Runde Wappenscheibe mit Umschrift: Joachim Kerscher zu Regensburg Anno Domine 1592. Diam. des Wappens 15 cm, der ganzen Scheibe 23 cm.",84.0,98.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230544,27,27,"Gegenstuck, mit Umschrift: Lienhartt Cabertt: Gliekh und Glass: Wie bald bricht Das. Anno Dominae 1600. Dieselbe Grosse.",85.0,98.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230545,28,28,"Christus am Kreuz mit Maria und Johannes in einer Landschaft. Grisaille und Gold.16. Jahrh. Hohe 28,Breite 19 cm. 2 Erganzungen. 3 Sprunge.",86.0,98.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230546,29,29,Runde Grisaille - Scheibe. Maria Verkindigung. Anfang 16. Jahrh. Durer-Zeit. Diam. 17 cm. Mit 10 Spruingen.,88.0,98.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230547,30,30,"Vierpass, das Wappen auf rothem Damastgrund, der Nurnberger Familie Volkhammer. 16. Jahrh. 2 Sticke fehlen und 2 Sprunge.",90.0,98.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230548,31,31,Gegenstuck. Das Wappen des Freiherrn von Holzschuher. 16. Jahrh. Hohe und Breite 241/2 cm.,91.0,97.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230549,32,32,"Kasten mit ungemein zierlicher Einrichtung, mit diversen Kassetten etc. Lackarbeit in chinesischem Styl. Hollandisch. 18. Jahrh. Lange 37, Tiefe 29, Hohe 14 cm. Madonna, in reicher Gewandung, Birnbaumschnitzerei. Anfang",92.0,83.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230550,33,33,"Madonna, in reicher Gewandung, Birnbaumschnitzerei. Anfang 17. Jahrh. Hohe 30 cm.",93.0,85.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230551,34,34,"Thee-, Milchkanne und Zuckerbuchse mit chinesischer Dekorirung und Tenier-Figuren.Meissen.",95.0,79.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230552,35,35,"Fayence-Platte. Landschaft, Gebaude und Figuren. Italien 17. Jahrh.",97.0,97.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230553,36,36,"Grosser Glaspokal. Auf dem Kelch in feinstem Tiefschnitt eine Jagdscene, Hintergrund baumreiche Landschaft. Hohe des Kelches 11 cm. Fusshohe 22 cm. Zwischen Kelch und Fuss etwas gesprungen.",99.0,79.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230554,37,37,"Venetianische Gondelstange, zum Anhalten der Gondel. Am Griff eine zierliche Bronzefigur, die Stange mit div. Bronzen, Fratzenkopfen, alten Geldstucken. Ganze Lange 1 m.18. Jahrh.Interessantes Stuick.",100.0,99.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230555,38,38,"Ein Paar Leuchter aus Crystal de roche, sechskantig geschliffen und polirt. 18. Jahrh., Montirung spater. Ganze Hohe 28, Crystalhohe 20 cm.",101.0,96.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230556,39,39,"Steingutkrug mit Beschlag und Deckel, bunt emailirt, auf geharbtem schwarzen Grunde. Im Mitteltheil Mann und Frau im Costum, zu beiden Seiten Eicheln und Blatter, Trauben und Engelskopfe. Kreussen oder Franken, 17. Jahrh. Hohe 12 cm.",103.0,82.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230557,40,40,"Kleine Schale auf Fuss, mit Deckel. Auf der blauen und weissen Email-Schicht Sterne, Eichenlaub und Gold in zierlich vertheilter Zeichnung. Venetianisches Email, 16. Jahrh. Leider etwas beschadigt. Ganze Hohe 12 cm.",104.0,99.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230558,41,41,"Thee-, Milchkanne, Zuckerbuchse und Tasse. Art der WegdwoodFabrikate.",105.0,97.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230559,42,42,"4 kleine Schalen, ornamentirt mit Figuren. Silber.",106.0,87.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230560,43,43,"Stander fur Venetianer Glaser.Der obere Theil wird von einer Figur im Costum des 17. Jahrh. gehalten. Der Fuss ornamentirt, vergoldete Bronze. Deutsch. 17. Jahrh. Hohe 15 cm.",109.0,77.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230561,44,44,"Messer und Gabel. Griff in Ornamenten auslaufend und in Eisen geschnitten, der Mitteltheil des Griffes mit Perlmuttplattchen besetzt. Deutsch. 17. Jahrh. Lange des Griffes 71/2 cm.",110.0,98.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230562,45,45,"Schmuckstick in Form eines Gurtels. Auf den runden kreisformigen Gliedern ruhen Rosetten,halbkreisformig erhoht, welche mit farbigen Steinen besetzt sind, die zum Theil fehlen. An den Enden Schnallen Ganze Lange 47 cm.",112.0,99.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230563,46,46,Eisernes Schloss mit Schlussel.,113.0,93.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230564,47,47,"Dosendeckel mit Darstellung a la Tenier. Kupferemaille. Etwas am Rand ladirt. 0,8:0,5 cm.",114.0,97.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230565,48,48,"2 kleine runde Kupferemaillen, mannliches und weibliches Portrat. 18.Jahrh. Diameter 21/2 cm.",116.0,78.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230566,49,49,"Runde Kupferemaille. Louis VI. O,4 cm.",117.0,95.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230567,50,50,"Gebogene Kupferemaille. Betende Figur, am Fusse ein Wappen. Mit Umschrift: Dich beth ich Erfurchts voll des Landes Sonne an. Du bist es Grosser Furst der mich begnadigen kann. 4:31/2 cm. Feine Emaille.",118.0,99.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230568,51,51,"Runde Kupfer-Emaille, Louis XVI. O,4 cm.",119.0,95.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230569,52,52,"Profl-Portrait, Kupfer-Emaille. Bez. L.6 : 41/2 cm.",120.0,96.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230570,53,53,"Kleine Dose, emaillirt, in Gestalt eines Kanarienvogels. Deckel etwas ladirt.",122.0,98.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230571,54,54,Gegenstick in ahnlicher Weise.,124.0,95.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230572,55,55,14 Fragmente einer grosseren gothischen Scheibe.,125.0,94.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230573,56,56,"2 Wappenscheiben, grau in grau gemalt mit der Inschrift: Andreas Muller Leutenant u. Hermann Fasi Fendrich 1685. 32:21 cm.",126.0,68.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230574,57,57,"Fragment einer Wappenscheibe,die Umrahmung fehlt. 17. Jahrh.",128.0,96.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230575,58,58,Fragment einer Schweizer Cabinet Scheibe mit Kriegsscenen und Wappen.17.Jahrh.,129.0,97.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230576,59,59,"Fragment einer Schweizer Cabinet-Scheibe, zwei Hellebardiere. Ende 16.Jahrh.",130.0,97.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230577,60,60,"Schweizer Cabinet-Scheibe in Saulen-Umrahmung, auf gelbem Grunde zwei Hellebardiere. Inschrift: Friedrich Augusto und Saul Schachl 1567. Hohe 32, Breite 231/2 cm. 6 Erg., 1 Sprung. Rothe schmale Randumrahmung modern.",132.0,99.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230578,61,61,"Schweizer Cabinet-Scheibe in Saulen-Umrahmung, auf gelbem Grunde zwei Hellebardiere, auf grauem Fliesenboden als Basis zwei Wappen und Inschrift: Ludwig Koller, Hans Behem 1565. Hohe 32, Breite 231/2 cm. 5 Erg., 1 Sprung. Rothe schmale Randumrahmung, modern.",134.0,84.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230579,62,62,Runde Scheibe. Das jungste Gericht. An Dem jvngsten Gericht. Wirt:X P P.(Christus) die 6 Werke der Heiligen Barmherzigkeit belonen.Sehr feine Ausfuhrung in Gold und Griseille.16. Jahrh. Durchmesser 26 cm. mit Rand. 4 Nothverbleiungen.,136.0,84.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230580,63,63,"Schweizer Cabinet-Scheibe zwischen bunten Saulen. Der Apfelschuss aus Tell. Schone Scheibe.  Anfang 17. Jahrh. Hohe 30,Breite 20 cm. 5 alte Erg. und 8 Springe.",137.0,98.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230581,64,64,Runde Wappenscheibe auf weissem Grunde zwei Schilde unter einem Helm. Veronica Langingerin sein Haus Fraw. 1550.Dian. 36. 4 Spr. 1 Erg.,138.0,98.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230582,65,65,"Grosse Wappenscheibe der Nurnberger Familie Stark von Hohenburg, uiber schwarzem Dreiberg ein wachsender rother Mann mit schwarzem Kragen und Hut mit weissem Aufschlag, 2 blaue Hacken in goldenen Stangen haltend, auf dem Helm desgleichen mit roth-weissen Deckeln. 16. Jahrh. mit vielen Erganzungen. Hohe 32, Breite 45 cm.",139.0,99.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230583,66,66,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbilde Daniel in der Lowengrube. Unten die Inschrift: Heinrich Brunner und Susanna von Thusen 1641. Hohe 30, Breite 20 cm. Einige alte Erg. und Springe.",140.0,99.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230584,67,67,"Grosse gothische Wappenscheibe. Savoyen. Ca. 17 alte Erg. und 13 Sprunge. Monogrammirt A. Hohe 71, Breite 32 cm. Anfang 16. Jahrh.",141.0,98.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230585,68,68,"Schweizer Cabinet-Scheibe, Mann und Frau mit der Inschrift: Georg Bohy von Doss und Elisabeth wismenin sein eheliche Husfraw. Als Basis Engel mit Schild. Hohe 32, Breite 191/2 cm. 2 Erg.",142.0,81.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230586,69,69,"Schweizer Cabinet-Scheibe, zwischen farbiger Saulen-Umrahmung auf weissem Grunde ein Wappen. Unten die Inschrift: Rudolph Schwyker, Kornmeister der Stadt Zurich 1657. Hohe 30, Breite 20 cm.Mit einigen alten Erg. und Springen. Gute Scheibe.",144.0,88.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230587,70,70,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbild Venus und Cupido. Mit Wappen und Inschrift: Hans Casper Aberli 1643.5Erg.und 8 Sprungen. Hohe 30,Breite 20 cm.",146.0,98.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230588,71,71,"Schweizer Cabinet-Schelbe zwischen bunter Saulen-Architektur. Jacobs Traum. In den 2 Ecksticken Figuren der Bottcherinnung. Hohe 30, Breite 20 cm. Einige alte Erg. u. Sprunge. Anfang 17. Jahrh.",147.0,99.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230589,72,72,"Fenster mit 8 Glasmalereien, darunter 2 gothische, Erschaffung des Weibes und Christus das Evangelium verkundend,und in Menuskelschrift: ein gut Hirde sedet sine Seele vor sine Schafe. 15. Jahrh. Die andern Scheiben die Apostel Mathaus, Marcus, S. Jacobs minor, S. Lucas, S. Philippus mit ihren Attributen. Hohe 66, Breite 421/2cm.",148.0,99.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230590,73,73,Wappenscheibe. Das Wappen im weissen Grunde und bunter Saulen- architektur.31:20cm. Schweiz 17. Jahrh.,149.0,77.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230591,74,74,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbilde: Barbara Sehmidt. 1630. Hohe 30, Breite 20 cm. Einige Erg. und Spruinge.",152.0,67.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230592,75,75,"Schweizer Scheibe auf rothem Damastgrund, Landsknecht mit Hellebarde. Saulenartige Umrahmung und Blattwerk, rechts das Wappen. Hohe 46, Breite 301/2 cm. 7 Erg. 8 Nothverbleiungen.",153.0,82.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230593,76,76,Miniature-Portrat einer Dame. Caterine Hedwig Ch. Schultze geb. Stolzenber im Kostim. Gemalt von Theurig fec. Altona 1754. Grosse 7: 63/4 cm.,155.0,92.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230594,77,77,Ovale Miniature. Portrat einer Dame im Kostim. Verg. Holzrahmen. 18.Jahrh. Grosse 10 : 71/2 cm.,157.0,75.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230595,78,78,Miniature. Portrat einer Dame.Sig.A.D. S.1740. Grosse 6 : 41/2 cm.,159.0,97.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230596,79,79,Miniature. Portrat einer Dame: Elisabeth Christine geb. Prinzessin von Braunschweig. 18. Jahrh. Grosse 6 :51/2 cm.,160.0,98.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230597,80,80,Ovale Miniature. Portrat eines Mannes. Grosse 5:4 cm. Ovales Miniature-Portrat eines Mannes in Allonge-Perricke.Auf Kupfer. Ruckseite sig. B. Denner 1758. Im vergoldeten BronzeGrosse 61/2:41/2 cm.,162.0,83.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230598,81,81,Ovales Miniature-Portrat eines Mannes in Allonge-Perricke.Auf Kupfer. Ruckseite sig. B. Denner 1758. Im vergoldeten Bronze-Rahmen. Grosse 6 1/2:4 1/2 cm.,,59.9,True,none,,,
-BO0624_44452,230599,82,82,Ovales Miniature-Portrat im Kostim des vorigen Jahrhunderts. Grosse 5:4 cm.,164.0,97.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230600,83,83,Ovale Miniature. Portrat einer Dame mit Hundchen im Kostim des 18. Jahrh. In verg. Rahmen. Grosse 61/2: 41/2 cm.,166.0,98.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230601,84,84,Ovales Miniature-Portrat eines Mannes in Allonge-Perruicke.Verg. Holzrahmen. 18. Jahrh. Grosse 8:6 cm.,167.0,90.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230602,85,85,Ovales Miniature-Portrat eines Mannes in Allonge-Perruicke u. Rustung. 17.Jahrh.Grosse 9:61/2 cm.,168.0,84.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230603,86,86,Rundes Miniature-Portrat einer Dame im Profil. Im silb. Rahmen. Durchmesser 7 cm.,170.0,97.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230604,87,87,Runde Miniature einer Dame im Kostim des vorigen Jahrh.Im Elfenbeinrahmen. Durchmesser 61/2 cm.,172.0,75.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230605,88,88,Miniature. Landschaft mit Figuren im Kostim des 17. Jahrh. Im verg. Holzrahmen. Grosse 91/2:51/2 cm.,174.0,98.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230606,89,89,Runde Miniature. Familienbild. Anfang dieses Jahrh. Im verg. Rahmen.  Durchmesser 71/2 cm.,175.0,97.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230607,90,90,Runde Miniature.Portrat eines Herrn. 18. Jahrh. Durchmesser 61/2 cm.,176.0,91.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230608,91,91,Runde Miniature. Landschaft mit Staffage. Durchmesser 61/2 cm. Grosse,178.0,91.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230609,92,92,Ovale Miniature.Portrat Friedrich II.In Tuschmanier. 6:41/2 cm.,180.0,96.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230610,93,93,Ovale Miniature. Profil-Portrat einer Dame.Im Elfenbeinrahmen. Grosse 4:3 cm.,181.0,97.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230611,94,94,Ovales Miniature-Portrat eines Mannes. Grosse 6:43/4 cm.,182.0,96.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230612,95,95,Ovale Miniature. Ein Gruss.Au de Baron de Weich.Im Elfenbeinrahmen.Grosse 41/2:33/4 cm.,184.0,97.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230613,96,96,96.C Ovales Miniature - Portrat eines Mannes. Anfang dieses Jahrh. Grosse 5:4 cm.,185.0,97.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230614,97,97,Ovales Miniature-Portrat eines Knaben. Im Elfenbeinrahmen. Grosse 3: 21/4 cm.,186.0,87.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230615,98,98,Ovale Miniature.Portrat einer Dame.18. Jahrh.Im Elfenbein rahmen. Grosse 41/2 : 31/2 cm.,187.0,78.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230616,99,99,Ovale Miniature eines Mannes aus der Biedermannerzeit im verg. Rahmen. Grosse 7:51/2 cm.,189.0,83.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230617,100,100,"Ovale Miniature, Portrat einer Frau als Stiftsdame.Im silbernen Rahmen. Grosse 6:41/2 cm.",192.0,97.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230618,101,101,Mlniature-Portrat einer Dame im Kostim. Anfang dieses Jahrh. Im vergoldeten Rahmen. Grosse 61/2 :41/2 cm.,195.0,74.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230619,102,102,Ovales Miniature-Portrat einer Dame\_im Kostum des vor. Jahrh. Grosse 6 : 41/2 cm.,196.0,97.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230620,103,103,Ovale Miniature. Le Baron de Schmid. Chevalier de l'Ordre de St. Michel.Grosse 6:5 cm.,197.0,80.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230621,104,104,Ovale Miniature. Portrat einer Dame. 18.Jahrh. Grosse 61/2:51/2 cm.,199.0,87.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230622,105,105,"Terrine mit Deckel und Mascarons, Vogelmuster. Meissen.",200.0,95.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230623,106,106,"Glass-Schrank, Spiegel und 6 Stuhle, Empire und eingelegt.",201.0,95.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230624,107,107,Kannchen mit Henkel und Ausguss. Der kantige Korper von allen Seiten mit reich eingeschliffenen und polirten Ornamenten und Krone. Auch der Henkel und Ausguss ist reich ornamentirt und polirt. Sehr interessantes Stuick von eleganter Form in der feinsten Ausfuhrung aus der braunen harten Masse von Bottcher angefertigt. Ausguss ein wenig restaurirt und Deckel wahrscheinlich nicht dazu gehorig. Ganze Hohe 16 cm.,206.0,99.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230625,108,108,"Thurklopfer, Bronze, Neptun mit gefigelten Pferden die ornamental auslaufen, im oberen Theil ein Wappen. Ober-Italienisch. 16. Jahrh. Gut patinirt. Ganze Hohe 4l cm.",207.0,87.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230626,109,109,2 Agraffen. Reich ornamentirt und Gold emaillirt. Mitteltheil in kastenformiger Fassung mit echten Tafelsteinen.Deutsche Goldschmiedarbeit des 16. Jahrh.,209.0,98.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230627,110,110,Medaille mit Bildnissen: Anna und Ferdinand von Oesterreich. Silber. 16. Jahrh. Diameter 6 cm. Aus der Kollektion Spitzer Katalog No. 1403.,210.0,94.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230628,111,111,"Kanne mit Henkel und Deckel, birnenformig, mit schmalem Hals und breitem Korper. Auf den weiss ausgesparten Medaillons zwischen rosa Grund Fruchte der verschiedensten Art plastisch und farbig. Auf dem Deckel als Bekronung eine Rose. Deckel und Ausguss mit Charnier verbunden, in verg. Bronze montirt. Mit Marke F. P. Jcq. Petit. Belleville. Hohe 31 cm.",212.0,99.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230629,112,112,"Kumpen mit Teller und Deckel. Auf demi Kumpen und Teller Haselnussstrauchwerk und Vogel. Auf dem Deckel Thiere im gefertigt. Mit chinesischer Marke. Mundrand 121/2 cm.,Teller 151/2 Diam. Ganze Hohe 10 cm.",213.0,92.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230630,113,113,"Schachbrett, zum Oeffnen, mit Inhalt: 3 Kassetten, 32 Figuren und Dambrettsteinen. Schachbrett und Kassetten Elfenbein fournirt, die ausseren Rander mit Blumengewinden und Jahreszahl 17l1. Aeussert zierlich und feine Arbeit, aus hohem Besitz.",215.0,99.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230631,114,114,"Ein Gobelin. Im Mitteltheil eine Figur mit interessanter Bordure, Arabesken etc. Grosse 2,65 : 0,95 m.",216.0,97.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230632,115,115,"Grosse gothische Scheibe. Gegen den blauen Himmel vor einem Zelte ubergiebt Judith das Haupt des Holofernes, im Hintergrunde des Zeltes sieht man den Enthaupteten in liegender Stellung. Rechts ein Theil eines zweiten Zeltes, Kanonen und Landsknechte, im Hintergrunde eine Burg. Die Umrahmung ornamentirte Saulen,",217.0,99.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230633,116,116,"Gothische Scheibe auf blauem Damast und chamoisartigem Fliessenboden steht Johannes, in der Linken das Banner und Lammchen tragend. Die Umrahmung brauner Astbogen, in den Zwickeln Distelblatter und die Jahreszahl 1511. Hohe 79, Breite 36 cm., 4 Spruinge und 6 alte Erg. Schone Schweizer Scheibe. Siehe Ab- bildung II.",220.0,97.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230634,117,117,"Grosse Portrat-Scheibe, eine Pfeilerarcade mit Saulen, darin in knieender Stellung und gefaltenen Handen der Vater mit seinen 7 Sohnen. Der Vater im gemusterten Brokatgewande mit Handschuh und Schwert,vor ihm der Helm mit Helmzierden, die Sohne im rothen Atlasgewande. Als Basis das Wappen der Familie Hormann von Guttenberg, das zum Theil noch in den braunen Fliessenboden hineingeht. Hochinteressante und seltene Scheibe. Hohe 88, Breite 67 cm., 3 Spruinge und einige Nothverbleiungen.",222.0,99.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230635,118,118,"Runde deutsche gothische Scheibe. Engel im Vierpass auf blauem Damast u. chamoisartigem Marmor-Fussboden knieend, halt 2 Wappenschilde, links Schachrochen in weiss und schwarz gehaltenem Schilde, rechts in wechselnden Farben im schwarzen Felde 3 silb. Felsen, in den Zwickeln Rosetten. Umrahmung grau Astwerk mit umwundenen Blattern. 1450. Diam. 31 cm. 1 Erg. 1 kleiner Sprung im Zwickel.",223.0,99.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230636,119,119,"Grosse gothische Scheibe, Scene Mutius und Peorsenna. Im Hintergrunde Zelte, Landsknechte und eine alte Burg. Standesschilder Zurich, Bern,Luzern. einige alte Erg. und Sprunge. Umrahmung Saulen mit Astwerk. Als Basis ornamentaler Fries, daruiber die Hohe 70, Breite 50 cm., Interessante Scheibe.Anfang 16. Jahrh. Siehe Abbildung I.",224.0,69.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230637,120,120,"Gothische Doppelscheibe A. Auf rothem Damast halt ein in dunkel violettem Ueber- und grunem Untergewand gekleideter Engel in der rechten Hand den Bischofsstab, in der Linken den Schild mit Wappen. Die Umrahmung gruner Astbogen, in den Zwickeln Eichenlaub.Unten links Felix. Aptt. Hohe 43, Breite 32 cm., 6 Spruinge, 4 alte Erg. und Schussloch im Wappen.",226.0,91.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230638,121,121,"Gothische Scheibe. Auf blauem Damast und weisseu Fliessenboden steht der heilige Dyonisius in rothem Gewande, in der Linken das Haupt tragend, zu seinen Fuissen Standesschild ron Zurich.Umrahmung zwei Saulen tragen den Rundbogen, aus welchem gothische Blattranken wachsen, welche die Zwickel fuillen. Hohe 79, Breite 36 cm., 4 Spruinge und 6 alte Erg. Schone feurige Scheibe. Anfang 16. Jahrh.Siehe Abbildung VI.",234.0,99.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230639,122,122,"Grosse gothische Architekturscheibe, charakteristisches Pfanzenmuster roth Damast auf schwarzem Grunde unterbrochen von Architektur mit Thurmen, Wimpergen und Thuren. 14. Jahrh. Deutsch. Tadellos erhaltene Scheibe. Hohe 75, Breite 40 cm.",235.0,96.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230640,123,123,Gemalte Glasscheibe mit figurlicher Darstellung. Verkindigung Samson. Jahreszahl 1596 im Original-Fenster. Aus der Burg bei Bacharach am Rhein.,238.0,71.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230641,124,124,Glasscheibe mit Wappen des Grafen von Sponheim resp. Pfalz in runder Form mit Jahreszahl 1597 im Original-Fenster.  Aus der Burg bei Bacharach am Rhein. Schone Scheibe.,239.0,83.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230642,125,125,"Schweizer Cabinetscheibe. Das Wappen wird auf farblosem Grunde mit etwas bunter Architektur umrahmt. Links in der Rustung der Obertheil der Scheibe Kriegsheilige Michael mit der Waage. scenen. Mit der Unterschrift:,Michael Baldi. Gewessner Hauptman und Oberster Litenant uber ein Regiment Eidgenossen ete. Glarus, Anno1607."" Hohe 32,Breite 18cm",241.0,99.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230643,126,126,"Grosse gothische Scheibe gegen die Luft Crucifixus zwischen Maria und Johannes, vor ihnen in kniender Stellung und gefaltenen Handen eine Figur in ganzer gothischer Rustung mit dem goldenen Vlies, vor ihm liegt der gefingerte Kampfhandschuh und Eisenhut. Etwas seitwarts der heilige Franciscus. Als Basis dient eine stufenartige Abtheilung. Die Umrahmuug bilden wulstartige Saulen, dazwischen Engel und Capitaler mit Blattwerk. Hohe 70, Breite 57 cm., 7 Springe und 8 alte Erg. Schone und seltene Scheibe aus dem Anfang des 16. Jahrh. Siehe Abbildung II.",242.0,99.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230644,127,127,"Eiserner Kasten mit halbkreisformigsr Verdachung. Von allen Seiten mit reich durchbrochenen Ornamenten,Charnier und weich gedrehten Wulsten. Deutsche Arbeit. 16. Jahrh.Lange 18,Hohe 13, Tiefe 9 cm.",243.0,98.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230645,128,128,"Runde Elfenbeindose mit Schildpattfutter.Auf dem Deckel ein rundes Miniature in Goldemaille:Die Nacht darstellend,welche sich vom Sternenhimmel abhebt. Feine Goldemaille. Von Alex Noget in Paris. Im Goldrahmchen.",245.0,82.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230646,129,129,"Kasten auf Fissen, Eisen. Die 4 Seitentheile, sowie der Deckel mit reicher Aetzarbeit. Die Rander und Kanten ornamentirt. Das kunstvolle Schluss innen ist in seinen Einzeltheilen und auf der Grundfache geatzt. Interessantes Stick von guter Erhaltung. Deutsch.16. Jahrh.Lange 30, Hohe 20,Tiefe 18 cm.",246.0,99.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230647,130,130,"Ciborium mit Deckel. Auf dem Korper in Relief Christus, Maria und Magdalena. Die ibrigen Theile reich ornamentirt,versilbert und vergoldet. Italien 15.Jahrh.Ganze Hohe 20 cm.",247.0,98.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230648,131,131,"Bronze, weibliche Figur in reicher Gewandung, romisch, schon patinirt. Hohe 15 cm.",248.0,84.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230649,132,132,"2 Kupfer-Emaillen in Herzform, mit der Inschrift: Amour hoyt lorgneill und Loya Secrat. Gut ausgefuhrte franzosische Emaillen. 18.Jahrh.7:6 cm.",250.0,98.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230650,133,133,"Portrat. Friedricus Augustus. Rex Polon. Electeur Saxon: ETC. 1734. Ovale Kupferemaille, bez. Schmidt. fec. Grosse 81/2 : 61/2 cm. Feine Ausfuhrung.",251.0,98.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230651,134,134,"2 Kupfer-Emaillen,Herzform. Genrescenen in Filigran.Rahmen mit Granaten besetzt.",252.0,97.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230652,135,135,"Bronze-Plaquette,Portrat des F. Petrarca, bez. Donatello. F. 16:12cm.",253.0,96.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230653,136,136,"Bronze-Plaquette, Portrat der Diva Lavra, bez. Donatello.F.",254.0,95.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230654,137,137,Portrat-Medaille.Elisabet.Krelerin.HET.I.C.H.DIE.GE.STHALT.VND.WAS.47. JAR. ALT.Bronze.5i/2 diam.,255.0,70.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230655,138,138,Portrat-Medaille des Laux. Kreler.WAS. ALT. LI. M.D.XX. Bronze. 51/2 diam.,257.0,85.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230656,139,139,"Betender Monch vor einem Krucifix. Elfenbeinschnitzerei in Verbindung mit Holz, unter Glas und Rahmen. Hohe 30 cm.",259.0,97.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230657,140,140,"Elfenbein-Figur im Monchsgewand, mit silbernem Hut. Frankreich, 15.Jahrh.Hohe 26 cm.",260.0,97.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230658,141,141,"Terracotta - Gruppe, Raub der Sabinerinnen. Italien, 16. Jahrh. Zum Theil etwas ladirt. Hohe 27 cm.",261.0,75.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230659,142,142,"Viereckige Dose mit Musikwerk, reichen Gravirungen und vergoldet. In der Mitte eine Uhr, auf jeder Seite derselben eine silberne Kapsel, die sich durch einen geheimen Druck offnet. Empirezeit. Grosse 14:7 cm.",263.0,98.8,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230660,143,143,"Kesseluntersatz auf Fussen, Messing geschnitten, mit Thieren in Chimaren-Gestalt. Deutsch, 16. Jahrh.",264.0,78.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230661,144,144,"Humpen mit Henkel, darauf en relief eine Kreuzigung. Blau glasirtes Steingut. Nassau, 16. Jahrh. Hohe 241/2 cm.",266.0,76.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230662,145,145,"Runde blau emaillirte Dose. Auf dem Deckel Vierpass-Medaillon, mit Landschaften und Figuren; am ausseren Rand der Dose vier kleinere Medaillons, Seehafen-Figuren. 18. Jahrh. 7 diam. Hohe 4 cm.",269.0,79.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230663,146,146,"Maria mit dem Kinde, in der Hand einen Rosenkranz haltend. In Elfenbein geschnitten. Spanisch, 15. Jahrh. Ganze Hohe 17 cm.",270.0,98.0,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230664,147,147,"Laube mit Untersatz, Filigranarbeit, Silber mit Steinen besetzt. 18. Jahrh. 147a.Bugeleisen, uberaus reich in Messing geschnittenen Ornamenten, Blumen und Inschrift. Sabina, Justina. Hoppterin. 1702.",272.0,75.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230665,148,147a,"Bugeleisen, uberaus reich in Messing geschnittenen Ornamenten, Blumen und Inschrift. Sabina, Justina. Hoppterin. 1702.",,53.3,True,none,,,
-BO0624_44452,230666,149,148,"Kleine Kassette, Schildplatt, auf dem Deckel Seitentheile und Schlosskupfer emaillirte Platten mit Blumen und Fruichten. Deutsch, 17. Jahrh. Hohe 101/2 cm, Tiefe 121/2 cm, Lange 171/2 cm.",273.0,98.7,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230667,150,149,"Apothekergefass,mit weiblichem Bildniss im blauen Grunde. Caffagiola, 16. Jahrh. Interessantes Stick,obere Kante etwas restaurirt. Hohe 25 cm.",274.0,98.3,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230668,151,150,"2 Reliefs mit Figuren, Alabaster. Italien, 17. Jahrh.",275.0,95.5,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230669,152,151,"2 reliefartige Thonplatten, glasirt. Die Geburt Christi und Anbetung der drei Konige.",276.0,97.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230670,153,152,"Grosses eisernes Schloss mit Schlissel. Deutsch, 16. Jahrh.",277.0,95.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230671,154,153,"Kreuztragung, Alabaster, Relief. Italien, 17. Jahrh.",278.0,95.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230672,155,154,"Dose, Buchsbaum, zum Oeffnen in Gestalt eines Lowen.",279.0,95.4,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230673,156,155,"6 Teller mit Korbrand, Goldspitzenrand und Blumen, alt. Berlin.",280.0,96.2,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230674,157,156,1 Stuck rother Seidensammet. Mans. 93:57 cm.,281.0,92.6,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230675,158,157,Ovales Portrat einer Dame im Kostim Louis XVI. Goldrahmen.,282.0,95.9,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230676,159,158,Schussel mit Korbrand und Drachenmuster. Fruh Meissen. Schwerterwerke.Durchmesser 30 cm.,283.0,95.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230677,160,159,"Aquarelle, Vorbild zu einem Facher, signirt Agelica Kauffmann.",284.0,96.1,False,positional,,,Glasgemalde; Kunstgegenstande
-BO0624_44452,230678,161,160,Flacon in Gestalt eines Spargels. Meissen.,291.0,94.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230679,162,161,"2 Platten, die Auferstehung und Verkundigung. Farbige Fayencen. Tyrol,17.Jahrh.23:161/y cm.",293.0,98.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230680,163,162,"Kleine Bouillon-Schale mit Deckel, blau. Meissen. Marcolini.",294.0,96.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230681,164,163,"Ofenkachel, eine Viehheerde, mit blauer Glasurfarbe gemalt. Delft. Grosse 40:28 cm.",295.0,97.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230682,165,164,"Kleine Amorette, die Astronomie, farbig dekorirt. Beide braun restaurirt. Meissen, 18. Jahrh. Hohe 12 cm.",297.0,98.6,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230683,166,165,"Schussel mit reichen Original-Gravirungen und St. Catarina, Zinn. 18. Jahrh. 391/2 diam.",298.0,86.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230684,167,166,"Dose aus Bernstein, Rococco-Form. 18. Jahrh.",301.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230685,168,167,"Necessaire, mit Inhalt, reich ornamentirt, Silber. 18. Jahrh.",302.0,96.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230686,169,168,"Thiergruppe, ein Hirsch, farbig dekorirt. Felder mit Marke. Unbedeutende Beschadigung am Geweih. Hohe 8 cm, Lange 13 cm.",304.0,98.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230687,170,169,"Spulnapf, gerippt und dekorirt, mit fruher MArke aus Japan. 19 diam. und Hohe 9 cm.",,44.8,True,none,,,
-BO0624_44452,230688,171,170,"14 Messergriffe, ornamentirt, mit Streublumen. Meissen, 18. Jahrh. Kleine Terrine, mit Deckel, als Bekronung eine Amorette mit einem Fullhorn, Frichte und Blumen werfend. Dekorirt mit Guirlanden und Streublumen. Meissen. Marolini. Ganze Hohe",308.0,85.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230689,172,171,"Kleine Terrine, mit Deckel, als Bekronung eine Amorette mit einem Fullhorn, Frichte und Blumen werfend. Dekorirt mit Guirlanden und Streublumen. Meissen. Marolini. Ganze Hohe 20 cm.",,45.5,True,none,,,
-BO0624_44452,230690,173,172,"Servis, 2 Kannen, 1 Theebuchse, 2 Schalen, 5 Tassen, 2 Spulnapfe, im Ganzen 12 Sticke; alt China, in Europa gemalt. 1 Tasse und Spulnapf leicht gesprungen.",311.0,71.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230691,174,172a,172a. Terrine mit Mascarons und Vogelmuster. Meissen.,312.0,96.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230692,175,173,"Stempel, Messing, mit Doppelwappen.",317.0,93.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230693,176,174,"Horn-Dose, Deckel mit figurlicher Darstellung.",318.0,94.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230694,177,175,"2 Messer in Bronze, Griffe am Ende Lowenkopfe, sehr alt.",319.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230695,178,176,Stobwasser-Dose (Ansicht unter den Linden).,320.0,94.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230696,179,177,Gebetbuch in Sammet mit Silberbeschlagen.,323.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230697,180,178,Gebetbuch in Sammet mit Silberbeschlagen.,,53.8,True,none,,,
-BO0624_44452,230698,181,179,Schildpatt-Dose mit Silbereinlagen und Montirung.,325.0,97.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230699,182,180,"Besteck, Messer und Gabel im Leder-Etui,reich verziert.",326.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230700,183,181,Astronomischer Gegenstand im Etui.,328.0,93.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230701,184,182,"Pfeifen-Futteral in Buxholz, schone Arbeit.",329.0,94.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230702,185,183,"Zulege-Gabel mit reicher Silber-Einlage,originell.",330.0,95.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230703,186,184,Astronomischer Gegenstand in einem Gehause.,331.0,94.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230704,187,185,Pfefferreiber mit Elfenbein-Einlagen.,332.0,93.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230705,188,186,"186.Visite-Buchelchen mit Elfenbein-Deckel und figurlicher Darstellung geschnitzt, Venus und Amor.",333.0,98.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230706,189,187,"Empire-Leuchter, Bronze-vergoldet, gleichzeitig Uhr und Tintenfass.",334.0,96.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230707,190,188,"Doppel-Schliesse, Silber, Renaissance.",336.0,95.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230708,191,189,"Onyx-Etui, lienaissance mit silberner Montirung.",338.0,96.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230709,192,190,Meerschaum-Pfeifenkopf mit geschnitzten Figuren und silbernen Beschlagen,339.0,90.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230710,193,191,"Emaillirter Anhanger, Russisch.",341.0,92.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230711,194,192,"Ring, Gold mit blauer Emaille.",343.0,93.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230712,195,193,"Marquis-Ring, mit Elfenbein-Schnitzereien, geringes Gold.",345.0,96.6,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230713,196,194,"Ring mit grunen und rothen Steinen, auf beiden Seiten Engel, Silber.",347.0,97.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230714,197,195,Ring mit geschnittenem Bergkrystall (Wappen).,348.0,94.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230715,198,196,"Sogenannter Luther-Ring mit Inschrift, Silber vergoldet.",349.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230716,199,197,"Marquis-Ring mit Silhouette auf Gold-Grund, Kupfer vergoldet.",350.0,96.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230717,200,198,Ciselirter Ring mit geschnittenem Stein. Kupfer vergoldet.,351.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230718,201,199,"Emaillirte Bonbonniere, Doggen-Kopf vorstellend.",353.0,97.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230719,202,200,Miniature-Bild auf Elfenbein. Kunstlerisch ausgefuihrte alte Arbeit.,355.0,97.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230720,203,201,Schliesse mit feiner Elfenbein-Arbeit in Gold-Montirung (Amor vorstellend).,357.0,98.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230721,204,202,"Schliesse mit feiner Elfenbein-Arbeit in Gold-Montirung, (Landschaft vorstellend).",358.0,87.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230722,205,203,"Elfenbein-Tafel, auf beiden Seiten figirliche Darstellungen gravirt. Gutes Stick.",360.0,97.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230723,206,204,"I Paar Messern und Gabeln, Griffe Silber und Perlmutter, im Etui.",361.0,96.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230724,207,205,"Elfenbein-Tafel, auf der einen Seite gravirt.",362.0,94.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230725,208,206,"Elfenbein-Kreuz mit Christus, Maria und Folter-Werkzeugen. Gutes Stick.XVIlI. Jahrh.",363.0,83.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230726,209,207,"Schluissel, Griff ornamentirt, in Eisen geschnitten.",366.0,96.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230727,210,208,Ovales Rahmchen mit weissen Steinen besetzt und Elfenbeinrelief.,368.0,97.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230728,211,209,"Stempel mit Wappen in Eisen, Griff Silber tauchirt.",370.0,96.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230729,212,210,"Stempel, Silber mit Wappen.",371.0,91.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230730,213,211,"Gurtel, Schloss und Mittelstick fein ornamentirt, Silber. XVI. Jahrh.",372.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230731,214,212,"Buchbeschlag mit Schliessen, Silber. XVIl. Jahrh.",374.0,96.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230732,215,213,"Schlissel, Griff mit durchbrochenem Ornament in Eisen geschnitten.",376.0,97.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230733,216,214,"Wappen in Kehlheimer Stein geschnitten, Ruckseite desgleichen.",378.0,96.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230734,217,215,"Nadel-Buchse, vernis martin, Fond schwarz mit Gold und kleinen rothen Blumen.",379.0,88.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230735,218,216,"Nadel-Buchse, vernis martin mit Flacon, Fond roth mit weissen Blumenbouquets.",381.0,96.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230736,219,217,"Messer mit Elfenbeingriff, Bachus auf dem Fass.",382.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230737,220,218,"Nadel-Buchse, vernis martin, mit Schaferscenen.",383.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230738,221,219,"Fayence, farbig gemalt, Kuh mit sitzendem Manne.",384.0,95.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230739,222,220,"Silber-Rahmchen, getriebene Arbeit.Louis XVI",385.0,94.6,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230740,223,221,Elfenbein Notiz-Buch mit Silber-Pique-Einlagen.,386.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230741,224,222,Cassette mit Deckel in Eisen und reicher Silber-Incrustation. Orientalische kunstvolle Arbeit.,387.0,97.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230742,225,223,"Silberne Garn-Wickel, reich ornamentirt. Louis XVI.",388.0,95.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230743,226,224,"Reich getriebene Renaissance-Platte in der Manier des Palamedes, Feuer versilbert.",389.0,97.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230744,227,225,"Bronze-Morser, reich ornamentirt, mit Inschrift und Jahreszahl 1650.",390.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230745,228,226,Plateau in Eisen mit reicher Silber-Incrustation. Orientalische kunstvolle Arbeit.,391.0,86.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230746,229,227,Holzfigur. Bettelweiss mit alter Bemalung in der Art der Callotschen Bettelfiguren.,,45.2,True,none,,,
-BO0624_44452,230747,230,228,"Glas, sehr reich geschliffen, mit Jagdscenen.",396.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230748,231,229,"Glas mit Deckel, sehr reich geschliffen, schones Stuick.",397.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230749,232,230,"Glas, sehr reich geschliffen, Wappen Rad vorstellend.",398.0,95.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230750,233,231,"Glas mit Wappen, Pfalz, sehr reich geschliffen.",399.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230751,234,232,"Fayence-Gestell in Form eines Kleeblattes mit Wappen, Blumen und Ornamenten.",400.0,96.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230752,235,233,"Wanduhr in Metall, reich getriebene Arbeit mit Feuerversilberung.",401.0,96.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230753,236,234,"Kanone, Modell Hinterlader, complett mit Protzkasten und Zubehor.",402.0,96.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230754,237,235,"Kinder-Rassel, Silber, Renaissance in reich getriebener Arbeit.",403.0,96.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230755,238,236,Necessaire in Perlmutter und silber-vergoldeter Montirung mit Goldeinlagen. Schone franzosische Arbeit. Louis XVI. (Complet.),404.0,98.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230756,239,237,Fein gemaltes Miniatur-Bild auf Elfenbein in Silber-Einfassung. Dame und Herr mit Amor.,405.0,97.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230757,240,238,"Cassette, reich mit Blumen und Metall-Einlagen.",407.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230758,241,239,"Wappen, Familie von Hohenlohe, reich geschnitten. 60:53cm.",408.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230759,242,240,Grosse Doppel-Platte mit farbigen Malereien. Porzellan.,409.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230760,243,241,"Fulverhorn mit reichen Einlagen und Wappen, vorzugliches Stuck. montirt und emaillirt.",410.0,81.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230761,244,242,"Bunde Elfenbeindose, auf dem ein Gemalde a la Tenier in Gold",412.0,96.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230762,245,243,Ein Paar grosse Schnallen in Silber mit Steinen und Metallverzierung.,413.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230763,246,244,Porzellan-Pfeifenkopf mit Hirschen.,414.0,93.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230764,247,245,"Michelmannkastchen, auf allen Seiten mit figurlichen Darstellungen. Schloss fehlt.",415.0,87.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230765,248,246,Pfeifenkopf in Buchs mit reicher Schnitzerei und Silberbeschlag.,417.0,96.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230766,249,247,Grosser Pfeifenkopf. Schnitzarbeit mit Hirsch.,418.0,94.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230767,250,248,"Glaspokal in Trichterform, reich geschliffen.",420.0,96.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230768,251,249,"Fayence, farbig gemalt, Kuh mit sitzendem Manne.",421.0,95.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230769,252,250,"Kleiner Krug, farbig gemalt, mit Gold-Decorationen. Kreusen.",422.0,96.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230770,253,251,"Kistchen mit Lederiberzug und reichen Eisenbeschlagen. Gothisch, gut erhalten.",423.0,96.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230771,254,252,"Apostel-Krug, einfarbig, Kreusen.",424.0,93.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230772,255,253,"I Stuck Spitze, Point Alancon.",425.0,92.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230773,256,254,"Grosse goldene Munze. 254a.Medaille,mit Stadt, Silber.",427.0,71.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230774,257,254a,"Medaille,mit Stadt, Silber.",,42.1,True,none,,,
-BO0624_44452,230775,258,255,Portrait-Medaille. Joh. Friedrich v. Sachsen.,428.0,94.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230776,259,256,"Portrait-Medaille.Friedrich Il.,Denkmal Fr.d. Gr.",429.0,95.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230777,260,257,Portrait-Medaille.Friedrich Wilhelm II.,430.0,94.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230778,261,258,"1/3 Thaler von Anhalt 1672, selten.",431.0,93.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230779,262,259,"Thaler, St. Georg mit Schiff, selten.",433.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230780,263,260,"Thaler, St. Georg. Mansfeld 1595.",434.0,93.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230781,264,261,"Thaler, St. Georg. Mansfeld 1591.",435.0,93.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230782,265,262,"Thaler, St. Georg. Mansfeld 1605.",436.0,93.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230783,266,263,"Thaler, St. Georg. Mansfeld 1623.",437.0,93.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230784,267,264,Kriegs-Medaille von Isenburg. Sehr selten.,438.0,94.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230785,268,265,"Kriegs-Medaille, gold emaillirt, Wasa-Orden.",439.0,94.6,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230786,269,266,"Italienischer Orden, gold emaillirt.",440.0,93.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230787,270,267,Orden von Kurhessen.,441.0,88.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230788,271,268,"Kleines rundes Tischchen, Louis XVI., mit Metall-Verzierung und Marmor-Platte, auf einem Fuss.",442.0,97.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230789,272,269,"Wandleuchter Louis xV. Sehr reich in Metall getrieben, in echt alter Feuer-Versilberung.",443.0,97.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230790,273,270,3 reich geschnitzte Stuhle mit Rohr-Geflecht. Louis XVI.,444.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230791,274,271,"Rahmen in schoner Vergoldung mit Monogramm, fein und sehr reich geschnitzt. Seltenes Stick.",445.0,74.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230792,275,272,6 reich geschnitzte Stuhle. Louis XVI.,447.0,96.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230793,276,273,"Chaise Longue mit Brokat-Ueberzug, aparte Form. Franzosische Arbeit, Louis XV.",449.0,85.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230794,277,274,"Rococo-Stand-Uhr in Eichenholz geschnitzt von hochst origineller und seltener Form. Gute Arbeit. 274a. Damen-Schreibpult in Mahagoni mit Cylinder-Bureau und reichen Buxholz-Einlagen. Louis XVI., gutes Stick.",452.0,70.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230795,278,274a,"Damen-Schreibpult in Mahagoni mit Cylinder-Bureau und reichen Buxholz-Einlagen. Louis XVI., gutes Stick.",,54.8,True,none,,,
-BO0624_44452,230796,279,275,Goblin Verdure mit Vogel.,453.0,90.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230797,280,276,Silber getriebenes Plateau. Scene nach Watteau.,454.0,94.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230798,281,277,"Stein-Krug, sogenannter Stern-Krug mit doppeltem Stern, grau und blau, reich ornamentirt am Ausguss. Maskarons. XVI. Jahrh. Sehr gutes Stick.",455.0,91.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230799,282,278,"Stein-Krug,Uni-Braun, sehr figurenreich (Histoire Susanna im Bade.) 16.Jahrh. Hohe 33 cm. Sehr gutes Stick.",458.0,83.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230800,283,279,Silber getriebenes Plateau mit figurlichen Darstellungen und Ornamenten.,459.0,96.6,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230801,284,280,"Facher, Feuille mit Chinesen, Gestell fein ornamentirt.",460.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230802,285,281,"Porzellan-Humpen mit Deckel, mit reichem Gold-Decor und Silber- montirung. Vieux Sax, fruhe Periode.",461.0,75.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230803,286,282,"Feuille eines Fachers, auf Pfauenhaut gemalt, von seltener Schonheit.Kunstwerk.",463.0,85.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230804,287,283,Facher mit Blumen und Figuren.  Gestell ornamentirt.,466.0,96.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230805,288,284,Facher mit schou gemalter Feuille und kunstvoll gearbeitetem Gestell. Arbeit ersten Ranges.,467.0,97.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230806,289,285,Doppel-Becher. Silber-Amor auf einem Becher knieend und den anderen Theil des Bechers auf dem Kopfe tragend.,468.0,97.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230807,290,286,"Becher mit Deckel, Siiber vergoldet, originelle Form.",469.0,95.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230808,291,287,"Renaissance-Becher.Mundrand vergoldet, und gravirtem ornamentalen Rand. Mittelstuck birnenformig, mit drei kleinen henkelartigen Tragern, Fuss gravirt und vergoldet, desgl. Mittelstuck. Deutsch. 16. Jahrh. Hohe 15 cm.",470.0,98.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230809,292,288,Blumen-Tisch. Renaissance. Mit reich geschnitzten und ornamentirten Fissen. Sehr seltenes Mobel.,471.0,68.8,False,title_direct,,,Mobel
-BO0624_44452,230810,293,289,"Schreib-Sekretar, reich mit Figuren und Landschaften eingelegt. Schone Arbeit. Louis XVI.",474.0,98.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230811,294,290,Franzosisches Eckschrankchen mit Marmorplatte. Reich eingelegt. Louis XVI.,476.0,98.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230812,295,291,Franzosisches Eckschrankchen mit Marmorplatte. Reich eingelegt. Louis XVI.,477.0,86.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230813,296,292,"Spiegel Louis XIV., reich geschnitzt und vergoldet. Franzosische Arbeit,prachtvolles Stuck.",480.0,97.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230814,297,293,Rococo - Kommode mit Bronze - Beschlagen. Geschweifte Form. Schones Mobel.,481.0,96.7,False,title_direct,,,Mobel
-BO0624_44452,230815,298,294,Rococo-Kommode mit reichen Bronze-Beschlagen und Einlagen.,482.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230816,299,295,"Sessel Louis XVI., fein geschnitzt und vergoldet mit Brokat-Ueberzug. Franzosische Arbeit. Schones Stuick.",483.0,97.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230817,300,296,"Goblin, reich ornamentirt. Vorzuglich erhalten.",485.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230818,301,297,"Damenschreibtisch, reich eingelegt mit Blumen und Ornamenten. Kleines nettes Mobel.",486.0,81.9,False,title_direct,,,Mobel
-BO0624_44452,230819,302,298,"Achteckige Dose mit reichen Gravirnngen und vergoldet, darauf sichtbar eine Uhr und daneben die bewegliche Unruh, zwischen beiden oben eine fein geschnittene Elfenbeinplatte mit Einfassung. Auf der Ruckseite werden durch ein Uhrwerk verschiedene Figuren aus Silber, Angler, Holzhacker, Bergmann, Wassermihle etc. in Bewegung gesetzt, als Staffage eine Burg auf Felsen u. Baumen aus Elfenbein auf schwarzem Grund. Franzosische Arbeit. Louis XVI. Grosse 91/2:6 im Etuis.",488.0,99.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230820,303,299,"Kleine Cassette mit feinen figurlichen und ornamentalen Darstellungen in Eisen geschnitten, der Fond vergoldet. Originelles Stick von ausserster Feinheit im Leder-Etuis, franzosische Arbeit, Louis XIV. Grosse 41/2:4.",489.0,98.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230821,304,300,"Goldener romischer Ring mit einem geschnittenen Onyx, auf dem sich eine Quadriga in feiner Ausfuhrung befindet.",491.0,98.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230822,305,301,"Grosser Trink-Humpen, Silber veegoldet mit getriebenen Karos. Elegante Form.",492.0,96.8,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230823,306,302,"Porzellan-Gruppe, die Frisier-Stube darstellend, aus der Franken- thal-Fabrik Carl Theodor, hochst selten vorkommende monstrose Gruppe. Hohe 32 cm.",494.0,70.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230824,307,303,"Ritter-Rustung mit Turnier-Helm, reich ornamentirt.  16. Jahrh. Sehr seltenes Stuck.",495.0,82.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230825,308,304,Goldener Ring aus der Ritterzeit 1508 mit dem Wappen der Familie von Strahlenberg. In der Mitte ein Bergkrystall mit Polychromer Emaille und Vergoldung. Sowohl in der Erhaltung als im Vorkommen ausserst seltenes Stick aus schwerem Golde.,498.0,84.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230826,309,305,"305.2 2 Bronze vergoldete Chirandols. Gotter in dunkeler Bronze tragen Fullhorner, aus denen Blumen und Blatter hervorkommen, welche zum Theil dazu dienen, um Lichte darin aufzunehmen. Feine franzosische Arbeit und schone Stucke aus der Zeit Louis XVI. Hohe 80 cm.",499.0,99.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230827,310,306,"Kartell-Uhr in Bronze, mit feinster Vergoldung und reichster ciselirter Ornamentik. Franzosische Arbeit. Louis XV.",500.0,69.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230828,311,307,"I Stuck Spitze, Point Alancon.",502.0,92.3,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230829,312,308,"Feine Stickerei, Petit Point, franzosisch.",503.0,94.4,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230830,313,309,"Toilettetisch, in Rosen- und Polisanderholz, zugleich Damenschreibtisch mit Bronzen.",504.0,97.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230831,314,310,"Bronze-Listre, Empire, 12armig, mit schwerer Feuer-Vergoldung.",505.0,96.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230832,315,311,"Spiegel, reich geschnitzt und vergoldet. Rococo.",506.0,95.0,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230833,316,312,"Tischchen, weiss und Goid, mit Marmorplatte. Louis XVI.",507.0,95.7,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230834,317,313,"Kleiner Spiegel, Holz geschnitzt und vergoldet. 18. Jahrh. Hohe 57cm.",508.0,96.5,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230835,318,314,"Empire-Toilette-Spiegel, mit reichen vergoldeten Bronze-Beschlagen. Seltene Form, franzosische Arbeit.",510.0,98.1,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230836,319,315,"Rococo-Schreibpult, mit Schnitzereien und reichen Einlagen.",511.0,95.9,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230837,320,316,"Franzosisches Tischchen,mit Marmorplatte. Mahagoniholz mit reichen Metall-Verzierungen.",512.0,97.2,False,positional,,,Kunstgegenstande; Mobel
-BO0624_44452,230838,321,317,"Rahmen, reich geschnitzt und vergoldet. Louis XIV.",513.0,95.2,False,positional,,,Kunstgegenstande; Mobel
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_44452,230518,1,1,3 Schriftscheiben.Joh.Simen A. C.1657.— M.Hinderich Blome Schmit z. Embsteke 1681. —Diederich Meyer z. Embsteke 1681.,46,99.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230519,2,2,"2 Bauernscheiben. Ein Wappen mit Hirsch, Joh. Fohne Mohrvoegt A. 1707.— Reiter Wilcken Poppe mit Frau A. 1707.",47,71.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230520,3,3,"Schriftscheibe in Kartuche. H: Johan von Schorlemer. Thum Probst zu Minden. Thum Her zu Ossnab. Probst z. S. Johann, 1615.",49,99.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230521,4,4,"Schriftscheibe aus 9 Sticken. H. Benedict von Bahlen Tumher z.0snab.1659.—J Jodoco Ortman Commissario z. S. Johan 1651. H. Johan Keidenrich von Vorden Senior z. Osnab. 1659. — Hendricus Veltkamp 1676. 一 Heinrich Ryebeneke 1663.-- Johan Tolke 1676.— Catharina Elisabeth Schorlemmers 1687. — H. Robanus Heisterman Thumher z. Lubeck 1648.  Hohe 49, Breite 40cm.",50,99.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230522,5,5,"- Ovales Wappen. Auf weissem Grunde und gelbem Rand das Wappen Martin v. Benkendorff zu Salzwedel anno 1651. Hohe 16, Breite 12cm.",52,100.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230523,6,6,"Ovales Wappen. Hans Rohen, schon gemaltes, roth. Hohe 15, Breite 11 1/2 cm.",53,90.8,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230524,7,7,"Ovales Wappen. H. Diedrich Doringk, alte Patrizier-Familie, Helmzier im rothen Felde silberner Lowe und Inschrift: Obyt 6 Juni Anno 1614. Aetatis sue 47. Hohe 14, Breite 11 cm. 4 Sprunge.",55,99.4,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230525,8,8,"2 Vierpass-Fragmente mit Zwickeln und Fuss. Auf blauem Damast rother Renaissance-Schild, worin ein Baumstamm, aus welchem ein Zweig hervorwachst. Umrahmung ornamentirt und Inschrift Andreas Meier",56,97.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230526,9,9,"Gegenstick in ahnlicher Ausfuihrung und aufgesetztem Wappen. Melchior Maurer Glassmaller zu Reittlingen Anno 1658.Inschrift Andreas Homborgh.Wappen gesprungen. Hohe 23, Breite 18 cm.",58,99.4,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230527,10,10,Runde Wappenscheibe mit der Jahreszahl 1557.Umrahmung und Schild zum Theil Erganzung. Diam. 251/2 cm.,60,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230528,11,11,Runde emaillirte Scheibe mit Wappen und Kranz. Anno 1703. Diam. 15 cm.,61,89.4,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230529,12,12,"In Rautenform das Wappen der beruihmten Familie Stael v. Holstein. Hohe 221/2, Breite 15 cm.",64,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230530,13,13,"Ovale Wappenscheibe mit der Unterchrift Her Andreas Falcke senior der Thumkirchen zu Osznabrugk 16i2.  2 Springe. Hohe 16, Breite 13 cm.",65,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230531,14,14,"Runde Wappenscheibe, vom weiss und Gold gespaltenem Schild mit einer halben Lilie und Adler. Ende des 18. Jahrh. Diam. 23 cm.",66,98.8,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230532,15,15,Krug mit Henkel und Zinnbeschlag. Kunkelglas.18. Jahrh.,67,97.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230533,16,16,"Gefass mit Deckel, Rococoform mit Henkel. Unbekannte Marke.",69,97.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230534,17,17,"Kleines Gefass mit Deckel und aufgelegten Blumen. Meissen, 18. Jahrh.Etwas ladirt.",70,98.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230535,18,18,"Weibllche Figur,Bronze. Unterarm und Hande fehlen. Hohe mit Postament 22 cm.",71,85.7,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230536,19,19,"Ofenkachel, Frih-Renaissance. Weibliches Portrat in Architektur.",73,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230537,20,20,"Ovale Uhr. Eierform. Gehause, Deckel, Boden und Seitentheile mit Ornamenten. Zifferblatt und Werk nicht aus der Zeit. Deutschland 16. Jahrh. Lange 6, Breite 4 cm.",74,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230538,21,21,"Schriftscheibe aus 9 Stucken. R. D. Fridericus Vincke Vicarius in Thum 1689. M. Furgen Kiffermeyer, Margareta Renckemeyer seine ehliche Haus Frauw 1663. — Johan Brunss d. elte. 1672 —Peter Euersman 1649. Margareta Anna Stael Tochter zu Witthausen V. G. G. Sophia Scharlotte geborn Herzogin zu Braunschweig und Luneburg 1678.— Johan Ehrich Kugel Secretare 1677. Hohe 51, Breite 42 cm.",76,82.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230539,22,22,"Scheibe mit 6 Wappen, darunter 4 mit Monogramm. Johan Peter Hasberg a. 1720.— Johan Heinrich Essen Notarius-Caesari a. 1725. 一 Johan Rudolph Negengerd 1720.— Johan Nicolaus v. Monster 1725.— Conrad Henrich Greiff v. Ostercapplen 1720. Johan Rudoff Bever Fohren 1725. Hohe 43, Breite 43 cm.",77,89.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230540,23,23,"Runde Scheibe. Christus, das Evangelium predigend; im Hintergrunde  Architektur. Feine Ausfuhrung gin gelb und Grisaille. Diam. 0,20 cm. 4 Nothverbleiungen.",79,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230541,24,24,"2 Wappenscheiben, im halbkreisformigen Bogen auf weissem Grunde Ehewappen; im Schilde ein goldener Stern und Kleeblatt, das Roth vortrefflich gemalt. Links Taube auf einem Baumstamm sitzend, Zweig im Schnabel, Grund Gold; rechts Pfug mit drei Raben. Hohe 24, Breite 18 cm.",80,95.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230542,25,25,"Gegenstick. Auf dem Helm ein gefugelter Engelskopf, schwarz und braune Decken; im Schilde die Hausmarke A. M. C. 17. Jahrh. Hohe 24, Breite 18 cm.",82,90.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230543,26,26,"Runde Wappenscheibe mit Umschrift: Joachim Kerscher zu Regensburg Anno Domine 1592. Diam. des Wappens 15 cm, der ganzen Scheibe 23 cm.",84,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230544,27,27,"Gegenstuck, mit Umschrift: Lienhartt Cabertt: Gliekh und Glass: Wie bald bricht Das. Anno Dominae 1600. Dieselbe Grosse.",85,98.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230545,28,28,"Christus am Kreuz mit Maria und Johannes in einer Landschaft. Grisaille und Gold.16. Jahrh. Hohe 28,Breite 19 cm. 2 Erganzungen. 3 Sprunge.",86,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230546,29,29,Runde Grisaille - Scheibe. Maria Verkindigung. Anfang 16. Jahrh. Durer-Zeit. Diam. 17 cm. Mit 10 Spruingen.,88,98.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230547,30,30,"Vierpass, das Wappen auf rothem Damastgrund, der Nurnberger Familie Volkhammer. 16. Jahrh. 2 Sticke fehlen und 2 Sprunge.",90,98.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230548,31,31,Gegenstuck. Das Wappen des Freiherrn von Holzschuher. 16. Jahrh. Hohe und Breite 241/2 cm.,91,98.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230549,32,32,"Kasten mit ungemein zierlicher Einrichtung, mit diversen Kassetten etc. Lackarbeit in chinesischem Styl. Hollandisch. 18. Jahrh. Lange 37, Tiefe 29, Hohe 14 cm. Madonna, in reicher Gewandung, Birnbaumschnitzerei. Anfang",92,83.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230550,33,33,"Madonna, in reicher Gewandung, Birnbaumschnitzerei. Anfang 17. Jahrh. Hohe 30 cm.",93,82.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230551,34,34,"Thee-, Milchkanne und Zuckerbuchse mit chinesischer Dekorirung und Tenier-Figuren.Meissen.",95,80.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230552,35,35,"Fayence-Platte. Landschaft, Gebaude und Figuren. Italien 17. Jahrh.",97,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230553,36,36,"Grosser Glaspokal. Auf dem Kelch in feinstem Tiefschnitt eine Jagdscene, Hintergrund baumreiche Landschaft. Hohe des Kelches 11 cm. Fusshohe 22 cm. Zwischen Kelch und Fuss etwas gesprungen.",99,79.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230554,37,37,"Venetianische Gondelstange, zum Anhalten der Gondel. Am Griff eine zierliche Bronzefigur, die Stange mit div. Bronzen, Fratzenkopfen, alten Geldstucken. Ganze Lange 1 m.18. Jahrh.Interessantes Stuick.",100,99.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230555,38,38,"Ein Paar Leuchter aus Crystal de roche, sechskantig geschliffen und polirt. 18. Jahrh., Montirung spater. Ganze Hohe 28, Crystalhohe 20 cm.",101,96.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230556,39,39,"Steingutkrug mit Beschlag und Deckel, bunt emailirt, auf geharbtem schwarzen Grunde. Im Mitteltheil Mann und Frau im Costum, zu beiden Seiten Eicheln und Blatter, Trauben und Engelskopfe. Kreussen oder Franken, 17. Jahrh. Hohe 12 cm.",103,83.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230557,40,40,"Kleine Schale auf Fuss, mit Deckel. Auf der blauen und weissen Email-Schicht Sterne, Eichenlaub und Gold in zierlich vertheilter Zeichnung. Venetianisches Email, 16. Jahrh. Leider etwas beschadigt. Ganze Hohe 12 cm.",104,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230558,41,41,"Thee-, Milchkanne, Zuckerbuchse und Tasse. Art der WegdwoodFabrikate.",105,97.7,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230559,42,42,"4 kleine Schalen, ornamentirt mit Figuren. Silber.",106,88.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230560,43,43,"Stander fur Venetianer Glaser.Der obere Theil wird von einer Figur im Costum des 17. Jahrh. gehalten. Der Fuss ornamentirt, vergoldete Bronze. Deutsch. 17. Jahrh. Hohe 15 cm.",109,77.2,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230561,44,44,"Messer und Gabel. Griff in Ornamenten auslaufend und in Eisen geschnitten, der Mitteltheil des Griffes mit Perlmuttplattchen besetzt. Deutsch. 17. Jahrh. Lange des Griffes 71/2 cm.",110,99.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230562,45,45,"Schmuckstick in Form eines Gurtels. Auf den runden kreisformigen Gliedern ruhen Rosetten,halbkreisformig erhoht, welche mit farbigen Steinen besetzt sind, die zum Theil fehlen. An den Enden Schnallen Ganze Lange 47 cm.",112,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230563,46,46,Eisernes Schloss mit Schlussel.,113,95.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230564,47,47,"Dosendeckel mit Darstellung a la Tenier. Kupferemaille. Etwas am Rand ladirt. 0,8:0,5 cm.",114,98.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230565,48,48,"2 kleine runde Kupferemaillen, mannliches und weibliches Portrat. 18.Jahrh. Diameter 21/2 cm.",116,79.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230566,49,49,"Runde Kupferemaille. Louis VI. O,4 cm.",117,95.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230567,50,50,"Gebogene Kupferemaille. Betende Figur, am Fusse ein Wappen. Mit Umschrift: Dich beth ich Erfurchts voll des Landes Sonne an. Du bist es Grosser Furst der mich begnadigen kann. 4:31/2 cm. Feine Emaille.",118,99.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230568,51,51,"Runde Kupfer-Emaille, Louis XVI. O,4 cm.",119,96.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230569,52,52,"Profl-Portrait, Kupfer-Emaille. Bez. L.6 : 41/2 cm.",120,96.8,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230570,53,53,"Kleine Dose, emaillirt, in Gestalt eines Kanarienvogels. Deckel etwas ladirt.",122,98.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230571,54,54,Gegenstick in ahnlicher Weise.,124,96.7,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230572,55,55,14 Fragmente einer grosseren gothischen Scheibe.,125,94.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230573,56,56,"2 Wappenscheiben, grau in grau gemalt mit der Inschrift: Andreas Muller Leutenant u. Hermann Fasi Fendrich 1685. 32:21 cm.",126,68.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230574,57,57,"Fragment einer Wappenscheibe,die Umrahmung fehlt. 17. Jahrh.",128,97.4,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230575,58,58,Fragment einer Schweizer Cabinet Scheibe mit Kriegsscenen und Wappen.17.Jahrh.,129,98.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230576,59,59,"Fragment einer Schweizer Cabinet-Scheibe, zwei Hellebardiere. Ende 16.Jahrh.",130,98.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230577,60,60,"Schweizer Cabinet-Scheibe in Saulen-Umrahmung, auf gelbem Grunde zwei Hellebardiere. Inschrift: Friedrich Augusto und Saul Schachl 1567. Hohe 32, Breite 231/2 cm. 6 Erg., 1 Sprung. Rothe schmale Randumrahmung modern.",132,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230578,61,61,"Schweizer Cabinet-Scheibe in Saulen-Umrahmung, auf gelbem Grunde zwei Hellebardiere, auf grauem Fliesenboden als Basis zwei Wappen und Inschrift: Ludwig Koller, Hans Behem 1565. Hohe 32, Breite 231/2 cm. 5 Erg., 1 Sprung. Rothe schmale Randumrahmung, modern.",134,84.9,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230579,62,62,Runde Scheibe. Das jungste Gericht. An Dem jvngsten Gericht. Wirt:X P P.(Christus) die 6 Werke der Heiligen Barmherzigkeit belonen.Sehr feine Ausfuhrung in Gold und Griseille.16. Jahrh. Durchmesser 26 cm. mit Rand. 4 Nothverbleiungen.,136,85.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230580,63,63,"Schweizer Cabinet-Scheibe zwischen bunten Saulen. Der Apfelschuss aus Tell. Schone Scheibe.  Anfang 17. Jahrh. Hohe 30,Breite 20 cm. 5 alte Erg. und 8 Springe.",137,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230581,64,64,Runde Wappenscheibe auf weissem Grunde zwei Schilde unter einem Helm. Veronica Langingerin sein Haus Fraw. 1550.Dian. 36. 4 Spr. 1 Erg.,138,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230582,65,65,"Grosse Wappenscheibe der Nurnberger Familie Stark von Hohenburg, uiber schwarzem Dreiberg ein wachsender rother Mann mit schwarzem Kragen und Hut mit weissem Aufschlag, 2 blaue Hacken in goldenen Stangen haltend, auf dem Helm desgleichen mit roth-weissen Deckeln. 16. Jahrh. mit vielen Erganzungen. Hohe 32, Breite 45 cm.",139,99.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230583,66,66,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbilde Daniel in der Lowengrube. Unten die Inschrift: Heinrich Brunner und Susanna von Thusen 1641. Hohe 30, Breite 20 cm. Einige alte Erg. und Springe.",140,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230584,67,67,"Grosse gothische Wappenscheibe. Savoyen. Ca. 17 alte Erg. und 13 Sprunge. Monogrammirt A. Hohe 71, Breite 32 cm. Anfang 16. Jahrh.",141,98.8,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230585,68,68,"Schweizer Cabinet-Scheibe, Mann und Frau mit der Inschrift: Georg Bohy von Doss und Elisabeth wismenin sein eheliche Husfraw. Als Basis Engel mit Schild. Hohe 32, Breite 191/2 cm. 2 Erg.",142,81.8,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230586,69,69,"Schweizer Cabinet-Scheibe, zwischen farbiger Saulen-Umrahmung auf weissem Grunde ein Wappen. Unten die Inschrift: Rudolph Schwyker, Kornmeister der Stadt Zurich 1657. Hohe 30, Breite 20 cm.Mit einigen alten Erg. und Springen. Gute Scheibe.",144,88.8,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230587,70,70,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbild Venus und Cupido. Mit Wappen und Inschrift: Hans Casper Aberli 1643.5Erg.und 8 Sprungen. Hohe 30,Breite 20 cm.",146,99.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230588,71,71,"Schweizer Cabinet-Schelbe zwischen bunter Saulen-Architektur. Jacobs Traum. In den 2 Ecksticken Figuren der Bottcherinnung. Hohe 30, Breite 20 cm. Einige alte Erg. u. Sprunge. Anfang 17. Jahrh.",147,99.2,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230589,72,72,"Fenster mit 8 Glasmalereien, darunter 2 gothische, Erschaffung des Weibes und Christus das Evangelium verkundend,und in Menuskelschrift: ein gut Hirde sedet sine Seele vor sine Schafe. 15. Jahrh. Die andern Scheiben die Apostel Mathaus, Marcus, S. Jacobs minor, S. Lucas, S. Philippus mit ihren Attributen. Hohe 66, Breite 421/2cm.",148,99.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XV
+BO0624_44452,230590,73,73,Wappenscheibe. Das Wappen im weissen Grunde und bunter Saulen- architektur.31:20cm. Schweiz 17. Jahrh.,149,75.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230591,74,74,"Schweizer Cabinet-Scheibe zwischen bunten Saulen, im Hauptbilde: Barbara Sehmidt. 1630. Hohe 30, Breite 20 cm. Einige Erg. und Spruinge.",152,67.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230592,75,75,"Schweizer Scheibe auf rothem Damastgrund, Landsknecht mit Hellebarde. Saulenartige Umrahmung und Blattwerk, rechts das Wappen. Hohe 46, Breite 301/2 cm. 7 Erg. 8 Nothverbleiungen.",153,82.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230593,76,76,Miniature-Portrat einer Dame. Caterine Hedwig Ch. Schultze geb. Stolzenber im Kostim. Gemalt von Theurig fec. Altona 1754. Grosse 7: 63/4 cm.,155,92.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230594,77,77,Ovale Miniature. Portrat einer Dame im Kostim. Verg. Holzrahmen. 18.Jahrh. Grosse 10 : 71/2 cm.,157,78.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230595,78,78,Miniature. Portrat einer Dame.Sig.A.D. S.1740. Grosse 6 : 41/2 cm.,159,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230596,79,79,Miniature. Portrat einer Dame: Elisabeth Christine geb. Prinzessin von Braunschweig. 18. Jahrh. Grosse 6 :51/2 cm.,160,98.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230597,80,80,Ovale Miniature. Portrat eines Mannes. Grosse 5:4 cm. Ovales Miniature-Portrat eines Mannes in Allonge-Perricke.Auf Kupfer. Ruckseite sig. B. Denner 1758. Im vergoldeten BronzeGrosse 61/2:41/2 cm.,161,41.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230598,81,81,Ovales Miniature-Portrat eines Mannes in Allonge-Perricke.Auf Kupfer. Ruckseite sig. B. Denner 1758. Im vergoldeten Bronze-Rahmen. Grosse 6 1/2:4 1/2 cm.,162,95.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230599,82,82,Ovales Miniature-Portrat im Kostim des vorigen Jahrhunderts. Grosse 5:4 cm.,164,98.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230600,83,83,Ovale Miniature. Portrat einer Dame mit Hundchen im Kostim des 18. Jahrh. In verg. Rahmen. Grosse 61/2: 41/2 cm.,166,98.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230601,84,84,Ovales Miniature-Portrat eines Mannes in Allonge-Perruicke.Verg. Holzrahmen. 18. Jahrh. Grosse 8:6 cm.,167,97.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230602,85,85,Ovales Miniature-Portrat eines Mannes in Allonge-Perruicke u. Rustung. 17.Jahrh.Grosse 9:61/2 cm.,168,82.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230603,86,86,Rundes Miniature-Portrat einer Dame im Profil. Im silb. Rahmen. Durchmesser 7 cm.,170,98.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230604,87,87,Runde Miniature einer Dame im Kostim des vorigen Jahrh.Im Elfenbeinrahmen. Durchmesser 61/2 cm.,172,74.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230605,88,88,Miniature. Landschaft mit Figuren im Kostim des 17. Jahrh. Im verg. Holzrahmen. Grosse 91/2:51/2 cm.,174,98.4,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230606,89,89,Runde Miniature. Familienbild. Anfang dieses Jahrh. Im verg. Rahmen.  Durchmesser 71/2 cm.,175,98.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230607,90,90,Runde Miniature.Portrat eines Herrn. 18. Jahrh. Durchmesser 61/2 cm.,176,91.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230608,91,91,Runde Miniature. Landschaft mit Staffage. Durchmesser 61/2 cm. Grosse,178,92.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230609,92,92,Ovale Miniature.Portrat Friedrich II.In Tuschmanier. 6:41/2 cm.,180,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230610,93,93,Ovale Miniature. Profil-Portrat einer Dame.Im Elfenbeinrahmen. Grosse 4:3 cm.,181,98.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230611,94,94,Ovales Miniature-Portrat eines Mannes. Grosse 6:43/4 cm.,182,97.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230612,95,95,Ovale Miniature. Ein Gruss.Au de Baron de Weich.Im Elfenbeinrahmen.Grosse 41/2:33/4 cm.,184,98.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230613,96,96,96.C Ovales Miniature - Portrat eines Mannes. Anfang dieses Jahrh. Grosse 5:4 cm.,185,98.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230614,97,97,Ovales Miniature-Portrat eines Knaben. Im Elfenbeinrahmen. Grosse 3: 21/4 cm.,186,96.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230615,98,98,Ovale Miniature.Portrat einer Dame.18. Jahrh.Im Elfenbein rahmen. Grosse 41/2 : 31/2 cm.,187,78.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230616,99,99,Ovale Miniature eines Mannes aus der Biedermannerzeit im verg. Rahmen. Grosse 7:51/2 cm.,189,81.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230617,100,100,"Ovale Miniature, Portrat einer Frau als Stiftsdame.Im silbernen Rahmen. Grosse 6:41/2 cm.",192,98.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230618,101,101,Mlniature-Portrat einer Dame im Kostim. Anfang dieses Jahrh. Im vergoldeten Rahmen. Grosse 61/2 :41/2 cm.,195,72.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230619,102,102,Ovales Miniature-Portrat einer Dame\_im Kostum des vor. Jahrh. Grosse 6 : 41/2 cm.,196,97.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230620,103,103,Ovale Miniature. Le Baron de Schmid. Chevalier de l'Ordre de St. Michel.Grosse 6:5 cm.,197,80.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230621,104,104,Ovale Miniature. Portrat einer Dame. 18.Jahrh. Grosse 61/2:51/2 cm.,199,95.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230622,105,105,"Terrine mit Deckel und Mascarons, Vogelmuster. Meissen.",200,96.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230623,106,106,"Glass-Schrank, Spiegel und 6 Stuhle, Empire und eingelegt.",201,96.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230624,107,107,Kannchen mit Henkel und Ausguss. Der kantige Korper von allen Seiten mit reich eingeschliffenen und polirten Ornamenten und Krone. Auch der Henkel und Ausguss ist reich ornamentirt und polirt. Sehr interessantes Stuick von eleganter Form in der feinsten Ausfuhrung aus der braunen harten Masse von Bottcher angefertigt. Ausguss ein wenig restaurirt und Deckel wahrscheinlich nicht dazu gehorig. Ganze Hohe 16 cm.,206,99.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230625,108,108,"Thurklopfer, Bronze, Neptun mit gefigelten Pferden die ornamental auslaufen, im oberen Theil ein Wappen. Ober-Italienisch. 16. Jahrh. Gut patinirt. Ganze Hohe 4l cm.",207,88.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230626,109,109,2 Agraffen. Reich ornamentirt und Gold emaillirt. Mitteltheil in kastenformiger Fassung mit echten Tafelsteinen.Deutsche Goldschmiedarbeit des 16. Jahrh.,209,98.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230627,110,110,Medaille mit Bildnissen: Anna und Ferdinand von Oesterreich. Silber. 16. Jahrh. Diameter 6 cm. Aus der Kollektion Spitzer Katalog No. 1403.,210,92.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230628,111,111,"Kanne mit Henkel und Deckel, birnenformig, mit schmalem Hals und breitem Korper. Auf den weiss ausgesparten Medaillons zwischen rosa Grund Fruchte der verschiedensten Art plastisch und farbig. Auf dem Deckel als Bekronung eine Rose. Deckel und Ausguss mit Charnier verbunden, in verg. Bronze montirt. Mit Marke F. P. Jcq. Petit. Belleville. Hohe 31 cm.",212,99.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230629,112,112,"Kumpen mit Teller und Deckel. Auf demi Kumpen und Teller Haselnussstrauchwerk und Vogel. Auf dem Deckel Thiere im gefertigt. Mit chinesischer Marke. Mundrand 121/2 cm.,Teller 151/2 Diam. Ganze Hohe 10 cm.",213,91.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230630,113,113,"Schachbrett, zum Oeffnen, mit Inhalt: 3 Kassetten, 32 Figuren und Dambrettsteinen. Schachbrett und Kassetten Elfenbein fournirt, die ausseren Rander mit Blumengewinden und Jahreszahl 17l1. Aeussert zierlich und feine Arbeit, aus hohem Besitz.",215,99.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230631,114,114,"Ein Gobelin. Im Mitteltheil eine Figur mit interessanter Bordure, Arabesken etc. Grosse 2,65 : 0,95 m.",216,98.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230632,115,115,"Grosse gothische Scheibe. Gegen den blauen Himmel vor einem Zelte ubergiebt Judith das Haupt des Holofernes, im Hintergrunde des Zeltes sieht man den Enthaupteten in liegender Stellung. Rechts ein Theil eines zweiten Zeltes, Kanonen und Landsknechte, im Hintergrunde eine Burg. Die Umrahmung ornamentirte Saulen,",217,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230633,116,116,"Gothische Scheibe auf blauem Damast und chamoisartigem Fliessenboden steht Johannes, in der Linken das Banner und Lammchen tragend. Die Umrahmung brauner Astbogen, in den Zwickeln Distelblatter und die Jahreszahl 1511. Hohe 79, Breite 36 cm., 4 Spruinge und 6 alte Erg. Schone Schweizer Scheibe. Siehe Ab- bildung II.",220,97.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230634,117,117,"Grosse Portrat-Scheibe, eine Pfeilerarcade mit Saulen, darin in knieender Stellung und gefaltenen Handen der Vater mit seinen 7 Sohnen. Der Vater im gemusterten Brokatgewande mit Handschuh und Schwert,vor ihm der Helm mit Helmzierden, die Sohne im rothen Atlasgewande. Als Basis das Wappen der Familie Hormann von Guttenberg, das zum Theil noch in den braunen Fliessenboden hineingeht. Hochinteressante und seltene Scheibe. Hohe 88, Breite 67 cm., 3 Spruinge und einige Nothverbleiungen.",222,99.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230635,118,118,"Runde deutsche gothische Scheibe. Engel im Vierpass auf blauem Damast u. chamoisartigem Marmor-Fussboden knieend, halt 2 Wappenschilde, links Schachrochen in weiss und schwarz gehaltenem Schilde, rechts in wechselnden Farben im schwarzen Felde 3 silb. Felsen, in den Zwickeln Rosetten. Umrahmung grau Astwerk mit umwundenen Blattern. 1450. Diam. 31 cm. 1 Erg. 1 kleiner Sprung im Zwickel.",223,99.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XV
+BO0624_44452,230636,119,119,"Grosse gothische Scheibe, Scene Mutius und Peorsenna. Im Hintergrunde Zelte, Landsknechte und eine alte Burg. Standesschilder Zurich, Bern,Luzern. einige alte Erg. und Sprunge. Umrahmung Saulen mit Astwerk. Als Basis ornamentaler Fries, daruiber die Hohe 70, Breite 50 cm., Interessante Scheibe.Anfang 16. Jahrh. Siehe Abbildung I.",224,69.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230637,120,120,"Gothische Doppelscheibe A. Auf rothem Damast halt ein in dunkel violettem Ueber- und grunem Untergewand gekleideter Engel in der rechten Hand den Bischofsstab, in der Linken den Schild mit Wappen. Die Umrahmung gruner Astbogen, in den Zwickeln Eichenlaub.Unten links Felix. Aptt. Hohe 43, Breite 32 cm., 6 Spruinge, 4 alte Erg. und Schussloch im Wappen.",226,92.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230638,121,121,"Gothische Scheibe. Auf blauem Damast und weisseu Fliessenboden steht der heilige Dyonisius in rothem Gewande, in der Linken das Haupt tragend, zu seinen Fuissen Standesschild ron Zurich.Umrahmung zwei Saulen tragen den Rundbogen, aus welchem gothische Blattranken wachsen, welche die Zwickel fuillen. Hohe 79, Breite 36 cm., 4 Spruinge und 6 alte Erg. Schone feurige Scheibe. Anfang 16. Jahrh.Siehe Abbildung VI.",234,99.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230639,122,122,"Grosse gothische Architekturscheibe, charakteristisches Pfanzenmuster roth Damast auf schwarzem Grunde unterbrochen von Architektur mit Thurmen, Wimpergen und Thuren. 14. Jahrh. Deutsch. Tadellos erhaltene Scheibe. Hohe 75, Breite 40 cm.",235,96.2,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XIV
+BO0624_44452,230640,123,123,Gemalte Glasscheibe mit figurlicher Darstellung. Verkindigung Samson. Jahreszahl 1596 im Original-Fenster. Aus der Burg bei Bacharach am Rhein.,238,72.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230641,124,124,Glasscheibe mit Wappen des Grafen von Sponheim resp. Pfalz in runder Form mit Jahreszahl 1597 im Original-Fenster.  Aus der Burg bei Bacharach am Rhein. Schone Scheibe.,239,83.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230642,125,125,"Schweizer Cabinetscheibe. Das Wappen wird auf farblosem Grunde mit etwas bunter Architektur umrahmt. Links in der Rustung der Obertheil der Scheibe Kriegsheilige Michael mit der Waage. scenen. Mit der Unterschrift:,Michael Baldi. Gewessner Hauptman und Oberster Litenant uber ein Regiment Eidgenossen ete. Glarus, Anno1607."" Hohe 32,Breite 18cm",241,99.4,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230643,126,126,"Grosse gothische Scheibe gegen die Luft Crucifixus zwischen Maria und Johannes, vor ihnen in kniender Stellung und gefaltenen Handen eine Figur in ganzer gothischer Rustung mit dem goldenen Vlies, vor ihm liegt der gefingerte Kampfhandschuh und Eisenhut. Etwas seitwarts der heilige Franciscus. Als Basis dient eine stufenartige Abtheilung. Die Umrahmuug bilden wulstartige Saulen, dazwischen Engel und Capitaler mit Blattwerk. Hohe 70, Breite 57 cm., 7 Springe und 8 alte Erg. Schone und seltene Scheibe aus dem Anfang des 16. Jahrh. Siehe Abbildung II.",242,99.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230644,127,127,"Eiserner Kasten mit halbkreisformigsr Verdachung. Von allen Seiten mit reich durchbrochenen Ornamenten,Charnier und weich gedrehten Wulsten. Deutsche Arbeit. 16. Jahrh.Lange 18,Hohe 13, Tiefe 9 cm.",243,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230645,128,128,"Runde Elfenbeindose mit Schildpattfutter.Auf dem Deckel ein rundes Miniature in Goldemaille:Die Nacht darstellend,welche sich vom Sternenhimmel abhebt. Feine Goldemaille. Von Alex Noget in Paris. Im Goldrahmchen.",245,83.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230646,129,129,"Kasten auf Fissen, Eisen. Die 4 Seitentheile, sowie der Deckel mit reicher Aetzarbeit. Die Rander und Kanten ornamentirt. Das kunstvolle Schluss innen ist in seinen Einzeltheilen und auf der Grundfache geatzt. Interessantes Stick von guter Erhaltung. Deutsch.16. Jahrh.Lange 30, Hohe 20,Tiefe 18 cm.",246,99.3,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230647,130,130,"Ciborium mit Deckel. Auf dem Korper in Relief Christus, Maria und Magdalena. Die ibrigen Theile reich ornamentirt,versilbert und vergoldet. Italien 15.Jahrh.Ganze Hohe 20 cm.",247,98.8,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230648,131,131,"Bronze, weibliche Figur in reicher Gewandung, romisch, schon patinirt. Hohe 15 cm.",248,82.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230649,132,132,"2 Kupfer-Emaillen in Herzform, mit der Inschrift: Amour hoyt lorgneill und Loya Secrat. Gut ausgefuhrte franzosische Emaillen. 18.Jahrh.7:6 cm.",250,98.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230650,133,133,"Portrat. Friedricus Augustus. Rex Polon. Electeur Saxon: ETC. 1734. Ovale Kupferemaille, bez. Schmidt. fec. Grosse 81/2 : 61/2 cm. Feine Ausfuhrung.",251,98.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230651,134,134,"2 Kupfer-Emaillen,Herzform. Genrescenen in Filigran.Rahmen mit Granaten besetzt.",252,97.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230652,135,135,"Bronze-Plaquette,Portrat des F. Petrarca, bez. Donatello. F. 16:12cm.",253,96.9,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230653,136,136,"Bronze-Plaquette, Portrat der Diva Lavra, bez. Donatello.F.",254,96.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230654,137,137,Portrat-Medaille.Elisabet.Krelerin.HET.I.C.H.DIE.GE.STHALT.VND.WAS.47. JAR. ALT.Bronze.5i/2 diam.,255,67.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230655,138,138,Portrat-Medaille des Laux. Kreler.WAS. ALT. LI. M.D.XX. Bronze. 51/2 diam.,257,82.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230656,139,139,"Betender Monch vor einem Krucifix. Elfenbeinschnitzerei in Verbindung mit Holz, unter Glas und Rahmen. Hohe 30 cm.",259,98.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230657,140,140,"Elfenbein-Figur im Monchsgewand, mit silbernem Hut. Frankreich, 15.Jahrh.Hohe 26 cm.",260,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XV
+BO0624_44452,230658,141,141,"Terracotta - Gruppe, Raub der Sabinerinnen. Italien, 16. Jahrh. Zum Theil etwas ladirt. Hohe 27 cm.",261,74.7,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230659,142,142,"Viereckige Dose mit Musikwerk, reichen Gravirungen und vergoldet. In der Mitte eine Uhr, auf jeder Seite derselben eine silberne Kapsel, die sich durch einen geheimen Druck offnet. Empirezeit. Grosse 14:7 cm.",263,99.0,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230660,143,143,"Kesseluntersatz auf Fussen, Messing geschnitten, mit Thieren in Chimaren-Gestalt. Deutsch, 16. Jahrh.",264,76.2,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230661,144,144,"Humpen mit Henkel, darauf en relief eine Kreuzigung. Blau glasirtes Steingut. Nassau, 16. Jahrh. Hohe 241/2 cm.",266,75.1,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230662,145,145,"Runde blau emaillirte Dose. Auf dem Deckel Vierpass-Medaillon, mit Landschaften und Figuren; am ausseren Rand der Dose vier kleinere Medaillons, Seehafen-Figuren. 18. Jahrh. 7 diam. Hohe 4 cm.",269,79.9,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230663,146,146,"Maria mit dem Kinde, in der Hand einen Rosenkranz haltend. In Elfenbein geschnitten. Spanisch, 15. Jahrh. Ganze Hohe 17 cm.",270,98.3,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XV
+BO0624_44452,230664,147,147,"Laube mit Untersatz, Filigranarbeit, Silber mit Steinen besetzt. 18. Jahrh. 147a.Bugeleisen, uberaus reich in Messing geschnittenen Ornamenten, Blumen und Inschrift. Sabina, Justina. Hoppterin. 1702.",271,53.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230665,148,147a,"Bugeleisen, uberaus reich in Messing geschnittenen Ornamenten, Blumen und Inschrift. Sabina, Justina. Hoppterin. 1702.",272,96.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVIII
+BO0624_44452,230666,149,148,"Kleine Kassette, Schildplatt, auf dem Deckel Seitentheile und Schlosskupfer emaillirte Platten mit Blumen und Fruichten. Deutsch, 17. Jahrh. Hohe 101/2 cm, Tiefe 121/2 cm, Lange 171/2 cm.",273,98.9,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230667,150,149,"Apothekergefass,mit weiblichem Bildniss im blauen Grunde. Caffagiola, 16. Jahrh. Interessantes Stick,obere Kante etwas restaurirt. Hohe 25 cm.",274,98.6,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230668,151,150,"2 Reliefs mit Figuren, Alabaster. Italien, 17. Jahrh.",275,96.0,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230669,152,151,"2 reliefartige Thonplatten, glasirt. Die Geburt Christi und Anbetung der drei Konige.",276,97.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230670,153,152,"Grosses eisernes Schloss mit Schlissel. Deutsch, 16. Jahrh.",277,96.5,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVI
+BO0624_44452,230671,154,153,"Kreuztragung, Alabaster, Relief. Italien, 17. Jahrh.",278,95.8,False,positional,,,Glasgemalde; Kunstgegenstande,,Sec. XVII
+BO0624_44452,230672,155,154,"Dose, Buchsbaum, zum Oeffnen in Gestalt eines Lowen.",279,96.1,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230673,156,155,"6 Teller mit Korbrand, Goldspitzenrand und Blumen, alt. Berlin.",280,96.7,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230674,157,156,1 Stuck rother Seidensammet. Mans. 93:57 cm.,281,93.2,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230675,158,157,Ovales Portrat einer Dame im Kostim Louis XVI. Goldrahmen.,282,96.6,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230676,159,158,Schussel mit Korbrand und Drachenmuster. Fruh Meissen. Schwerterwerke.Durchmesser 30 cm.,283,95.5,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230677,160,159,"Aquarelle, Vorbild zu einem Facher, signirt Agelica Kauffmann.",284,96.7,False,positional,,,Glasgemalde; Kunstgegenstande,,
+BO0624_44452,230678,161,160,Flacon in Gestalt eines Spargels. Meissen.,291,95.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230679,162,161,"2 Platten, die Auferstehung und Verkundigung. Farbige Fayencen. Tyrol,17.Jahrh.23:161/y cm.",293,98.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230680,163,162,"Kleine Bouillon-Schale mit Deckel, blau. Meissen. Marcolini.",294,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230681,164,163,"Ofenkachel, eine Viehheerde, mit blauer Glasurfarbe gemalt. Delft. Grosse 40:28 cm.",295,97.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230682,165,164,"Kleine Amorette, die Astronomie, farbig dekorirt. Beide braun restaurirt. Meissen, 18. Jahrh. Hohe 12 cm.",297,99.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230683,166,165,"Schussel mit reichen Original-Gravirungen und St. Catarina, Zinn. 18. Jahrh. 391/2 diam.",298,83.8,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230684,167,166,"Dose aus Bernstein, Rococco-Form. 18. Jahrh.",301,96.4,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230685,168,167,"Necessaire, mit Inhalt, reich ornamentirt, Silber. 18. Jahrh.",302,96.5,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230686,169,168,"Thiergruppe, ein Hirsch, farbig dekorirt. Felder mit Marke. Unbedeutende Beschadigung am Geweih. Hohe 8 cm, Lange 13 cm.",304,98.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230687,170,169,"Spulnapf, gerippt und dekorirt, mit fruher MArke aus Japan. 19 diam. und Hohe 9 cm.",306,43.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230688,171,170,"14 Messergriffe, ornamentirt, mit Streublumen. Meissen, 18. Jahrh. Kleine Terrine, mit Deckel, als Bekronung eine Amorette mit einem Fullhorn, Frichte und Blumen werfend. Dekorirt mit Guirlanden und Streublumen. Meissen. Marolini. Ganze Hohe",307,41.1,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230689,172,171,"Kleine Terrine, mit Deckel, als Bekronung eine Amorette mit einem Fullhorn, Frichte und Blumen werfend. Dekorirt mit Guirlanden und Streublumen. Meissen. Marolini. Ganze Hohe 20 cm.",308,97.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230690,173,172,"Servis, 2 Kannen, 1 Theebuchse, 2 Schalen, 5 Tassen, 2 Spulnapfe, im Ganzen 12 Sticke; alt China, in Europa gemalt. 1 Tasse und Spulnapf leicht gesprungen.",311,78.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230691,174,172a,172a. Terrine mit Mascarons und Vogelmuster. Meissen.,312,97.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230692,175,173,"Stempel, Messing, mit Doppelwappen.",317,94.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230693,176,174,"Horn-Dose, Deckel mit figurlicher Darstellung.",318,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230694,177,175,"2 Messer in Bronze, Griffe am Ende Lowenkopfe, sehr alt.",319,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230695,178,176,Stobwasser-Dose (Ansicht unter den Linden).,320,95.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230696,179,177,Gebetbuch in Sammet mit Silberbeschlagen.,321,95.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230697,180,178,Gebetbuch in Sammet mit Silberbeschlagen.,323,97.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230698,181,179,Schildpatt-Dose mit Silbereinlagen und Montirung.,325,98.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230699,182,180,"Besteck, Messer und Gabel im Leder-Etui,reich verziert.",326,97.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230700,183,181,Astronomischer Gegenstand im Etui.,328,94.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230701,184,182,"Pfeifen-Futteral in Buxholz, schone Arbeit.",329,95.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230702,185,183,"Zulege-Gabel mit reicher Silber-Einlage,originell.",330,96.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230703,186,184,Astronomischer Gegenstand in einem Gehause.,331,95.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230704,187,185,Pfefferreiber mit Elfenbein-Einlagen.,332,94.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230705,188,186,"186.Visite-Buchelchen mit Elfenbein-Deckel und figurlicher Darstellung geschnitzt, Venus und Amor.",333,98.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230706,189,187,"Empire-Leuchter, Bronze-vergoldet, gleichzeitig Uhr und Tintenfass.",334,97.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230707,190,188,"Doppel-Schliesse, Silber, Renaissance.",336,95.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230708,191,189,"Onyx-Etui, lienaissance mit silberner Montirung.",338,96.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230709,192,190,Meerschaum-Pfeifenkopf mit geschnitzten Figuren und silbernen Beschlagen,339,89.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230710,193,191,"Emaillirter Anhanger, Russisch.",341,93.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230711,194,192,"Ring, Gold mit blauer Emaille.",343,94.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230712,195,193,"Marquis-Ring, mit Elfenbein-Schnitzereien, geringes Gold.",345,97.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230713,196,194,"Ring mit grunen und rothen Steinen, auf beiden Seiten Engel, Silber.",347,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230714,197,195,Ring mit geschnittenem Bergkrystall (Wappen).,348,95.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230715,198,196,"Sogenannter Luther-Ring mit Inschrift, Silber vergoldet.",349,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230716,199,197,"Marquis-Ring mit Silhouette auf Gold-Grund, Kupfer vergoldet.",350,96.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230717,200,198,Ciselirter Ring mit geschnittenem Stein. Kupfer vergoldet.,351,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230718,201,199,"Emaillirte Bonbonniere, Doggen-Kopf vorstellend.",353,97.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230719,202,200,Miniature-Bild auf Elfenbein. Kunstlerisch ausgefuihrte alte Arbeit.,355,98.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230720,203,201,Schliesse mit feiner Elfenbein-Arbeit in Gold-Montirung (Amor vorstellend).,357,98.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230721,204,202,"Schliesse mit feiner Elfenbein-Arbeit in Gold-Montirung, (Landschaft vorstellend).",358,89.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230722,205,203,"Elfenbein-Tafel, auf beiden Seiten figirliche Darstellungen gravirt. Gutes Stick.",360,97.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230723,206,204,"I Paar Messern und Gabeln, Griffe Silber und Perlmutter, im Etui.",361,96.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230724,207,205,"Elfenbein-Tafel, auf der einen Seite gravirt.",362,95.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230725,208,206,"Elfenbein-Kreuz mit Christus, Maria und Folter-Werkzeugen. Gutes Stick.XVIlI. Jahrh.",363,84.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230726,209,207,"Schluissel, Griff ornamentirt, in Eisen geschnitten.",366,97.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230727,210,208,Ovales Rahmchen mit weissen Steinen besetzt und Elfenbeinrelief.,368,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230728,211,209,"Stempel mit Wappen in Eisen, Griff Silber tauchirt.",370,97.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230729,212,210,"Stempel, Silber mit Wappen.",371,92.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230730,213,211,"Gurtel, Schloss und Mittelstick fein ornamentirt, Silber. XVI. Jahrh.",372,97.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230731,214,212,"Buchbeschlag mit Schliessen, Silber. XVIl. Jahrh.",374,96.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230732,215,213,"Schlissel, Griff mit durchbrochenem Ornament in Eisen geschnitten.",376,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230733,216,214,"Wappen in Kehlheimer Stein geschnitten, Ruckseite desgleichen.",378,97.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230734,217,215,"Nadel-Buchse, vernis martin, Fond schwarz mit Gold und kleinen rothen Blumen.",379,87.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230735,218,216,"Nadel-Buchse, vernis martin mit Flacon, Fond roth mit weissen Blumenbouquets.",381,97.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230736,219,217,"Messer mit Elfenbeingriff, Bachus auf dem Fass.",382,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230737,220,218,"Nadel-Buchse, vernis martin, mit Schaferscenen.",383,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230738,221,219,"Fayence, farbig gemalt, Kuh mit sitzendem Manne.",384,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230739,222,220,"Silber-Rahmchen, getriebene Arbeit.Louis XVI",385,95.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230740,223,221,Elfenbein Notiz-Buch mit Silber-Pique-Einlagen.,386,95.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230741,224,222,Cassette mit Deckel in Eisen und reicher Silber-Incrustation. Orientalische kunstvolle Arbeit.,387,97.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230742,225,223,"Silberne Garn-Wickel, reich ornamentirt. Louis XVI.",388,96.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230743,226,224,"Reich getriebene Renaissance-Platte in der Manier des Palamedes, Feuer versilbert.",389,97.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230744,227,225,"Bronze-Morser, reich ornamentirt, mit Inschrift und Jahreszahl 1650.",390,97.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVII
+BO0624_44452,230745,228,226,Plateau in Eisen mit reicher Silber-Incrustation. Orientalische kunstvolle Arbeit.,391,84.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230746,229,227,Holzfigur. Bettelweiss mit alter Bemalung in der Art der Callotschen Bettelfiguren.,394,39.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230747,230,228,"Glas, sehr reich geschliffen, mit Jagdscenen.",396,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230748,231,229,"Glas mit Deckel, sehr reich geschliffen, schones Stuick.",397,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230749,232,230,"Glas, sehr reich geschliffen, Wappen Rad vorstellend.",398,96.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230750,233,231,"Glas mit Wappen, Pfalz, sehr reich geschliffen.",399,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230751,234,232,"Fayence-Gestell in Form eines Kleeblattes mit Wappen, Blumen und Ornamenten.",400,97.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230752,235,233,"Wanduhr in Metall, reich getriebene Arbeit mit Feuerversilberung.",401,96.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230753,236,234,"Kanone, Modell Hinterlader, complett mit Protzkasten und Zubehor.",402,96.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230754,237,235,"Kinder-Rassel, Silber, Renaissance in reich getriebener Arbeit.",403,96.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230755,238,236,Necessaire in Perlmutter und silber-vergoldeter Montirung mit Goldeinlagen. Schone franzosische Arbeit. Louis XVI. (Complet.),404,98.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230756,239,237,Fein gemaltes Miniatur-Bild auf Elfenbein in Silber-Einfassung. Dame und Herr mit Amor.,405,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230757,240,238,"Cassette, reich mit Blumen und Metall-Einlagen.",407,96.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230758,241,239,"Wappen, Familie von Hohenlohe, reich geschnitten. 60:53cm.",408,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230759,242,240,Grosse Doppel-Platte mit farbigen Malereien. Porzellan.,409,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230760,243,241,"Fulverhorn mit reichen Einlagen und Wappen, vorzugliches Stuck. montirt und emaillirt.",410,82.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230761,244,242,"Bunde Elfenbeindose, auf dem ein Gemalde a la Tenier in Gold",412,96.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230762,245,243,Ein Paar grosse Schnallen in Silber mit Steinen und Metallverzierung.,413,97.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230763,246,244,Porzellan-Pfeifenkopf mit Hirschen.,414,94.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230764,247,245,"Michelmannkastchen, auf allen Seiten mit figurlichen Darstellungen. Schloss fehlt.",415,87.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230765,248,246,Pfeifenkopf in Buchs mit reicher Schnitzerei und Silberbeschlag.,417,96.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230766,249,247,Grosser Pfeifenkopf. Schnitzarbeit mit Hirsch.,418,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230767,250,248,"Glaspokal in Trichterform, reich geschliffen.",420,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230768,251,249,"Fayence, farbig gemalt, Kuh mit sitzendem Manne.",421,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230769,252,250,"Kleiner Krug, farbig gemalt, mit Gold-Decorationen. Kreusen.",422,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230770,253,251,"Kistchen mit Lederiberzug und reichen Eisenbeschlagen. Gothisch, gut erhalten.",423,97.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230771,254,252,"Apostel-Krug, einfarbig, Kreusen.",424,93.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230772,255,253,"I Stuck Spitze, Point Alancon.",425,93.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230773,256,254,"Grosse goldene Munze. 254a.Medaille,mit Stadt, Silber.",426,53.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230774,257,254a,"Medaille,mit Stadt, Silber.",427,86.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230775,258,255,Portrait-Medaille. Joh. Friedrich v. Sachsen.,428,95.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230776,259,256,"Portrait-Medaille.Friedrich Il.,Denkmal Fr.d. Gr.",429,95.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230777,260,257,Portrait-Medaille.Friedrich Wilhelm II.,430,95.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230778,261,258,"1/3 Thaler von Anhalt 1672, selten.",431,94.3,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVII
+BO0624_44452,230779,262,259,"Thaler, St. Georg mit Schiff, selten.",433,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230780,263,260,"Thaler, St. Georg. Mansfeld 1595.",434,93.5,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230781,264,261,"Thaler, St. Georg. Mansfeld 1591.",435,93.5,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230782,265,262,"Thaler, St. Georg. Mansfeld 1605.",436,93.5,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVII
+BO0624_44452,230783,266,263,"Thaler, St. Georg. Mansfeld 1623.",437,93.5,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVII
+BO0624_44452,230784,267,264,Kriegs-Medaille von Isenburg. Sehr selten.,438,95.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230785,268,265,"Kriegs-Medaille, gold emaillirt, Wasa-Orden.",439,95.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230786,269,266,"Italienischer Orden, gold emaillirt.",440,94.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230787,270,267,Orden von Kurhessen.,441,90.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230788,271,268,"Kleines rundes Tischchen, Louis XVI., mit Metall-Verzierung und Marmor-Platte, auf einem Fuss.",442,97.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230789,272,269,"Wandleuchter Louis xV. Sehr reich in Metall getrieben, in echt alter Feuer-Versilberung.",443,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230790,273,270,3 reich geschnitzte Stuhle mit Rohr-Geflecht. Louis XVI.,444,96.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230791,274,271,"Rahmen in schoner Vergoldung mit Monogramm, fein und sehr reich geschnitzt. Seltenes Stick.",445,75.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230792,275,272,6 reich geschnitzte Stuhle. Louis XVI.,447,97.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230793,276,273,"Chaise Longue mit Brokat-Ueberzug, aparte Form. Franzosische Arbeit, Louis XV.",449,85.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230794,277,274,"Rococo-Stand-Uhr in Eichenholz geschnitzt von hochst origineller und seltener Form. Gute Arbeit. 274a. Damen-Schreibpult in Mahagoni mit Cylinder-Bureau und reichen Buxholz-Einlagen. Louis XVI., gutes Stick.",451,63.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230795,278,274a,"Damen-Schreibpult in Mahagoni mit Cylinder-Bureau und reichen Buxholz-Einlagen. Louis XVI., gutes Stick.",452,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230796,279,275,Goblin Verdure mit Vogel.,453,92.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230797,280,276,Silber getriebenes Plateau. Scene nach Watteau.,454,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230798,281,277,"Stein-Krug, sogenannter Stern-Krug mit doppeltem Stern, grau und blau, reich ornamentirt am Ausguss. Maskarons. XVI. Jahrh. Sehr gutes Stick.",455,92.1,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230799,282,278,"Stein-Krug,Uni-Braun, sehr figurenreich (Histoire Susanna im Bade.) 16.Jahrh. Hohe 33 cm. Sehr gutes Stick.",458,87.4,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230800,283,279,Silber getriebenes Plateau mit figurlichen Darstellungen und Ornamenten.,459,97.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230801,284,280,"Facher, Feuille mit Chinesen, Gestell fein ornamentirt.",460,96.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230802,285,281,"Porzellan-Humpen mit Deckel, mit reichem Gold-Decor und Silber- montirung. Vieux Sax, fruhe Periode.",461,76.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230803,286,282,"Feuille eines Fachers, auf Pfauenhaut gemalt, von seltener Schonheit.Kunstwerk.",463,87.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230804,287,283,Facher mit Blumen und Figuren.  Gestell ornamentirt.,466,97.0,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230805,288,284,Facher mit schou gemalter Feuille und kunstvoll gearbeitetem Gestell. Arbeit ersten Ranges.,467,97.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230806,289,285,Doppel-Becher. Silber-Amor auf einem Becher knieend und den anderen Theil des Bechers auf dem Kopfe tragend.,468,98.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230807,290,286,"Becher mit Deckel, Siiber vergoldet, originelle Form.",469,96.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230808,291,287,"Renaissance-Becher.Mundrand vergoldet, und gravirtem ornamentalen Rand. Mittelstuck birnenformig, mit drei kleinen henkelartigen Tragern, Fuss gravirt und vergoldet, desgl. Mittelstuck. Deutsch. 16. Jahrh. Hohe 15 cm.",470,99.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230809,292,288,Blumen-Tisch. Renaissance. Mit reich geschnitzten und ornamentirten Fissen. Sehr seltenes Mobel.,471,69.4,False,title_direct,,,Mobel,,
+BO0624_44452,230810,293,289,"Schreib-Sekretar, reich mit Figuren und Landschaften eingelegt. Schone Arbeit. Louis XVI.",474,98.8,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230811,294,290,Franzosisches Eckschrankchen mit Marmorplatte. Reich eingelegt. Louis XVI.,476,98.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230812,295,291,Franzosisches Eckschrankchen mit Marmorplatte. Reich eingelegt. Louis XVI.,477,89.9,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230813,296,292,"Spiegel Louis XIV., reich geschnitzt und vergoldet. Franzosische Arbeit,prachtvolles Stuck.",480,98.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230814,297,293,Rococo - Kommode mit Bronze - Beschlagen. Geschweifte Form. Schones Mobel.,481,97.1,False,title_direct,,,Mobel,,
+BO0624_44452,230815,298,294,Rococo-Kommode mit reichen Bronze-Beschlagen und Einlagen.,482,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230816,299,295,"Sessel Louis XVI., fein geschnitzt und vergoldet mit Brokat-Ueberzug. Franzosische Arbeit. Schones Stuick.",483,98.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230817,300,296,"Goblin, reich ornamentirt. Vorzuglich erhalten.",485,96.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230818,301,297,"Damenschreibtisch, reich eingelegt mit Blumen und Ornamenten. Kleines nettes Mobel.",486,82.5,False,title_direct,,,Mobel,,
+BO0624_44452,230819,302,298,"Achteckige Dose mit reichen Gravirnngen und vergoldet, darauf sichtbar eine Uhr und daneben die bewegliche Unruh, zwischen beiden oben eine fein geschnittene Elfenbeinplatte mit Einfassung. Auf der Ruckseite werden durch ein Uhrwerk verschiedene Figuren aus Silber, Angler, Holzhacker, Bergmann, Wassermihle etc. in Bewegung gesetzt, als Staffage eine Burg auf Felsen u. Baumen aus Elfenbein auf schwarzem Grund. Franzosische Arbeit. Louis XVI. Grosse 91/2:6 im Etuis.",488,99.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230820,303,299,"Kleine Cassette mit feinen figurlichen und ornamentalen Darstellungen in Eisen geschnitten, der Fond vergoldet. Originelles Stick von ausserster Feinheit im Leder-Etuis, franzosische Arbeit, Louis XIV. Grosse 41/2:4.",489,99.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230821,304,300,"Goldener romischer Ring mit einem geschnittenen Onyx, auf dem sich eine Quadriga in feiner Ausfuhrung befindet.",491,98.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230822,305,301,"Grosser Trink-Humpen, Silber veegoldet mit getriebenen Karos. Elegante Form.",492,97.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230823,306,302,"Porzellan-Gruppe, die Frisier-Stube darstellend, aus der Franken- thal-Fabrik Carl Theodor, hochst selten vorkommende monstrose Gruppe. Hohe 32 cm.",494,71.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230824,307,303,"Ritter-Rustung mit Turnier-Helm, reich ornamentirt.  16. Jahrh. Sehr seltenes Stuck.",495,82.9,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230825,308,304,Goldener Ring aus der Ritterzeit 1508 mit dem Wappen der Familie von Strahlenberg. In der Mitte ein Bergkrystall mit Polychromer Emaille und Vergoldung. Sowohl in der Erhaltung als im Vorkommen ausserst seltenes Stick aus schwerem Golde.,498,84.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVI
+BO0624_44452,230826,309,305,"305.2 2 Bronze vergoldete Chirandols. Gotter in dunkeler Bronze tragen Fullhorner, aus denen Blumen und Blatter hervorkommen, welche zum Theil dazu dienen, um Lichte darin aufzunehmen. Feine franzosische Arbeit und schone Stucke aus der Zeit Louis XVI. Hohe 80 cm.",499,99.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230827,310,306,"Kartell-Uhr in Bronze, mit feinster Vergoldung und reichster ciselirter Ornamentik. Franzosische Arbeit. Louis XV.",500,68.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230828,311,307,"I Stuck Spitze, Point Alancon.",502,93.3,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230829,312,308,"Feine Stickerei, Petit Point, franzosisch.",503,95.1,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230830,313,309,"Toilettetisch, in Rosen- und Polisanderholz, zugleich Damenschreibtisch mit Bronzen.",504,97.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230831,314,310,"Bronze-Listre, Empire, 12armig, mit schwerer Feuer-Vergoldung.",505,96.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230832,315,311,"Spiegel, reich geschnitzt und vergoldet. Rococo.",506,95.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230833,316,312,"Tischchen, weiss und Goid, mit Marmorplatte. Louis XVI.",507,96.2,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230834,317,313,"Kleiner Spiegel, Holz geschnitzt und vergoldet. 18. Jahrh. Hohe 57cm.",508,97.0,False,positional,,,Kunstgegenstande; Mobel,,Sec. XVIII
+BO0624_44452,230835,318,314,"Empire-Toilette-Spiegel, mit reichen vergoldeten Bronze-Beschlagen. Seltene Form, franzosische Arbeit.",510,98.5,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230836,319,315,"Rococo-Schreibpult, mit Schnitzereien und reichen Einlagen.",511,96.6,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230837,320,316,"Franzosisches Tischchen,mit Marmorplatte. Mahagoniholz mit reichen Metall-Verzierungen.",512,97.7,False,positional,,,Kunstgegenstande; Mobel,,
+BO0624_44452,230838,321,317,"Rahmen, reich geschnitzt und vergoldet. Louis XIV.",513,95.9,False,positional,,,Kunstgegenstande; Mobel,,

@@ -1,437 +1,437 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_83735,91381,1,1,Antonello De Messine. XV siecle.  Portrait dhomme.,,51.2,True,none,,,
-BO0624_83735,91382,2,2,Boucher. 1703-1770. Les Oiseaux en cage.,117.0,66.7,False,positional,BOUCHER (FRANCOIS),,
-BO0624_83735,91383,3,3,"BOUCHER, FRANCOIS. Le Petit Denicheur.",,54.0,True,title_direct,BOUCHER (FRANCOIS),,
-BO0624_83735,91384,4,4,Bourguignon. 1621-1676. Bataille.,,44.4,True,none,,,
-BO0624_83735,91385,5,5,Bourguignon. Combat de cavalerie.,147.0,75.0,False,positional,"BOURGUIGNON (JAcQUEs CoURToIs,dit le)",,
-BO0624_83735,91386,6,6,BREUGHEL. 1568-1625. L'Entree dans larche. Bataille.,157.0,60.5,False,positional,"BREUGHEL (JEAN), dit de Velours",,
-BO0624_83735,91387,7,7,Chardin. 1699-1799. Nature morte.,170.0,61.2,False,positional,CHARDIN (JEAN-BAPTISTE),,
-BO0624_83735,91388,8,8,CLOUET FRANcois. 1510-1572. Portrait de femme..,,58.0,True,none,,,
-BO0624_83735,91389,9,9,"Coques. 1618-1684. Portrait d'homme. l est vu jusqu'a mi-corps, en pourpoint noir, la tete presque de face, portant sur la fraise rigide a double tuyaute. Des cheveux blonds,une moustache naissante, le menton termine par une mince barbiche.La bouche est grande, d'un beau dessin male; les yeux bleus trahissent une volonte douce et patiente.Le front est ample, solidement modele;les pommettes sont legerement emaciees; le maxillaire inferieur a de l'accent. La figure, dans une lumiere blonde, se degage d'un fond sombre.",196.0,95.8,False,positional,COQUES (GONZALES),,
-BO0624_83735,91390,10,10,Danloux. 1745-1809. Les Petits gourmands.,209.0,72.7,False,positional,DANLOUX (PIERRE),,
-BO0624_83735,91391,11,11,Demarne. 1744-1829. Le Retour du marche.,224.0,68.8,False,positional,DEMARNE (JEAN-LoUIS),,
-BO0624_83735,91392,12,12,Dietrich. 1712-1774. Le Marchand de gaufres.,235.0,73.2,False,positional,DIETRICH (CHRETIEN-GUILLAUME),,
-BO0624_83735,91393,13,13,Drouais. 1727-1775. Portrait du jeune duc de Choiseul,,59.6,True,none,,,
-BO0624_83735,91394,14,14,"Durer. 1471-1528. Portrait de Maximilien Ier (Empereur d'Alemagne, de1493a1519,grand-pere deCharles-Quint).",259.0,86.0,False,positional,DURER(ALBERT),,
-BO0624_83735,91395,15,15,Dyck. 1680-1753. La Servante amoureuse.,276.0,73.5,False,positional,DYCK (PHILIPPE VAN),,
-BO0624_83735,91396,16,16,Flinck. 1615-1660. Portrait d'un jeune homme.,291.0,74.4,False,positional,FLINCK (GOVAERT),,
-BO0624_83735,91397,17,17,Fragonard. 1732-1806. Cache-cache.,,56.0,True,none,,,
-BO0624_83735,91398,18,18,Franck. 1581-1642. Le Festin de Balthazar.,315.0,68.6,False,positional,FRANCK (FRANCOIS),,
-BO0624_83735,91399,19,19,"GREUZE, JEAN-BAPTISTE. 1725-1805.La Jeune fille a la rose.",328.0,62.1,False,title_direct,GREUZE (JEAN-BAPTISTE),,
-BO0624_83735,91400,20,20,"GREUZE, JEAN-BAPTISTE. La Priere.",,52.5,True,title_direct,GREUZE (JEAN-BAPTISTE),,
-BO0624_83735,91401,21,21,"GRIMOUX, ALEXIS. 1680-1740. Le Joueur de clarinette.",348.0,60.2,False,title_direct,GRIMOUX (ALEXIS),,
-BO0624_83735,91402,22,22,Holbein. 1497-1543. La Mere de Calvin.,,53.1,True,none,,,
-BO0624_83735,91403,23,23,Hondekoeter. 1636-1695. La Poule blanche.,,58.5,True,none,,,
-BO0624_83735,91404,24,24,Kessel. 1684-1741. Barbiers et chirurgiens.,381.0,73.0,False,positional,KESSEL (NICOLAS VAN),,
-BO0624_83735,91405,25,25,Keyser. 1595-1669. Portrait de femme.,392.0,64.5,False,positional,KEYSER(TH.DE),,
-BO0624_83735,91406,26,26,Maes. 1632-1693. L'Enfant a la gaufre.,407.0,71.6,False,positional,MAES (NICOLAS),,
-BO0624_83735,91407,27,27,Maes. M.lle de la Baume Le Blanc.,,58.3,True,none,,,
-BO0624_83735,91408,28,28,"Mantegna, Andrea. 1430-1506. Portrait d'homme.",,58.8,True,none,,,
-BO0624_83735,91409,29,29,Mignard. 1610-1695. Portrait de Marie-Victoire de la Tremoille.,446.0,65.5,False,positional,MIGNARD (PIERRE),,
-BO0624_83735,91410,30,30,Nattier. 1685-1766. La Duchesse de Chateauroux.,457.0,64.2,False,positional,NATTIER (JEAN-MARC),,
-BO0624_83735,91411,31,31,Ommegank. 1755-1826. Moutons.,,50.0,True,none,,,
-BO0624_83735,91412,32,32,Peters. 1614-1652.  La Poupée de Nuremberg.,482.0,66.7,False,positional,PETERS (BONAVENTURE),,
-BO0624_83735,91413,33,33,Raoux. 1677-1734. Portrait d'homme.,495.0,64.4,False,positional,RAOUX (JEAN),,
-BO0624_83735,91414,34,34,Robert. 1794-1835. La Famille du brigand.,507.0,62.9,False,positional,ROBERT (LEOPOLD),,
-BO0624_83735,91415,35,35,Ruysdael. 1630-1681. Le Vieux chene.,518.0,60.7,False,positional,RUYSDAEL (JACQUES),,
-BO0624_83735,91416,36,36,"SAINT-AUBIN, GABRIEL-JAcQUEs DE. 1724-1780. Louis XVI,Marie-Antoinette et la Dauphine.",,57.8,True,title_direct,SAINT-AUBIN (GABRIEL-JAcQUEs DE),,
-BO0624_83735,91417,37,37,Shut et Seghers. 1590-1661. Sainte-Famille.,,50.8,True,none,,,
-BO0624_83735,91418,38,38,Senave. 1758-1829. Le Marche.,,54.5,True,none,,,
-BO0624_83735,91419,39,39,"VAN SPAENDONCK, GERARD. 1746-1822. Fleurs et fruits.",,56.4,True,title_direct,VAN SPAENDONCK (GERARD),,
-BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",,45.3,True,none,,,
-BO0624_83735,91421,41,41,"TENIERS, DAvID,le Jeune. 1610-1689.Les Joueurs de boules. ls se sont installes devant lauberge:c'est jour de liesse, si l'on en croit le cortege dansant qui s'avance au fond,a gauche,aux accents de la cornemuse,si lon en croit egalement les couples de buveurs attables a droite. Au premier plan,les joueurs sont attentifs a la partie. L'un,penche en avant,va lancer la boule. Derriere lui, un autre compagnon,vetu de gris,attend son tour,indifferent aux avis d'un conseilleur, qui se tient pres de lui. A gauche,pres du cochonnet,un bonhomme, en culotte grise et chemise blanche, est vu de dos. Pres du mur, en pleine lumiere,un malade,vu de dos,allege son estomac surcharge. Au fond, au-dessus des branches,le clocher de l'eglise dresse sa fleche vers le ciel illumine de chaudes clartes.",597.0,96.0,False,title_direct,"TENIERS (DAvID,le Jeune)",,
-BO0624_83735,91422,42,42,Teniers. Le Festin des singes.,606.0,64.3,False,positional,"TENIERS (DAvID,le Jeune)",,
-BO0624_83735,91423,43,43,Valckenburg. 1675-1721. Coq et canards.,,55.7,True,none,,,
-BO0624_83735,91424,44,44,"VELDE, GuILLAUME,le Jeune, VAN DE. 1633-1707. Les Pecheurs.",626.0,62.5,False,title_direct,"VELDE (GuILLAUME,le Jeune, VAN DE)",,
-BO0624_83735,91425,45,45,"WEENIX, JEAN. 1644-1719. Le Chien blanc.",,50.0,True,title_direct,WEENIX (JEAN),,
-BO0624_83735,91426,46,46,"WOUWERMAN, PHILIPPE. 1620-1668.",648.0,70.4,False,title_direct,WOUWERMAN (PHILIPPE),,
-BO0624_83735,91427,47,47,"WOUWERMAN, PHILIPPE. Cavaliers au bord de la mer.",663.0,71.8,False,title_direct,WOUWERMAN (PHILIPPE),,
-BO0624_83735,91428,48,48,ECOLE DE BRUGES. La Salutation angelique.,674.0,72.5,False,title_direct,,ECOLE DE BRUGES,
-BO0624_83735,91429,49,49,ECOLE FRANCAISE. Sainte Cecile.,681.0,65.3,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91430,50,50,ECOLE FRANCAISE. Portrait d'homme.,714.0,65.5,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91431,51,51,ECOLE FRANCAISE. Portrait dhomme.,802.0,63.0,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91432,52,52,ECOLE FRANCAISE. Portrait d'homme.,,57.7,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91433,53,53,ECOLE FRANCAISE. Portrait de femme.,840.0,60.3,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91434,54,54,ECOLE FRANCAISE. Portrait de femme.,,56.6,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91435,55,55,ECOLE FRANCAISE. Portrait d'une demoiselle de Saint-Denis.,,43.3,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91436,56,56,ECOLE FRANCAISE. Mme du Deffand.,858.0,64.0,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91437,57,57,ECOLE FRANCAISE. Portrait de femme,,46.7,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83735,91438,58,58,ECOLE HOLLANDAISE. Deux personnages.,,44.4,True,title_direct,,ECOLE HOLLANDAISE,
-BO0624_83735,91439,59,59,ECOLE HOLLANDAISE. Famille Hollandaise.,,41.9,True,title_direct,,ECOLE HOLLANDAISE,
-BO0624_83735,91440,60,60,ECOLE HOLLANDAISE. Femme et enfant.,,42.1,True,title_direct,,ECOLE HOLLANDAISE,
-BO0624_83735,91441,61,61,ECOLE HOLLANDAISE. Portrait d'homme.,,41.9,True,title_direct,,ECOLE HOLLANDAISE,
-BO0624_83735,91442,62,62,ECOLE ITALIENNE. Fleurs et fruits.,,41.5,True,title_direct,,ECOLE ITALIENNE,
-BO0624_83735,91443,63,63,"Tetes d'enfants. ls sont trois:lun d'eux,deprofil a droite,est endormi; le second le regarde attentivement,avec tendresse; le troisieme,vu de face, ouvre de grands yeux qui luttent contre",,49.4,True,none,,,
-BO0624_83735,91444,64,64,Portrait de jeune femme.,1344.0,60.0,False,positional,INGRES (JEAN-AUGUSTE-DOMINIQUE),,
-BO0624_83735,91445,65,65,Femme endormie.,,51.9,True,none,,,
-BO0624_83735,91446,66,66,Portrait de magistrat.,,46.4,True,none,,,
-BO0624_83735,91447,67,67,Bellangé. 1800-1866. La Retour du soldat. Le Billet de logement.,,43.1,True,none,,,
-BO0624_83735,91448,68,68,Brascassat. 1805-1867. Vache au paturage.,,43.0,True,none,,,
-BO0624_83735,91449,69,69,"BUSSON, CHARLES. Sous-bois.",,32.9,True,title_direct,BUSSON (CHARLES),,
-BO0624_83735,91450,70,70,"CHAPLINCHARLES-JOSUAH, 1825-1891. La Lecture de la Bible.",,40.0,True,title_direct,CHAPLIN (CHARLES-JOSUAH),,
-BO0624_83735,91451,71,71,"CHARLET, NICOLAS-ToUSSAINT. 1792-1845. Vieux souvenirs.",,40.0,True,title_direct,CHARLET (NICOLAS-ToUSSAINT),,
-BO0624_83735,91452,72,72,Corot. 1796-1875. Souvenir de Marissel.,,45.3,True,none,,,
-BO0624_83735,91453,73,73,"DAUBIGNY, CHARLES-FRANCOIS. 1817-1878. Bords de lOise.",,34.7,True,title_direct,DAUBIGNY (CHARLES-FRANCOIS),,
-BO0624_83735,91454,74,74,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Chevaux sortant de leau.",,34.5,True,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,
-BO0624_83735,91455,75,75,"DESGOFFE, BLAISE-ALEXANDRE. 1830-1901. Cabinet d'antiquaire.",,37.4,True,title_direct,DESGOFFE (BLAISE-ALEXANDRE),,
-BO0624_83735,91456,76,76,Diaz De La Pena. 1809-1876. La Femme au chien.,,51.8,True,none,,,
-BO0624_83735,91457,77,77,Diaz De La Pena. Fleurs.,,50.0,True,none,,,
-BO0624_83735,91458,78,78,"DORE, GUSTAVE. 1832-1883. Espagnols.",,38.4,True,title_direct,DORE (GUSTAVE),,
-BO0624_83735,91459,79,79,"DUPRE, JULES. 1812-1889. La Riviere.",,41.3,True,title_direct,DUPRE (JULES),,
-BO0624_83735,91460,80,80,DUPRE (JULEs). La Cabane.,,43.9,True,title_direct,DUPRE (JULEs),,
-BO0624_83735,91461,81,81,"FRANCAIS, FRANCOIS-LOUIS. 1814-1897. Hommage a Flore.",,33.7,True,title_direct,FRANCAIS (FRANCOIS-LOUIS),,
-BO0624_83735,91462,82,82,"FRANCAIS, FRANCOIS-LOUIS. Campagne romaine.",,35.3,True,title_direct,FRANCAIS (FRANCOIS-LOUIS),,
-BO0624_83735,91463,83,83,"FROMENTIN, EUGENE. 1820-1876. L'Abreuvoir.",,34.8,True,title_direct,FROMENTIN (EUGENE),,
-BO0624_83735,91464,84,84,"FROMENTIN, EUGENE. Arabes en voyage.",,38.1,True,title_direct,FROMENTIN (EUGENE),,
-BO0624_83735,91465,85,85,"GIRARDET, EDOUARD-HENRI. 1819-1880. Le Depart pour la montagne.",,37.7,True,title_direct,GIRARDET (EDOUARD-HENRI),,
-BO0624_83735,91466,86,86,"ISABEY, EUGENE-LOUIS-GABRIEL. 1804-1888. Scene de cour.",,40.7,True,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,
-BO0624_83735,91467,87,87,"ISABEY, EUGENE-LOUIS-GABRIEL. Retour de la peche.",,39.3,True,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,
-BO0624_83735,91468,88,88,PROTAIS. PAUL-ALEXANDRE. 1826-1890. Soldats au lavoir.,,36.2,True,title_direct,PROTAIS (PAUL-ALEXANDRE),,
-BO0624_83735,91469,89,89,"ROUSSEAU, THEODORE. 1812-1867. Foret de Fontainebleau.",,36.7,True,title_direct,ROUSSEAU (THEODORE),,
-BO0624_83735,91470,90,90,Sautai. Sainte Elisabeth de Hongrie.,,47.1,True,none,,,
-BO0624_83735,91471,91,91,"SCHEFFER, ARY. 1795-1858. La Mere de famille.",,41.5,True,title_direct,SCHEFFER (ARY),,
-BO0624_83735,91472,92,92,"TASSAERT, NICOLAS-FRANCOIS-OCTAVE. 1800-1874. Efants jouant avec des lapins.",,37.4,True,title_direct,TASSAERT (NICOLAS-FRANCOIS-OCTAVE),,
-BO0624_83735,91473,93,93,Tesson. Paysage arabe.,,42.1,True,none,,,
-BO0624_83735,91474,94,94,Baron. 1816-1885. L'Effroi.,,40.0,True,none,,,
-BO0624_83735,91475,95,95,"CHARLET, NICoLAs-ToUSSAINT. 1792-1845. Le Convoi Des blesses.",,35.9,True,title_direct,CHARLET (NICoLAs-ToUSSAINT),,
-BO0624_83735,91476,96,96,"CHARLET, NICoLAs-ToUSSAINT. Les Glorieux debris.",,33.3,True,title_direct,CHARLET (NICoLAs-ToUSSAINT),,
-BO0624_83735,91477,97,97,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Lionne blessee.",,37.4,True,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,
-BO0624_83735,91478,98,98,"DELACROIX, FERDINAND-VICTOR-EUGENE.  Lion devorant un cheval.",,37.3,True,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,
-BO0624_83735,91479,99,99,"DUPRE, JULEs. 1812-1889. Interieur d'une ferme.",,40.0,True,title_direct,DUPRE (JULEs),,
-BO0624_83735,91480,100,100,"FROMENTIN, EUGENE. 1820-1876. Les Courriers.",,33.0,True,title_direct,FROMENTIN (EUGENE),,
-BO0624_83735,91481,101,101,"FROMENTIN, EUGENE. Cavaliers arabes dans la montagne.",,37.2,True,title_direct,FROMENTIN (EUGENE),,
-BO0624_83735,91482,102,102,"GAVARNI, HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER. 1804-1866. Pierrot.",,33.0,True,title_direct,"GAVARNI (HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER,dit)",,
-BO0624_83735,91483,103,103,"GERICAULT, JEAN-LOUIS-ANDRE-THEODORE. 1791-1824. Combat de deux guerriers.",,36.5,True,title_direct,GERICAULT (JEAN-LOUIS-ANDRE-THEODORE),,
-BO0624_83735,91484,104,104,"GIACOMELLI, HECTOR. Bande doiseaux. ls sont la sur un barreau de cage, entasses les uns contre les autres et melant,comme un collier de pierres precieuses,les rubis,les saphirs,les émeraudes de leurs plumages.",,48.0,True,title_direct,GIACOMELLI (HECTOR),,
-BO0624_83735,91485,105,105,"INGRES, JEAN-AUGUSTE-DOMINIQUE. 1780-1867. Portrait de Mme Borel.",,33.1,True,title_direct,INGRES (JEAN-AUGUSTE-DOMINIQUE),,
-BO0624_83735,91486,106,106,LAMI. LOUIS-EUGENE. 1800-1890. Personnages dans un parc.,1355.0,60.7,False,title_direct,LAMI (LOUIS-EUGENE),,
-BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,,54.2,True,none,,,
-BO0624_83735,91488,108,108,"MILLET, JEAN-FRANCOIS. Le Vol d'oies sauvages.",1377.0,65.8,False,title_direct,MILLET (JEAN-FRANCOIS),,
-BO0624_83735,91489,109,109,"WORMS, JULEs. Jeune Chasseur espagnol.",1388.0,68.6,False,title_direct,WORMS (JULEs),,
-BO0624_83735,91490,110,110,"ZIEM, FELIX. A l'embouchure dufleuve.",1396.0,72.7,False,positional,ZIEM(FELIX),,
-BO0624_83735,91491,111,111,"Deux CHopEs en ancien gres gris de Nassau a carrelages blancs et noirs pour l'une,et feuillages bleus et blancs pour l'autre.Couvercles en etain.",1411.0,97.6,False,positional,,,Gres
-BO0624_83735,91492,112,112,CrucHE en ancien gres gris et blanc de Reren a decor de disques semes.,1412.0,94.6,False,positional,,,Gres
-BO0624_83735,91493,113,113,Por A TABAc a quatre faces en ancien gres gris et bleu de Reren.Armoiries et date.1678.,1413.0,95.6,False,positional,,,Gres
-BO0624_83735,91494,114,114,GRANDE cRUcHE en ancien gres gris et blanc de Raren;rosace,1414.0,93.5,False,positional,,,Gres
-BO0624_83735,91495,115,115,CrucHE en ancien gres brun de Raren a decor d'armoiries.,1416.0,93.3,False,positional,,,Gres
-BO0624_83735,91496,116,116,GouRDe a panse lenticulaire en ancien gres gris et blanc de Raren; rosaces et feuillages.,1417.0,95.7,False,positional,,,Gres
-BO0624_83735,91497,117,117,"CHopE en ancien gres gris et blanc de Raeren,decoree de neuf bustes.",1418.0,96.5,False,positional,,,Gres
-BO0624_83735,91498,118,118,"CrucHe a panse surbaissee en ancien gres gris et bleu de Raren, decoree d'un mascaron barbu,d'imbrications et de cannelures. Couvercle en etain.",1419.0,98.3,False,positional,,,Gres
-BO0624_83735,91499,119,119,"CrucHE en ancienne terre de Kreussen,ornee de deux zones de fleurs avec la date 1661.",1420.0,96.0,False,positional,,,Gres
-BO0624_83735,91500,120,120,"CHopE en ancienne terre de Kreussen,decoree en couleurs: les dieux de l'Olympe.",1424.0,89.7,False,positional,,,Gres
-BO0624_83735,91501,121,121,AuTRE analogue.,2080.0,75.7,False,positional,,,Objets divers
-BO0624_83735,91502,122,122,CHopE en ancienne terre de Kreussen :le Christ et les Apotres.,,45.3,True,none,,,
-BO0624_83735,91503,123,123,Por a deux anses en ancienne terre de Kreussen. Bustes et palmettes.Couvercle en etain.,,46.9,True,none,,,
-BO0624_83735,91504,124,124,"GRAND PoT A TABAc en ancienne terre de Kreussen a decor de stries, tetes de cherubins,et ornements en couleurs et",,53.7,True,none,,,
-BO0624_83735,91505,125,125,GRAND PoT A TABAc hexagone en ancienne terre de Kreussen， presentant les dieux de l'Olympe.,,45.2,True,none,,,
-BO0624_83735,91506,126,126,fleurs.,,53.3,True,none,,,
-BO0624_83735,91507,127,127,Broc en ancienne terre de Kreussen;buste et palmettes.,,45.9,True,none,,,
-BO0624_83735,91508,128,128,"CHopE en ancienne terre de Kreussen,aux armes de Saxe sur",,43.9,True,none,,,
-BO0624_83735,91509,129,129,CHopE en ancienne terre de Kreussen:1'Agneau pascal aumilieu des Apotres.,,42.2,True,none,,,
-BO0624_83735,91510,130,130,VAsE a reflets metalliques. Faience de Manisses.,,45.1,True,none,,,
-BO0624_83735,91511,131,131,"GrAND PLAr decore d'animaux, et fleurs a refets metalliques. Ancienne faience de Manisses.",,45.5,True,none,,,
-BO0624_83735,91512,132,132,"PLAr,oiseaux et fleurs;reflets metalliques.Ancienne faience de Manisses.",,43.5,True,none,,,
-BO0624_83735,91513,133,133,"PLAT creux en ancienne faience hispano-mauresque; decor en bleu et a refets metalliques. Au fond,écusson charge d'un lion:au marli,rangees de feuilles et filets.",,49.3,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91514,134,134,"PLAT a ombilic en ancienne faience hispano-mauresque; decor a refets metalliques; sur lombilic, un ecusson charge d'un ani mal;alentour, des motifs irreguliers.",,46.2,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91515,135,135,"PLAT a ombilic,meme faience; ecusson charge d’un fleuron;",,43.9,True,none,,,
-BO0624_83735,91516,136,136,"PLAT creux en ancienne faience hispano-mauresque; decor a reflets metalliques; écusson charge d'un lion; alentour,de",,47.1,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91517,137,137,"PLAT creux en ancienne faience hispano-mauresque.Au fond, ecusson charge d'un aigle;alentour, des palmettes; decor en bleu et a reflets metalliques.",,46.7,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91518,138,138,PLAT a ombilic en ancienne faience hispano-mauresque; decor,,46.3,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91519,139,139,PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; fleurettes avec cinq feuilles en marli.,,49.8,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91520,140,140,"PeTIT PLAT avec cavite centrale en ancienne faience hispano-mauresque, a reflets metalliques; motifs irreguliers.",,51.1,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91521,141,141,"BassiN en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; armoiries au centre, entourees de zones de motifs irreguliers.",,48.9,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91522,142,142,Plat en ancienne faience hispano-mauresque,,44.2,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91523,143,143,GRAND PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; semis de fleurettes avec ecusson armorie au centre.,,50.2,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91524,144,144,"GRAND PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; au fond,un écusson armorie d'azur a quatre feurs de lis d'or, a la barre de pourpre; au marli,motif rayonnant seme de pois en relief.",,49.4,True,title_direct,,,Faiences hispano-mauresques
-BO0624_83735,91525,145,145,Coupe a bossages et sur piedouche; amour lie et feuilles.  Ancienne faience de Faenza.,,46.4,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91526,146,146,AuTRE analogue avec petite figure équestre. Meme faience.,,47.6,True,none,,,
-BO0624_83735,91527,147,147,AuTRE analogue avec figure de divinite. Meme faience.,,47.5,True,none,,,
-BO0624_83735,91528,148,148,PLAT en ancienne faience de Faenza aux armes d'un prelat; marli a imbrications.,,48.2,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91529,149,149,"CrucHE de pharmacie en ancienne faience de Faenza, ornee de deux bustes de vieillards, avec deversoir en forme de dragon.",,47.3,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91530,150,150,Deux cRucHEs en ancienne faience de Faenza; fleurs et masques de cherubins.,,50.8,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91531,151,151,CoRNET de pharmacie en ancienne faience de Faenza;medaillon a figure de femme et mascarons.,,53.0,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91532,152,152,CoRNET de pharmacie en ancienne faience de Faenza;buste,,47.2,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91533,153,153,"PLAt a cavite centrale en ancienne faience de Faenza；au fond,buste d'homme en couleurs:au marli, des grotesques; fond bleu, dit berettino.",,45.7,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91534,154,154,"PLAT creux en ancienne faience de Faenza;buste,oiseaux et",,49.6,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91535,155,155,CoupE en ancienne faience de Faenza;casa Pirota;la Creche,,41.9,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91536,156,156,"PLAT en ancienne faience de Faenza;decor polychrome,buste",,43.9,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91537,157,157,"Gros vAse en ancienne faience de Faenza, decore d'un buste et d'un amour dans des cartouches, sur fond a trophees et mas-",,49.1,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91538,158,158,"PLAt en ancienne faience de Faenza;decor polychrome;au fond,un montreur d'ours;au marli, sur fond bleu,quatre bustes separes par des groupes de chevaux marins.",,47.6,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91539,159,159,PLAT a cavite centrale en ancienne faience de Faenza; decor compose de grotesques avec le buste d'Annibal au centre;,,46.3,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91540,160,160,"PLAT en ancienne faience de Faenza; casa Pirota;decor en couleurs sur fond bleu, dit berettino; chute en bianco sopra bianco; au fond,un ecu armorie d'or a deux masses d'armes d'azur en sautoir; au marli,des grotesques.",,46.9,True,title_direct,,,Faiences de Faenza
-BO0624_83735,91541,161,161,PETIT PLAT a cavite centrale en ancienne faience de Gubbio; enfant tenant un jouet;marli a rinceaux;decor en bleu et a reffets metalliques.,,47.0,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91542,162,162,"PLAT creux en ancienne faience de Gubbio; decor en bleu et a reflets metalliques rouge rubis et jaune cuivreux; cornes d'abondance, mascarons et le mot virtus.",,51.9,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91543,163,163,"Coupe en ancienne faience de Gubbio; decor a reflets metalliques; saint moine tenant un volumen. bis.— CoupE a bossage en ancienne faience de Gubbio, decor polychrome a reflets metalliques rouge rubis et jaune chamois: saint Sebastien; au marli, des fruits.",,47.2,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91544,164,164,CoupE en ancienne faience de Gubbio;decor en bleu et a refets metalliques; personnages regardant une tete de mort.,,50.0,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91545,165,165,"PeTIt plat avec cavite centrale en ancienne faience de Gubbio:buste d'eveque, petites feuilles au marli Sigle de Giorgio",,44.5,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91546,166,166,"PLAT creux en ancienne faience de Gubbio; decore en bleu,et a reflets metalliques rouge rubis et jaune cuivreux: ecusson d'armoiries d'argent a la tete de negre au naturel,au chef d'azur charge d'un croissant d'or; marli a rinceaux.",,49.3,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91547,167,167,PLAT en ancienne faience de Gubbio;decor polychrome et a reflets metalliques rouge rubis et jaune cuivreux;amour lie a,,49.2,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91548,168,168,"PLAT a cavite centrale en ancienne faience de Gubbio;au fond,un lievre;au marli, des feuilles; decor en bleu et a refets metalliques.",,49.2,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91549,169,169,"PLAT a cavite centrale en ancienne faience de Gubbio; decor en couleurs et a reflets metalliques jaune cuivreux et rouges. Au fond,legende latine; au marli, des feuilles.",,50.5,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91550,170,170,"Coupe en ancienne faience de Gubbio; decor en couleurs et a reflets metalliques rouge rubis et jaune cuivreux.Au fond,",,49.2,True,title_direct,,,Faiences de Gubbio
-BO0624_83735,91551,171,171,"Coupe sur piedouche en ancienne faience de Deruta;au fond, l'inscription Romana.",,45.5,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91552,172,172,Plat a ombilic en ancienne faience de Deruta,,46.8,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91553,173,173,PLAT en ancienne faience de Deruta;decor en bleu et a reflets metalliques jaune chamois;buste de femme avec inscription;,,45.4,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91554,174,174,PLAT creux en ancienne faience de Deruta; decor en bleu et a reflets metalliques jaune chamois; saint Francois d'Assise recevant les stigmates.,,50.2,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91555,175,175,"DeUx PETITs PLATs en ancienne faience de Deruta,aux armes du pape Clement Vll; feuillages au marli, decor a refets",,44.3,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91556,176,176,"PLAT a ombilic en ancienne faience de Deruta;decor en bleu et a reflets metalliques jaune cuivreux; sur l'ombilic,une bonne foi;alentour, compartiments rayonnants de rinceaux.",,46.5,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91557,177,177,PLAT creux a ombilic en ancienne faience de Deruta; decor a,,47.2,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91558,178,178,Plat a ombilic en ancienne faience de Deruta,,46.8,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91559,179,179,PLAT creux en ancienne faience de Deruta; decor rayonnant de feurettes et rinceaux.,,51.7,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91560,180,180,"GRAND PLAT en ancienne faience de Deruta;decor en bleu et a refets metalliques jaune chamois; au fond,un buste de femme avec la legende:la Cristofana Bella;au marli,des",,44.0,True,title_direct,,,Faiences de Deruta
-BO0624_83735,91561,181,181,GRAND coRNET de pharmacie en ancienne faience de Castel-Durante;medaillon contenant une figure d'Amphitrite et nombreux trophees sur fond bleu.,,49.6,True,title_direct,,,Faiences de Castel-Durante
-BO0624_83735,91562,182,182,"CoupE en ancienne faience de Castel-Durante,decoree,en plein, d'un buste de femme avec le nom Angela B.",,43.4,True,title_direct,,,Faiences de Castel-Durante
-BO0624_83735,91563,183,183,"PeTIT PLAT a cavite centrale,en ancienne faience de CastelDurante:buste et trophees sur fond bleu.",,42.3,True,title_direct,,,Faiences de Castel-Durante
-BO0624_83735,91564,184,184,"EcRiroiRE en ancienne faience d'Urbino, formee d'un plateau supportant deux recipients et decoree de la Cene.",,49.4,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91565,185,185,"DEux PETITs PLATs en ancienne faience d'Urbino,avec cavité",,43.9,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91566,186,186,"PLAT en ancienne faience d'Urbino, decore d'un sujet mili-",,44.3,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91567,187,187,PETIT PLAT creux en ancienne faience d'Urbino; sujet tire de,,48.0,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91568,188,188,PLAT creux en ancienne faience d’Urbino; composition mytho-,,40.8,True,none,,,
-BO0624_83735,91569,189,189,PLAT en ancienne faience d'Urbino:Persee et Andromede.,,45.5,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91570,190,190,"GRAND PLAT creux en ancienne faience d'Urbino,presentant les armes du pape Jules Il, supportees par deux cherubins; feuilles de chene au marli.",,50.8,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91571,191,191,"PLAT creux a ombilic,en ancienne faience d'Urbino;au centre,Venus et l'Amour;alentour, des grotesques.",,43.4,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91572,192,192,"CouPE en ancienne faience d'Urbino;combat de Romains et de Sabins,avec ecusson armorie sur un des etendards.",,48.5,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91573,193,193,"Coupe analogue,a sujet de combats de style antique.",,45.8,True,none,,,
-BO0624_83735,91574,194,194,Coupe en ancienne faience d'Urbino:amour en camaieu  jaune et grotesques.,,47.8,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91575,195,195,GRAND PLAT en ancienne faience d'Urbino; sujet tire de Ihistoire ancienne.Fond de paysage.,,43.9,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91576,196,196,Coupe decoree en plein:incendie d'une ville.Ancienne faience d'Urbino.,,47.0,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91577,197,197,PLATEAu d'aiguiere en ancienne faience d'Urbino;la Creche entouree de compartiments a personnages.,,45.5,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91578,198,198,GRAND PLAT en ancienne faience d'Urbino; sujet tire de I'histoire de Joseph.Fond de paysage.,,45.4,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91579,199,199,"PLAT a cavite centrale en ancienne faience d'Urbino, decore par Xanto : sujet tire de la legende de Thesee;ecusson armorie au marli. Au revers,la date 1535,l'explication du sujet et les initiales de l'artiste.",,48.1,True,title_direct,,,Faiences d'Urbino
-BO0624_83735,91580,200,200,"VasE de pharmacie a deux anses,decor de feuillages. Ancienne faience italienne.",,48.5,True,none,,,
-BO0624_83735,91581,201,201,Coupe en faience italienne;armoiries et rinceaux en blanc sur fond bleu.,,45.3,True,none,,,
-BO0624_83735,91582,202,202,PLAT en ancienne faience de Caffagiolo: decor de menus rin-,,44.8,True,none,,,
-BO0624_83735,91583,203,203,"GRAND PLAT rond，presentant le triomphe de Bacchus,avec rocailles au marli et les mots :Carmine Perreca.Castelli.",,42.5,True,none,,,
-BO0624_83735,91584,204,204,PLAT LoNG a sujet de chasse au sanglier.Ancienne faience de Castelli.,,44.1,True,none,,,
-BO0624_83735,91585,205,205,PETIT PLAT en ancienne faience de Castelli avec dorure: le faience italienne.,,44.6,True,none,,,
-BO0624_83735,91586,206,206,PLAT en ancienne faience de Castelli;sujet de bacchanale et armoiries.,,46.4,True,none,,,
-BO0624_83735,91587,207,207,"PLAT a ombilic en ancienne terre vernissee de La Frata;ecusson armorie au centre;rinceaux,bustes et amours au marli.",,43.4,True,none,,,
-BO0624_83735,91588,208,208,LEGuMIER en forme de coq en faience.,,46.4,True,none,,,
-BO0624_83735,91589,209,209,"PLAT cREux,decor bleu:la Cene.Faience allemande.",,35.9,True,none,,,
-BO0624_83735,91590,210,210,"PLAT en terre vernissee,decore de deux soldats,avec légende et date 1738.Allemagne.",,46.9,True,none,,,
-BO0624_83735,91591,211,211,"Por ovoide a deux deversoirs en ancienne terre de Nuremberg vernissee vert,decore delaigle d'Empire.",,47.6,True,none,,,
-BO0624_83735,91592,212,212,Deux CAssoLETTEs sur trepieds a mascarons;faience blanche anglaise rehaussee de dorure;xvill siecle.,,47.1,True,none,,,
-BO0624_83735,91593,213,213,Deux TABLEAux decores en camaieu bleu; festin et groupe de personnages.Faience hollandaise.,,51.6,True,none,,,
-BO0624_83735,91594,214,214,PAIRE DE BouTEILLEs en ancienne faience de Delft; feurs et oiseaux en couleurs.,,46.5,True,none,,,
-BO0624_83735,91595,215,215,"PAIRE DE PoTIcHEs avec couvercles,en ancienne faience de Delft;decor d'arbustes,oiseaux et lambrequins.",,44.2,True,none,,,
-BO0624_83735,91596,216,216,"PAIRE DE PoTicHEs avec couvercles,en ancienne faience de Delft:decor bleu de fleurs et oiseaux.",,46.9,True,none,,,
-BO0624_83735,91597,217,217,"PAIRE DE POTIcHEs avec couvercles, en ancienne faience de Delft;compartiments a personnages.",,41.7,True,none,,,
-BO0624_83735,91598,218,218,HaNAP-casQuE en ancienne faience de Delft; decor bleu de lambrequins.,,46.7,True,none,,,
-BO0624_83735,91599,219,219,PLAT cREux en ancienne faience de Delft; decor en couleurs a quatre reserves de fleurs sur fond vert.,,51.8,True,none,,,
-BO0624_83735,91600,220,220,"PLAT,meme faience; decor polychrome,corbeilles de feurs, compartiments rayonnants.",,45.2,True,none,,,
-BO0624_83735,91601,221,221,GRANDE BoUQUETIERE a anses-serpents en ancienne faience de Nevers a decor bleu; fleurs et personnages de style chinois.,,50.6,True,none,,,
-BO0624_83735,91602,222,222,"GRAND PLAT en ancienne faience de Nevers,aux armes d'un archeveque;marli et chute a sujet de style oriental en camaieu bleu.",,45.4,True,none,,,
-BO0624_83735,91603,223,223,VasE avec couvercle en ancienne faience de Nevers;decor de feurs et oiseaux en bleu et blanc sur fond orange.,,48.3,True,none,,,
-BO0624_83735,91604,224,224,"GRAND PLAT en ancienne faience de Nevers,a decor de feurs et oiseaux en blanc et jeune sur fond bleu de Perse.",,49.2,True,none,,,
-BO0624_83735,91605,225,225,"BouTEILLE de pharmacie en ancienne faience de Nevers, semee de motifs irreguliers en blanc sur fond bleu de Perse.",,51.8,True,none,,,
-BO0624_83735,91606,226,226,Deux BouTEILLEs en ancienne faience de Nevers; feurs et oiseaux en blanc et orange sur fond bleu de Perse.,,47.2,True,none,,,
-BO0624_83735,91607,227,227,DeUx PETITEs BouTEILLEs variees en ancienne faience de Nevers; feurs en blanc et orange sur fond bleu de Perse.,,46.8,True,none,,,
-BO0624_83735,91608,228,228,PeTIT vAsE en ancienne faience de Nevers;fleurs et oiseaux en blanc et orange sur fond bleu de Perse.,,47.7,True,none,,,
-BO0624_83735,91609,229,229,HaNAp en ancienne faience de Nevers; feurs et oiseaux en blanc sur fond bleu de Perse.Pied en etain.,,48.4,True,none,,,
-BO0624_83735,91610,230,230,BassiN en ancienne faience de Nevers; feurs et oiseaux en couleurs sur fond bleu de Perse.,,46.9,True,none,,,
-BO0624_83735,91611,231,231,PLAT ovALE en ancienne faience de Nevers; feurs en blanc sur fond bleu de Perse.,,44.9,True,none,,,
-BO0624_83735,91612,232,232,"DEUx PETITs PLATs en ancienne faience de Nevers; decor varie,fleurs et oiseaux en blanc sur fond bleu de Perse.",,49.5,True,none,,,
-BO0624_83735,91613,233,233,GRAND PLAT a ombilic en ancienne faience de Nevers;fleurs,,41.6,True,none,,,
-BO0624_83735,91614,234,234,GRAND PLAT en ancienne faience de Nevers: decor de feurs et oiseaux en blanc sur fond bleu de Perse.,,48.7,True,none,,,
-BO0624_83735,91615,235,235,"GRAND PLAT en ancienne faience de Rouen; decor bleu :au centre, deux enfants nus dans un motif de ferronnerie;au marli, des lambrequins.",,49.6,True,none,,,
-BO0624_83735,91616,236,236,"GRAND PLAT en ancienne faience de Rouen;decor bleu:au centre,ecusson armorie timbre d'une couronne de marquis. Lambrequins au marli.",,44.4,True,none,,,
-BO0624_83735,91617,237,237,QuATRE AssIETTEs en ancienne faience de Rouen;decor a la  corne.,,43.9,True,none,,,
-BO0624_83735,91618,238,238,Deux AUTREs;decor a la double corne.,,38.2,True,none,,,
-BO0624_83735,91619,239,239,BAssIN oBLoNG en ancienne faience de Moustiers; decor bleu a la Berain.,,44.6,True,none,,,
-BO0624_83735,91620,240,240,"DEUx CAcHE-PoTs en ancienne faience de Marseille, fabrique de Savy; decor de feurs,anses-mascarons.",,45.3,True,none,,,
-BO0624_83735,91621,241,241,"HanAp a une anse et a couvercle simule,en ancienne terre vernissee brun d'Avignon;palmettes et feurs en couleurs.",,46.8,True,none,,,
-BO0624_83735,91622,242,242,"HANAp a une anse et a couvercle simule,en ancienne terre vernissee jaspee d'Avignon,a decor de tetes de cherubins et mascarons barbus. Pied et bouton du couvercle en cuivre.",,50.0,True,none,,,
-BO0624_83735,91623,243,243,"GRANDE cRUCHE en ancienne terre vernissee d'Avignon,a rosaces et motifs varies sur fond brun.",,43.8,True,none,,,
-BO0624_83735,91624,244,244,"Vase surbaisse en ancienne faience de Sceaux, decore, sur la panse, de deux medaillons: sujet familial et oiseau relies par des feurs. Monture en bronze.",,53.1,True,none,,,
-BO0624_83735,91625,245,245,LEGuMiER ovale avec couvercle; decor de feurs avec hachures roses.Ancienne faience de Lorraine.,,54.5,True,none,,,
-BO0624_83735,91626,246,246,PAIRE DE CACHE-PoTs decores de feurs; anses-mascarons chimeriques.Ancienne faience de Lorraine.,,43.6,True,none,,,
-BO0624_83735,91627,247,247,Deux JARDiNIEREs oblongues en ancienne faience de Lorraine; decor de feurs.,,48.6,True,none,,,
-BO0624_83735,91628,248,248,"Coupe en ancienne faience de Palissy;rosace au centre, mascarons a la chute.",,47.2,True,none,,,
-BO0624_83735,91629,249,249,Coupe en ancienne faience de la suite de Palissy; mascarons et entrelacs.,,46.2,True,none,,,
-BO0624_83735,91630,250,250,"Coupe a six cavites,meme faience,decor de feurons a jour.",,46.7,True,none,,,
-BO0624_83735,91631,251,251,"CoupE ornee de six mascarons,en faience de la suite de Palissy.",,51.5,True,none,,,
-BO0624_83735,91632,252,252,CrucHE surmontee d'un buste de femme a large collerette. Faience de la suite de Palissy.,,47.2,True,none,,,
-BO0624_83735,91633,253,253,NepTuNE sur un cheval marin. Faience de la suite de Palissy.,,48.6,True,none,,,
-BO0624_83735,91634,254,254,"CaRPE, grandeur nature,en terre vernissee. Par Avisseau.",,46.8,True,none,,,
-BO0624_83735,91635,255,255,"VAsE-BALusTRE avec couvercle,en ancienne porcelaine de Chine, famille verte; compartiments d'animaux et de feurs.",,50.2,True,none,,,
-BO0624_83735,91636,256,256,"Deux coRNErs en ancienne porcelaine de Chine,famille verte, decores, sur fond de paysage,de scenes familiales: compositions de personnages en relief. Montures en bronze.",,53.6,True,none,,,
-BO0624_83735,91637,257,257,"Deux PoTicHEs avec couvercles,en ancienne porcelaine de Chine,famille rose:reserves contenant des feurs et se detachant sur un fond bleu rehausse de dorure. Montures en bronze dore.",,47.4,True,none,,,
-BO0624_83735,91638,258,258,"Trois PLArs longs,branches fleuries. Ancienne porcelaine de Chine, famille rose",,45.3,True,none,,,
-BO0624_83735,91639,259,259,"AssiETTe decoree de feurs. Ancienne porcelaine de Chine, famille rose.",,47.1,True,none,,,
-BO0624_83735,91640,260,260,"Six PLATs,en deux dimensions,et deux assiettes en ancienne porcelaine de Chine, famille rose; canards; au marli, les huit immorteis.",,46.2,True,none,,,
-BO0624_83735,91641,261,261,"AssiETTE creuse en ancienne porcelaine mince de Chine; scene familiale,revers rose.",,47.3,True,none,,,
-BO0624_83735,91642,262,262,"PETIT PLAT en ancienne porcelaine de Chine, famille rose, a quatre personnages;poissons au marli.",,47.9,True,none,,,
-BO0624_83735,91643,263,263,"TRoIs coMPoTIERs,branches feuries et oiseaux. Ancienne porcelaine de Chine.",,44.2,True,none,,,
-BO0624_83735,91644,264,264,"PLAr uni et en ancienne porcelaine de Chine;branches feuries, bambous a la chute.",,46.7,True,none,,,
-BO0624_83735,91645,265,265,"BouTeiLLe ornee d'un dragon en ronde bosse,en ancien celadon bleu turquoise de la Chine.",,47.2,True,none,,,
-BO0624_83735,91646,266,266,"DEux vAsEs-BALusTREs plats en ancienne porcelaine de Chine; decor dit a mandarins; fond chair de poule,émaille vert.",,45.8,True,none,,,
-BO0624_83735,91647,267,267,"SucriER rond a deux anses,en ancienne porcelaine de Chine, a decor de reserves a paysages et feurs sur fond bleu soufle.",,51.2,True,none,,,
-BO0624_83735,91648,268,268,"GARNITuRE de cinq pieces: deux cornets et trois pots ovoides en ancienne porcelaine de Chine,a decor de feurs et lambrequins en rouge de fer et dorure.",,51.0,True,none,,,
-BO0624_83735,91649,269,269,I compartiments de fleurs et feuilles.,2231.0,72.1,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,91650,270,270,"VasQuE en porcelaine de Chine, decoree de personnages et de cailloutages. Pied en bois.",,50.7,True,none,,,
-BO0624_83735,91651,271,271,"Dix PLATs varies en ancienne porcelaine du Japon,a decor bleu,rouge et or.",,43.1,True,none,,,
-BO0624_83735,91652,272,272,"QuATRE coMPoTIERs,meme porcelaine.",,33.7,True,none,,,
-BO0624_83735,91653,273,273,"VINGT-TROIs AssIETTEs variees,meme porcelaine.",,35.8,True,none,,,
-BO0624_83735,91654,274,274,"DEux PETITEs PoTicHEs avec couvercles,en ancienne porcelaine du Japon,a decor bleu,rouge et or. Rochers et arbustes.",,42.3,True,none,,,
-BO0624_83735,91655,275,275,"DEUx CANDELABREs,formes chacun d'un vase-rouleau,en ancienne porcelaine du Japon,a decor de fleurs en bleu,rouge et or;bouquets de lumieres en bronze dore.",,48.4,True,none,,,
-BO0624_83735,91656,276,276,"STATuETTE de personnage accroupi, en gres emaille vert du Japon; base en bronze.",,47.6,True,none,,,
-BO0624_83735,91657,277,277,"SucRieR avec couvercle,en ancienne porcelaine tendre de Sevres; decor de feurs separees par des bandes bleues. Annee 1764,decor par Noel.",,46.0,True,none,,,
-BO0624_83735,91658,278,278,"PETIT PLATEAu, en ancienne porcelaine tendre de Sevres, decore de couronnesderoses.",,47.7,True,none,,,
-BO0624_83735,91659,279,279,Groupe en ancien biscuit de Sevres : scene familiale a cinq personnages. Marque de Brachard.,,47.7,True,none,,,
-BO0624_83735,91660,280,280,"PLATeAu a deux anses,theiere avec couvercle et pot a lait,  en ancienne porcelaine dure de Sevres :paysages animes et bandes ondulees dorees.",,45.1,True,none,,,
-BO0624_83735,91661,281,281,"SocLe ovale émaille bleu,en ancienne porcelaine dure de Sevres.",,42.5,True,none,,,
-BO0624_83735,91662,282,282,"VAse Medicis émaillé bleu,en porcelaine de Sevres,1865.",,37.3,True,none,,,
-BO0624_83735,91663,283,283,"VAsE émaille bleu marbre,en porcelaine de Sevres,1885.",,39.6,True,none,,,
-BO0624_83735,91664,284,284,Deux vAses: medaillons contenant des oiseaux sur fond bleu. Porcelaine.,,44.4,True,none,,,
-BO0624_83735,91665,285,285,VERRiERE ornee de fleurs.Ancienne porcelaine de Locre.,,48.5,True,none,,,
-BO0624_83735,91666,286,286,"SrATuErTe en ancien biscuit, femme drapee a l'antique, debout,tenant une guirlande de feurs.",,47.7,True,none,,,
-BO0624_83735,91667,287,287,"DEux cANDELABREs a deux lumieres,ornes chacun d'une statuette d'enfant, debout contre un arbre en fleurs. Ancienne porcelaine anglaise.",,48.3,True,none,,,
-BO0624_83735,91668,288,288,"Coupe en ancienne porcelaine de Saxe, sujet de style chinois. Marque des ventes du musee de Dresde.",,48.6,True,none,,,
-BO0624_83735,91669,289,289,"LEGuMIER ovale avec son couvercle,en ancienne porcelaine de Saxe;animaux et fleurs. Anses-mascarons.",,43.4,True,none,,,
-BO0624_83735,91670,290,290,"MouTARDIER avec couvercle, en ancienne porcelaine de Saxe; fleurs et rocailles.",,45.9,True,none,,,
-BO0624_83735,91671,291,291,"Deux GRANDs coRNETs en ancienne porcelaine de Saxe,a decor de feurs en ronde bosse, sur fond simulant la vannerie.Bases",,51.9,True,none,,,
-BO0624_83735,91672,292,292,"BocAL cylindrique en verre émaille, presentant le Christ crucifie et les armes d'Empire avec legende allemande et date 1583. Travail allemand,xvi siecle.",,48.0,True,none,,,
-BO0624_83735,91673,293,293,"BocAL cylindrique emaille et dore,orne de deux ecussons d'armoiries.Date,1588. Allemagne,xvi siecle.",,42.5,True,none,,,
-BO0624_83735,91674,294,294,"BocAL cylindrique en verre emaille: I'Empereur et les electeurs, legende allemande et date,158g. Allemagne,xvi siecle.",,43.4,True,none,,,
-BO0624_83735,91675,295,295,"BocAL cylindrique en verre émaille,presentant un ecusson d'armoiries place entre une femme et un personnage armes, avec la date 15g6,Allemagne,xvi siecle.",,50.7,True,none,,,
-BO0624_83735,91676,296,296,"BocAL cylindrique en verre emaille aux armes d'Empire; legende allemande et date 16o2.Allemagne,xvil siecle.",,42.4,True,none,,,
-BO0624_83735,91677,297,297,"BocaL cylindrique en verre emaille.presentant l'aigle d'Empire entoure d'ecussons armories varies,avec la date 1616. Allemagne,xvir siecle.",,45.2,True,none,,,
-BO0624_83735,91678,298,298,"BocAL cylindrique en verre émaille:dame offrant des feurs a un cavalier. Date,1619. Allemagne, xvi1 siecle.",,41.7,True,none,,,
-BO0624_83735,91679,299,299,"BocAL cylindrique avec couvercle,en verre émaille, presentantun écusson placeentreune femme etun homme:legende allemande et date 1619.Allemagne,xvil siecle.",,46.8,True,none,,,
-BO0624_83735,91680,300,300,"BocaL cylindrique en verre émaille, presentant deux ecussons d'armoiries;date 1649.Allemagne,xvil siecle.",,44.9,True,none,,,
-BO0624_83735,91681,301,301,"BocaL cylindrique en verre emaille;écusson armorie soutenu par un ange; legende allemande et date 1654. Allemagne, xvl1 siecle.",,48.2,True,none,,,
-BO0624_83735,91682,302,302,"BocAL cylindrique en verre émaille, aux armes d'Empire; legende allemande et date 1663. Allemagne,xvii siecle.",,43.8,True,none,,,
-BO0624_83735,91683,303,303,"BocAL cylindrique en verre émaille, aux armes d'Empire, avec legende allemande et date 1670.Travail allemand. xvll siecle.",,43.5,True,none,,,
-BO0624_83735,91684,304,304,"BocAL cylindrique,en verre émaille,aux armes de Saxe: date 1693.Allemagne,xvl1 siecle.",,42.1,True,none,,,
-BO0624_83735,91685,305,305,PeTIT GoBELET en verre emaille blanc et bleu: cheval au galop et date 1697;xvil siecle.,,44.1,True,none,,,
-BO0624_83735,91686,306,306,"CrucHE en verre émaille blanc et bleu; paysan labourant; legende allemande et date 169g. Allemagne,xvii siecle",,44.9,True,none,,,
-BO0624_83735,91687,307,307,"Bocal en verre gravé, xvii siecle.",,36.8,True,none,,,
-BO0624_83735,91688,308,308,"VerRE sur pied et avec couvercle, decore d'imbrications et de zones emaillees et dorees.Allemagne,xviii siecle.",,48.9,True,none,,,
-BO0624_83735,91689,309,309,"BocaL cylindrique en verre emaille,presentant une figure de jeu de cartes.Allemagne,xviii siecle.",,45.6,True,none,,,
-BO0624_83735,91690,310,310,"BocaL cylindrique en verre émaille,decore de groupes de paysans dansant. Allemagne,xvi siecle.",,47.3,True,none,,,
-BO0624_83735,91691,311,311,"BocaL cylindrique en verre emaille,presentant dans des compartiments carres les electeurs d'Empire a cheval ainsi que I'Empereur.Allemagne,xvii siecle.",,46.9,True,none,,,
-BO0624_83735,91692,312,312,"GRAND BocAL avec couvercle en cristal de Boheme, grave a personnages.xvi siecle.",,47.6,True,none,,,
-BO0624_83735,91693,313,313,"PeTITE PIEcE de surtout a trois cavites en verre incolore et polychrome.Travail de Boheme,xvii siecle.",,45.6,True,none,,,
-BO0624_83735,91694,314,314,BocAL cylindrique avec couvercle en verre incolore filigrane de blanc.xvii siecle.,,47.4,True,none,,,
-BO0624_83735,91695,315,315,BocAL cylindrique avec couvercle en verre incolore filigrané de blanc.xvii siecle.,,47.4,True,none,,,
-BO0624_83735,91696,316,316,GARGouLETTE en verre incolore filigrane de blanc. xvii siecle.,,44.4,True,none,,,
-BO0624_83735,91697,317,317,"BocAL obconique en verre émaille; ecusson presentant des ustensiles de la corporation des cuisiniers,et ainsi qu'un personnage debout. Legende allemande et date 1709. Allemagne, xviii siecle.",,49.8,True,none,,,
-BO0624_83735,91698,318,318,"BocaL cylindrique en verre émaille;personnage se preparant a abattre un boeuf. Legende allemande et date 17il. Allemagne,xviii siecle.",,44.6,True,none,,,
-BO0624_83735,91699,319,319,"BocaL cylindrique en verre émaille,presentant les outils de la corporation des charpentiers.Legende allemande et date 1733. Allemagne, xvii siecle.",,46.2,True,none,,,
-BO0624_83735,91700,320,320,BocAL sur pied et avec couvercle en cristal grave:paysage,,39.7,True,none,,,
-BO0624_83735,91701,321,321,"GoBELET en verre grave; scene de chasse. Allemagne, XVIII siecle.",,39.4,True,none,,,
-BO0624_83735,91702,322,322,"BocAL cylindrique en verre,a surface semee de globules. Ancien travail allemand.",,44.4,True,none,,,
-BO0624_83735,91703,323,323,Deux vERREs avec couvercles; decor dore. xvi siecle.,,46.2,True,none,,,
-BO0624_83735,91704,324,324,VerRE evase avec couvercle filigrane de blanc. Ancien travail de Venise.,,42.9,True,none,,,
-BO0624_83735,91705,325,325,"Verre incolore sur pied, travaille a la pince, en couleurs. Venise.",,43.1,True,none,,,
-BO0624_83735,91706,326,326,AuTRE plus petit.,,29.6,True,none,,,
-BO0624_83735,91707,327,327,VeRRE incolore sur pied a balustre et branche de feurs travaillees a la pince.Venise.,,46.3,True,none,,,
-BO0624_83735,91708,328,328,"VeRRE incolore sur pied a entrelacs filigranes, travailles a la pince.Venise.",,44.4,True,none,,,
-BO0624_83735,91709,329,329,"GRAND bocal avec couvercle en verre incolore,avec tige évidee et feurettes polychromes, travaillees a la pince.Venise.",,44.5,True,none,,,
-BO0624_83735,91710,330,330,Deux PETiTs vAsEs en verre incolore filigrane blanc et rose. Venise.,,45.2,True,none,,,
-BO0624_83735,91711,331,331,"ToNNELET en verre bleu avec motifs polychromes.Venise. (Vente dePourtales,1865.)",,39.5,True,none,,,
-BO0624_83735,91712,332,332,GRAND BocAL cylindrique avec couvercle en verre; decor a froid:les électeurs.,,45.8,True,none,,,
-BO0624_83735,91713,333,333,"VERRE sur pied; cavalier, decor a froid.",,37.4,True,none,,,
-BO0624_83735,91714,334,334,"BocAL cylindrique en verre,a decor polychrome de personnages disposes sur deux rangees.",,45.1,True,none,,,
-BO0624_83735,91715,335,335,TRIPTYQUE en ivoire.,,38.6,True,none,,,
-BO0624_83735,91716,336,336,FRAGMENT en ivoire sculpte en haut relief:l'Adoration des mages. xvnle siecle.,,42.6,True,none,,,
-BO0624_83735,91717,337,337,"PETITE PLAQuE en émail peint,de Limoges,xvI siecle:le Christ apparaissant a Marie Madeleine.",,36.8,True,none,,,
-BO0624_83735,91718,338,338,"PLAQuE en email peint de Limoges, presentant en couleurs le buste du Christ,par Leonard Limosin,et signee, sur un cartouche:Leonard Limosin emalievr paintre du roys.M.F.1554. Encadree.",,42.5,True,none,,,
-BO0624_83735,91719,339,339,"PLaquE en émail peint de Limoges, par Leonard Limosin: buste de la Vierge. Elle est signee:Leonardvs. Lemovicvs. pintor emalieur regis anricus me fecit,1552.Encadree.",,43.5,True,none,,,
-BO0624_83735,91720,340,340,"Coupe sur piedouche en émail peint de Limoges:le char de Bacchus en grisaille, par I. Laudin. Signee.",,45.1,True,none,,,
-BO0624_83735,91721,341,341,"PLAQuE en email peint de Limoges,atelier des Laudin:Mater Dei.Encadree.",,38.9,True,none,,,
-BO0624_83735,91722,342,342,AuTRE analogue: saint Dominique.,,40.4,True,none,,,
-BO0624_83735,91723,343,343,CorrREr revetu decuivre decoupe et repousse arinceaux.Fin du xvr siecle.,,49.1,True,none,,,
-BO0624_83735,91724,344,344,"PeTIT cABINET a abattant recouvert d'etoffe;interieur en marqueterie de bois de couleurs, decore de plaques de verre eglomise a personnages.xvil siecle.",,56.2,True,none,,,
-BO0624_83735,91725,345,345,CorrRET en cuivre grave et dore:personnages et encadrements. Epoque Louis Xlll.,,47.5,True,none,,,
-BO0624_83735,91726,346,346,"TREs PETIT CABINET en bois noir,orné démaux et surmonté d'une montre. Travail viennois.",,49.4,True,none,,,
-BO0624_83735,91727,347,347,CoFrRET recouvert de cuir dore:armoiries et animaux. xvI siecle.,,50.3,True,none,,,
-BO0624_83735,91728,348,348,Tric-TRAc en marqueterie de bois de couleurs;dessus orne de nymphes endormies et satyres sculptes en bas-relief. Le dessous forme echiquier.xvir siecle.,,53.1,True,none,,,
-BO0624_83735,91729,349,349,"AiGuiERE et plateau a ombilic en etain,par Briot. Sur l'aiguiere,les vertus theologales; sur le plateau,la Temperance, entouree des elements et des figures des arts liberaux.",,44.3,True,none,,,
-BO0624_83735,91730,350,350,GRAND PLAT rond a ombilic avec mascaron au centre;dinanderie.,,41.6,True,none,,,
-BO0624_83735,91731,351,351,AurRE analogue.,,43.5,True,none,,,
-BO0624_83735,91732,352,352,AuTRe plus petit :la grappe de la terre promise.,,41.7,True,none,,,
-BO0624_83735,91733,353,353,PLAT en cuivre grave:cartouche supporte par deux lions.,,42.6,True,none,,,
-BO0624_83735,91734,354,354,PLAT en cuivre grave:buste du Christ.,,38.7,True,none,,,
-BO0624_83735,91735,355,355,PLATEau en cuivre rouge repousse:rosace et vases de fleurs.,,50.0,True,none,,,
-BO0624_83735,91736,356,356,"JArDiNieRE ronde en cuivre repousse a godrons, sur pied en  fer forge a entrelacs et feurs.",,52.8,True,none,,,
-BO0624_83735,91737,357,357,"Vase a deux anses en lapis.Base en argent dore. Haut.,2o cent.",,46.0,True,none,,,
-BO0624_83735,91738,358,358,"HanAp en cristal de roche;monture en bronze dore:decor d'entrelacs et figures. Allemagne, fin du xvr siecle.",,53.0,True,none,,,
-BO0624_83735,91739,359,359,VasE avec couvercle en verre bleu;monture en bronze dore a gorge ajouree; anses-serpents et piedouche cannele;base en marbre blanc. Epoque Louis XVI.,,49.2,True,none,,,
-BO0624_83735,91740,360,360,"PETIT TABLEAu en mosaique de Rome: basse-cour. Encadre. (Vente de Monbrun,1861.)",,37.6,True,none,,,
-BO0624_83735,91741,361,361,PETITE MosAiQuE de Rome:corbeille de fleurs.,,39.5,True,none,,,
-BO0624_83735,91742,362,362,BoiTE ovale en filigrane d'argent.,,40.7,True,none,,,
-BO0624_83735,91743,363,363,"PETIT MIRoIR dans un cadre italien,en bois sculpte rehaussé  de dorure.",,55.2,True,none,,,
-BO0624_83735,91744,364,364,"MEDAILLoN rond en ecaille doree: buste de Henri IV.xvi siecle. Diam.,1o cent.",,41.7,True,none,,,
-BO0624_83735,91745,365,365,"MINIATuRE rectangulaire:portrait presume de Mll Duclos, celebre tragedienne （167o-1748). Elle est representee a mijambes, vetue de rouge, avec corsage decollete; au-dessus, un amour voltigeant et tenant un sceptre; au fond,un groupe de personnages. Fin du xvil siecle. Encadree.",,42.1,True,none,,,
-BO0624_83735,91746,366,366,"MINIATuRE ronde, par Mosnier, signee et datee 1777.Portrait de femme, assise aupres d' veux poudres sont retenus par un ruban. Encadree.une table et tenant un livre ouvert. Elle porte un costume bleu,avec corsage decollete,et ses che-",,45.1,True,none,,,
-BO0624_83735,91747,367,367,Trois sTATuETrEs de divinites bouddhiques en bronze.,,43.8,True,none,,,
-BO0624_83735,91748,368,368,"BruLE-PARFuM avec couvercle,en jade gris verdatre de la Chine; decor de motifs irreguliers en leger relief.",,48.1,True,none,,,
-BO0624_83735,91749,369,369,BRULE-PARFUM tripode en ancien email cloisonne de la Chine a lambrequins;couvercle a fond noir. Pied en bois sculpte.,,47.3,True,none,,,
-BO0624_83735,91750,370,370,"PETITE PAGoDE en bois laque or, contenant une statuette de divinite bouddhique en cuivre dore. Travail japonais.",,46.6,True,none,,,
-BO0624_83735,91751,371,371,"BusTe en terre cuite,grandeur nature:jeune femme,la tete tournee vers l'epaule droite,une feur dans les cheveux,la poitrine a demi couverte d'une chemisette. Attribue a Houdon.",,46.4,True,none,,,
-BO0624_83735,91752,372,372,"STATuETTE en terre cuite,par Clodion, signee:Bacchante a demi vetue d'une draperie,tenant,de la main droite, des couronnes de feurs et de feuilles,et portant, sur la tete, des grappes de raisin dans un tambourin qu'elle maintient de la",,49.6,True,none,,,
-BO0624_83735,91753,373,373,"StATuETTE en terre cuite de jeune femme debout,drapee a l'antique,les bras croises sur la poitrine et tenant un coeur. Fin du xvin siecle.  par Beauvallet,signee et datee 1813.",,50.5,True,none,,,
-BO0624_83735,91754,374,375,PETIT BusTE en marbre blanc de fillette coiffee d'un grand chapeau de paille. Signe: Cesare Scheggi.,,42.5,True,none,,,
-BO0624_83735,91755,375,376,"PAIRE DE FLAMBEAUx-BALUsTREs en bronze dore, decores de cannelures.",,45.1,True,none,,,
-BO0624_83735,91756,376,377,"Deux cANDELABREs a trois lumieres, en bronze dore a figurines d'amours musiciens, portees par des cariatides.Pendeloques et pieces d'enfilage en cristal de roche. xvir siecle.",,50.5,True,none,,,
-BO0624_83735,91757,377,378,Deux sTATuETTEs en bronze:Meleagre et un gladiateur. Italie. fin du xvi siecle.,,45.9,True,none,,,
-BO0624_83735,91758,378,379,"FiGuRINE en bronze a patine claire:le Christ, les mains jointes, assis sur une base en cristal de roche.xvir siecle.",,47.9,True,none,,,
-BO0624_83735,91759,379,380,"Groupe en bronze a patine brune :Leda et le cygne, accompagnes d'un amour.xvir siecle.",,47.1,True,none,,,
-BO0624_83735,91760,380,381,"Deux sTATuETTEs en bronze a patine brune:le Genie du repos eternel,d'apres l'antique,et gladiateur tirant le glaive. xvill siecle.Bases en bois peint.",,48.6,True,none,,,
-BO0624_83735,91761,381,382,"BARoMETRE monte dans un cartel du temps de Louis XVI,un bronze a tetes de boucs,mufle de lion et vase.",,52.6,True,none,,,
-BO0624_83735,91762,382,383,"STATueTTE,en bronze patine,de baigneuse nue debout, tenant une draperie. Fin du xvinl siecle.",,47.8,True,none,,,
-BO0624_83735,91763,383,384,FIGuRINE en bronze vert:Antinous.,,51.9,True,none,,,
-BO0624_83735,91764,384,385,"BrULE-PARFuM en forme de gros fruit, en bronze de la Chine. (Vente deMorny,1865.)",,47.3,True,none,,,
-BO0624_83735,91765,385,386,Deux coupes en bronze incruste d'argent a motifs irreguliers; pieds en bois.Ancien travail chinois.,,50.6,True,none,,,
-BO0624_83735,91766,386,387,PETIT LUsTRE en cuivre garni en cristaux.,,39.3,True,none,,,
-BO0624_83735,91767,387,388,"HoRLoGe de table de forme ronde,avec dome reperce en cuivre dore; pourtour grave. Signee:Delagarde,a Blois. Commence-",,47.7,True,none,,,
-BO0624_83735,91768,388,389,"PENDuLE-RELIGIEUsE en marqueterie de cuivre; colonnettes aux angles,garnitures et figure de Renommee en bronze. xvI1 siecle.",,47.9,True,none,,,
-BO0624_83735,91769,389,390,PeNDuLE avec un socle-applique en marqueterie de cuivre et d'ecaille garnis de bronzes:le char d'Amphitrite et figure de Renommee.xvii siecle.,,50.0,True,title_direct,,,Bronzes
-BO0624_83735,91770,390,301,"GRANDE PENDULE-RELIGIEUsE en marqueterie des trois parties, garnie de bronzes et surmontee d'un coq. Mouvement signe: Thuret,aParis.xvil°siecle.",,51.7,True,title_direct,,,Bronzes
-BO0624_83735,91771,391,392,"CaRTEL en bronze,compose de rocailles et de fleurs. Mouvement signe :Lepaute,horloger du roi. Epoque Louis XV. Cadran du premier Empire.",,51.8,True,none,,,
-BO0624_83735,91772,392,393,"GRANDE PENDuLE sur socle-applique en marqueterie de cuivre sur ecaille,garnie de bronzes;chutes a rocailles, statuettes de divinites, dragons. Cadran signe:Goret,a Paris. Epoque Louis xV.",,49.7,True,title_direct,,,Bronzes
-BO0624_83735,91773,393,394,"PeNDuLE en marbre blanc et bronze dore,a mouvement surmonte d'un vase enguirlande et supporte par des rinceaux. Cadran signe: Henri Voisin. Epoque Louis XVI.",,51.1,True,none,,,
-BO0624_83735,91774,394,395,"PeNDuLE en biscuit, decoree d'une statuette de berger a demi nu,et accompagne d'un chien, d'une brebis et d'une chevre Base ornee d'une frise en bronze dore. Cadran signe:Fossard, laine,a Paris. Contresocle en marbre bleu turquin. Epoque Louis XVI.",,51.4,True,none,,,
-BO0624_83735,91775,395,396,"MeuBLE a deux corps en bois sculpte avec incrustations de plaques de marbre,fermant a quatre portes et muni de deux tiroirs. ll est decore de figures allegoriques et mythologiques avec colonnettes aux angles du corps superieur. Fronton decoupe.xvie siecle.",,51.8,True,none,,,
-BO0624_83735,91776,396,397,"DressoiR en bois sculpte ouvrant a deux portes et muni de deux tiroirs,reposant sur une console a fond plein,et surmonte d'un dossier. Decor de cariatides, grotesques,mascarons et feuillages. En partie de la fin du xvr siecle.",,51.5,True,none,,,
-BO0624_83735,91777,397,398,"CABINET a deux portes en marqueterie de bois de couleurs a feurs et vases.Italie,xvire siecle.Console-support a piedstors.",,59.0,True,none,,,
-BO0624_83735,91778,398,399,"DeUx sUPPoRTs-APPLIQUEs en bois sculpte et dore,a decor delions et palmettes,dont un du xvil siecle.",,52.7,True,none,,,
-BO0624_83735,91779,399,400,"CaBINET a trois rangs de tiroirs en racine,incrustee de cuivre et d'etain; support a balustres a pans. xvile siecle.",,54.1,True,none,,,
-BO0624_83735,91780,400,401,"CaBINET plaque d'ebene fermant a deux portes. A l'interieur, tabernacle et nombreux tiroirs decores d'incrustations d'ivoire sur fond d’ecaille,a sujets mythologiques et autres. xvir siecle.",,47.4,True,none,,,
-BO0624_83735,91781,401,402,"CABINET en bois noir fermant a deux portes;il est decore interieurement de peintures a sujets bibliques,avec encadrements demoulures en ebeneguillochee et applications d'écaille. Garnitures de cuivres; console-support a fond plein et ornee",,44.2,True,none,,,
-BO0624_83735,91782,402,403,"CaBINET en bois noir plaque d'écaille,avec encadrements de moulures guillochees en ebene;il contient de nombreux tiroirs avec portes au centre, et repose sur une console a colonnettes torses.xvil siecle.",,50.5,True,none,,,
-BO0624_83735,91783,403,404,CABinET plaque d'ebene et fermant a deux portes masquant un tabernacle et de nombreux tiroirs ornes d'amours peints sur fond de paysages. Le revers des portes presente des sujets galants. Base a fond plein et a colonnettes de marbre. xvil siecle.,,48.8,True,none,,,
-BO0624_83735,91784,404,405,GRAND cABINET plaque d'ébene et avec applications et incrustations d'ivoire; decor de sujets mythologiques. ll contient de nombreux tiroirs masques en partie par un abattant et repose sur une console.xvil siecle.,,47.7,True,none,,,
-BO0624_83735,91785,405,406,"CABINET en marqueterie de bois de couleurs a decor de paysages avec personnages et devises latines. Tabernacle central; moulures guillochees en bois noir,xvir siecle. Tablesupport en bois noir a pieds tors.",,51.1,True,none,,,
-BO0624_83735,91786,406,407,"ConsoLe en bois sculpte et dore a quadrilles sur la ceinture et decoree dune palmette,sur quatre pieds relies par un",,54.5,True,none,,,
-BO0624_83735,91787,407,408,BIBLIoTHEQuE a deux portes vitrees;bois incruste d'etain a decor de rinceaux.xvil siecle.,,48.4,True,none,,,
-BO0624_83735,91788,408,409,EcraN en bois sculpte et tourne;feuille en tapisserie au pointdu xvir siecle:le sacrifice d'Abraham.,,47.8,True,none,,,
-BO0624_83735,91789,409,410,"GLAce biseautee dans un cadre en glace et cuivre repousse,  a fleurs et feuilles.",2232.0,68.9,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,91790,410,411,GLAce biseautee dans un cadre en glace et cuivre repousse， a decor de personnages et guirlandes de feurs. xviii siecle.,2255.0,60.3,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,91791,411,412,"TABLE-BUREAu Louis XV a trois tiroirs, en bois de placage sur pieds cambres. Garnitures de bronzes.",,56.6,True,title_direct,,,Bronzes
-BO0624_83735,91792,412,413,"BeRGERE a joues en bois sculpte,a moulures du temps de Louis XV. Elle est couverte de velours rouge.",,52.4,True,none,,,
-BO0624_83735,91793,413,414,"CoMMoDe a trois rangs de tiroirs en bois de rose et satine; garnitures de bronzes, dessus de marbre. Epoque Louis XV.",,55.8,True,title_direct,,,Bronzes
-BO0624_83735,91794,414,415,"ComMoDE a trois rangs de tiroirs, en palissandre, garnie de bronzes. Dessus de marbre ranz. Epoque Louis XV.",,53.3,True,title_direct,,,Bronzes
-BO0624_83735,739915,415,416,"DEUx BIBLIoTHEQUEs vitrées en bois de placage Louis XV, garnies de bronzes.",,44.6,True,title_direct,,,Bronzes
-BO0624_83735,739916,416,417,"SecRETAIRE droit a abattant, portes et tiroirs, en marqueterie de bois de couleurs,a vases et instruments de musique. Dessus de marbre ranz. Fin de l'epoque Louis XV.",,47.6,True,none,,,
-BO0624_83735,739917,417,418,"MeuBLE de salon Louis XVI, compose d'un canape et quatre fauteuils en bois sculpte et dore a feuilles,rosaces et cannelures en spirale. Les fauteuils sont couverts de damas vert. Le canape n'est que garni.",,51.2,True,none,,,
-BO0624_83735,739918,418,419,"QuATRE CHAIsEs Louis XVI analogues, en bois sculpte et dore.",,50.0,True,none,,,
-BO0624_83735,739919,419,420,"BERGERE Louis XVI en bois sculpte,a rangs de piastres, rubans,feuilles d'acanthe,etc.Elle est couverte en velours frappe vert.",,50.0,True,none,,,
-BO0624_83735,739920,420,421,"Deux coNsoLes en acajou, garnies de bronzes : frises a rosaces et entrelacs,chapiteaux et entrelacs.Elles contiennent chacune trois tiroirs et reposent sur quatre colonnettes cannelees. Dessus et tablettes d'entrejambes en marbre blanc; galeries de cuivre. Epoque Louis XVI.",,42.0,True,title_direct,,,Bronzes
-BO0624_83735,739921,421,422,"SEcRETAiRE droit a abattant, portes et tiroirs en marqueterie de bois de couleurs,a medaillons,vases et feurs. Chutes en bronze, dessus de marbre. Epoque Louis XVI.",,45.6,True,none,,,
-BO0624_83735,739922,422,423,"CoMmoDE en marqueterie de bois de couleurs a trois rangs de tiroirs;vases de fruits,medaillon et frise de rinceaux; garnitures de bronzes, dessus de marbre.Epoque Louis XVI.",,47.3,True,title_direct,,,Bronzes
-BO0624_83735,739923,423,424,"CoMMoDE a trois rangs de tiroirs,en bois de rose et filets verts.Dessus de marbre. Epoque Louis XVI.Garnitures de bronzes.",,49.7,True,title_direct,,,Bronzes
-BO0624_83735,739924,424,425,"GLace dans un cadre en bois sculpte, dore et ajoure sur fond de glace; corbeille de fruits,vases de fleurs,coquilles,etc. xvill siecle.",,57.1,True,none,,,
-BO0624_83735,739925,425,426,"CoMMoDe a deux tiroirs, en bois noir garni de cuivre repousse. Fin du xvinl siecle.",2256.0,95.4,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739926,426,427,GLAcE biseautee dans un cadre en bois ajoure et sculpte a decor de feuillages. Fronton orne d'amours supportant un panier de feurs.Travail italien.,2257.0,98.3,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739927,427,428,"BuREau bonheur du jour,en acajou orne de bronzes. Dessus de marbre,galerie de cuivre.",2258.0,95.5,False,title_direct,,,Bronzes
-BO0624_83735,739928,428,429,"GLAce dans un cadre sculpte et dore, a baguettes enrubannees, guirlandes de fleurs et nceuds de rubans.",2259.0,67.1,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739929,429,430,"FAuTeuIL en bois dore,a rocailles,couvert en brocart.",2262.0,82.6,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739930,430,431,"Deux FAuTeuiLs en bois sculpte,a pieds relies par une traverse,a decor de feuilles et fleurs. Ils sont couverts de tissu a personnages,oiseaux et fleurs sur fond noir.",2263.0,97.9,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739931,431,432,MeuBLE a quatre portes en bois sculpte a mascarons et a feuillages.,2264.0,89.7,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739932,432,433,"TABLE-BuREAu a trois tiroirs, en bois de rose et de violette, garnie de bronzes.",2266.0,83.0,False,title_direct,,,Bronzes
-BO0624_83735,739933,433,434,"Deux PETITs MEuBLEs a deux portes en bois sculpte, decor de rinceaux et mascarons. lls reposent sur quatre pieds-balustres.",2268.0,97.2,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739934,434,435,PETITE TABLE a six pieds tors.,2269.0,89.6,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739935,435,436,"Deux PANNEAux en tapisserie,du xvn siecle,ornes chacun d'une figure de femme etendue dans la campagne.",2270.0,96.7,False,positional,,,"Meubles, tapisseries"
-BO0624_83735,739944,436,437,"TapissERiE rectangulaire flamande du commencement du xvi siecle, presentant cinq personnages:chasseurs au faucon sur fond de verdure.",2274.0,92.5,False,positional,,,"Meubles, tapisseries"
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83735,91381,1,1,Antonello De Messine. XV siecle.  Portrait dhomme.,98,60.6,False,positional,ANTONELLO DE MESSINE,,,,Sec. XV
+BO0624_83735,91382,2,2,Boucher. 1703-1770. Les Oiseaux en cage.,117,69.0,False,positional,BOUCHER (FRANCOIS),,,,Sec. XVIII
+BO0624_83735,91383,3,3,"BOUCHER, FRANCOIS. Le Petit Denicheur.",128,69.1,False,title_direct,BOUCHER (FRANCOIS),,,,
+BO0624_83735,91384,4,4,Bourguignon. 1621-1676. Bataille.,137,52.3,False,positional,"BOURGUIGNON JAcQUEs CoURToIs, dit le",,,,Sec. XVII
+BO0624_83735,91385,5,5,Bourguignon. Combat de cavalerie.,147,76.9,False,positional,"BOURGUIGNON (JAcQUEs CoURToIs,dit le)",,,,
+BO0624_83735,91386,6,6,BREUGHEL. 1568-1625. L'Entree dans larche. Bataille.,157,62.9,False,positional,"BREUGHEL (JEAN), dit de Velours",,,,Sec. XVI
+BO0624_83735,91387,7,7,Chardin. 1699-1799. Nature morte.,170,63.6,False,positional,CHARDIN (JEAN-BAPTISTE),,,,Sec. XVIII
+BO0624_83735,91388,8,8,CLOUET FRANcois. 1510-1572. Portrait de femme..,179,58.8,False,positional,"CLOUET (FRANcois), dit Janet",,,,Sec. XVI
+BO0624_83735,91389,9,9,"Coques. 1618-1684. Portrait d'homme. l est vu jusqu'a mi-corps, en pourpoint noir, la tete presque de face, portant sur la fraise rigide a double tuyaute. Des cheveux blonds,une moustache naissante, le menton termine par une mince barbiche.La bouche est grande, d'un beau dessin male; les yeux bleus trahissent une volonte douce et patiente.Le front est ample, solidement modele;les pommettes sont legerement emaciees; le maxillaire inferieur a de l'accent. La figure, dans une lumiere blonde, se degage d'un fond sombre.",196,96.6,False,positional,COQUES (GONZALES),,,,Sec. XVII
+BO0624_83735,91390,10,10,Danloux. 1745-1809. Les Petits gourmands.,209,75.4,False,positional,DANLOUX (PIERRE),,,,Sec. XVIII
+BO0624_83735,91391,11,11,Demarne. 1744-1829. Le Retour du marche.,224,71.2,False,positional,DEMARNE (JEAN-LoUIS),,,,Sec. XVIII
+BO0624_83735,91392,12,12,Dietrich. 1712-1774. Le Marchand de gaufres.,235,75.8,False,positional,DIETRICH (CHRETIEN-GUILLAUME),,,,Sec. XVIII
+BO0624_83735,91393,13,13,Drouais. 1727-1775. Portrait du jeune duc de Choiseul,248,80.5,False,positional,DROUAIS (FRANCOIS-HUBERT),,,,Sec. XVIII
+BO0624_83735,91394,14,14,"Durer. 1471-1528. Portrait de Maximilien Ier (Empereur d'Alemagne, de1493a1519,grand-pere deCharles-Quint).",259,93.1,False,positional,DURER(ALBERT),,,,Sec. XVI
+BO0624_83735,91395,15,15,Dyck. 1680-1753. La Servante amoureuse.,276,80.0,False,positional,DYCK (PHILIPPE VAN),,,,Sec. XVIII
+BO0624_83735,91396,16,16,Flinck. 1615-1660. Portrait d'un jeune homme.,291,80.0,False,positional,FLINCK (GOVAERT),,,,Sec. XVII
+BO0624_83735,91397,17,17,Fragonard. 1732-1806. Cache-cache.,302,57.8,False,positional,FRAGONARD (JEAN-HoNORE),,,,Sec. XVIII
+BO0624_83735,91398,18,18,Franck. 1581-1642. Le Festin de Balthazar.,315,78.1,False,positional,FRANCK (FRANCOIS),,,,Sec. XVII
+BO0624_83735,91399,19,19,"GREUZE, JEAN-BAPTISTE. 1725-1805.La Jeune fille a la rose.",328,63.4,False,title_direct,GREUZE (JEAN-BAPTISTE),,,,Sec. XVIII
+BO0624_83735,91400,20,20,"GREUZE, JEAN-BAPTISTE. La Priere.",335,80.0,False,title_direct,GREUZE (JEAN-BAPTISTE),,,,
+BO0624_83735,91401,21,21,"GRIMOUX, ALEXIS. 1680-1740. Le Joueur de clarinette.",348,67.6,False,title_direct,GRIMOUX (ALEXIS),,,,Sec. XVIII
+BO0624_83735,91402,22,22,Holbein. 1497-1543. La Mere de Calvin.,359,65.5,False,positional,HOLBEIN (JEAN),,,,Sec. XVI
+BO0624_83735,91403,23,23,Hondekoeter. 1636-1695. La Poule blanche.,370,63.2,False,positional,HONDEKOETER (MELCHIOR),,,,Sec. XVII
+BO0624_83735,91404,24,24,Kessel. 1684-1741. Barbiers et chirurgiens.,381,75.8,False,positional,KESSEL (NICOLAS VAN),,,,Sec. XVIII
+BO0624_83735,91405,25,25,Keyser. 1595-1669. Portrait de femme.,392,70.4,False,positional,KEYSER(TH.DE),,,,Sec. XVII
+BO0624_83735,91406,26,26,Maes. 1632-1693. L'Enfant a la gaufre.,407,79.3,False,positional,MAES (NICOLAS),,,,Sec. XVII
+BO0624_83735,91407,27,27,Maes. M.lle de la Baume Le Blanc.,416,64.7,False,positional,MAES (NIcOLAS),,,,
+BO0624_83735,91408,28,28,"Mantegna, Andrea. 1430-1506. Portrait d'homme.",429,55.7,False,positional,MANTEGNA (ANDREA),,,,Sec. XV
+BO0624_83735,91409,29,29,Mignard. 1610-1695. Portrait de Marie-Victoire de la Tremoille.,446,83.8,False,positional,MIGNARD (PIERRE),,,,Sec. XVII
+BO0624_83735,91410,30,30,Nattier. 1685-1766. La Duchesse de Chateauroux.,457,74.0,False,positional,NATTIER (JEAN-MARC),,,,Sec. XVIII
+BO0624_83735,91411,31,31,Ommegank. 1755-1826. Moutons.,466,51.4,False,positional,OMMEGANK (BALTHAZAR-PAUL),,,,Sec. XVIII
+BO0624_83735,91412,32,32,Peters. 1614-1652.  La Poupée de Nuremberg.,482,71.9,False,positional,PETERS (BONAVENTURE),,,,Sec. XVII
+BO0624_83735,91413,33,33,Raoux. 1677-1734. Portrait d'homme.,495,70.6,False,positional,RAOUX (JEAN),,,,Sec. XVIII
+BO0624_83735,91414,34,34,Robert. 1794-1835. La Famille du brigand.,507,74.2,False,positional,ROBERT (LEOPOLD),,,,Sec. XIX
+BO0624_83735,91415,35,35,Ruysdael. 1630-1681. Le Vieux chene.,518,64.0,False,positional,RUYSDAEL (JACQUES),,,,Sec. XVII
+BO0624_83735,91416,36,36,"SAINT-AUBIN, GABRIEL-JAcQUEs DE. 1724-1780. Louis XVI,Marie-Antoinette et la Dauphine.",529,66.7,False,title_direct,SAINT-AUBIN (GABRIEL-JAcQUEs DE),,,,Sec. XVIII
+BO0624_83735,91417,37,37,Shut et Seghers. 1590-1661. Sainte-Famille.,539,53.6,False,positional,SCHUT ET SEGHERS,,,,Sec. XVII
+BO0624_83735,91418,38,38,Senave. 1758-1829. Le Marche.,556,57.9,False,positional,SENAVE (JACQUES-ALBERT),,,,Sec. XVIII
+BO0624_83735,91419,39,39,"VAN SPAENDONCK, GERARD. 1746-1822. Fleurs et fruits.",564,60.9,False,title_direct,VAN SPAENDONCK (GERARD),,,,Sec. XVIII
+BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",584,56.5,False,positional,VAN SPAENDONCK (GERARD),,,,Sec. XVI
+BO0624_83735,91421,41,41,"TENIERS, DAvID,le Jeune. 1610-1689.Les Joueurs de boules. ls se sont installes devant lauberge:c'est jour de liesse, si l'on en croit le cortege dansant qui s'avance au fond,a gauche,aux accents de la cornemuse,si lon en croit egalement les couples de buveurs attables a droite. Au premier plan,les joueurs sont attentifs a la partie. L'un,penche en avant,va lancer la boule. Derriere lui, un autre compagnon,vetu de gris,attend son tour,indifferent aux avis d'un conseilleur, qui se tient pres de lui. A gauche,pres du cochonnet,un bonhomme, en culotte grise et chemise blanche, est vu de dos. Pres du mur, en pleine lumiere,un malade,vu de dos,allege son estomac surcharge. Au fond, au-dessus des branches,le clocher de l'eglise dresse sa fleche vers le ciel illumine de chaudes clartes.",597,96.4,False,title_direct,"TENIERS (DAvID,le Jeune)",,,,Sec. XVII
+BO0624_83735,91422,42,42,Teniers. Le Festin des singes.,606,82.4,False,positional,"TENIERS (DAvID,le Jeune)",,,,
+BO0624_83735,91423,43,43,Valckenburg. 1675-1721. Coq et canards.,619,56.6,False,positional,VALCKENBURG (THIERRY VAN),,,,Sec. XVII
+BO0624_83735,91424,44,44,"VELDE, GuILLAUME,le Jeune, VAN DE. 1633-1707. Les Pecheurs.",626,72.9,False,title_direct,"VELDE (GuILLAUME,le Jeune, VAN DE)",,,,Sec. XVII
+BO0624_83735,91425,45,45,"WEENIX, JEAN. 1644-1719. Le Chien blanc.",641,60.4,False,title_direct,WEENIX (JEAN),,,,Sec. XVII
+BO0624_83735,91426,46,46,"WOUWERMAN, PHILIPPE. 1620-1668.",648,78.3,False,title_direct,WOUWERMAN (PHILIPPE),,,,Sec. XVII
+BO0624_83735,91427,47,47,"WOUWERMAN, PHILIPPE. Cavaliers au bord de la mer.",663,74.0,False,title_direct,WOUWERMAN (PHILIPPE),,,,
+BO0624_83735,91428,48,48,ECOLE DE BRUGES. La Salutation angelique.,674,73.8,False,title_direct,,ECOLE DE BRUGES,,,
+BO0624_83735,91429,49,49,ECOLE FRANCAISE. Sainte Cecile.,681,68.2,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91430,50,50,ECOLE FRANCAISE. Portrait d'homme.,693,66.7,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91431,51,51,ECOLE FRANCAISE. Portrait dhomme.,704,65.3,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91432,52,52,ECOLE FRANCAISE. Portrait d'homme.,714,66.7,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91433,53,53,ECOLE FRANCAISE. Portrait de femme.,724,67.9,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91434,54,54,ECOLE FRANCAISE. Portrait de femme.,733,67.9,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91435,55,55,ECOLE FRANCAISE. Portrait d'une demoiselle de Saint-Denis.,745,82.8,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91436,56,56,ECOLE FRANCAISE. Mme du Deffand.,752,66.7,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91437,57,57,ECOLE FRANCAISE. Portrait de femme,764,68.0,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83735,91438,58,58,ECOLE HOLLANDAISE. Deux personnages.,771,66.7,False,title_direct,,ECOLE HOLLANDAISE,,,
+BO0624_83735,91439,59,59,ECOLE HOLLANDAISE. Famille Hollandaise.,783,69.0,False,title_direct,,ECOLE HOLLANDAISE,,,
+BO0624_83735,91440,60,60,ECOLE HOLLANDAISE. Femme et enfant.,790,68.0,False,title_direct,,ECOLE HOLLANDAISE,,,
+BO0624_83735,91441,61,61,ECOLE HOLLANDAISE. Portrait d'homme.,800,66.7,False,title_direct,,ECOLE HOLLANDAISE,,,
+BO0624_83735,91442,62,62,ECOLE ITALIENNE. Fleurs et fruits.,812,66.7,False,title_direct,,ECOLE ITALIENNE,,,
+BO0624_83735,91443,63,63,"Tetes d'enfants. ls sont trois:lun d'eux,deprofil a droite,est endormi; le second le regarde attentivement,avec tendresse; le troisieme,vu de face, ouvre de grands yeux qui luttent contre",829,95.2,False,positional,BOUCHER (FRANCOIS),,,,
+BO0624_83735,91444,64,64,Portrait de jeune femme.,840,93.9,False,positional,PERRONNEAU JEAN-BAPTISTE),,,,
+BO0624_83735,91445,65,65,Femme endormie.,851,90.3,False,positional,PERRONNEAU (JEAN-BAPTISTE),,,,
+BO0624_83735,91446,66,66,Portrait de magistrat.,862,93.3,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83735,91447,67,67,Bellangé. 1800-1866. La Retour du soldat. Le Billet de logement.,881,79.2,False,positional,BELLANGE (JoSEPH-LOUIS-HIPPOLYTE),,,,Sec. XIX
+BO0624_83735,91448,68,68,Brascassat. 1805-1867. Vache au paturage.,891,65.5,False,positional,BRASCASSAT (JACQUES-RAYMOND),,,,Sec. XIX
+BO0624_83735,91449,69,69,"BUSSON, CHARLES. Sous-bois.",902,73.7,False,title_direct,BUSSON (CHARLES),,,,
+BO0624_83735,91450,70,70,"CHAPLINCHARLES-JOSUAH, 1825-1891. La Lecture de la Bible.",914,58.2,False,title_direct,CHAPLIN (CHARLES-JOSUAH),,,,Sec. XIX
+BO0624_83735,91451,71,71,"CHARLET, NICOLAS-ToUSSAINT. 1792-1845. Vieux souvenirs.",924,65.8,False,title_direct,CHARLET (NICOLAS-ToUSSAINT),,,,Sec. XIX
+BO0624_83735,91452,72,72,Corot. 1796-1875. Souvenir de Marissel.,941,74.6,False,positional,COROT (JEAN-BAPTISTE-CAMILLE),,,,Sec. XIX
+BO0624_83735,91453,73,73,"DAUBIGNY, CHARLES-FRANCOIS. 1817-1878. Bords de lOise.",962,66.7,False,title_direct,DAUBIGNY (CHARLES-FRANCOIS),,,,Sec. XIX
+BO0624_83735,91454,74,74,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Chevaux sortant de leau.",975,66.0,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,Sec. XIX
+BO0624_83735,91455,75,75,"DESGOFFE, BLAISE-ALEXANDRE. 1830-1901. Cabinet d'antiquaire.",990,61.7,False,title_direct,DESGOFFE (BLAISE-ALEXANDRE),,,,Sec. XIX
+BO0624_83735,91456,76,76,Diaz De La Pena. 1809-1876. La Femme au chien.,1005,63.5,False,positional,DIAZ DE LA PENA (NARCISSE-VIRGILE),,,,Sec. XIX
+BO0624_83735,91457,77,77,Diaz De La Pena. Fleurs.,1014,66.7,False,positional,DIAZ DE LA PENA (NARCISSE-VIRGILE),,,,
+BO0624_83735,91458,78,78,"DORE, GUSTAVE. 1832-1883. Espagnols.",1026,54.5,False,title_direct,DORE (GUSTAVE),,,,Sec. XIX
+BO0624_83735,91459,79,79,"DUPRE, JULES. 1812-1889. La Riviere.",1041,53.3,False,title_direct,DUPRE (JULES),,,,Sec. XIX
+BO0624_83735,91460,80,80,DUPRE (JULEs). La Cabane.,1048,68.8,False,title_direct,DUPRE (JULEs),,,,
+BO0624_83735,91461,81,81,"FRANCAIS, FRANCOIS-LOUIS. 1814-1897. Hommage a Flore.",1057,63.9,False,title_direct,FRANCAIS (FRANCOIS-LOUIS),,,,Sec. XIX
+BO0624_83735,91462,82,82,"FRANCAIS, FRANCOIS-LOUIS. Campagne romaine.",1069,73.0,False,title_direct,FRANCAIS (FRANCOIS-LOUIS),,,,
+BO0624_83735,91463,83,83,"FROMENTIN, EUGENE. 1820-1876. L'Abreuvoir.",1076,59.3,False,title_direct,FROMENTIN (EUGENE),,,,Sec. XIX
+BO0624_83735,91464,84,84,"FROMENTIN, EUGENE. Arabes en voyage.",1089,65.4,False,title_direct,FROMENTIN (EUGENE),,,,
+BO0624_83735,91465,85,85,"GIRARDET, EDOUARD-HENRI. 1819-1880. Le Depart pour la montagne.",1103,63.6,False,title_direct,GIRARDET (EDOUARD-HENRI),,,,Sec. XIX
+BO0624_83735,91466,86,86,"ISABEY, EUGENE-LOUIS-GABRIEL. 1804-1888. Scene de cour.",1108,69.2,False,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,,,Sec. XIX
+BO0624_83735,91467,87,87,"ISABEY, EUGENE-LOUIS-GABRIEL. Retour de la peche.",1119,74.0,False,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,,,
+BO0624_83735,91468,88,88,PROTAIS. PAUL-ALEXANDRE. 1826-1890. Soldats au lavoir.,1130,61.1,False,title_direct,PROTAIS (PAUL-ALEXANDRE),,,,Sec. XIX
+BO0624_83735,91469,89,89,"ROUSSEAU, THEODORE. 1812-1867. Foret de Fontainebleau.",1143,64.0,False,title_direct,ROUSSEAU (THEODORE),,,,Sec. XIX
+BO0624_83735,91470,90,90,Sautai. Sainte Elisabeth de Hongrie.,1156,88.5,False,positional,SAUTAI (PAUL-EMILE),,,,
+BO0624_83735,91471,91,91,"SCHEFFER, ARY. 1795-1858. La Mere de famille.",1172,67.7,False,title_direct,SCHEFFER (ARY),,,,Sec. XIX
+BO0624_83735,91472,92,92,"TASSAERT, NICOLAS-FRANCOIS-OCTAVE. 1800-1874. Efants jouant avec des lapins.",1181,61.5,False,title_direct,TASSAERT (NICOLAS-FRANCOIS-OCTAVE),,,,Sec. XIX
+BO0624_83735,91473,93,93,Tesson. Paysage arabe.,1195,77.8,False,positional,TESSON (LoUIS),,,,
+BO0624_83735,91474,94,94,Baron. 1816-1885. L'Effroi.,1210,54.5,False,positional,BARON (HENRI-CHARLES-ANTOINE),,,,Sec. XIX
+BO0624_83735,91475,95,95,"CHARLET, NICoLAs-ToUSSAINT. 1792-1845. Le Convoi Des blesses.",1222,61.0,False,title_direct,CHARLET (NICoLAs-ToUSSAINT),,,,Sec. XIX
+BO0624_83735,91476,96,96,"CHARLET, NICoLAs-ToUSSAINT. Les Glorieux debris.",1235,71.4,False,title_direct,CHARLET (NICoLAs-ToUSSAINT),,,,
+BO0624_83735,91477,97,97,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Lionne blessee.",1245,72.5,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,Sec. XIX
+BO0624_83735,91478,98,98,"DELACROIX, FERDINAND-VICTOR-EUGENE.  Lion devorant un cheval.",1257,73.3,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,
+BO0624_83735,91479,99,99,"DUPRE, JULEs. 1812-1889. Interieur d'une ferme.",1272,62.7,False,title_direct,DUPRE (JULEs),,,,Sec. XIX
+BO0624_83735,91480,100,100,"FROMENTIN, EUGENE. 1820-1876. Les Courriers.",1282,57.1,False,title_direct,FROMENTIN (EUGENE),,,,Sec. XIX
+BO0624_83735,91481,101,101,"FROMENTIN, EUGENE. Cavaliers arabes dans la montagne.",1295,78.2,False,title_direct,FROMENTIN (EUGENE),,,,
+BO0624_83735,91482,102,102,"GAVARNI, HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER. 1804-1866. Pierrot.",1301,85.7,False,title_direct,"GAVARNI (HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER,dit)",,,,Sec. XIX
+BO0624_83735,91483,103,103,"GERICAULT, JEAN-LOUIS-ANDRE-THEODORE. 1791-1824. Combat de deux guerriers.",1315,66.7,False,title_direct,GERICAULT (JEAN-LOUIS-ANDRE-THEODORE),,,,Sec. XIX
+BO0624_83735,91484,104,104,"GIACOMELLI, HECTOR. Bande doiseaux. ls sont la sur un barreau de cage, entasses les uns contre les autres et melant,comme un collier de pierres precieuses,les rubis,les saphirs,les émeraudes de leurs plumages.",1334,91.5,False,title_direct,GIACOMELLI (HECTOR),,,,
+BO0624_83735,91485,105,105,"INGRES, JEAN-AUGUSTE-DOMINIQUE. 1780-1867. Portrait de Mme Borel.",1340,64.4,False,title_direct,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
+BO0624_83735,91486,106,106,LAMI. LOUIS-EUGENE. 1800-1890. Personnages dans un parc.,1344,28.6,False,title_direct,LAMI (LOUIS-EUGENE),,,,Sec. XIX
+BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,1348,36.1,False,positional,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
+BO0624_83735,91488,108,108,"MILLET, JEAN-FRANCOIS. Le Vol d'oies sauvages.",1351,40.0,False,title_direct,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91489,109,109,"WORMS, JULEs. Jeune Chasseur espagnol.",1355,41.3,False,title_direct,WORMS (JULEs),,,,
+BO0624_83735,91490,110,110,"ZIEM, FELIX. A l'embouchure dufleuve.",1359,37.5,False,positional,LAMI (LOUIS-EUGENE),,,,
+BO0624_83735,91491,111,111,"Deux CHopEs en ancien gres gris de Nassau a carrelages blancs et noirs pour l'une,et feuillages bleus et blancs pour l'autre.Couvercles en etain.",1372,28.6,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91492,112,112,CrucHE en ancien gres gris et blanc de Reren a decor de disques semes.,1374,40.4,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91493,113,113,Por A TABAc a quatre faces en ancien gres gris et bleu de Reren.Armoiries et date.1678.,1383,33.9,False,positional,MILLET (JEAN-FRANCOIS),,,,Sec. XVII
+BO0624_83735,91494,114,114,GRANDE cRUcHE en ancien gres gris et blanc de Raren;rosace,1385,45.5,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91495,115,115,CrucHE en ancien gres brun de Raren a decor d'armoiries.,1390,41.5,False,positional,WORMS (JULEs),,,,
+BO0624_83735,91496,116,116,GouRDe a panse lenticulaire en ancien gres gris et blanc de Raren; rosaces et feuillages.,1398,39.6,False,positional,ZIEM(FELIX),,,,
+BO0624_83735,91497,117,117,"CHopE en ancien gres gris et blanc de Raeren,decoree de neuf bustes.",1407,37.5,False,positional,,,OBJETS D'ART ET D'AMEUBLEMENT,,
+BO0624_83735,91498,118,118,"CrucHe a panse surbaissee en ancien gres gris et bleu de Raren, decoree d'un mascaron barbu,d'imbrications et de cannelures. Couvercle en etain.",1411,56.7,False,positional,,,Gres,,
+BO0624_83735,91499,119,119,"CrucHE en ancienne terre de Kreussen,ornee de deux zones de fleurs avec la date 1661.",1412,54.8,False,positional,,,Gres,,Sec. XVII
+BO0624_83735,91500,120,120,"CHopE en ancienne terre de Kreussen,decoree en couleurs: les dieux de l'Olympe.",1418,58.1,False,positional,,,Gres,,
+BO0624_83735,91501,121,121,AuTRE analogue.,1422,46.2,False,positional,,,Gres,,
+BO0624_83735,91502,122,122,CHopE en ancienne terre de Kreussen :le Christ et les Apotres.,1429,96.8,False,positional,,,Gres,,
+BO0624_83735,91503,123,123,Por a deux anses en ancienne terre de Kreussen. Bustes et palmettes.Couvercle en etain.,1433,97.7,False,positional,,,Gres,,
+BO0624_83735,91504,124,124,"GRAND PoT A TABAc en ancienne terre de Kreussen a decor de stries, tetes de cherubins,et ornements en couleurs et",1437,98.2,False,positional,,,Gres,,
+BO0624_83735,91505,125,125,GRAND PoT A TABAc hexagone en ancienne terre de Kreussen， presentant les dieux de l'Olympe.,1440,100.0,False,positional,,,Gres,,
+BO0624_83735,91506,126,126,fleurs.,1442,75.0,False,positional,,,Gres,,
+BO0624_83735,91507,127,127,Broc en ancienne terre de Kreussen;buste et palmettes.,1443,96.4,False,positional,,,Gres,,
+BO0624_83735,91508,128,128,"CHopE en ancienne terre de Kreussen,aux armes de Saxe sur",1444,96.6,False,positional,,,Gres,,
+BO0624_83735,91509,129,129,CHopE en ancienne terre de Kreussen:1'Agneau pascal aumilieu des Apotres.,1446,83.1,False,positional,,,Gres,,
+BO0624_83735,91510,130,130,VAsE a reflets metalliques. Faience de Manisses.,1450,95.8,False,positional,,,Faiences hispano-mauresques,,
+BO0624_83735,91511,131,131,"GrAND PLAr decore d'animaux, et fleurs a refets metalliques. Ancienne faience de Manisses.",1451,97.8,False,positional,,,Faiences hispano-mauresques,,
+BO0624_83735,91512,132,132,"PLAr,oiseaux et fleurs;reflets metalliques.Ancienne faience de Manisses.",1452,88.1,False,positional,,,Faiences hispano-mauresques,,
+BO0624_83735,91513,133,133,"PLAT creux en ancienne faience hispano-mauresque; decor en bleu et a refets metalliques. Au fond,écusson charge d'un lion:au marli,rangees de feuilles et filets.",1454,98.8,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91514,134,134,"PLAT a ombilic en ancienne faience hispano-mauresque; decor a refets metalliques; sur lombilic, un ecusson charge d'un ani mal;alentour, des motifs irreguliers.",1458,98.7,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91515,135,135,"PLAT a ombilic,meme faience; ecusson charge d’un fleuron;",1459,96.5,False,positional,,,Faiences hispano-mauresques,,
+BO0624_83735,91516,136,136,"PLAT creux en ancienne faience hispano-mauresque; decor a reflets metalliques; écusson charge d'un lion; alentour,de",1461,98.3,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91517,137,137,"PLAT creux en ancienne faience hispano-mauresque.Au fond, ecusson charge d'un aigle;alentour, des palmettes; decor en bleu et a reflets metalliques.",1466,98.6,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91518,138,138,PLAT a ombilic en ancienne faience hispano-mauresque; decor,1470,96.7,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91519,139,139,PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; fleurettes avec cinq feuilles en marli.,1473,99.2,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91520,140,140,"PeTIT PLAT avec cavite centrale en ancienne faience hispano-mauresque, a reflets metalliques; motifs irreguliers.",1474,67.4,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91521,141,141,"BassiN en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; armoiries au centre, entourees de zones de motifs irreguliers.",1476,98.6,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91522,142,142,Plat en ancienne faience hispano-mauresque,1481,51.2,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91523,143,143,GRAND PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; semis de fleurettes avec ecusson armorie au centre.,1485,98.6,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91524,144,144,"GRAND PLAT en ancienne faience hispano-mauresque; decor en bleu et a reflets metalliques; au fond,un écusson armorie d'azur a quatre feurs de lis d'or, a la barre de pourpre; au marli,motif rayonnant seme de pois en relief.",1489,99.1,False,title_direct,,,Faiences hispano-mauresques,,
+BO0624_83735,91525,145,145,Coupe a bossages et sur piedouche; amour lie et feuilles.  Ancienne faience de Faenza.,1495,78.0,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91526,146,146,AuTRE analogue avec petite figure équestre. Meme faience.,1497,96.5,False,positional,,,Faiences de Faenza,,
+BO0624_83735,91527,147,147,AuTRE analogue avec figure de divinite. Meme faience.,1498,96.2,False,positional,,,Faiences de Faenza,,
+BO0624_83735,91528,148,148,PLAT en ancienne faience de Faenza aux armes d'un prelat; marli a imbrications.,1499,97.5,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91529,149,149,"CrucHE de pharmacie en ancienne faience de Faenza, ornee de deux bustes de vieillards, avec deversoir en forme de dragon.",1500,95.3,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91530,150,150,Deux cRucHEs en ancienne faience de Faenza; fleurs et masques de cherubins.,1505,80.6,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91531,151,151,CoRNET de pharmacie en ancienne faience de Faenza;medaillon a figure de femme et mascarons.,1507,97.8,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91532,152,152,CoRNET de pharmacie en ancienne faience de Faenza;buste,1508,96.5,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91533,153,153,"PLAt a cavite centrale en ancienne faience de Faenza；au fond,buste d'homme en couleurs:au marli, des grotesques; fond bleu, dit berettino.",1510,97.8,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91534,154,154,"PLAT creux en ancienne faience de Faenza;buste,oiseaux et",1514,96.6,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91535,155,155,CoupE en ancienne faience de Faenza;casa Pirota;la Creche,1518,96.6,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91536,156,156,"PLAT en ancienne faience de Faenza;decor polychrome,buste",1524,96.6,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91537,157,157,"Gros vAse en ancienne faience de Faenza, decore d'un buste et d'un amour dans des cartouches, sur fond a trophees et mas-",1529,98.3,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91538,158,158,"PLAt en ancienne faience de Faenza;decor polychrome;au fond,un montreur d'ours;au marli, sur fond bleu,quatre bustes separes par des groupes de chevaux marins.",1531,98.1,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91539,159,159,PLAT a cavite centrale en ancienne faience de Faenza; decor compose de grotesques avec le buste d'Annibal au centre;,1537,98.3,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91540,160,160,"PLAT en ancienne faience de Faenza; casa Pirota;decor en couleurs sur fond bleu, dit berettino; chute en bianco sopra bianco; au fond,un ecu armorie d'or a deux masses d'armes d'azur en sautoir; au marli,des grotesques.",1544,99.1,False,title_direct,,,Faiences de Faenza,,
+BO0624_83735,91541,161,161,PETIT PLAT a cavite centrale en ancienne faience de Gubbio; enfant tenant un jouet;marli a rinceaux;decor en bleu et a reffets metalliques.,1549,98.6,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91542,162,162,"PLAT creux en ancienne faience de Gubbio; decor en bleu et a reflets metalliques rouge rubis et jaune cuivreux; cornes d'abondance, mascarons et le mot virtus.",1553,98.7,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91543,163,163,"Coupe en ancienne faience de Gubbio; decor a reflets metalliques; saint moine tenant un volumen. bis.— CoupE a bossage en ancienne faience de Gubbio, decor polychrome a reflets metalliques rouge rubis et jaune chamois: saint Sebastien; au marli, des fruits.",1558,76.2,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91544,164,164,CoupE en ancienne faience de Gubbio;decor en bleu et a refets metalliques; personnages regardant une tete de mort.,1564,98.2,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91545,165,165,"PeTIt plat avec cavite centrale en ancienne faience de Gubbio:buste d'eveque, petites feuilles au marli Sigle de Giorgio",1571,97.5,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91546,166,166,"PLAT creux en ancienne faience de Gubbio; decore en bleu,et a reflets metalliques rouge rubis et jaune cuivreux: ecusson d'armoiries d'argent a la tete de negre au naturel,au chef d'azur charge d'un croissant d'or; marli a rinceaux.",1576,99.1,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91547,167,167,PLAT en ancienne faience de Gubbio;decor polychrome et a reflets metalliques rouge rubis et jaune cuivreux;amour lie a,1580,98.3,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91548,168,168,"PLAT a cavite centrale en ancienne faience de Gubbio;au fond,un lievre;au marli, des feuilles; decor en bleu et a refets metalliques.",1585,98.5,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91549,169,169,"PLAT a cavite centrale en ancienne faience de Gubbio; decor en couleurs et a reflets metalliques jaune cuivreux et rouges. Au fond,legende latine; au marli, des feuilles.",1589,98.8,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91550,170,170,"Coupe en ancienne faience de Gubbio; decor en couleurs et a reflets metalliques rouge rubis et jaune cuivreux.Au fond,",1593,98.3,False,title_direct,,,Faiences de Gubbio,,
+BO0624_83735,91551,171,171,"Coupe sur piedouche en ancienne faience de Deruta;au fond, l'inscription Romana.",1600,97.5,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91552,172,172,Plat a ombilic en ancienne faience de Deruta,1601,55.7,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91553,173,173,PLAT en ancienne faience de Deruta;decor en bleu et a reflets metalliques jaune chamois;buste de femme avec inscription;,1606,98.8,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91554,174,174,PLAT creux en ancienne faience de Deruta; decor en bleu et a reflets metalliques jaune chamois; saint Francois d'Assise recevant les stigmates.,1610,98.6,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91555,175,175,"DeUx PETITs PLATs en ancienne faience de Deruta,aux armes du pape Clement Vll; feuillages au marli, decor a refets",1614,98.2,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91556,176,176,"PLAT a ombilic en ancienne faience de Deruta;decor en bleu et a reflets metalliques jaune cuivreux; sur l'ombilic,une bonne foi;alentour, compartiments rayonnants de rinceaux.",1617,98.9,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91557,177,177,PLAT creux a ombilic en ancienne faience de Deruta; decor a,1621,96.7,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91558,178,178,Plat a ombilic en ancienne faience de Deruta,1626,57.1,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91559,179,179,PLAT creux en ancienne faience de Deruta; decor rayonnant de feurettes et rinceaux.,1631,78.3,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91560,180,180,"GRAND PLAT en ancienne faience de Deruta;decor en bleu et a refets metalliques jaune chamois; au fond,un buste de femme avec la legende:la Cristofana Bella;au marli,des",1636,98.8,False,title_direct,,,Faiences de Deruta,,
+BO0624_83735,91561,181,181,GRAND coRNET de pharmacie en ancienne faience de Castel-Durante;medaillon contenant une figure d'Amphitrite et nombreux trophees sur fond bleu.,1644,75.4,False,title_direct,,,Faiences de Castel-Durante,,
+BO0624_83735,91562,182,182,"CoupE en ancienne faience de Castel-Durante,decoree,en plein, d'un buste de femme avec le nom Angela B.",1648,98.1,False,title_direct,,,Faiences de Castel-Durante,,
+BO0624_83735,91563,183,183,"PeTIT PLAT a cavite centrale,en ancienne faience de CastelDurante:buste et trophees sur fond bleu.",1652,98.0,False,title_direct,,,Faiences de Castel-Durante,,
+BO0624_83735,91564,184,184,"EcRiroiRE en ancienne faience d'Urbino, formee d'un plateau supportant deux recipients et decoree de la Cene.",1657,98.2,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91565,185,185,"DEux PETITs PLATs en ancienne faience d'Urbino,avec cavité",1661,96.7,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91566,186,186,"PLAT en ancienne faience d'Urbino, decore d'un sujet mili-",1668,96.6,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91567,187,187,PETIT PLAT creux en ancienne faience d'Urbino; sujet tire de,1673,96.7,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91568,188,188,PLAT creux en ancienne faience d’Urbino; composition mytho-,1678,96.6,False,positional,,,Faiences d'Urbino,,
+BO0624_83735,91569,189,189,PLAT en ancienne faience d'Urbino:Persee et Andromede.,1680,96.4,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91570,190,190,"GRAND PLAT creux en ancienne faience d'Urbino,presentant les armes du pape Jules Il, supportees par deux cherubins; feuilles de chene au marli.",1681,98.6,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91571,191,191,"PLAT creux a ombilic,en ancienne faience d'Urbino;au centre,Venus et l'Amour;alentour, des grotesques.",1685,66.7,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91572,192,192,"CouPE en ancienne faience d'Urbino;combat de Romains et de Sabins,avec ecusson armorie sur un des etendards.",1690,66.3,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91573,193,193,"Coupe analogue,a sujet de combats de style antique.",1692,96.2,False,positional,,,Faiences d'Urbino,,
+BO0624_83735,91574,194,194,Coupe en ancienne faience d'Urbino:amour en camaieu  jaune et grotesques.,1693,81.0,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91575,195,195,GRAND PLAT en ancienne faience d'Urbino; sujet tire de Ihistoire ancienne.Fond de paysage.,1695,97.8,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91576,196,196,Coupe decoree en plein:incendie d'une ville.Ancienne faience d'Urbino.,1696,97.2,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91577,197,197,PLATEAu d'aiguiere en ancienne faience d'Urbino;la Creche entouree de compartiments a personnages.,1697,98.0,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91578,198,198,GRAND PLAT en ancienne faience d'Urbino; sujet tire de I'histoire de Joseph.Fond de paysage.,1698,97.8,False,title_direct,,,Faiences d'Urbino,,
+BO0624_83735,91579,199,199,"PLAT a cavite centrale en ancienne faience d'Urbino, decore par Xanto : sujet tire de la legende de Thesee;ecusson armorie au marli. Au revers,la date 1535,l'explication du sujet et les initiales de l'artiste.",1702,99.0,False,title_direct,,,Faiences d'Urbino,,Sec. XVI
+BO0624_83735,91580,200,200,"VasE de pharmacie a deux anses,decor de feuillages. Ancienne faience italienne.",1708,84.3,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91581,201,201,Coupe en faience italienne;armoiries et rinceaux en blanc sur fond bleu.,1710,97.3,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91582,202,202,PLAT en ancienne faience de Caffagiolo: decor de menus rin-,1711,96.6,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91583,203,203,"GRAND PLAT rond，presentant le triomphe de Bacchus,avec rocailles au marli et les mots :Carmine Perreca.Castelli.",1716,98.2,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91584,204,204,PLAT LoNG a sujet de chasse au sanglier.Ancienne faience de Castelli.,1720,97.1,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91585,205,205,PETIT PLAT en ancienne faience de Castelli avec dorure: le faience italienne.,1721,83.8,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91586,206,206,PLAT en ancienne faience de Castelli;sujet de bacchanale et armoiries.,1723,97.2,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91587,207,207,"PLAT a ombilic en ancienne terre vernissee de La Frata;ecusson armorie au centre;rinceaux,bustes et amours au marli.",1724,98.3,False,positional,,,Faiences italiennes diverses,,
+BO0624_83735,91588,208,208,LEGuMIER en forme de coq en faience.,1728,94.6,False,positional,,,Faiences variees,,
+BO0624_83735,91589,209,209,"PLAT cREux,decor bleu:la Cene.Faience allemande.",1729,95.9,False,positional,,,Faiences variees,,
+BO0624_83735,91590,210,210,"PLAT en terre vernissee,decore de deux soldats,avec légende et date 1738.Allemagne.",1730,96.4,False,positional,,,Faiences variees,,Sec. XVIII
+BO0624_83735,91591,211,211,"Por ovoide a deux deversoirs en ancienne terre de Nuremberg vernissee vert,decore delaigle d'Empire.",1731,72.8,False,positional,,,Faiences variees,,
+BO0624_83735,91592,212,212,Deux CAssoLETTEs sur trepieds a mascarons;faience blanche anglaise rehaussee de dorure;xvill siecle.,1733,71.2,False,positional,,,Faiences variees,,
+BO0624_83735,91593,213,213,Deux TABLEAux decores en camaieu bleu; festin et groupe de personnages.Faience hollandaise.,1735,97.8,False,positional,,,Faiences variees,,
+BO0624_83735,91594,214,214,PAIRE DE BouTEILLEs en ancienne faience de Delft; feurs et oiseaux en couleurs.,1736,97.5,False,positional,,,Faiences variees,,
+BO0624_83735,91595,215,215,"PAIRE DE PoTIcHEs avec couvercles,en ancienne faience de Delft;decor d'arbustes,oiseaux et lambrequins.",1737,69.1,False,positional,,,Faiences variees,,
+BO0624_83735,91596,216,216,"PAIRE DE PoTicHEs avec couvercles,en ancienne faience de Delft:decor bleu de fleurs et oiseaux.",1739,97.9,False,positional,,,Faiences variees,,
+BO0624_83735,91597,217,217,"PAIRE DE POTIcHEs avec couvercles, en ancienne faience de Delft;compartiments a personnages.",1740,74.7,False,positional,,,Faiences variees,,
+BO0624_83735,91598,218,218,HaNAP-casQuE en ancienne faience de Delft; decor bleu de lambrequins.,1742,87.3,False,positional,,,Faiences variees,,
+BO0624_83735,91599,219,219,PLAT cREux en ancienne faience de Delft; decor en couleurs a quatre reserves de fleurs sur fond vert.,1744,98.0,False,positional,,,Faiences variees,,
+BO0624_83735,91600,220,220,"PLAT,meme faience; decor polychrome,corbeilles de feurs, compartiments rayonnants.",1745,97.5,False,positional,,,Faiences variees,,
+BO0624_83735,91601,221,221,GRANDE BoUQUETIERE a anses-serpents en ancienne faience de Nevers a decor bleu; fleurs et personnages de style chinois.,1746,98.3,False,positional,,,Faiences variees,,
+BO0624_83735,91602,222,222,"GRAND PLAT en ancienne faience de Nevers,aux armes d'un archeveque;marli et chute a sujet de style oriental en camaieu bleu.",1752,98.4,False,positional,,,Faiences variees,,
+BO0624_83735,91603,223,223,VasE avec couvercle en ancienne faience de Nevers;decor de feurs et oiseaux en bleu et blanc sur fond orange.,1756,98.2,False,positional,,,Faiences variees,,
+BO0624_83735,91604,224,224,"GRAND PLAT en ancienne faience de Nevers,a decor de feurs et oiseaux en blanc et jeune sur fond bleu de Perse.",1760,98.2,False,positional,,,Faiences variees,,
+BO0624_83735,91605,225,225,"BouTEILLE de pharmacie en ancienne faience de Nevers, semee de motifs irreguliers en blanc sur fond bleu de Perse.",1764,98.2,False,positional,,,Faiences variees,,
+BO0624_83735,91606,226,226,Deux BouTEILLEs en ancienne faience de Nevers; feurs et oiseaux en blanc et orange sur fond bleu de Perse.,1765,98.1,False,positional,,,Faiences variees,,
+BO0624_83735,91607,227,227,DeUx PETITEs BouTEILLEs variees en ancienne faience de Nevers; feurs en blanc et orange sur fond bleu de Perse.,1769,98.2,False,positional,,,Faiences variees,,
+BO0624_83735,91608,228,228,PeTIT vAsE en ancienne faience de Nevers;fleurs et oiseaux en blanc et orange sur fond bleu de Perse.,1770,98.0,False,positional,,,Faiences variees,,
+BO0624_83735,91609,229,229,HaNAp en ancienne faience de Nevers; feurs et oiseaux en blanc sur fond bleu de Perse.Pied en etain.,1771,98.0,False,positional,,,Faiences variees,,
+BO0624_83735,91610,230,230,BassiN en ancienne faience de Nevers; feurs et oiseaux en couleurs sur fond bleu de Perse.,1772,97.8,False,positional,,,Faiences variees,,
+BO0624_83735,91611,231,231,PLAT ovALE en ancienne faience de Nevers; feurs en blanc sur fond bleu de Perse.,1773,97.5,False,positional,,,Faiences variees,,
+BO0624_83735,91612,232,232,"DEUx PETITs PLATs en ancienne faience de Nevers; decor varie,fleurs et oiseaux en blanc sur fond bleu de Perse.",1775,67.1,False,positional,,,Faiences variees,,
+BO0624_83735,91613,233,233,GRAND PLAT a ombilic en ancienne faience de Nevers;fleurs,1776,96.6,False,positional,,,Faiences variees,,
+BO0624_83735,91614,234,234,GRAND PLAT en ancienne faience de Nevers: decor de feurs et oiseaux en blanc sur fond bleu de Perse.,1778,74.4,False,positional,,,Faiences variees,,
+BO0624_83735,91615,235,235,"GRAND PLAT en ancienne faience de Rouen; decor bleu :au centre, deux enfants nus dans un motif de ferronnerie;au marli, des lambrequins.",1780,92.0,False,positional,,,Faiences variees,,
+BO0624_83735,91616,236,236,"GRAND PLAT en ancienne faience de Rouen;decor bleu:au centre,ecusson armorie timbre d'une couronne de marquis. Lambrequins au marli.",1785,98.5,False,positional,,,Faiences variees,,
+BO0624_83735,91617,237,237,QuATRE AssIETTEs en ancienne faience de Rouen;decor a la  corne.,1789,91.8,False,positional,,,Faiences variees,,
+BO0624_83735,91618,238,238,Deux AUTREs;decor a la double corne.,1791,94.6,False,positional,,,Faiences variees,,
+BO0624_83735,91619,239,239,BAssIN oBLoNG en ancienne faience de Moustiers; decor bleu a la Berain.,1792,97.2,False,positional,,,Faiences variees,,
+BO0624_83735,91620,240,240,"DEUx CAcHE-PoTs en ancienne faience de Marseille, fabrique de Savy; decor de feurs,anses-mascarons.",1793,98.0,False,positional,,,Faiences variees,,
+BO0624_83735,91621,241,241,"HanAp a une anse et a couvercle simule,en ancienne terre vernissee brun d'Avignon;palmettes et feurs en couleurs.",1794,98.2,False,positional,,,Faiences variees,,
+BO0624_83735,91622,242,242,"HANAp a une anse et a couvercle simule,en ancienne terre vernissee jaspee d'Avignon,a decor de tetes de cherubins et mascarons barbus. Pied et bouton du couvercle en cuivre.",1795,98.8,False,positional,,,Faiences variees,,
+BO0624_83735,91623,243,243,"GRANDE cRUCHE en ancienne terre vernissee d'Avignon,a rosaces et motifs varies sur fond brun.",1796,71.1,False,positional,,,Faiences variees,,
+BO0624_83735,91624,244,244,"Vase surbaisse en ancienne faience de Sceaux, decore, sur la panse, de deux medaillons: sujet familial et oiseau relies par des feurs. Monture en bronze.",1798,98.7,False,positional,,,Faiences variees,,
+BO0624_83735,91625,245,245,LEGuMiER ovale avec couvercle; decor de feurs avec hachures roses.Ancienne faience de Lorraine.,1802,97.9,False,positional,,,Faiences variees,,
+BO0624_83735,91626,246,246,PAIRE DE CACHE-PoTs decores de feurs; anses-mascarons chimeriques.Ancienne faience de Lorraine.,1803,97.9,False,positional,,,Faiences variees,,
+BO0624_83735,91627,247,247,Deux JARDiNIEREs oblongues en ancienne faience de Lorraine; decor de feurs.,1804,97.3,False,positional,,,Faiences variees,,
+BO0624_83735,91628,248,248,"Coupe en ancienne faience de Palissy;rosace au centre, mascarons a la chute.",1805,84.4,False,positional,,,Faiences variees,,
+BO0624_83735,91629,249,249,Coupe en ancienne faience de la suite de Palissy; mascarons et entrelacs.,1807,87.2,False,positional,,,Faiences variees,,
+BO0624_83735,91630,250,250,"Coupe a six cavites,meme faience,decor de feurons a jour.",1809,96.6,False,positional,,,Faiences variees,,
+BO0624_83735,91631,251,251,"CoupE ornee de six mascarons,en faience de la suite de Palissy.",1810,96.9,False,positional,,,Faiences variees,,
+BO0624_83735,91632,252,252,CrucHE surmontee d'un buste de femme a large collerette. Faience de la suite de Palissy.,1811,97.7,False,positional,,,Faiences variees,,
+BO0624_83735,91633,253,253,NepTuNE sur un cheval marin. Faience de la suite de Palissy.,1815,87.2,False,positional,,,Faiences variees,,
+BO0624_83735,91634,254,254,"CaRPE, grandeur nature,en terre vernissee. Par Avisseau.",1819,96.4,False,positional,,,Faiences variees,,
+BO0624_83735,91635,255,255,"VAsE-BALusTRE avec couvercle,en ancienne porcelaine de Chine, famille verte; compartiments d'animaux et de feurs.",1822,98.2,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91636,256,256,"Deux coRNErs en ancienne porcelaine de Chine,famille verte, decores, sur fond de paysage,de scenes familiales: compositions de personnages en relief. Montures en bronze.",1823,83.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91637,257,257,"Deux PoTicHEs avec couvercles,en ancienne porcelaine de Chine,famille rose:reserves contenant des feurs et se detachant sur un fond bleu rehausse de dorure. Montures en bronze dore.",1828,98.6,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91638,258,258,"Trois PLArs longs,branches fleuries. Ancienne porcelaine de Chine, famille rose",1833,82.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91639,259,259,"AssiETTe decoree de feurs. Ancienne porcelaine de Chine, famille rose.",1836,98.5,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91640,260,260,"Six PLATs,en deux dimensions,et deux assiettes en ancienne porcelaine de Chine, famille rose; canards; au marli, les huit immorteis.",1837,97.7,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91641,261,261,"AssiETTE creuse en ancienne porcelaine mince de Chine; scene familiale,revers rose.",1838,75.7,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91642,262,262,"PETIT PLAT en ancienne porcelaine de Chine, famille rose, a quatre personnages;poissons au marli.",1840,96.9,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91643,263,263,"TRoIs coMPoTIERs,branches feuries et oiseaux. Ancienne porcelaine de Chine.",1841,97.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91644,264,264,"PLAr uni et en ancienne porcelaine de Chine;branches feuries, bambous a la chute.",1842,95.8,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91645,265,265,"BouTeiLLe ornee d'un dragon en ronde bosse,en ancien celadon bleu turquoise de la Chine.",1843,77.0,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91646,266,266,"DEux vAsEs-BALusTREs plats en ancienne porcelaine de Chine; decor dit a mandarins; fond chair de poule,émaille vert.",1848,98.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91647,267,267,"SucriER rond a deux anses,en ancienne porcelaine de Chine, a decor de reserves a paysages et feurs sur fond bleu soufle.",1849,98.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91648,268,268,"GARNITuRE de cinq pieces: deux cornets et trois pots ovoides en ancienne porcelaine de Chine,a decor de feurs et lambrequins en rouge de fer et dorure.",1850,98.7,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91649,269,269,I compartiments de fleurs et feuilles.,1858,94.9,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91650,270,270,"VasQuE en porcelaine de Chine, decoree de personnages et de cailloutages. Pied en bois.",1859,76.9,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91651,271,271,"Dix PLATs varies en ancienne porcelaine du Japon,a decor bleu,rouge et or.",1861,97.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91652,272,272,"QuATRE coMPoTIERs,meme porcelaine.",1863,100.0,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91653,273,273,"VINGT-TROIs AssIETTEs variees,meme porcelaine.",1864,95.7,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91654,274,274,"DEux PETITEs PoTicHEs avec couvercles,en ancienne porcelaine du Japon,a decor bleu,rouge et or. Rochers et arbustes.",1865,98.3,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91655,275,275,"DEUx CANDELABREs,formes chacun d'un vase-rouleau,en ancienne porcelaine du Japon,a decor de fleurs en bleu,rouge et or;bouquets de lumieres en bronze dore.",1866,84.2,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91656,276,276,"STATuETTE de personnage accroupi, en gres emaille vert du Japon; base en bronze.",1871,97.5,False,positional,,,Porcelaines de la Chine et du Japon,,
+BO0624_83735,91657,277,277,"SucRieR avec couvercle,en ancienne porcelaine tendre de Sevres; decor de feurs separees par des bandes bleues. Annee 1764,decor par Noel.",1874,98.5,False,positional,,,Porcelaines diverses,,Sec. XVIII
+BO0624_83735,91658,278,278,"PETIT PLATEAu, en ancienne porcelaine tendre de Sevres, decore de couronnesderoses.",1875,97.6,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91659,279,279,Groupe en ancien biscuit de Sevres : scene familiale a cinq personnages. Marque de Brachard.,1876,97.8,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91660,280,280,"PLATeAu a deux anses,theiere avec couvercle et pot a lait,  en ancienne porcelaine dure de Sevres :paysages animes et bandes ondulees dorees.",1881,73.1,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91661,281,281,"SocLe ovale émaille bleu,en ancienne porcelaine dure de Sevres.",1882,94.0,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91662,282,282,"VAse Medicis émaillé bleu,en porcelaine de Sevres,1865.",1884,96.4,False,positional,,,Porcelaines diverses,,Sec. XIX
+BO0624_83735,91663,283,283,"VAsE émaille bleu marbre,en porcelaine de Sevres,1885.",1885,96.4,False,positional,,,Porcelaines diverses,,Sec. XIX
+BO0624_83735,91664,284,284,Deux vAses: medaillons contenant des oiseaux sur fond bleu. Porcelaine.,1886,97.1,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91665,285,285,VERRiERE ornee de fleurs.Ancienne porcelaine de Locre.,1887,96.4,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91666,286,286,"SrATuErTe en ancien biscuit, femme drapee a l'antique, debout,tenant une guirlande de feurs.",1888,97.8,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91667,287,287,"DEux cANDELABREs a deux lumieres,ornes chacun d'une statuette d'enfant, debout contre un arbre en fleurs. Ancienne porcelaine anglaise.",1892,98.5,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91668,288,288,"Coupe en ancienne porcelaine de Saxe, sujet de style chinois. Marque des ventes du musee de Dresde.",1896,98.0,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91669,289,289,"LEGuMIER ovale avec son couvercle,en ancienne porcelaine de Saxe;animaux et fleurs. Anses-mascarons.",1897,70.9,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91670,290,290,"MouTARDIER avec couvercle, en ancienne porcelaine de Saxe; fleurs et rocailles.",1899,97.4,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91671,291,291,"Deux GRANDs coRNETs en ancienne porcelaine de Saxe,a decor de feurs en ronde bosse, sur fond simulant la vannerie.Bases",1900,98.3,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91672,292,292,"BocAL cylindrique en verre émaille, presentant le Christ crucifie et les armes d'Empire avec legende allemande et date 1583. Travail allemand,xvi siecle.",1908,75.5,False,positional,,,Verrerie,,Sec. XVI
+BO0624_83735,91673,293,293,"BocAL cylindrique emaille et dore,orne de deux ecussons d'armoiries.Date,1588. Allemagne,xvi siecle.",1912,70.1,False,positional,,,Verrerie,,Sec. XVI
+BO0624_83735,91674,294,294,"BocAL cylindrique en verre emaille: I'Empereur et les electeurs, legende allemande et date,158g. Allemagne,xvi siecle.",1918,66.7,False,positional,,,Verrerie,,
+BO0624_83735,91675,295,295,"BocAL cylindrique en verre émaille,presentant un ecusson d'armoiries place entre une femme et un personnage armes, avec la date 15g6,Allemagne,xvi siecle.",1922,98.7,False,positional,,,Verrerie,,
+BO0624_83735,91676,296,296,"BocAL cylindrique en verre emaille aux armes d'Empire; legende allemande et date 16o2.Allemagne,xvil siecle.",1926,98.1,False,positional,,,Verrerie,,
+BO0624_83735,91677,297,297,"BocaL cylindrique en verre emaille.presentant l'aigle d'Empire entoure d'ecussons armories varies,avec la date 1616. Allemagne,xvir siecle.",1930,98.6,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91678,298,298,"BocAL cylindrique en verre émaille:dame offrant des feurs a un cavalier. Date,1619. Allemagne, xvi1 siecle.",1933,98.1,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91679,299,299,"BocAL cylindrique avec couvercle,en verre émaille, presentantun écusson placeentreune femme etun homme:legende allemande et date 1619.Allemagne,xvil siecle.",1937,98.7,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91680,300,300,"BocaL cylindrique en verre émaille, presentant deux ecussons d'armoiries;date 1649.Allemagne,xvil siecle.",1941,98.1,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91681,301,301,"BocaL cylindrique en verre emaille;écusson armorie soutenu par un ange; legende allemande et date 1654. Allemagne, xvl1 siecle.",1945,98.4,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91682,302,302,"BocAL cylindrique en verre émaille, aux armes d'Empire; legende allemande et date 1663. Allemagne,xvii siecle.",1949,97.2,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91683,303,303,"BocAL cylindrique en verre émaille, aux armes d'Empire, avec legende allemande et date 1670.Travail allemand. xvll siecle.",1955,97.5,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91684,304,304,"BocAL cylindrique,en verre émaille,aux armes de Saxe: date 1693.Allemagne,xvl1 siecle.",1961,97.7,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91685,305,305,PeTIT GoBELET en verre emaille blanc et bleu: cheval au galop et date 1697;xvil siecle.,1965,97.7,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91686,306,306,"CrucHE en verre émaille blanc et bleu; paysan labourant; legende allemande et date 169g. Allemagne,xvii siecle",1969,97.2,False,positional,,,Verrerie,,
+BO0624_83735,91687,307,307,"Bocal en verre gravé, xvii siecle.",1975,46.8,False,positional,,,Verrerie,,
+BO0624_83735,91688,308,308,"VerRE sur pied et avec couvercle, decore d'imbrications et de zones emaillees et dorees.Allemagne,xviii siecle.",1976,96.8,False,positional,,,Verrerie,,
+BO0624_83735,91689,309,309,"BocaL cylindrique en verre emaille,presentant une figure de jeu de cartes.Allemagne,xviii siecle.",1980,96.4,False,positional,,,Verrerie,,
+BO0624_83735,91690,310,310,"BocaL cylindrique en verre émaille,decore de groupes de paysans dansant. Allemagne,xvi siecle.",1984,97.9,False,positional,,,Verrerie,,
+BO0624_83735,91691,311,311,"BocaL cylindrique en verre emaille,presentant dans des compartiments carres les electeurs d'Empire a cheval ainsi que I'Empereur.Allemagne,xvii siecle.",1988,98.0,False,positional,,,Verrerie,,
+BO0624_83735,91692,312,312,"GRAND BocAL avec couvercle en cristal de Boheme, grave a personnages.xvi siecle.",1992,97.5,False,positional,,,Verrerie,,
+BO0624_83735,91693,313,313,"PeTITE PIEcE de surtout a trois cavites en verre incolore et polychrome.Travail de Boheme,xvii siecle.",1993,96.2,False,positional,,,Verrerie,,
+BO0624_83735,91694,314,314,BocAL cylindrique avec couvercle en verre incolore filigrane de blanc.xvii siecle.,1997,96.4,False,positional,,,Verrerie,,
+BO0624_83735,91695,315,315,BocAL cylindrique avec couvercle en verre incolore filigrané de blanc.xvii siecle.,2001,96.4,False,positional,,,Verrerie,,
+BO0624_83735,91696,316,316,GARGouLETTE en verre incolore filigrane de blanc. xvii siecle.,2005,86.1,False,positional,,,Verrerie,,
+BO0624_83735,91697,317,317,"BocAL obconique en verre émaille; ecusson presentant des ustensiles de la corporation des cuisiniers,et ainsi qu'un personnage debout. Legende allemande et date 1709. Allemagne, xviii siecle.",2006,96.8,False,positional,,,Verrerie,,Sec. XVIII
+BO0624_83735,91698,318,318,"BocaL cylindrique en verre émaille;personnage se preparant a abattre un boeuf. Legende allemande et date 17il. Allemagne,xviii siecle.",2009,97.0,False,positional,,,Verrerie,,
+BO0624_83735,91699,319,319,"BocaL cylindrique en verre émaille,presentant les outils de la corporation des charpentiers.Legende allemande et date 1733. Allemagne, xvii siecle.",2013,97.9,False,positional,,,Verrerie,,Sec. XVIII
+BO0624_83735,91700,320,320,BocAL sur pied et avec couvercle en cristal grave:paysage,2017,96.6,False,positional,,,Verrerie,,
+BO0624_83735,91701,321,321,"GoBELET en verre grave; scene de chasse. Allemagne, XVIII siecle.",2022,88.1,False,positional,,,Verrerie,,Sec. XVIII
+BO0624_83735,91702,322,322,"BocAL cylindrique en verre,a surface semee de globules. Ancien travail allemand.",2026,97.5,False,positional,,,Verrerie,,
+BO0624_83735,91703,323,323,Deux vERREs avec couvercles; decor dore. xvi siecle.,2030,96.1,False,positional,,,Verrerie,,
+BO0624_83735,91704,324,324,VerRE evase avec couvercle filigrane de blanc. Ancien travail de Venise.,2031,89.6,False,positional,,,Verrerie,,
+BO0624_83735,91705,325,325,"Verre incolore sur pied, travaille a la pince, en couleurs. Venise.",2033,96.9,False,positional,,,Verrerie,,
+BO0624_83735,91706,326,326,AuTRE plus petit.,2034,88.9,False,positional,,,Verrerie,,
+BO0624_83735,91707,327,327,VeRRE incolore sur pied a balustre et branche de feurs travaillees a la pince.Venise.,2035,79.5,False,positional,,,Verrerie,,
+BO0624_83735,91708,328,328,"VeRRE incolore sur pied a entrelacs filigranes, travailles a la pince.Venise.",2037,97.4,False,positional,,,Verrerie,,
+BO0624_83735,91709,329,329,"GRAND bocal avec couvercle en verre incolore,avec tige évidee et feurettes polychromes, travaillees a la pince.Venise.",2038,98.3,False,positional,,,Verrerie,,
+BO0624_83735,91710,330,330,Deux PETiTs vAsEs en verre incolore filigrane blanc et rose. Venise.,2039,97.1,False,positional,,,Verrerie,,
+BO0624_83735,91711,331,331,"ToNNELET en verre bleu avec motifs polychromes.Venise. (Vente dePourtales,1865.)",2041,97.4,False,positional,,,Verrerie,,Sec. XIX
+BO0624_83735,91712,332,332,GRAND BocAL cylindrique avec couvercle en verre; decor a froid:les électeurs.,2042,97.4,False,positional,,,Verrerie,,
+BO0624_83735,91713,333,333,"VERRE sur pied; cavalier, decor a froid.",2043,94.9,False,positional,,,Verrerie,,
+BO0624_83735,91714,334,334,"BocAL cylindrique en verre,a decor polychrome de personnages disposes sur deux rangees.",2044,97.7,False,positional,,,Verrerie,,
+BO0624_83735,91715,335,335,TRIPTYQUE en ivoire.,2048,90.5,False,positional,,,Objets divers,,
+BO0624_83735,91716,336,336,FRAGMENT en ivoire sculpte en haut relief:l'Adoration des mages. xvnle siecle.,2049,97.4,False,positional,,,Objets divers,,
+BO0624_83735,91717,337,337,"PETITE PLAQuE en émail peint,de Limoges,xvI siecle:le Christ apparaissant a Marie Madeleine.",2050,97.8,False,positional,,,Objets divers,,
+BO0624_83735,91718,338,338,"PLAQuE en email peint de Limoges, presentant en couleurs le buste du Christ,par Leonard Limosin,et signee, sur un cartouche:Leonard Limosin emalievr paintre du roys.M.F.1554. Encadree.",2051,98.9,False,positional,,,Objets divers,,Sec. XVI
+BO0624_83735,91719,339,339,"PLaquE en émail peint de Limoges, par Leonard Limosin: buste de la Vierge. Elle est signee:Leonardvs. Lemovicvs. pintor emalieur regis anricus me fecit,1552.Encadree.",2055,98.8,False,positional,,,Objets divers,,Sec. XVI
+BO0624_83735,91720,340,340,"Coupe sur piedouche en émail peint de Limoges:le char de Bacchus en grisaille, par I. Laudin. Signee.",2059,98.0,False,positional,,,Objets divers,,
+BO0624_83735,91721,341,341,"PLAQuE en email peint de Limoges,atelier des Laudin:Mater Dei.Encadree.",2063,97.2,False,positional,,,Objets divers,,
+BO0624_83735,91722,342,342,AuTRE analogue: saint Dominique.,2064,93.8,False,positional,,,Objets divers,,
+BO0624_83735,91723,343,343,CorrREr revetu decuivre decoupe et repousse arinceaux.Fin du xvr siecle.,2065,97.3,False,positional,,,Objets divers,,
+BO0624_83735,91724,344,344,"PeTIT cABINET a abattant recouvert d'etoffe;interieur en marqueterie de bois de couleurs, decore de plaques de verre eglomise a personnages.xvil siecle.",2066,88.9,False,positional,,,Objets divers,,
+BO0624_83735,91725,345,345,CorrRET en cuivre grave et dore:personnages et encadrements. Epoque Louis Xlll.,2068,97.5,False,positional,,,Objets divers,,
+BO0624_83735,91726,346,346,"TREs PETIT CABINET en bois noir,orné démaux et surmonté d'une montre. Travail viennois.",2069,76.4,False,positional,,,Objets divers,,
+BO0624_83735,91727,347,347,CoFrRET recouvert de cuir dore:armoiries et animaux. xvI siecle.,2072,100.0,False,positional,,,Objets divers,,
+BO0624_83735,91728,348,348,Tric-TRAc en marqueterie de bois de couleurs;dessus orne de nymphes endormies et satyres sculptes en bas-relief. Le dessous forme echiquier.xvir siecle.,2073,98.7,False,positional,,,Objets divers,,
+BO0624_83735,91729,349,349,"AiGuiERE et plateau a ombilic en etain,par Briot. Sur l'aiguiere,les vertus theologales; sur le plateau,la Temperance, entouree des elements et des figures des arts liberaux.",2074,79.6,False,positional,,,Objets divers,,
+BO0624_83735,91730,350,350,GRAND PLAT rond a ombilic avec mascaron au centre;dinanderie.,2079,96.8,False,positional,,,Objets divers,,
+BO0624_83735,91731,351,351,AurRE analogue.,2080,87.5,False,positional,,,Objets divers,,
+BO0624_83735,91732,352,352,AuTRe plus petit :la grappe de la terre promise.,2081,95.8,False,positional,,,Objets divers,,
+BO0624_83735,91733,353,353,PLAT en cuivre grave:cartouche supporte par deux lions.,2082,96.4,False,positional,,,Objets divers,,
+BO0624_83735,91734,354,354,PLAT en cuivre grave:buste du Christ.,2083,94.7,False,positional,,,Objets divers,,
+BO0624_83735,91735,355,355,PLATEau en cuivre rouge repousse:rosace et vases de fleurs.,2084,96.7,False,positional,,,Objets divers,,
+BO0624_83735,91736,356,356,"JArDiNieRE ronde en cuivre repousse a godrons, sur pied en  fer forge a entrelacs et feurs.",2085,76.5,False,positional,,,Objets divers,,
+BO0624_83735,91737,357,357,"Vase a deux anses en lapis.Base en argent dore. Haut.,2o cent.",2087,96.7,False,positional,,,Objets divers,,
+BO0624_83735,91738,358,358,"HanAp en cristal de roche;monture en bronze dore:decor d'entrelacs et figures. Allemagne, fin du xvr siecle.",2088,98.1,False,positional,,,Objets divers,,
+BO0624_83735,91739,359,359,VasE avec couvercle en verre bleu;monture en bronze dore a gorge ajouree; anses-serpents et piedouche cannele;base en marbre blanc. Epoque Louis XVI.,2092,98.6,False,positional,,,Objets divers,,
+BO0624_83735,91740,360,360,"PETIT TABLEAu en mosaique de Rome: basse-cour. Encadre. (Vente de Monbrun,1861.)",2096,97.4,False,positional,,,Objets divers,,Sec. XIX
+BO0624_83735,91741,361,361,PETITE MosAiQuE de Rome:corbeille de fleurs.,2097,95.6,False,positional,,,Objets divers,,
+BO0624_83735,91742,362,362,BoiTE ovale en filigrane d'argent.,2098,94.3,False,positional,,,Objets divers,,
+BO0624_83735,91743,363,363,"PETIT MIRoIR dans un cadre italien,en bois sculpte rehaussé  de dorure.",2099,89.4,False,positional,,,Objets divers,,
+BO0624_83735,91744,364,364,"MEDAILLoN rond en ecaille doree: buste de Henri IV.xvi siecle. Diam.,1o cent.",2101,97.3,False,positional,,,Objets divers,,
+BO0624_83735,91745,365,365,"MINIATuRE rectangulaire:portrait presume de Mll Duclos, celebre tragedienne （167o-1748). Elle est representee a mijambes, vetue de rouge, avec corsage decollete; au-dessus, un amour voltigeant et tenant un sceptre; au fond,un groupe de personnages. Fin du xvil siecle. Encadree.",2102,99.3,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_83735,91746,366,366,"MINIATuRE ronde, par Mosnier, signee et datee 1777.Portrait de femme, assise aupres d' veux poudres sont retenus par un ruban. Encadree.une table et tenant un livre ouvert. Elle porte un costume bleu,avec corsage decollete,et ses che-",2106,87.3,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_83735,91747,367,367,Trois sTATuETrEs de divinites bouddhiques en bronze.,2110,96.2,False,positional,,,Objets divers,,
+BO0624_83735,91748,368,368,"BruLE-PARFuM avec couvercle,en jade gris verdatre de la Chine; decor de motifs irreguliers en leger relief.",2112,98.1,False,positional,,,Objets divers,,
+BO0624_83735,91749,369,369,BRULE-PARFUM tripode en ancien email cloisonne de la Chine a lambrequins;couvercle a fond noir. Pied en bois sculpte.,2113,98.3,False,positional,,,Objets divers,,
+BO0624_83735,91750,370,370,"PETITE PAGoDE en bois laque or, contenant une statuette de divinite bouddhique en cuivre dore. Travail japonais.",2117,67.1,False,positional,,,Objets divers,,
+BO0624_83735,91751,371,371,"BusTe en terre cuite,grandeur nature:jeune femme,la tete tournee vers l'epaule droite,une feur dans les cheveux,la poitrine a demi couverte d'une chemisette. Attribue a Houdon.",2122,98.9,False,positional,,,Sculptures,,
+BO0624_83735,91752,372,372,"STATuETTE en terre cuite,par Clodion, signee:Bacchante a demi vetue d'une draperie,tenant,de la main droite, des couronnes de feurs et de feuilles,et portant, sur la tete, des grappes de raisin dans un tambourin qu'elle maintient de la",2127,99.1,False,positional,,,Sculptures,,
+BO0624_83735,91753,373,373,"StATuETTE en terre cuite de jeune femme debout,drapee a l'antique,les bras croises sur la poitrine et tenant un coeur. Fin du xvin siecle.  par Beauvallet,signee et datee 1813.",2134,86.5,False,positional,,,Sculptures,,Sec. XIX
+BO0624_83735,91754,374,375,PETIT BusTE en marbre blanc de fillette coiffee d'un grand chapeau de paille. Signe: Cesare Scheggi.,2141,98.0,False,positional,,,Sculptures,,
+BO0624_83735,91755,375,376,"PAIRE DE FLAMBEAUx-BALUsTREs en bronze dore, decores de cannelures.",2144,97.0,False,positional,,,Bronzes,,
+BO0624_83735,91756,376,377,"Deux cANDELABREs a trois lumieres, en bronze dore a figurines d'amours musiciens, portees par des cariatides.Pendeloques et pieces d'enfilage en cristal de roche. xvir siecle.",2145,98.8,False,positional,,,Bronzes,,
+BO0624_83735,91757,377,378,Deux sTATuETTEs en bronze:Meleagre et un gladiateur. Italie. fin du xvi siecle.,2149,97.4,False,positional,,,Bronzes,,
+BO0624_83735,91758,378,379,"FiGuRINE en bronze a patine claire:le Christ, les mains jointes, assis sur une base en cristal de roche.xvir siecle.",2155,98.3,False,positional,,,Bronzes,,
+BO0624_83735,91759,379,380,"Groupe en bronze a patine brune :Leda et le cygne, accompagnes d'un amour.xvir siecle.",2159,97.6,False,positional,,,Bronzes,,
+BO0624_83735,91760,380,381,"Deux sTATuETTEs en bronze a patine brune:le Genie du repos eternel,d'apres l'antique,et gladiateur tirant le glaive. xvill siecle.Bases en bois peint.",2163,98.7,False,positional,,,Bronzes,,
+BO0624_83735,91761,381,382,"BARoMETRE monte dans un cartel du temps de Louis XVI,un bronze a tetes de boucs,mufle de lion et vase.",2167,98.1,False,positional,,,Bronzes,,
+BO0624_83735,91762,382,383,"STATueTTE,en bronze patine,de baigneuse nue debout, tenant une draperie. Fin du xvinl siecle.",2168,97.8,False,positional,,,Bronzes,,
+BO0624_83735,91763,383,384,FIGuRINE en bronze vert:Antinous.,2169,94.1,False,positional,,,Bronzes,,
+BO0624_83735,91764,384,385,"BrULE-PARFuM en forme de gros fruit, en bronze de la Chine. (Vente deMorny,1865.)",2174,97.4,False,positional,,,Bronzes,,Sec. XIX
+BO0624_83735,91765,385,386,Deux coupes en bronze incruste d'argent a motifs irreguliers; pieds en bois.Ancien travail chinois.,2175,98.0,False,positional,,,Bronzes,,
+BO0624_83735,91766,386,387,PETIT LUsTRE en cuivre garni en cristaux.,2179,95.2,False,positional,,,Bronzes,,
+BO0624_83735,91767,387,388,"HoRLoGe de table de forme ronde,avec dome reperce en cuivre dore; pourtour grave. Signee:Delagarde,a Blois. Commence-",2183,98.3,False,positional,,,Pendules,,
+BO0624_83735,91768,388,389,"PENDuLE-RELIGIEUsE en marqueterie de cuivre; colonnettes aux angles,garnitures et figure de Renommee en bronze. xvI1 siecle.",2189,69.9,False,positional,,,Pendules,,
+BO0624_83735,91769,389,390,PeNDuLE avec un socle-applique en marqueterie de cuivre et d'ecaille garnis de bronzes:le char d'Amphitrite et figure de Renommee.xvii siecle.,2190,90.6,False,title_direct,,,Bronzes,,
+BO0624_83735,91770,390,301,"GRANDE PENDULE-RELIGIEUsE en marqueterie des trois parties, garnie de bronzes et surmontee d'un coq. Mouvement signe: Thuret,aParis.xvil°siecle.",2192,98.6,False,title_direct,,,Bronzes,,
+BO0624_83735,91771,391,392,"CaRTEL en bronze,compose de rocailles et de fleurs. Mouvement signe :Lepaute,horloger du roi. Epoque Louis XV. Cadran du premier Empire.",2193,98.5,False,positional,,,Pendules,,
+BO0624_83735,91772,392,393,"GRANDE PENDuLE sur socle-applique en marqueterie de cuivre sur ecaille,garnie de bronzes;chutes a rocailles, statuettes de divinites, dragons. Cadran signe:Goret,a Paris. Epoque Louis xV.",2197,98.9,False,title_direct,,,Bronzes,,
+BO0624_83735,91773,393,394,"PeNDuLE en marbre blanc et bronze dore,a mouvement surmonte d'un vase enguirlande et supporte par des rinceaux. Cadran signe: Henri Voisin. Epoque Louis XVI.",2198,98.7,False,positional,,,Pendules,,
+BO0624_83735,91774,394,395,"PeNDuLE en biscuit, decoree d'une statuette de berger a demi nu,et accompagne d'un chien, d'une brebis et d'une chevre Base ornee d'une frise en bronze dore. Cadran signe:Fossard, laine,a Paris. Contresocle en marbre bleu turquin. Epoque Louis XVI.",2199,99.2,False,positional,,,Pendules,,
+BO0624_83735,91775,395,396,"MeuBLE a deux corps en bois sculpte avec incrustations de plaques de marbre,fermant a quatre portes et muni de deux tiroirs. ll est decore de figures allegoriques et mythologiques avec colonnettes aux angles du corps superieur. Fronton decoupe.xvie siecle.",2205,99.2,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91776,396,397,"DressoiR en bois sculpte ouvrant a deux portes et muni de deux tiroirs,reposant sur une console a fond plein,et surmonte d'un dossier. Decor de cariatides, grotesques,mascarons et feuillages. En partie de la fin du xvr siecle.",2209,99.1,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91777,397,398,"CABINET a deux portes en marqueterie de bois de couleurs a feurs et vases.Italie,xvire siecle.Console-support a piedstors.",2210,98.3,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91778,398,399,"DeUx sUPPoRTs-APPLIQUEs en bois sculpte et dore,a decor delions et palmettes,dont un du xvil siecle.",2212,73.9,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91779,399,400,"CaBINET a trois rangs de tiroirs en racine,incrustee de cuivre et d'etain; support a balustres a pans. xvile siecle.",2214,98.3,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91780,400,401,"CaBINET plaque d'ebene fermant a deux portes. A l'interieur, tabernacle et nombreux tiroirs decores d'incrustations d'ivoire sur fond d’ecaille,a sujets mythologiques et autres. xvir siecle.",2215,78.2,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91781,401,402,"CABINET en bois noir fermant a deux portes;il est decore interieurement de peintures a sujets bibliques,avec encadrements demoulures en ebeneguillochee et applications d'écaille. Garnitures de cuivres; console-support a fond plein et ornee",2219,100.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91782,402,403,"CaBINET en bois noir plaque d'écaille,avec encadrements de moulures guillochees en ebene;il contient de nombreux tiroirs avec portes au centre, et repose sur une console a colonnettes torses.xvil siecle.",2220,99.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91783,403,404,CABinET plaque d'ebene et fermant a deux portes masquant un tabernacle et de nombreux tiroirs ornes d'amours peints sur fond de paysages. Le revers des portes presente des sujets galants. Base a fond plein et a colonnettes de marbre. xvil siecle.,2221,99.2,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91784,404,405,GRAND cABINET plaque d'ébene et avec applications et incrustations d'ivoire; decor de sujets mythologiques. ll contient de nombreux tiroirs masques en partie par un abattant et repose sur une console.xvil siecle.,2222,91.9,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91785,405,406,"CABINET en marqueterie de bois de couleurs a decor de paysages avec personnages et devises latines. Tabernacle central; moulures guillochees en bois noir,xvir siecle. Tablesupport en bois noir a pieds tors.",2224,99.5,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91786,406,407,"ConsoLe en bois sculpte et dore a quadrilles sur la ceinture et decoree dune palmette,sur quatre pieds relies par un",2225,98.3,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91787,407,408,BIBLIoTHEQuE a deux portes vitrees;bois incruste d'etain a decor de rinceaux.xvil siecle.,2227,97.8,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91788,408,409,EcraN en bois sculpte et tourne;feuille en tapisserie au pointdu xvir siecle:le sacrifice d'Abraham.,2228,77.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91789,409,410,"GLAce biseautee dans un cadre en glace et cuivre repousse,  a fleurs et feuilles.",2230,82.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91790,410,411,GLAce biseautee dans un cadre en glace et cuivre repousse， a decor de personnages et guirlandes de feurs. xviii siecle.,2232,97.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91791,411,412,"TABLE-BUREAu Louis XV a trois tiroirs, en bois de placage sur pieds cambres. Garnitures de bronzes.",2233,98.0,False,title_direct,,,Bronzes,,
+BO0624_83735,91792,412,413,"BeRGERE a joues en bois sculpte,a moulures du temps de Louis XV. Elle est couverte de velours rouge.",2234,98.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,91793,413,414,"CoMMoDe a trois rangs de tiroirs en bois de rose et satine; garnitures de bronzes, dessus de marbre. Epoque Louis XV.",2236,100.0,False,title_direct,,,Bronzes,,
+BO0624_83735,91794,414,415,"ComMoDE a trois rangs de tiroirs, en palissandre, garnie de bronzes. Dessus de marbre ranz. Epoque Louis XV.",2237,98.1,False,title_direct,,,Bronzes,,
+BO0624_83735,739915,415,416,"DEUx BIBLIoTHEQUEs vitrées en bois de placage Louis XV, garnies de bronzes.",2238,82.4,False,title_direct,,,Bronzes,,
+BO0624_83735,739916,416,417,"SecRETAIRE droit a abattant, portes et tiroirs, en marqueterie de bois de couleurs,a vases et instruments de musique. Dessus de marbre ranz. Fin de l'epoque Louis XV.",2240,83.4,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739917,417,418,"MeuBLE de salon Louis XVI, compose d'un canape et quatre fauteuils en bois sculpte et dore a feuilles,rosaces et cannelures en spirale. Les fauteuils sont couverts de damas vert. Le canape n'est que garni.",2242,94.9,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739918,418,419,"QuATRE CHAIsEs Louis XVI analogues, en bois sculpte et dore.",2244,96.7,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739919,419,420,"BERGERE Louis XVI en bois sculpte,a rangs de piastres, rubans,feuilles d'acanthe,etc.Elle est couverte en velours frappe vert.",2248,98.4,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739920,420,421,"Deux coNsoLes en acajou, garnies de bronzes : frises a rosaces et entrelacs,chapiteaux et entrelacs.Elles contiennent chacune trois tiroirs et reposent sur quatre colonnettes cannelees. Dessus et tablettes d'entrejambes en marbre blanc; galeries de cuivre. Epoque Louis XVI.",2250,87.3,False,title_direct,,,Bronzes,,
+BO0624_83735,739921,421,422,"SEcRETAiRE droit a abattant, portes et tiroirs en marqueterie de bois de couleurs,a medaillons,vases et feurs. Chutes en bronze, dessus de marbre. Epoque Louis XVI.",2251,98.8,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739922,422,423,"CoMmoDE en marqueterie de bois de couleurs a trois rangs de tiroirs;vases de fruits,medaillon et frise de rinceaux; garnitures de bronzes, dessus de marbre.Epoque Louis XVI.",2252,98.8,False,title_direct,,,Bronzes,,
+BO0624_83735,739923,423,424,"CoMMoDE a trois rangs de tiroirs,en bois de rose et filets verts.Dessus de marbre. Epoque Louis XVI.Garnitures de bronzes.",2253,94.9,False,title_direct,,,Bronzes,,
+BO0624_83735,739924,424,425,"GLace dans un cadre en bois sculpte, dore et ajoure sur fond de glace; corbeille de fruits,vases de fleurs,coquilles,etc. xvill siecle.",2255,98.5,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739925,425,426,"CoMMoDe a deux tiroirs, en bois noir garni de cuivre repousse. Fin du xvinl siecle.",2256,97.6,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739926,426,427,GLAcE biseautee dans un cadre en bois ajoure et sculpte a decor de feuillages. Fronton orne d'amours supportant un panier de feurs.Travail italien.,2257,98.6,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739927,427,428,"BuREau bonheur du jour,en acajou orne de bronzes. Dessus de marbre,galerie de cuivre.",2258,97.6,False,title_direct,,,Bronzes,,
+BO0624_83735,739928,428,429,"GLAce dans un cadre sculpte et dore, a baguettes enrubannees, guirlandes de fleurs et nceuds de rubans.",2259,69.2,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739929,429,430,"FAuTeuIL en bois dore,a rocailles,couvert en brocart.",2262,100.0,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739930,430,431,"Deux FAuTeuiLs en bois sculpte,a pieds relies par une traverse,a decor de feuilles et fleurs. Ils sont couverts de tissu a personnages,oiseaux et fleurs sur fond noir.",2263,98.8,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739931,431,432,MeuBLE a quatre portes en bois sculpte a mascarons et a feuillages.,2264,93.1,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739932,432,433,"TABLE-BuREAu a trois tiroirs, en bois de rose et de violette, garnie de bronzes.",2266,84.3,False,title_direct,,,Bronzes,,
+BO0624_83735,739933,433,434,"Deux PETITs MEuBLEs a deux portes en bois sculpte, decor de rinceaux et mascarons. lls reposent sur quatre pieds-balustres.",2268,98.4,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739934,434,435,PETITE TABLE a six pieds tors.,2269,93.5,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739935,435,436,"Deux PANNEAux en tapisserie,du xvn siecle,ornes chacun d'une figure de femme etendue dans la campagne.",2270,98.1,False,positional,,,"Meubles, tapisseries",,
+BO0624_83735,739944,436,437,"TapissERiE rectangulaire flamande du commencement du xvi siecle, presentant cinq personnages:chasseurs au faucon sur fond de verdure.",2274,99.6,False,positional,,,"Meubles, tapisseries",,

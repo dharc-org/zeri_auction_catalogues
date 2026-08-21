@@ -11,9 +11,10 @@ Scripts and data of 1.9K auction catalogues from the Zeri photo archive
   - 4.1 NER on section titles with Claude: `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
   - 4.2 cluster entities into labelled groups `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
   - 4.3 refines/aggregates similar clusters `postprocess_merge_csv.py` --> `docling/schools_merged2.csv`; `docling/artists_merged2.csv`; `docling/object_types_merged2.csv` uploaded on [Gsheet](https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing) for human revision
- - 5. assign reviewed lot descriptions to ungrouped entities `assign_entities_via_title_match.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv`
- - 6. retrieve aggregated and manually revised clusters of terms (schools artists types) and produce RDF graph w/ relations between catalogues + lots + entities: `app/build_lots_entities_graph.py` --> `lot_descriptions/zac_lot_descriptions.ttl`
-
+ - 5.1 try to extract collections and periods `extract_collections_periods.py`
+ - 5.2 assign reviewed lot descriptions to ungrouped entities `assign_entities_via_title_match.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv` and adds also collections and periods .
+ - 5.2 `enrich_artist_school.py` --> `revieweed_lots_and_entities/{CATALOGUE_ID}.csv`. the same csv files are enriched with more entities extracted from the full text of the lot title
+ - 6. retrieve aggregated and manually revised clusters of terms (schools artists types) and produce the final RDF graph w/ relations between catalogues + lots + entities: `app/build_lots_entities_graph.py` --> `lot_descriptions/zac_lot_descriptions.ttl`. This file and the one produced at point 1 are uploaded on QLever.
 
 
 ### 1. Catalogue metadata to RDF
@@ -67,7 +68,7 @@ Produces an initial NER from long text descriptions.
 
 ### 5. NER extraction
 
-[PIPELINE] `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
+[ONE TIME OP] `docling/extract_catalogue_entities.py` --> `docling/documents/all_entities.csv` ; `docling/documents/<ID>/entities.csv`
 
 Reads `documents.db` locally, calls Claude Sonnet 5 APIs (API key read from env -- `export ANTHROPIC_API_KEY=<KEY>`) to perform NER over section titles, returns entities in csv files (aggregated and for each folder). Notice that retrieved entities are not (yet) associated to lots, nor are disambiguated (e.g. normalised, translated, reconciled, etc.).
 
@@ -81,11 +82,11 @@ Reads `docling/documents/all_entities.csv`, calls Claude Sonnet 5 APIs (API key 
 
 NB. Currently performed only on a subset of ~230 catalogues. It's very expensive. The script is replaced by aggregate_entities_embeddings.py.
 
-[PIPELINE] `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
+[ONE TIME OP] `docling/aggregate_entities_embeddings.py` --> `docling/schools.csv`; `docling/artists.csv`; `docling/object_types.csv`
 
 Reads `docling/documents/all_entities.csv`, uses embeddings (HF: `paraphrase-multilingual-MiniLM-L12-v2`) to cluster variants, calls Claude Sonnet 5 APIs to evaluate clusters that may be similar. USes different weights depending on the entity_type (artists --> string similarity more than semantics; object_type --> semantics over similarity). Metrics are tuned using `tune_clustering.py`.
 
-[PIPELINE] `postprocess_merge_csv.py` --> `docling/schools_merged.csv`; `docling/artists_merged.csv`; `docling/object_types_merged.csv`
+[ONE TIME OP] `postprocess_merge_csv.py` --> `docling/schools_merged.csv`; `docling/artists_merged.csv`; `docling/object_types_merged.csv`
 
 ```
 # object types
@@ -107,13 +108,23 @@ The CSV files are uploaded in google spreadsheet for human revision.
 
 ### 6. Associate entities to lots
 
-[PIPELINE] `assign_lots_to_entities.py` --> `documents/all_entities_with_lots.csv` (obsolete)
+[OBSOLETE] `assign_lots_to_entities.py` --> `documents/all_entities_with_lots.csv` (obsolete)
 
 [NOT RELIABLE] Chunks again all.md using lines of entities detected with NER as boudaries, assigns lot numbers to that entity. There are several issues to be revised later (e.g. lot numbers are revised, added, deleted in app.py; entities are further aggregated and need to be reconciled i.e. aggregated and revised entity (spreadsheet) <-- raw entity (all_entities.csv) + lot numbers from raw transcription (all.md) --> revised lot numbers (documents.db) ).
 
-[PIPELINE] `assign_entities_via_title_match.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
+[PIPELINE] `extract_collections_periods.py` --> `extracted_collections.csv` ; `extracted_periods.csv`
+
+Reads the lot descriptions of revised catalogues and tries to extract Collections and periods. The latter are manually loaded on ZERI_NER spreadsheet for human revision (after the first run of the revised catalogues available at the time, every following run - that happens when new revised catalogues are available - appends new variants at the end of the CSV files, flagged as "new". These rows must be copied and pasted in google spreadsheet for revision).
+
+[PIPELINE] `assign_entities_via_title_match.py` + `align_title.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
 
 Queries documents.db for catalogues already reviewed, extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot. In the last script (below), the raw entity is replaced with the normalised form of the name that has been automatically clustered and manually revised in "ZERI_NER" spreadsheets.
+
+UPDATE: the final csv files also includes collections and periods extracted in the previous step
+
+[PIPELINE] `enrich_artist_school.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
+
+Overrides the csv files adding, when not available yet, artist/schools/types using a fuzzy string match (partial ratio) between the lot description (title) and variants revised in the ZERI_NER spreadsheet (e.g. if a variant in the 'oggetti' tab in the spreadsheet appears in the full text description of the lot, this is added to the extracted entities in the "reviewed_lots_and_entities" csv file).
 
 ## 7. Produce final RDF
 

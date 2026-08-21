@@ -1,85 +1,85 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_83724,28515,1,1,École Française. XVIII siécle. Portrait d’Homme.,,54.3,True,none,,,
-BO0624_83724,28516,2,2,"École Hollandaise. XVIII siécle. Petit Portrait de Dame. Assise dans un fauteuil, elle tient un vase de fleurs sur les genoux.",21.0,69.7,False,positional,,ECOLE HOLLANDAISE,
-BO0624_83724,28517,3,3,MICHAU. 1676-1755. Paysage accidente anime de figures et d'animaux.,28.0,83.8,False,title_direct,MICHAU,,
-BO0624_83724,28518,4,4,PIOMBO Genre de SEBASTIEN de. Portrait de Jeune Homme en buste.,36.0,69.4,False,title_direct,PIOMBO,,
-BO0624_83724,28519,5,5,DIEST GUILLAUMEVAN. Marine par un temps calme.,46.0,72.2,False,title_direct,DIEST,,
-BO0624_83724,28520,6,6,OOST JACQUES VAN. La Sainte Famille.,54.0,65.5,False,positional,DIEST,,
-BO0624_83724,28521,7,7,SAFTLEVEN HERMAN.1609-1685. Vue des bords du Rhin.,,47.5,True,title_direct,SAFTLEVEN,,
-BO0624_83724,28522,8,8,"ECOLE HOLLANDAISE. xv siécle. Portrait d'Homme.  En buste, petit col blanc et vetement noir.",,58.6,True,title_direct,,ECOLE HOLLANDAISE,
-BO0624_83724,28523,9,9,"NUMAN HERMAN. 1744-1820.  Portrait d'un Ecrivain.  Vu de face, assis et accoude sur un bureau. Toile de forme ovale.",79.0,74.2,False,title_direct,NUMAN,,
-BO0624_83724,28524,10,10,BREUGHEL AMBROISE. 1617-1675.,,45.0,True,title_direct,BREUGHEL,,
-BO0624_83724,28525,11,11,BYLER HERMAN VAN. XVII siecle. Pastorale. Un berger lutine une bergère. Des moutons et des chèvres paissent dans la campagne.,84.0,77.9,False,title_direct,BYLER,,
-BO0624_83724,28526,12,12,École Française . Le Coucher de la Mariée.,90.0,66.7,False,positional,,ECOLE FRANCAISE,
-BO0624_83724,28527,13,13,"DE TROY JEAN-FRANCOIS. 1679-1752. Portrait de feune Femme. En buste, vetue d'un corsage rouge decollete.",,54.9,True,title_direct,DE TROY,,
-BO0624_83724,28528,14,14,MIEL JEAN. ?-1599. Animaux dans un paysage italien avec ruines. Cadre en bois sculpté.,127.0,87.6,False,title_direct,MIEL,,
-BO0624_83724,28529,15,15,BRAY SALOMON de. 1597-1664. L'Orfeure et sa Famille. Composition de neuf portraits a mi-jambes.,137.0,61.9,False,positional,MIEL,,
-BO0624_83724,28530,16,16,"ECOLE FLAMANDE.  XVII siecle. Portrait d’une Dame noble.  A mi-jambes, vetement noir, corsage brode d'argent, beguin et fraise tuyautée encadrant le visage, manchettes de dentelles et parure de bijoux.  Sur le fond, des armoiries avec linscription: Aet. Sue. No. An. 1619.",148.0,69.4,False,title_direct,,ECOLE FLAMANDE,
-BO0624_83724,28531,17,17,MILLET FRANCISQUE.  Diane surprise par Acteon.,158.0,73.2,False,title_direct,MILLET,,
-BO0624_83724,28532,18,18,POTTER Ecole dePAUL. Vacbes au repos dans un Paysage. Cadre en bois sculpte.,166.0,82.4,False,title_direct,POTTER,,
-BO0624_83724,28533,19,19,"VALLIN. Ecole Francaise. Portrait de Jeune Fille.  En buste, un voile de gaze transparente, dont elle retient les plis, couvre sa poitrine, les cheveux releves et retenus. Signe a gauche dans le bas.",179.0,75.1,False,title_direct,VALLIN,,
-BO0624_83724,28534,20,20,"MIERIS FRANZ. 1635-1681. Les Bulles de Savon. Sur l'appui d'une fenetre ouverte, un enfant s'amuse a faire bouillonner la savonnee. Derriere lui, une femme tenant un chien.  Panneau cintre.",191.0,80.3,False,title_direct,MIERIS,,
-BO0624_83724,28535,21,21,"VLIEGER Simon de. 1612. Marine. Plusieurs bateaux sillonnent une mer houleuse, sous un ciel d'orange.",204.0,69.7,False,title_direct,VLIEGER,,
-BO0624_83724,28536,22,22,"MORONI. École Véntienne. 1510-1578. Portrait de Gentilhomme. Debout, en pied dans lintérieur d'un Palais, lavantbras gauche reposant sur la garde d'une rapiere, la main droite appuyee sur une table, a terre une armure et une fleche enrubannee sur laquelle on lit la devise : Vulneri de Solum nostro.",216.0,88.6,False,title_direct,MORO,,
-BO0624_83724,28537,23,23,"GOVAERTS. Ecole Flamande. XVIII siecle.  Paysage boise.  Au premier plan, a gauche, le bon Samaritain secourant un malade. Belle peinture.",239.0,74.7,False,title_direct,GOVAERTS,,
-BO0624_83724,28538,24,24,RAVESTEIN  A.VAN. Ecole Hollandaise. XVII siecle. Interieur d'etable avec figures et animaux. 1662,247.0,61.1,False,title_direct,RAVESTEIN,,
-BO0624_83724,28539,25,25,VERSPRONCK JEAN. 1597-1662. Portrait d'une Dame noble.,488.0,65.1,False,title_direct,VERSPRONCK,,
-BO0624_83724,28540,26,26,BREUGHEL.  Atelier de JEAN. Ecole Flamande. Le Paradis terrestre.,,44.2,True,title_direct,BREUGHEL,,
-BO0624_83724,28541,27,27,"VOS MARTIN DE. 1531-1603. Portrait d'unc Femme agee.  En buste, coiffée d'une cornette, une fraise tuyautee autour du cou, corsage et mantelet de soie et velours noir.  Sur le fond, 1inscription Aet. 50.",566.0,60.7,False,title_direct,VOS,,
-BO0624_83724,28542,28,28,"ANDRIESSENS HENRI. 1600-1655. Patisseries, victuailles et accessoires etales sur une table.",,42.8,True,title_direct,ANDRIESSENS,,
-BO0624_83724,28543,29,29,"COELLO. Attribue a CLAUDIO. Portrait presume de Marguerite de Parme.  Vetue d'un costume d'apparat de couleur gris perle a passementerie d'or, coiffée d'une toque a plumes, une petite fraise autour du cou. Elle est representee en buste, parée de bijoux.",,45.4,True,title_direct,COELLO,,
-BO0624_83724,28544,30,30,"WET EMMANUELDE. xv siecle. Fesus prechant. Dans une barque au bord d'un fleuve, le Christ parle au peuple assemble sur la rive. Signe sur une pierre au centre.",,46.4,True,title_direct,WET,,
-BO0624_83724,28545,31,31,DYCK PHILIPPEVAN. 1680-1752. Adam et Eve.,,35.4,True,title_direct,DYCK,,
-BO0624_83724,28546,32,32,WILT THOMAS VANDER. Ecole hollandaise.1559-1733. Portrait de Femme.,,48.9,True,title_direct,WILT,,
-BO0624_83724,28547,33,33,WILT THOMAS VAN DER. PENDANT DU PRECEDENT.  Portrait d'Homme.  Fond de parc avec architecture. Signe en toutes lettres.,,40.6,True,title_direct,WILT,,
-BO0624_83724,28548,34,34,BERCHEM JEANVAN.  Ecole Famande. XVI SIECLE.  Paysage accidente avec figures et animaux.  Signe sur le terrain.,,49.2,True,title_direct,BERCHEM,,
-BO0624_83724,28549,35,35,"PETERS Dit leREVEREND. Ecole anglaise. XVIII siecle. Portrait de Jeune Fille.  Vue en buste, tournee vers la droite, elle incline gracieusement sa jolie tete blonde au regard reveur.  Charmant tableau. Cadre en bois sculpte.",,44.6,True,title_direct,PETERS,,
-BO0624_83724,28550,36,36,DE VOS PAUL. 1590-1678. étude de Chiens.,,38.1,True,title_direct,DE VOS,,
-BO0624_83724,28551,37,37,"LOO L. MICHEL VAN. 1707-1771. Portrait d’une Dame de qualite.  Assise dans un fauteuil, en bonnet de dentelles, vete ment bleu decollete, tenant une tabatiere. Elle est vue a mi-corps.  Tres bon portrait, en parfait état de conservation. Cadre en bois sculpté.",,48.9,True,title_direct,LOO,,
-BO0624_83724,28552,38,38,"MAZO. 1630-1687. Portrait d’une Infante. En buste, richement paree d'un col de dentelle et d'un corsage orne de bijoux.",,50.8,True,title_direct,MAZO,,
-BO0624_83724,28553,39,39,PANTOJA DE LA CRUZ. 1551-1610. Portrait d'une Dame de qualite. nteressant portrait. Cadre avec application d'écaille.,,42.1,True,title_direct,PANTOJA DE LA CRUZ,,
-BO0624_83724,28554,40,40,"HELST BARTHELEMY VANDER. Ecole Hollandaise.1670. Portrait d' Homme.  En buste, fraise tuyautee,vetement noir et manteau Sur le fond, les armoiries. Bon portrait.  double de fourrures.  Signé en toutes lettres, a droite.",,50.5,True,title_direct,HELST,,
-BO0624_83724,28555,41,41,ECOLE ANGLAISE. Commencement du xvil siecle. Portrait d'une Dame de qualite.,,52.7,True,title_direct,,ECOLE ANGLAISE,
-BO0624_83724,28556,42,42,"BEECHEY. SIR WILLIAM. 1753-1815. Portrait d’un feune Garcon.  En buste,les cheveux blonds bouclés tombant sur les épalues. Il feuillette un livre. Fond de ciel. Belle peinture d'un ton chaud et lumineux. Cadre en bois sculpté.",,42.9,True,title_direct,BEECHEY,,
-BO0624_83724,28557,43,43,ècole hollandaise. XVII siécle. Portrait d'un notable Hollandais.,,46.9,True,none,,,
-BO0624_83724,28558,44,44,"VAN CEULEN. CORNEILLE JANSSENS, dit JANSON. 1590-1665.  Portrait d'une Dame noble. En buste, coiffee d''nn beguin, un grand col de dentelle couvrant les epaules, vetue de noir. Armoiries sur le fond.",,48.4,True,title_direct,VAN CEULEN,,
-BO0624_83724,28559,45,45,VAN CEULEN. Portrait d'un Gentilbomme.,575.0,61.0,False,title_direct,VAN CEULEN,,
-BO0624_83724,28560,46,46,"SANTVOORT. Portrait d’une feune Dame de qualite.  En buste, richement vetue, col de dentelles, parure de chaines et de bijoux d'or; les cheveux chatains boucles.",,51.8,True,title_direct,SANTVOORT,,
-BO0624_83724,28561,47,47,ècole hollandaise. XVII siécle. Portrait de Gentilbomme.,,54.5,True,none,,,
-BO0624_83724,28562,48,48,DYCK. Attribue a ANTOINE VAN.  Portrait d'une Famille noble.,,51.6,True,title_direct,DYCK,,
-BO0624_83724,28563,49,49,GAINSBOROUGH. Attribue a THOMAS. Portrait d'un Gentilbomme.,627.0,61.5,False,title_direct,GAINSBOROUGH,,
-BO0624_83724,28564,50,50,RAVESTEIN.  Attribue a J.VAN. Portrait d'Homme.,,54.3,True,title_direct,RAVESTEIN,,
-BO0624_83724,28565,51,51,LAWRENCE. Attribue a SIR THOMAS. Portrait d' Homme.,,46.2,True,title_direct,LAWRENCE,,
-BO0624_83724,28566,52,52,VRANCX SEBASTIEN. 1573-1647. Parc avec babitation seigneuriale.,,47.2,True,title_direct,VRANCX,,
-BO0624_83724,28567,53,53,LAWRENCE. Portrait d'Homme.,841.0,70.6,False,title_direct,LAWRENCE,,
-BO0624_83724,28568,54,54,BASSEN. école flamande.1624. Festin dans linterieur d'un palais.,,41.5,True,title_direct,BASSEN,,
-BO0624_83724,28569,55,55,HUDSON THOMAS. 1701-1779. Portrait d'un Gentilbomme.,,55.7,True,title_direct,HUDSON,,
-BO0624_83724,28570,56,56,"PIERRE JEAN-BAPTISTE. 1715-1789. La Peinture, composition decorative.",,33.3,True,title_direct,PIERRE,,
-BO0624_83724,28571,57,57,LOO. Portrait dun Maréchal de France.,,53.3,True,title_direct,LOO,,
-BO0624_83724,28572,58,58,école flamande. XVI seicle. Portrait d'un Donataire.,,51.8,True,none,,,
-BO0624_83724,28573,59,59,ECOLE FRANCAISE. XVIII siecle. Portrait de feune Femme.,,47.7,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83724,616251,60,60,MORO. Attribué a ANTONIO. 1512-1581. Portrait d'un Maitre de conference.,,37.9,True,title_direct,MORO,,
-BO0624_83724,616252,61,61,VERMEER DE DELFT. Portrait d’une Dame de qualite.,888.0,73.2,False,title_direct,VERMEER DE DELFT,,
-BO0624_83724,616253,62,62,ECOLE FRANCAISE. XVIII siecle. Portrait de Femme.,,44.8,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83724,616254,63,63,FLORIS FRANZ. 1520-1570. Portrait de Gentilbomme.,,55.3,True,title_direct,FLORIS,,
-BO0624_83724,616255,64,64,RUBENS. école de. Alexandre et les Femmes de Darius.,,43.7,True,title_direct,RUBENS,,
-BO0624_83724,616256,65,65,ECOLE FRANCAISE. XVIII siecle.  Portrait d’un Marechal.,,46.8,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83724,616257,66,66,SCOREL. école Hollandaise. 1495-1562. Le Jugement dernier.,,41.2,True,title_direct,SCOREL,,
-BO0624_83724,616258,67,67,WOUWERMANN  PIERRE. 1626-1683.  Attaque d’un convoi passant une riviere.,,33.8,True,title_direct,PIERRE,,
-BO0624_83724,616259,68,68,HUYSUM. 1659-1716. Buisson de fleurs variées.,,38.6,True,title_direct,HUYSUM,,
-BO0624_83724,616260,69,69,NATTIER. Portrait d'une Feune Princesse.,,54.0,True,title_direct,NATTIER,,
-BO0624_83724,616262,70,70,BESCHEY. 1708-1776. Flore.,,32.7,True,title_direct,BESCHEY,,
-BO0624_83724,616263,71,71,RUYSCH. 1664-1750. Bouquet de fleurs dans un vase.,,40.0,True,title_direct,RUYSCH,,
-BO0624_83724,616264,72,72,RUBENS. école de. 1577-1640. Portrait d'Homme.,,46.4,True,title_direct,RUBENS,,
-BO0624_83724,616265,73,73,RAVESTEIN. 1580-1657. Portrait d'un Gentilbomme. 92,,53.8,True,title_direct,RAVESTEIN,,
-BO0624_83724,616266,74,74,TENIERS  (Atelier de DAVID). Attaque d'un Village.,,36.8,True,title_direct,TENIERS,,
-BO0624_83724,616267,75,75,MAES NICOLAS.1612-1693. Portrait d’une Dame de qualité.,,48.7,True,title_direct,MAES,,
-BO0624_83724,616268,76,76,DUSART. Attribue a CORNEILLE. 1704. Scene de cabaret.,,52.9,True,title_direct,DUSART,,
-BO0624_83724,616269,77,77,ECOLE FRANCAISE. XVIlI siecle.  Portrait d'une Dame.,,54.1,True,title_direct,,ECOLE FRANCAISE,
-BO0624_83724,616270,78,78,"HOBBEMA. D'apres MEINDERT. 1638. Paysage boise avec piece d'eau, babitations et figures.",917.0,77.0,False,title_direct,HOBBEMA,,
-BO0624_83724,616271,79,79,HEIL DANIEL VAN. 1604-1662  Paysage d'biver.  Tableau rappelant les ceuvres de A. Van der Meer.,927.0,69.0,False,title_direct,HEIL,,
-BO0624_83724,616272,80,80,GOVAERTS. Ecole famande. 1595. Paysage boise avec etang et personnages.,938.0,72.1,False,title_direct,GOVAERTS,,
-BO0624_83724,616273,81,81,ELIAS NICOLAS. 1639. Portrait d’un Gentilbomme.,,59.5,True,title_direct,ELIAS,,
-BO0624_83724,616274,82,82,HERP GERARD VAN. XVII siecle. Sujet tire de l Ancien Testament.,966.0,63.5,False,title_direct,HERP,,
-BO0624_83724,616275,83,83,LEDOUX PHILIBERT. Ecole francaise. XVIII siecle. Portrait d’Enfant.,,52.3,True,title_direct,LEDOUX,,
-BO0624_83724,616276,84,84,DYCK. Attribue a ANTOINE VAN. Sujet religieux.,,50.7,True,title_direct,DYCK,,
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83724,28515,1,1,École Française. XVIII siécle. Portrait d’Homme.,11,52.5,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83724,28516,2,2,"École Hollandaise. XVIII siécle. Petit Portrait de Dame. Assise dans un fauteuil, elle tient un vase de fleurs sur les genoux.",21,71.3,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83724,28517,3,3,MICHAU. 1676-1755. Paysage accidente anime de figures et d'animaux.,28,85.0,False,title_direct,MICHAU,,,,Sec. XVIII
+BO0624_83724,28518,4,4,PIOMBO Genre de SEBASTIEN de. Portrait de Jeune Homme en buste.,36,67.4,False,title_direct,PIOMBO,,,,
+BO0624_83724,28519,5,5,DIEST GUILLAUMEVAN. Marine par un temps calme.,46,72.5,False,title_direct,DIEST,,,,
+BO0624_83724,28520,6,6,OOST JACQUES VAN. La Sainte Famille.,54,67.9,False,positional,DIEST,,,,
+BO0624_83724,28521,7,7,SAFTLEVEN HERMAN.1609-1685. Vue des bords du Rhin.,59,40.0,False,title_direct,SAFTLEVEN,,,,Sec. XVII
+BO0624_83724,28522,8,8,"ECOLE HOLLANDAISE. xv siécle. Portrait d'Homme.  En buste, petit col blanc et vetement noir.",71,51.6,False,title_direct,,ECOLE HOLLANDAISE,,,
+BO0624_83724,28523,9,9,"NUMAN HERMAN. 1744-1820.  Portrait d'un Ecrivain.  Vu de face, assis et accoude sur un bureau. Toile de forme ovale.",79,70.5,False,title_direct,NUMAN,,,,Sec. XVIII
+BO0624_83724,28524,10,10,BREUGHEL AMBROISE. 1617-1675.,81,34.6,False,title_direct,BREUGHEL,,,,Sec. XVII
+BO0624_83724,28525,11,11,BYLER HERMAN VAN. XVII siecle. Pastorale. Un berger lutine une bergère. Des moutons et des chèvres paissent dans la campagne.,84,78.6,False,title_direct,BYLER,,,,Sec. XVII
+BO0624_83724,28526,12,12,École Française . Le Coucher de la Mariée.,90,67.7,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83724,28527,13,13,"DE TROY JEAN-FRANCOIS. 1679-1752. Portrait de feune Femme. En buste, vetue d'un corsage rouge decollete.",121,47.8,False,title_direct,DE TROY,,,,Sec. XVIII
+BO0624_83724,28528,14,14,MIEL JEAN. ?-1599. Animaux dans un paysage italien avec ruines. Cadre en bois sculpté.,127,89.7,False,title_direct,MIEL,,,,Sec. XVI
+BO0624_83724,28529,15,15,BRAY SALOMON de. 1597-1664. L'Orfeure et sa Famille. Composition de neuf portraits a mi-jambes.,137,48.8,False,positional,MIEL,,,,Sec. XVII
+BO0624_83724,28530,16,16,"ECOLE FLAMANDE.  XVII siecle. Portrait d’une Dame noble.  A mi-jambes, vetement noir, corsage brode d'argent, beguin et fraise tuyautée encadrant le visage, manchettes de dentelles et parure de bijoux.  Sur le fond, des armoiries avec linscription: Aet. Sue. No. An. 1619.",148,70.4,False,title_direct,,ECOLE FLAMANDE,,,Sec. XVII
+BO0624_83724,28531,17,17,MILLET FRANCISQUE.  Diane surprise par Acteon.,158,73.5,False,title_direct,MILLET,,,,
+BO0624_83724,28532,18,18,POTTER Ecole dePAUL. Vacbes au repos dans un Paysage. Cadre en bois sculpte.,166,83.7,False,title_direct,POTTER,,,,
+BO0624_83724,28533,19,19,"VALLIN. Ecole Francaise. Portrait de Jeune Fille.  En buste, un voile de gaze transparente, dont elle retient les plis, couvre sa poitrine, les cheveux releves et retenus. Signe a gauche dans le bas.",179,75.7,False,title_direct,VALLIN,,,,
+BO0624_83724,28534,20,20,"MIERIS FRANZ. 1635-1681. Les Bulles de Savon. Sur l'appui d'une fenetre ouverte, un enfant s'amuse a faire bouillonner la savonnee. Derriere lui, une femme tenant un chien.  Panneau cintre.",191,80.8,False,title_direct,MIERIS,,,,Sec. XVII
+BO0624_83724,28535,21,21,"VLIEGER Simon de. 1612. Marine. Plusieurs bateaux sillonnent une mer houleuse, sous un ciel d'orange.",204,71.1,False,title_direct,VLIEGER,,,,Sec. XVII
+BO0624_83724,28536,22,22,"MORONI. École Véntienne. 1510-1578. Portrait de Gentilhomme. Debout, en pied dans lintérieur d'un Palais, lavantbras gauche reposant sur la garde d'une rapiere, la main droite appuyee sur une table, a terre une armure et une fleche enrubannee sur laquelle on lit la devise : Vulneri de Solum nostro.",216,89.0,False,title_direct,MORO,,,,Sec. XVI
+BO0624_83724,28537,23,23,"GOVAERTS. Ecole Flamande. XVIII siecle.  Paysage boise.  Au premier plan, a gauche, le bon Samaritain secourant un malade. Belle peinture.",239,75.1,False,title_direct,GOVAERTS,,,,Sec. XVIII
+BO0624_83724,28538,24,24,RAVESTEIN  A.VAN. Ecole Hollandaise. XVII siecle. Interieur d'etable avec figures et animaux. 1662,247,62.3,False,title_direct,RAVESTEIN,,,,Sec. XVII
+BO0624_83724,28539,25,25,VERSPRONCK JEAN. 1597-1662. Portrait d'une Dame noble.,258,68.4,False,title_direct,VERSPRONCK,,,,Sec. XVII
+BO0624_83724,28540,26,26,BREUGHEL.  Atelier de JEAN. Ecole Flamande. Le Paradis terrestre.,272,66.7,False,title_direct,BREUGHEL,,,,
+BO0624_83724,28541,27,27,"VOS MARTIN DE. 1531-1603. Portrait d'unc Femme agee.  En buste, coiffée d'une cornette, une fraise tuyautee autour du cou, corsage et mantelet de soie et velours noir.  Sur le fond, 1inscription Aet. 50.",289,72.7,False,title_direct,VOS,,,,Sec. XVI
+BO0624_83724,28542,28,28,"ANDRIESSENS HENRI. 1600-1655. Patisseries, victuailles et accessoires etales sur une table.",301,80.8,False,title_direct,ANDRIESSENS,,,,Sec. XVII
+BO0624_83724,28543,29,29,"COELLO. Attribue a CLAUDIO. Portrait presume de Marguerite de Parme.  Vetue d'un costume d'apparat de couleur gris perle a passementerie d'or, coiffée d'une toque a plumes, une petite fraise autour du cou. Elle est representee en buste, parée de bijoux.",311,84.4,False,title_direct,COELLO,,,,
+BO0624_83724,28544,30,30,"WET EMMANUELDE. xv siecle. Fesus prechant. Dans une barque au bord d'un fleuve, le Christ parle au peuple assemble sur la rive. Signe sur une pierre au centre.",320,85.0,False,title_direct,WET,,,,
+BO0624_83724,28545,31,31,DYCK PHILIPPEVAN. 1680-1752. Adam et Eve.,326,58.0,False,title_direct,DYCK,,,,Sec. XVIII
+BO0624_83724,28546,32,32,WILT THOMAS VANDER. Ecole hollandaise.1559-1733. Portrait de Femme.,343,76.2,False,title_direct,WILT,,,,Sec. XVI
+BO0624_83724,28547,33,33,WILT THOMAS VAN DER. PENDANT DU PRECEDENT.  Portrait d'Homme.  Fond de parc avec architecture. Signe en toutes lettres.,347,65.1,False,title_direct,WILT,,,,
+BO0624_83724,28548,34,34,BERCHEM JEANVAN.  Ecole Famande. XVI SIECLE.  Paysage accidente avec figures et animaux.  Signe sur le terrain.,367,56.9,False,title_direct,BERCHEM,,,,Sec. XVI
+BO0624_83724,28549,35,35,"PETERS Dit leREVEREND. Ecole anglaise. XVIII siecle. Portrait de Jeune Fille.  Vue en buste, tournee vers la droite, elle incline gracieusement sa jolie tete blonde au regard reveur.  Charmant tableau. Cadre en bois sculpte.",378,63.9,False,title_direct,PETERS,,,,Sec. XVIII
+BO0624_83724,28550,36,36,DE VOS PAUL. 1590-1678. étude de Chiens.,386,49.1,False,title_direct,DE VOS,,,,Sec. XVII
+BO0624_83724,28551,37,37,"LOO L. MICHEL VAN. 1707-1771. Portrait d’une Dame de qualite.  Assise dans un fauteuil, en bonnet de dentelles, vete ment bleu decollete, tenant une tabatiere. Elle est vue a mi-corps.  Tres bon portrait, en parfait état de conservation. Cadre en bois sculpté.",398,64.1,False,title_direct,LOO,,,,Sec. XVIII
+BO0624_83724,28552,38,38,"MAZO. 1630-1687. Portrait d’une Infante. En buste, richement paree d'un col de dentelle et d'un corsage orne de bijoux.",409,80.0,False,title_direct,MAZO,,,,Sec. XVII
+BO0624_83724,28553,39,39,PANTOJA DE LA CRUZ. 1551-1610. Portrait d'une Dame de qualite. nteressant portrait. Cadre avec application d'écaille.,423,64.2,False,title_direct,PANTOJA DE LA CRUZ,,,,Sec. XVI
+BO0624_83724,28554,40,40,"HELST BARTHELEMY VANDER. Ecole Hollandaise.1670. Portrait d' Homme.  En buste, fraise tuyautee,vetement noir et manteau Sur le fond, les armoiries. Bon portrait.  double de fourrures.  Signé en toutes lettres, a droite.",434,38.6,False,title_direct,HELST,,,,Sec. XVII
+BO0624_83724,28555,41,41,ECOLE ANGLAISE. Commencement du xvil siecle. Portrait d'une Dame de qualite.,448,58.5,False,title_direct,,ECOLE ANGLAISE,,,
+BO0624_83724,28556,42,42,"BEECHEY. SIR WILLIAM. 1753-1815. Portrait d’un feune Garcon.  En buste,les cheveux blonds bouclés tombant sur les épalues. Il feuillette un livre. Fond de ciel. Belle peinture d'un ton chaud et lumineux. Cadre en bois sculpté.",463,62.9,False,title_direct,BEECHEY,,,,Sec. XVIII
+BO0624_83724,28557,43,43,ècole hollandaise. XVII siécle. Portrait d'un notable Hollandais.,471,68.1,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83724,28558,44,44,"VAN CEULEN. CORNEILLE JANSSENS, dit JANSON. 1590-1665.  Portrait d'une Dame noble. En buste, coiffee d''nn beguin, un grand col de dentelle couvrant les epaules, vetue de noir. Armoiries sur le fond.",490,74.1,False,title_direct,VAN CEULEN,,,,Sec. XVII
+BO0624_83724,28559,45,45,VAN CEULEN. Portrait d'un Gentilbomme.,498,81.2,False,title_direct,VAN CEULEN,,,,
+BO0624_83724,28560,46,46,"SANTVOORT. Portrait d’une feune Dame de qualite.  En buste, richement vetue, col de dentelles, parure de chaines et de bijoux d'or; les cheveux chatains boucles.",510,81.9,False,title_direct,SANTVOORT,,,,
+BO0624_83724,28561,47,47,ècole hollandaise. XVII siécle. Portrait de Gentilbomme.,519,60.8,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83724,28562,48,48,DYCK. Attribue a ANTOINE VAN.  Portrait d'une Famille noble.,533,66.7,False,title_direct,DYCK,,,,
+BO0624_83724,28563,49,49,GAINSBOROUGH. Attribue a THOMAS. Portrait d'un Gentilbomme.,554,59.5,False,title_direct,GAINSBOROUGH,,,,
+BO0624_83724,28564,50,50,RAVESTEIN.  Attribue a J.VAN. Portrait d'Homme.,562,54.2,False,title_direct,RAVESTEIN,,,,
+BO0624_83724,28565,51,51,LAWRENCE. Attribue a SIR THOMAS. Portrait d' Homme.,573,61.8,False,title_direct,LAWRENCE,,,,
+BO0624_83724,28566,52,52,VRANCX SEBASTIEN. 1573-1647. Parc avec babitation seigneuriale.,589,72.9,False,title_direct,VRANCX,,,,Sec. XVII
+BO0624_83724,28567,53,53,LAWRENCE. Portrait d'Homme.,600,41.2,False,title_direct,LAWRENCE,,,,
+BO0624_83724,28568,54,54,BASSEN. école flamande.1624. Festin dans linterieur d'un palais.,618,72.0,False,title_direct,BASSEN,,,,Sec. XVII
+BO0624_83724,28569,55,55,HUDSON THOMAS. 1701-1779. Portrait d'un Gentilbomme.,627,67.5,False,title_direct,HUDSON,,,,Sec. XVIII
+BO0624_83724,28570,56,56,"PIERRE JEAN-BAPTISTE. 1715-1789. La Peinture, composition decorative.",641,70.6,False,title_direct,PIERRE,,,,Sec. XVIII
+BO0624_83724,28571,57,57,LOO. Portrait dun Maréchal de France.,654,87.9,False,title_direct,LOO,,,,
+BO0624_83724,28572,58,58,école flamande. XVI seicle. Portrait d'un Donataire.,668,64.0,False,positional,,ECOLE FLAMANDE,,,
+BO0624_83724,28573,59,59,ECOLE FRANCAISE. XVIII siecle. Portrait de feune Femme.,681,64.1,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83724,616251,60,60,MORO. Attribué a ANTONIO. 1512-1581. Portrait d'un Maitre de conference.,695,66.7,False,title_direct,MORO,,,,Sec. XVI
+BO0624_83724,616252,61,61,VERMEER DE DELFT. Portrait d’une Dame de qualite.,706,77.9,False,title_direct,VERMEER DE DELFT,,,,
+BO0624_83724,616253,62,62,ECOLE FRANCAISE. XVIII siecle. Portrait de Femme.,720,54.5,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83724,616254,63,63,FLORIS FRANZ. 1520-1570. Portrait de Gentilbomme.,735,66.7,False,title_direct,FLORIS,,,,Sec. XVI
+BO0624_83724,616255,64,64,RUBENS. école de. Alexandre et les Femmes de Darius.,745,80.5,False,title_direct,RUBENS,,,,
+BO0624_83724,616256,65,65,ECOLE FRANCAISE. XVIII siecle.  Portrait d’un Marechal.,755,60.3,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83724,616257,66,66,SCOREL. école Hollandaise. 1495-1562. Le Jugement dernier.,764,66.7,False,title_direct,SCOREL,,,,Sec. XVI
+BO0624_83724,616258,67,67,WOUWERMANN  PIERRE. 1626-1683.  Attaque d’un convoi passant une riviere.,780,73.6,False,title_direct,PIERRE,,,,Sec. XVII
+BO0624_83724,616259,68,68,HUYSUM. 1659-1716. Buisson de fleurs variées.,795,72.5,False,title_direct,HUYSUM,,,,Sec. XVII
+BO0624_83724,616260,69,69,NATTIER. Portrait d'une Feune Princesse.,807,88.2,False,title_direct,NATTIER,,,,
+BO0624_83724,616262,70,70,BESCHEY. 1708-1776. Flore.,824,34.0,False,title_direct,BESCHEY,,,,Sec. XVIII
+BO0624_83724,616263,71,71,RUYSCH. 1664-1750. Bouquet de fleurs dans un vase.,826,76.3,False,title_direct,RUYSCH,,,,Sec. XVII
+BO0624_83724,616264,72,72,RUBENS. école de. 1577-1640. Portrait d'Homme.,839,53.7,False,title_direct,RUBENS,,,,Sec. XVII
+BO0624_83724,616265,73,73,RAVESTEIN. 1580-1657. Portrait d'un Gentilbomme. 92,855,69.2,False,title_direct,RAVESTEIN,,,,Sec. XVII
+BO0624_83724,616266,74,74,TENIERS  (Atelier de DAVID). Attaque d'un Village.,876,61.8,False,title_direct,TENIERS,,,,
+BO0624_83724,616267,75,75,MAES NICOLAS.1612-1693. Portrait d’une Dame de qualité.,888,72.3,False,title_direct,MAES,,,,Sec. XVII
+BO0624_83724,616268,76,76,DUSART. Attribue a CORNEILLE. 1704. Scene de cabaret.,896,59.3,False,title_direct,DUSART,,,,Sec. XVIII
+BO0624_83724,616269,77,77,ECOLE FRANCAISE. XVIlI siecle.  Portrait d'une Dame.,907,54.3,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83724,616270,78,78,"HOBBEMA. D'apres MEINDERT. 1638. Paysage boise avec piece d'eau, babitations et figures.",917,79.1,False,title_direct,HOBBEMA,,,,Sec. XVII
+BO0624_83724,616271,79,79,HEIL DANIEL VAN. 1604-1662  Paysage d'biver.  Tableau rappelant les ceuvres de A. Van der Meer.,927,69.1,False,title_direct,HEIL,,,,Sec. XVII
+BO0624_83724,616272,80,80,GOVAERTS. Ecole famande. 1595. Paysage boise avec etang et personnages.,938,73.6,False,title_direct,GOVAERTS,,,,Sec. XVI
+BO0624_83724,616273,81,81,ELIAS NICOLAS. 1639. Portrait d’un Gentilbomme.,948,72.5,False,title_direct,ELIAS,,,,Sec. XVII
+BO0624_83724,616274,82,82,HERP GERARD VAN. XVII siecle. Sujet tire de l Ancien Testament.,966,69.5,False,title_direct,HERP,,,,Sec. XVII
+BO0624_83724,616275,83,83,LEDOUX PHILIBERT. Ecole francaise. XVIII siecle. Portrait d’Enfant.,973,72.0,False,title_direct,LEDOUX,,,,Sec. XVIII
+BO0624_83724,616276,84,84,DYCK. Attribue a ANTOINE VAN. Sujet religieux.,981,63.5,False,title_direct,DYCK,,,,

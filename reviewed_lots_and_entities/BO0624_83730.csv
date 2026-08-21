@@ -1,118 +1,118 @@
-catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type
-BO0624_83730,16028,1,1,"Callet, D'apres A. Portrait du cardinal de Bernis.",20.0,63.5,False,positional,,,GRAVURES
-BO0624_83730,16029,2,2,Poilly. Portrait de Michel Le Tellier.,24.0,76.9,False,positional,,,GRAVURES
-BO0624_83730,16030,3,3,"PRUD'HON, D'apres. L'Amour enchaine.",,59.3,True,title_direct,PRUD'HON,,
-BO0624_83730,16031,4,4,"LANCRET, D'apres N. Le Repas italien.",35.0,63.2,False,title_direct,LANCRET,,
-BO0624_83730,16032,5,5,"LANCRET, D'apres N. L'Adolescence.",41.0,66.7,False,title_direct,LANCRET,,
-BO0624_83730,16033,6,6,"LANCRET, D'apres N. Les Remois.",,52.2,True,title_direct,LANCRET,,
-BO0624_83730,16034,7,7,"WATTEAU, D'apres A. L'Amante inquiete.",,59.0,True,title_direct,WATTEAU,,
-BO0624_83730,16035,8,8,"WATTEAU, D'apres A. Le Teste-a-Teste.",55.0,65.5,False,title_direct,WATTEAU,,
-BO0624_83730,16036,9,9,"WATTEAU, D'apres A. La Finette.",58.0,66.7,False,title_direct,WATTEAU,,
-BO0624_83730,16037,10,10,"WATTEAU, D'apres A. L'Indifferent.",79.0,63.2,False,title_direct,WATTEAU,,
-BO0624_83730,16038,11,11,"WATTEAU, D'apres A. La Sultane.",85.0,66.7,False,title_direct,WATTEAU,,
-BO0624_83730,16039,12,12,"WATTEAU, D'apres A. Les Comediens italiens.",,51.5,True,title_direct,WATTEAU,,
-BO0624_83730,16040,13,13,"WATTEAU, D'apres A. La Danse paysanne.",,55.7,True,title_direct,WATTEAU,,
-BO0624_83730,16041,14,14,"WATTEAU, D'apres A. Diane au bain.",,59.6,True,title_direct,WATTEAU,,
-BO0624_83730,16042,15,15,"WATTEAU, D'apres A. L'Amour au Theatre-Francais.",,57.4,True,title_direct,WATTEAU,,
-BO0624_83730,16043,16,16,"WATTEAU, D'apres A.  L'Amour au Theatre-Italien.",,54.7,True,title_direct,WATTEAU,,
-BO0624_83730,16044,17,17,"WATTEAU, D'apres A. Le Concert italien.",,58.8,True,title_direct,WATTEAU,,
-BO0624_83730,16045,18,18,"WATTEAU, D'apres A. Les Charmes de la Vie.",,57.8,True,title_direct,WATTEAU,,
-BO0624_83730,16046,19,19,"WATTEAU, D'apres A. Le Passe-Temps.",100.0,62.1,False,title_direct,WATTEAU,,
-BO0624_83730,16047,20,20,"WATTEAU, D'apres A.  La Perspective.",104.0,62.1,False,title_direct,WATTEAU,,
-BO0624_83730,16048,21,21,"WATTEAU, D'apres A. L'Accordee de Village.",,58.5,True,title_direct,WATTEAU,,
-BO0624_83730,16049,22,22,"WATTEAU, D'apres A.  La Cascade.",108.0,63.0,False,title_direct,WATTEAU,,
-BO0624_83730,16050,23,23,"WATTEAU, D'apres A. L'Ile enchantee.",,57.6,True,title_direct,WATTEAU,,
-BO0624_83730,16051,24,24,"WATTEAU, D'apres A. Les Plaisirs du Bal.",,54.0,True,title_direct,WATTEAU,,
-BO0624_83730,16052,25,25,"WATTEAU, D'apres A. L'Embarquement pour Cythere.",125.0,64.1,False,title_direct,WATTEAU,,
-BO0624_83730,16053,26,26,"WATTEAU, D'apres A.  L'Enseigne.",127.0,66.7,False,title_direct,WATTEAU,,
-BO0624_83730,16054,27,27,"LARGILLIERE, D'apres N. De. Portrait de Mlle Duclos.",133.0,62.7,False,positional,WATTEAU,,
-BO0624_83730,16055,28,28,"NATTIER, D'apres. Marie, princesse de Cologne, reine de France et de Navarre.",,57.6,True,title_direct,NATTIER,,
-BO0624_83730,16056,29,29,"RIGAUD, D'apres H. Portrait de Girardin de Vauore.",145.0,63.6,False,title_direct,RIGAUD,,
-BO0624_83730,16057,30,30,"RIGAUD, D'apres H. Portrait de Francois de Montmorency, duc de Luxembourg.",149.0,63.8,False,title_direct,RIGAUD,,
-BO0624_83730,16058,31,31,"RIGAUD, D'apres H. Jean-Baptiste Colbert.",156.0,67.7,False,title_direct,RIGAUD,,
-BO0624_83730,16059,32,32,"RIGAUD, D'apres H. Portrait de Louis de Boullongne.",162.0,63.0,False,title_direct,RIGAUD,,
-BO0624_83730,16060,33,33,"RIGAUD, D'apres H. Portrait de Philbert Orry.",,53.1,True,title_direct,RIGAUD,,
-BO0624_83730,16061,34,34,"RIGAUD, D'apres H. Mme Le Bret de la Briffe.",170.0,67.6,False,title_direct,RIGAUD,,
-BO0624_83730,16062,35,35,"RIGAUD, D'apres H. Portrait de la duchesse de Nemours.",176.0,67.8,False,title_direct,RIGAUD,,
-BO0624_83730,16063,36,36,"RIGAUD, D'apres H. Portrait de Samuel Bernard.",180.0,66.7,False,title_direct,RIGAUD,,
-BO0624_83730,16064,37,37,"TAUNAY, D'apres. Noce de village.",184.0,60.7,False,title_direct,TAUNAY,,
-BO0624_83730,16065,38,38,"TAUNAY, D'apres. Foire de village.",185.0,62.1,False,title_direct,TAUNAY,,
-BO0624_83730,16066,39,39,"DEBUCOURT, Par et d'apres.  Les Bouquets ou la Fete de la Grand'Maman.",196.0,71.2,False,title_direct,DEBUCOURT,,
-BO0624_83730,16067,40,40,"DEBUCOURT, Par et d'apres. Le Compliment ou la·Matinee du Jour de l'An.",197.0,61.9,False,title_direct,DEBUCOURT,,
-BO0624_83730,16068,41,41,"JANINET, Par et d’apres. Marie-Antoinette d'Autriche, reine de France et de Navarre. mprimee en couleur.",204.0,63.1,False,title_direct,JANINET,,
-BO0624_83730,16069,42,42,"HOPPNER, D'apres. Sophia Western.",212.0,61.8,False,title_direct,HOPPNER,,
-BO0624_83730,16070,43,43,"HOPPNER, D'apres. Mrs Benwell.",216.0,64.0,False,title_direct,HOPPNER,,
-BO0624_83730,16071,44,44,"REYNOLDS, D'apres sir JosHUA. The Honorable Mrs Stanhope.",223.0,62.9,False,title_direct,REYNOLDS,,
-BO0624_83730,16072,45,45,"WARD, Par et d’apres. Louisa.",229.0,76.0,False,positional,REYNOLDS,,
-BO0624_83730,16073,46,46,"BLOOT, PIERRE DE. Paysans au repos.",239.0,63.2,False,positional,,,DESSINS
-BO0624_83730,16074,47,47,"EISEN, CHARLES. L'Ouie.",245.0,68.4,False,title_direct,EISEN,,
-BO0624_83730,16075,48,48,"EISEN, CHARLES. La Danse. La Tragédie.",,46.4,True,title_direct,EISEN,,
-BO0624_83730,16076,49,49,"EISEN, CHARLES. Suite de huit compositions pour illustrer les, Contes de La Fontaine (1762)",260.0,84.7,False,title_direct,EISEN,,
-BO0624_83730,16077,50,50,"LE PRINCE, J.-B. La Peche.",280.0,65.2,False,title_direct,LE PRINCE,,
-BO0624_83730,16078,51,51,"MOREAU LE JEUNE, J.M. Composition pour illustrer Les A-propos de Societe, par Laujon.",291.0,85.1,False,title_direct,MOREAU LE JEUNE,,
-BO0624_83730,16079,52,52,"PRUD'HON, P.P. L'Industrie.",297.0,60.9,False,title_direct,PRUD'HON,,
-BO0624_83730,16080,53,53,"SAINT-AUBIN, GABRIEL DE. La Venus de M. Mignot au Salon de 1757.",317.0,69.2,False,title_direct,SAINT-AUBIN,,
-BO0624_83730,16081,54,54,"SAINT-AUBIN, GABRIEL DE. Composition religieuse.",,53.3,True,title_direct,SAINT-AUBIN,,
-BO0624_83730,16082,55,55,"WATTEAU, LouIs. Villageois buvant, chantant ou dansant aux portes d’une auberge.",342.0,88.4,False,title_direct,WATTEAU,,
-BO0624_83730,16083,56,56,ECOLE FRANCAISE. Figures de Femmes drapees a lantique.,348.0,81.3,False,title_direct,,ECOLE FRANCAISE,
-BO0624_83730,16084,57,57,Nattier. Portrait presume de Mme de Chateauroux.,357.0,84.8,False,positional,,,TABLEAUX
-BO0624_83730,16085,58,58,"POURBUS, D'apres. Portrait d'une Jeune Dame de qualite.",367.0,78.4,False,title_direct,POURBUS,,
-BO0624_83730,16086,59,59,"Soupiere avec son couvercle en ancienne faience de Lorraine, decoree de fleurs en couleurs. et de guirlandes en bleu;bouton de couvercle en forme de poisson.",372.0,98.4,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16087,60,60,Fontaine-applique avec couvercle et bassin en ancienne faience de Marseille; decor en camaieu vert avec rehauts de rose :personnages et paysages.,377.0,80.5,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16088,61,61,"Petit cornet de pharmacie, decor de rinceaux.",381.0,92.8,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16089,62,62,"Quatre fourchettes a poignees d'ancienne faience de Moustiers, decor bleu.",386.0,67.8,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16090,63,63,"Sept couteaux a manches d'ancienne porcelaine variee, decor bleu.",388.0,94.9,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16091,64,64,"Deux petits cornets cylindriques, decor bleu: personnages. Ancienne porcelaine de Chine.",389.0,96.2,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16092,65,65,"Coupe-coquille : vases et attributs. Ancienne porcelaine de Chine, famille verte.",393.0,69.2,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16093,66,66,Paire de potiches avec couvercles en ancienne porcelaine de Chine,397.0,78.6,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16094,67,67,Petit buste en ancien biscuit : Louis XV revetu de l'armure.,402.0,85.7,False,positional,,,FAIENCES; PORCELAINES
-BO0624_83730,16095,68,68,"Paire de flambeaux en argent, decores sur la tige de mascarons et sur la base d'un rang de petits godrons et d'un cordon d'oves. Epoque Régence.",406.0,97.6,False,positional,,,ARGENTERIE
-BO0624_83730,16096,69,69,"Paire de flambeaux-balustres en argent,a decor de coquilles, petites feuilles, oves et faisceaux de baguettes retenues par des agrafes. Epoque Louis Xv.",412.0,94.2,False,positional,,,ARGENTERIE
-BO0624_83730,16097,70,70,"Paire de petits flambeaux en argent, decores de rangees de petits godrons obliques.Poincons de Robin, sous-fermier des droits de marque. Annee 1738-39. Epoque Louis XV.",416.0,94.7,False,positional,,,ARGENTERIE
-BO0624_83730,16098,71,71,"Paire de petits flambeaux en argent, a decor de cannelures torses et de petites coquilles.",420.0,96.3,False,positional,,,ARGENTERIE
-BO0624_83730,16099,72,72,"Paire de petits flambeaux en argent, decores de guirlandes de fleurs ; bases ornees de coquilles et de motifs de rocailles. Poincons de Brichard, sous-fermier des droits de marque. Epoque Louis XV. Haut.,17 cent.",425.0,96.0,False,positional,,,ARGENTERIE
-BO0624_83730,16100,73,73,"Paire de flambeaux-balustres en argent, a decor de rangs de piastres, coquilles, cannelulures et cordons d'oves. Poincons de Fouache, regisseur des droits de marque. Annee 1777-78. Epoque Louis XVI. Haut.,29 cent.",426.0,98.4,False,positional,,,ARGENTERIE
-BO0624_83730,16101,74,74,Paire de flambeaux-balustres a pans en,427.0,93.8,False,positional,,,ARGENTERIE
-BO0624_83730,16102,75,75,Petit buste en bronze dore : guerrier portant l'armure antique. xvir siecle. Base en porphyre.,436.0,96.4,False,positional,,,SCULPTURES
-BO0624_83730,16103,76,76,"Pendule-applique avec socle en marqueterie de cuivre sur écaille, ornee de cariatides, tetes",438.0,96.3,False,positional,,,SCULPTURES
-BO0624_83730,16104,77,77,"Statuette-équestre en bronze a patine brune : Louis XIV en empereur romain,tenant le baton de commandement et portant la perruque; cheval au pas. Base en bois et pate peints verts et dores, a decor de trophees. xvll siecle.",445.0,90.3,False,positional,,,SCULPTURES
-BO0624_83730,16105,78,78,Paire de chenets en bronze dore:aigles aux ailes deployees s'appuyant sur un cartouche. Bases a tetes de cherubins et pieds-griffes. Epoque Regence.,449.0,94.4,False,positional,,,SCULPTURES
-BO0624_83730,16106,79,79,"Paire de chenets en bronze, avec tracesde dorure : figures allegoriques d'enfants sur bases de forme contournee a pieds-griffes et feuillages. Epoque Regence.",453.0,97.8,False,positional,,,SCULPTURES
-BO0624_83730,16107,80,80,"Paire de chenets en bronze dore, formés",457.0,91.8,False,positional,,,SCULPTURES
-BO0624_83730,16108,81,81,"Pendule en marbre blanc et bronze dore, a mouvement surmonte d'attributs de bacchantes ; base oblongue supportant un groupe : amour",462.0,91.8,False,positional,,,SCULPTURES
-BO0624_83730,16109,82,82,"Pendule en bronze patine et dore, a mouvement place sur une base elevee; elle est ornee d'un cote d'une statuette de femme lisant; de l'autre, d'un amour arme d'une faux. Socle rectangulaire en bronze a feuilles d'acanthe. Cadran au nom de :Lepaute, horloger du roi. Epoque",467.0,98.7,False,positional,,,SCULPTURES
-BO0624_83730,16110,83,83,"Deux vases en albatre : anses-tetes de boucs, frises a entrelacs, rangs de feuilles et bases en bronze. Epoque Louis XVI.",472.0,97.2,False,positional,,,SCULPTURES
-BO0624_83730,16111,84,84,"Deux vases simules en marbre blanc, ornés de guirlandes de laurier; anses droites a mascarons, boutons de couvercles et feuillages en bronze dore. Epoque Louis XVI.",476.0,97.9,False,positional,,,SCULPTURES
-BO0624_83730,16112,85,85,"Deux candelabres, a trois lumieres, en bronze dore et marbre blanc, formés chacun d'une statuette de femme debout,vetue a l'antique,et tenant une corne d'abondance d'ou naissent les branches de lumieres; bases enguirlandees de pampres. Epoque Louis XVI.",480.0,98.6,False,positional,,,SCULPTURES
-BO0624_83730,16113,86,86,"Deux candelabres, a deux lumieres,en bronze patine et dore.",483.0,80.4,False,positional,,,SCULPTURES
-BO0624_83730,16114,87,87,"Deux candelabres, a deux lumieres,en bronze patine et dore",488.0,81.1,False,positional,,,SCULPTURES
-BO0624_83730,16115,88,88,"Deux flambeaux-cassolettes en bronze dore, a decor de tetes de boucs, draperies, petites feuilles et sur bases carrees a pieds-griffes. Signes : Eug. Hasart, a Paris.",493.0,97.9,False,positional,,,SCULPTURES
-BO0624_83730,16116,89,89,"Paire de grands flambeaux, en bronze dore, decores de cannelures obliques, feuillages et tores de feuilles de chene. Epoque Louis XVI.",497.0,97.5,False,positional,,,SCULPTURES
-BO0624_83730,16117,90,90,"Deux petits flambeaux en bronze doré,a tiges-balustres et bases ornees de feuilles. Epoque Louis XV.I.",502.0,73.9,False,positional,,,SCULPTURES
-BO0624_83730,16118,91,91,"Paire de grands flambeaux en bronze dore, formes d'un balustre soutenu par deux amours, sur base a tore de laurier et attributs.",507.0,80.6,False,positional,,,SCULPTURES
-BO0624_83730,16119,92,92,"Pendule en bronze dore, surmontee d'un vase enguirlande.",510.0,81.1,False,positional,,,SCULPTURES
-BO0624_83730,16120,93,93,"Vase en porphyre rouge, avec couvercle: anses-mascarons, draperies et base en bronze dore.",516.0,71.8,False,positional,,,SCULPTURES
-BO0624_83730,16121,94,94,"Deux groupes en terre cuite, formes chacun de deux figures allegoriques d'enfants personnifiant l'Ete et l'Hiver. xvin siecle.",521.0,79.6,False,positional,,,SCULPTURES
-BO0624_83730,16122,95,95,"Paravent,a quatre feuilles ornees de huit carres en broderie de soie de couleurs et d'argent dore, de travail italien du xvr siecle: decor de personnages et rinceaux.",527.0,97.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16123,96,96,"Support-applique en marqueterie decaille sur étain, garni de mufles de lions, feuillages, rubans, rangs de godrons et volutes en bronze dore. Epoque Louis XIV.",531.0,97.8,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16124,97,97,"Support-applique en bois sculpte et doré, decore de mascarons, guirlandes et volutes.",534.0,96.0,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16125,98,98,"Deux supports-appliques en chene sculpte, a decor d'ailettes, rinceaux et feuillages. Epoque Regence.",539.0,89.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16126,99,99,"Table de milieu, composée d'une console transformee, en chene sculpté, decoree de larges coquilles et de rinceaux, et sur quatre pieds cambres a dauphins relies par un croisillon.",544.0,98.1,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16127,100,100,"Canape a joues et six fauteuils en bois sculpte, a decor de rocailles, coquilles et fleurs. Sieges et dossiers cannes. Epoque Regence. Coussins de velours rouge.",549.0,97.6,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16128,101,101,"Fauteuil en bois sculpte, a decor de palmettes et rinceaux; pieds a croisillon. Epoque Regence. Il est couvert de cuir.",553.0,80.8,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16129,102,102,"Console en bois sculpte et dore, a decor de palmettes et rinceaux sur quatre pieds cambres relies par un croisillon; dessus de marbre. Epoque Regence.",558.0,91.8,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16130,103,103,"Grande glace biseautee, dans un cadre en chene sculpte, decore d'attributs de l'amour et de fleurs. Epoque Regence.",562.0,84.4,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16131,104,104,"Bibliotheque a deux portes vitrees,en bois sculpte et peint blanc et or; decor de rangs de petites feuilles, rinceaux et moulures. XVIII siecle.",567.0,82.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16132,105,105,"Meuble de salon en bois sculpte,peint blanc et dore, a decor de rais de coeur, rangs de piastres et feuilles. Signe : Jacob. Il comprend : un canape, deux bergeres et huit fauteuils. Epoque Louis XVI. Il est recouvert d'étoffe rouge.",572.0,87.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16133,106,106,"Console en bois sculpte et dore, a ceinture, ornee de canaux, et reposant sur six pieds, relies par une entretoise a vase. Signee: Jacob. Dessus de marbre. Epoque Louis XVl.",577.0,97.7,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16134,107,107,"Petite table oblongue, avec tablette d'entrejambes et a un tiroir, en bois clair. Dessus de marbre blanc, galeries de cuivre. Epoque Louis XVI.",581.0,93.3,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16135,108,108,"Commode a trois rangs de tiroirs,en acajou, avec cannelures aux angles et pieds-toupies.",586.0,95.7,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16136,109,109,"Deux encoignures a une porte en marqueterie de bois de couleurs, a dessin de quartefeuilles dans des entrelacs. Garnitures en bronze dore : chutes, rosaces, frises et cul-de-lampe.",591.0,97.8,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16137,110,110,"Console demi-ronde en bois sculpte et dore, a decor de guirlandes de fleurs, reposant sur quatre pieds-balustres canneles, relies par un croisillon a vase. Dessus de marbre. Epoque Louis XVI.",596.0,97.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16138,111,111,"Gaine en bois sculpte et peint blanc,a bouquets de fleurs enrubanees. Epoque Louis XVI.",600.0,88.4,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16139,112,112,"Table ronde en acajou, sur quatre pieds canneles, relies par un croisillon; bordure de cuivre. Signee : Riesener. Fin du xville siecle.",605.0,81.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,16140,113,113,Petit écran en bois laque blanc; feuille ovale en tapisserie a fleurs et draperies sur fond blanc  du temps de Louis XVI.,609.0,83.0,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,739889,114,114,"Banquette en bois sculpte et dore, recouverte d'une bande de tapisserie du xvinl siecle, a fleurs sur fond marron.",613.0,96.6,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,739890,115,115,"Ecran en bois sculpte et dore,feuille en tapisserie d'Aubusson du xvur siecle, a sujet galant, avec encadrement de fleurs.",617.0,96.8,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,739891,116,116,"Tablette de cheminee, ornee d'une bande de tapisserie du xvile siecle, a decor de fleurs, feuilles et oiseaux sur fond marron.",621.0,96.9,False,positional,,,MEUBLES; TAPISSERIES
-BO0624_83730,739892,117,117,"Tapisserie flamande du xvire siecle: amour tonnelier, fond de paysage; bordure de feurs, fruits, animaux sur champ marron.",625.0,96.8,False,positional,,,MEUBLES; TAPISSERIES
+catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
+BO0624_83730,16028,1,1,"Callet, D'apres A. Portrait du cardinal de Bernis.",20,62.5,False,positional,,,GRAVURES,,
+BO0624_83730,16029,2,2,Poilly. Portrait de Michel Le Tellier.,24,82.2,False,positional,,,GRAVURES,,
+BO0624_83730,16030,3,3,"PRUD'HON, D'apres. L'Amour enchaine.",26,65.3,False,title_direct,PRUD'HON,,,,
+BO0624_83730,16031,4,4,"LANCRET, D'apres N. Le Repas italien.",29,66.7,False,title_direct,LANCRET,,,,
+BO0624_83730,16032,5,5,"LANCRET, D'apres N. L'Adolescence.",35,70.8,False,title_direct,LANCRET,,,,
+BO0624_83730,16033,6,6,"LANCRET, D'apres N. Les Remois.",41,75.6,False,title_direct,LANCRET,,,,
+BO0624_83730,16034,7,7,"WATTEAU, D'apres A. L'Amante inquiete.",47,65.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16035,8,8,"WATTEAU, D'apres A. Le Teste-a-Teste.",53,66.7,False,title_direct,WATTEAU,,,,
+BO0624_83730,16036,9,9,"WATTEAU, D'apres A. La Finette.",58,75.6,False,title_direct,WATTEAU,,,,
+BO0624_83730,16037,10,10,"WATTEAU, D'apres A. L'Indifferent.",64,70.8,False,title_direct,WATTEAU,,,,
+BO0624_83730,16038,11,11,"WATTEAU, D'apres A. La Sultane.",68,75.6,False,title_direct,WATTEAU,,,,
+BO0624_83730,16039,12,12,"WATTEAU, D'apres A. Les Comediens italiens.",72,59.6,False,title_direct,WATTEAU,,,,
+BO0624_83730,16040,13,13,"WATTEAU, D'apres A. La Danse paysanne.",76,65.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16041,14,14,"WATTEAU, D'apres A. Diane au bain.",79,70.8,False,title_direct,WATTEAU,,,,
+BO0624_83730,16042,15,15,"WATTEAU, D'apres A. L'Amour au Theatre-Francais.",87,58.3,False,title_direct,WATTEAU,,,,
+BO0624_83730,16043,16,16,"WATTEAU, D'apres A.  L'Amour au Theatre-Italien.",91,57.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16044,17,17,"WATTEAU, D'apres A. Le Concert italien.",93,64.2,False,title_direct,WATTEAU,,,,
+BO0624_83730,16045,18,18,"WATTEAU, D'apres A. Les Charmes de la Vie.",97,60.7,False,title_direct,WATTEAU,,,,
+BO0624_83730,16046,19,19,"WATTEAU, D'apres A. Le Passe-Temps.",100,69.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16047,20,20,"WATTEAU, D'apres A.  La Perspective.",104,69.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16048,21,21,"WATTEAU, D'apres A. L'Accordee de Village.",108,60.7,False,title_direct,WATTEAU,,,,
+BO0624_83730,16049,22,22,"WATTEAU, D'apres A.  La Cascade.",112,75.6,False,title_direct,WATTEAU,,,,
+BO0624_83730,16050,23,23,"WATTEAU, D'apres A. L'Ile enchantee.",116,68.0,False,title_direct,WATTEAU,,,,
+BO0624_83730,16051,24,24,"WATTEAU, D'apres A. Les Plaisirs du Bal.",119,67.8,False,title_direct,WATTEAU,,,,
+BO0624_83730,16052,25,25,"WATTEAU, D'apres A. L'Embarquement pour Cythere.",125,60.2,False,title_direct,WATTEAU,,,,
+BO0624_83730,16053,26,26,"WATTEAU, D'apres A.  L'Enseigne.",127,75.6,False,title_direct,WATTEAU,,,,
+BO0624_83730,16054,27,27,"LARGILLIERE, D'apres N. De. Portrait de Mlle Duclos.",131,66.7,False,positional,WATTEAU,,,,
+BO0624_83730,16055,28,28,"NATTIER, D'apres. Marie, princesse de Cologne, reine de France et de Navarre.",139,61.7,False,title_direct,NATTIER,,,,
+BO0624_83730,16056,29,29,"RIGAUD, D'apres H. Portrait de Girardin de Vauore.",145,62.6,False,title_direct,RIGAUD,,,,
+BO0624_83730,16057,30,30,"RIGAUD, D'apres H. Portrait de Francois de Montmorency, duc de Luxembourg.",149,66.7,False,title_direct,RIGAUD,,,,
+BO0624_83730,16058,31,31,"RIGAUD, D'apres H. Jean-Baptiste Colbert.",156,71.2,False,title_direct,RIGAUD,,,,
+BO0624_83730,16059,32,32,"RIGAUD, D'apres H. Portrait de Louis de Boullongne.",162,64.6,False,title_direct,RIGAUD,,,,
+BO0624_83730,16060,33,33,"RIGAUD, D'apres H. Portrait de Philbert Orry.",167,55.9,False,title_direct,RIGAUD,,,,
+BO0624_83730,16061,34,34,"RIGAUD, D'apres H. Mme Le Bret de la Briffe.",170,73.5,False,title_direct,RIGAUD,,,,
+BO0624_83730,16062,35,35,"RIGAUD, D'apres H. Portrait de la duchesse de Nemours.",176,63.6,False,title_direct,RIGAUD,,,,
+BO0624_83730,16063,36,36,"RIGAUD, D'apres H. Portrait de Samuel Bernard.",180,59.3,False,title_direct,RIGAUD,,,,
+BO0624_83730,16064,37,37,"TAUNAY, D'apres. Noce de village.",184,66.7,False,title_direct,TAUNAY,,,,
+BO0624_83730,16065,38,38,"TAUNAY, D'apres. Foire de village.",185,68.0,False,title_direct,TAUNAY,,,,
+BO0624_83730,16066,39,39,"DEBUCOURT, Par et d'apres.  Les Bouquets ou la Fete de la Grand'Maman.",196,76.4,False,title_direct,DEBUCOURT,,,,
+BO0624_83730,16067,40,40,"DEBUCOURT, Par et d'apres. Le Compliment ou la·Matinee du Jour de l'An.",197,67.9,False,title_direct,DEBUCOURT,,,,
+BO0624_83730,16068,41,41,"JANINET, Par et d’apres. Marie-Antoinette d'Autriche, reine de France et de Navarre. mprimee en couleur.",204,73.0,False,title_direct,JANINET,,,,
+BO0624_83730,16069,42,42,"HOPPNER, D'apres. Sophia Western.",210,66.7,False,title_direct,HOPPNER,,,,
+BO0624_83730,16070,43,43,"HOPPNER, D'apres. Mrs Benwell.",216,71.4,False,title_direct,HOPPNER,,,,
+BO0624_83730,16071,44,44,"REYNOLDS, D'apres sir JosHUA. The Honorable Mrs Stanhope.",221,66.7,False,title_direct,REYNOLDS,,,,
+BO0624_83730,16072,45,45,"WARD, Par et d’apres. Louisa.",229,84.4,False,positional,REYNOLDS,,,,
+BO0624_83730,16073,46,46,"BLOOT, PIERRE DE. Paysans au repos.",239,66.7,False,positional,,,DESSINS,,
+BO0624_83730,16074,47,47,"EISEN, CHARLES. L'Ouie.",245,78.8,False,title_direct,EISEN,,,,
+BO0624_83730,16075,48,48,"EISEN, CHARLES. La Danse. La Tragédie.",250,55.3,False,title_direct,EISEN,,,,
+BO0624_83730,16076,49,49,"EISEN, CHARLES. Suite de huit compositions pour illustrer les, Contes de La Fontaine (1762)",260,90.7,False,title_direct,EISEN,,,,Sec. XVIII
+BO0624_83730,16077,50,50,"LE PRINCE, J.-B. La Peche.",280,74.3,False,title_direct,LE PRINCE,,,,
+BO0624_83730,16078,51,51,"MOREAU LE JEUNE, J.M. Composition pour illustrer Les A-propos de Societe, par Laujon.",291,85.9,False,title_direct,MOREAU LE JEUNE,,,,
+BO0624_83730,16079,52,52,"PRUD'HON, P.P. L'Industrie.",297,66.7,False,title_direct,PRUD'HON,,,,
+BO0624_83730,16080,53,53,"SAINT-AUBIN, GABRIEL DE. La Venus de M. Mignot au Salon de 1757.",317,76.0,False,title_direct,SAINT-AUBIN,,,,Sec. XVIII
+BO0624_83730,16081,54,54,"SAINT-AUBIN, GABRIEL DE. Composition religieuse.",334,65.7,False,title_direct,SAINT-AUBIN,,,,
+BO0624_83730,16082,55,55,"WATTEAU, LouIs. Villageois buvant, chantant ou dansant aux portes d’une auberge.",342,89.4,False,title_direct,WATTEAU,,,,
+BO0624_83730,16083,56,56,ECOLE FRANCAISE. Figures de Femmes drapees a lantique.,348,81.8,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83730,16084,57,57,Nattier. Portrait presume de Mme de Chateauroux.,357,89.7,False,positional,,,TABLEAUX,,
+BO0624_83730,16085,58,58,"POURBUS, D'apres. Portrait d'une Jeune Dame de qualite.",367,81.3,False,title_direct,POURBUS,,,,
+BO0624_83730,16086,59,59,"Soupiere avec son couvercle en ancienne faience de Lorraine, decoree de fleurs en couleurs. et de guirlandes en bleu;bouton de couvercle en forme de poisson.",372,99.0,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16087,60,60,Fontaine-applique avec couvercle et bassin en ancienne faience de Marseille; decor en camaieu vert avec rehauts de rose :personnages et paysages.,377,80.7,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16088,61,61,"Petit cornet de pharmacie, decor de rinceaux.",381,96.6,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16089,62,62,"Quatre fourchettes a poignees d'ancienne faience de Moustiers, decor bleu.",386,69.6,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16090,63,63,"Sept couteaux a manches d'ancienne porcelaine variee, decor bleu.",388,97.7,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16091,64,64,"Deux petits cornets cylindriques, decor bleu: personnages. Ancienne porcelaine de Chine.",389,98.2,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16092,65,65,"Coupe-coquille : vases et attributs. Ancienne porcelaine de Chine, famille verte.",393,69.4,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16093,66,66,Paire de potiches avec couvercles en ancienne porcelaine de Chine,397,79.6,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16094,67,67,Petit buste en ancien biscuit : Louis XV revetu de l'armure.,402,97.4,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83730,16095,68,68,"Paire de flambeaux en argent, decores sur la tige de mascarons et sur la base d'un rang de petits godrons et d'un cordon d'oves. Epoque Régence.",406,98.9,False,positional,,,ARGENTERIE,,
+BO0624_83730,16096,69,69,"Paire de flambeaux-balustres en argent,a decor de coquilles, petites feuilles, oves et faisceaux de baguettes retenues par des agrafes. Epoque Louis Xv.",412,99.0,False,positional,,,ARGENTERIE,,
+BO0624_83730,16097,70,70,"Paire de petits flambeaux en argent, decores de rangees de petits godrons obliques.Poincons de Robin, sous-fermier des droits de marque. Annee 1738-39. Epoque Louis XV.",416,99.1,False,positional,,,ARGENTERIE,,Sec. XVIII
+BO0624_83730,16098,71,71,"Paire de petits flambeaux en argent, a decor de cannelures torses et de petites coquilles.",420,98.3,False,positional,,,ARGENTERIE,,
+BO0624_83730,16099,72,72,"Paire de petits flambeaux en argent, decores de guirlandes de fleurs ; bases ornees de coquilles et de motifs de rocailles. Poincons de Brichard, sous-fermier des droits de marque. Epoque Louis XV. Haut.,17 cent.",425,99.3,False,positional,,,ARGENTERIE,,
+BO0624_83730,16100,73,73,"Paire de flambeaux-balustres en argent, a decor de rangs de piastres, coquilles, cannelulures et cordons d'oves. Poincons de Fouache, regisseur des droits de marque. Annee 1777-78. Epoque Louis XVI. Haut.,29 cent.",426,99.3,False,positional,,,ARGENTERIE,,Sec. XVIII
+BO0624_83730,16101,74,74,Paire de flambeaux-balustres a pans en,427,96.2,False,positional,,,ARGENTERIE,,
+BO0624_83730,16102,75,75,Petit buste en bronze dore : guerrier portant l'armure antique. xvir siecle. Base en porphyre.,436,98.3,False,positional,,,SCULPTURES,,
+BO0624_83730,16103,76,76,"Pendule-applique avec socle en marqueterie de cuivre sur écaille, ornee de cariatides, tetes",438,98.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16104,77,77,"Statuette-équestre en bronze a patine brune : Louis XIV en empereur romain,tenant le baton de commandement et portant la perruque; cheval au pas. Base en bois et pate peints verts et dores, a decor de trophees. xvll siecle.",445,99.3,False,positional,,,SCULPTURES,,
+BO0624_83730,16105,78,78,Paire de chenets en bronze dore:aigles aux ailes deployees s'appuyant sur un cartouche. Bases a tetes de cherubins et pieds-griffes. Epoque Regence.,449,99.0,False,positional,,,SCULPTURES,,
+BO0624_83730,16106,79,79,"Paire de chenets en bronze, avec tracesde dorure : figures allegoriques d'enfants sur bases de forme contournee a pieds-griffes et feuillages. Epoque Regence.",453,99.0,False,positional,,,SCULPTURES,,
+BO0624_83730,16107,80,80,"Paire de chenets en bronze dore, formés",457,96.2,False,positional,,,SCULPTURES,,
+BO0624_83730,16108,81,81,"Pendule en marbre blanc et bronze dore, a mouvement surmonte d'attributs de bacchantes ; base oblongue supportant un groupe : amour",462,98.8,False,positional,,,SCULPTURES,,
+BO0624_83730,16109,82,82,"Pendule en bronze patine et dore, a mouvement place sur une base elevee; elle est ornee d'un cote d'une statuette de femme lisant; de l'autre, d'un amour arme d'une faux. Socle rectangulaire en bronze a feuilles d'acanthe. Cadran au nom de :Lepaute, horloger du roi. Epoque",467,99.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16110,83,83,"Deux vases en albatre : anses-tetes de boucs, frises a entrelacs, rangs de feuilles et bases en bronze. Epoque Louis XVI.",472,98.7,False,positional,,,SCULPTURES,,
+BO0624_83730,16111,84,84,"Deux vases simules en marbre blanc, ornés de guirlandes de laurier; anses droites a mascarons, boutons de couvercles et feuillages en bronze dore. Epoque Louis XVI.",476,99.1,False,positional,,,SCULPTURES,,
+BO0624_83730,16112,85,85,"Deux candelabres, a trois lumieres, en bronze dore et marbre blanc, formés chacun d'une statuette de femme debout,vetue a l'antique,et tenant une corne d'abondance d'ou naissent les branches de lumieres; bases enguirlandees de pampres. Epoque Louis XVI.",480,99.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16113,86,86,"Deux candelabres, a deux lumieres,en bronze patine et dore.",483,82.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16114,87,87,"Deux candelabres, a deux lumieres,en bronze patine et dore",488,82.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16115,88,88,"Deux flambeaux-cassolettes en bronze dore, a decor de tetes de boucs, draperies, petites feuilles et sur bases carrees a pieds-griffes. Signes : Eug. Hasart, a Paris.",493,99.1,False,positional,,,SCULPTURES,,
+BO0624_83730,16116,89,89,"Paire de grands flambeaux, en bronze dore, decores de cannelures obliques, feuillages et tores de feuilles de chene. Epoque Louis XVI.",497,98.9,False,positional,,,SCULPTURES,,
+BO0624_83730,16117,90,90,"Deux petits flambeaux en bronze doré,a tiges-balustres et bases ornees de feuilles. Epoque Louis XV.I.",502,74.2,False,positional,,,SCULPTURES,,
+BO0624_83730,16118,91,91,"Paire de grands flambeaux en bronze dore, formes d'un balustre soutenu par deux amours, sur base a tore de laurier et attributs.",507,80.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16119,92,92,"Pendule en bronze dore, surmontee d'un vase enguirlande.",510,84.8,False,positional,,,SCULPTURES,,
+BO0624_83730,16120,93,93,"Vase en porphyre rouge, avec couvercle: anses-mascarons, draperies et base en bronze dore.",516,71.6,False,positional,,,SCULPTURES,,
+BO0624_83730,16121,94,94,"Deux groupes en terre cuite, formes chacun de deux figures allegoriques d'enfants personnifiant l'Ete et l'Hiver. xvin siecle.",521,79.4,False,positional,,,SCULPTURES,,
+BO0624_83730,16122,95,95,"Paravent,a quatre feuilles ornees de huit carres en broderie de soie de couleurs et d'argent dore, de travail italien du xvr siecle: decor de personnages et rinceaux.",527,98.5,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16123,96,96,"Support-applique en marqueterie decaille sur étain, garni de mufles de lions, feuillages, rubans, rangs de godrons et volutes en bronze dore. Epoque Louis XIV.",531,99.0,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16124,97,97,"Support-applique en bois sculpte et doré, decore de mascarons, guirlandes et volutes.",534,98.2,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16125,98,98,"Deux supports-appliques en chene sculpte, a decor d'ailettes, rinceaux et feuillages. Epoque Regence.",539,92.5,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16126,99,99,"Table de milieu, composée d'une console transformee, en chene sculpté, decoree de larges coquilles et de rinceaux, et sur quatre pieds cambres a dauphins relies par un croisillon.",544,99.1,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16127,100,100,"Canape a joues et six fauteuils en bois sculpte, a decor de rocailles, coquilles et fleurs. Sieges et dossiers cannes. Epoque Regence. Coussins de velours rouge.",549,98.7,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16128,101,101,"Fauteuil en bois sculpte, a decor de palmettes et rinceaux; pieds a croisillon. Epoque Regence. Il est couvert de cuir.",553,82.6,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16129,102,102,"Console en bois sculpte et dore, a decor de palmettes et rinceaux sur quatre pieds cambres relies par un croisillon; dessus de marbre. Epoque Regence.",558,93.2,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16130,103,103,"Grande glace biseautee, dans un cadre en chene sculpte, decore d'attributs de l'amour et de fleurs. Epoque Regence.",562,85.6,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16131,104,104,"Bibliotheque a deux portes vitrees,en bois sculpte et peint blanc et or; decor de rangs de petites feuilles, rinceaux et moulures. XVIII siecle.",567,96.0,False,positional,,,MEUBLES; TAPISSERIES,,Sec. XVIII
+BO0624_83730,16132,105,105,"Meuble de salon en bois sculpte,peint blanc et dore, a decor de rais de coeur, rangs de piastres et feuilles. Signe : Jacob. Il comprend : un canape, deux bergeres et huit fauteuils. Epoque Louis XVI. Il est recouvert d'étoffe rouge.",572,88.6,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16133,106,106,"Console en bois sculpte et dore, a ceinture, ornee de canaux, et reposant sur six pieds, relies par une entretoise a vase. Signee: Jacob. Dessus de marbre. Epoque Louis XVl.",577,98.8,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16134,107,107,"Petite table oblongue, avec tablette d'entrejambes et a un tiroir, en bois clair. Dessus de marbre blanc, galeries de cuivre. Epoque Louis XVI.",581,94.8,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16135,108,108,"Commode a trois rangs de tiroirs,en acajou, avec cannelures aux angles et pieds-toupies.",586,97.7,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16136,109,109,"Deux encoignures a une porte en marqueterie de bois de couleurs, a dessin de quartefeuilles dans des entrelacs. Garnitures en bronze dore : chutes, rosaces, frises et cul-de-lampe.",591,98.9,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16137,110,110,"Console demi-ronde en bois sculpte et dore, a decor de guirlandes de fleurs, reposant sur quatre pieds-balustres canneles, relies par un croisillon a vase. Dessus de marbre. Epoque Louis XVI.",596,98.9,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16138,111,111,"Gaine en bois sculpte et peint blanc,a bouquets de fleurs enrubanees. Epoque Louis XVI.",600,97.7,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16139,112,112,"Table ronde en acajou, sur quatre pieds canneles, relies par un croisillon; bordure de cuivre. Signee : Riesener. Fin du xville siecle.",605,81.9,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,16140,113,113,Petit écran en bois laque blanc; feuille ovale en tapisserie a fleurs et draperies sur fond blanc  du temps de Louis XVI.,609,88.1,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,739889,114,114,"Banquette en bois sculpte et dore, recouverte d'une bande de tapisserie du xvinl siecle, a fleurs sur fond marron.",613,97.4,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,739890,115,115,"Ecran en bois sculpte et dore,feuille en tapisserie d'Aubusson du xvur siecle, a sujet galant, avec encadrement de fleurs.",617,98.3,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,739891,116,116,"Tablette de cheminee, ornee d'une bande de tapisserie du xvile siecle, a decor de fleurs, feuilles et oiseaux sur fond marron.",621,98.4,False,positional,,,MEUBLES; TAPISSERIES,,
+BO0624_83730,739892,117,117,"Tapisserie flamande du xvire siecle: amour tonnelier, fond de paysage; bordure de feurs, fruits, animaux sur champ marron.",625,98.3,False,positional,,,MEUBLES; TAPISSERIES,,

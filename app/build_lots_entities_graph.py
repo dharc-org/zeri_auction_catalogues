@@ -32,6 +32,30 @@ GID_OGGETTI, GID_SCUOLE, GID_ARTISTI = "1330387938", "379770645", "910064299"
 HISTORICA_SPREADSHEET_ID = "1CC4sbzh8EtqYs16JSfTR9kUoNU9XfeJQpu3qC7ZWht0"
 HISTORICA_GID = "1619304272"
 
+# secolo (numerale romano, forma canonica "ZERI" del tab periodi) -> termine AAT
+AAT_CENTURY = {
+    "I": "300404493",
+    "II": "300404494",
+    "III": "300404495",
+    "IV": "300404496",
+    "V": "300404497",
+    "VI": "300404498",
+    "VII": "300404499",
+    "VIII": "300404500",
+    "IX": "300404501",
+    "X": "300404502",
+    "XI": "300404503",
+    "XII": "300404504",
+    "XIII": "300404505",
+    "XIV": "300404506",
+    "XV": "300404465",
+    "XVI": "300404510",
+    "XVII": "300404511",
+    "XVIII": "300404512",
+    "XIX": "300404513",
+    "XX": "300404514",
+}
+
 # Formato output: "nt" e' molto piu' veloce di "turtle" su grafi grandi
 # (il serializzatore turtle di rdflib < 7 ha complessita' quadratica).
 # Se serve leggibilita' umana e il grafo e' piccolo, rimetti "turtle".
@@ -145,6 +169,7 @@ def load_object_type_map(df: pd.DataFrame) -> dict[str, str]:
             continue
         for variant in parse_variants(row.get("variants", "")):
             variant_map[variant] = normalized
+            variant_map[normalized] = normalized
     return variant_map
 
 
@@ -161,6 +186,7 @@ def load_school_map(df: pd.DataFrame) -> dict[str, dict]:
                     }
         for variant in parse_variants(row.get("variants", "")):
             variant_map[variant] = entry
+        variant_map[row.get("ZERI SOTTOCATEGORIA", "").strip()] = entry
     return variant_map
 
 
@@ -170,7 +196,12 @@ def load_artist_map(df: pd.DataFrame) -> dict[str, dict]:
         entry = {"rivisto": parse_bool(row.get("rivisto", "")), "zeri": row.get("ZERI", "").strip()}
         for variant in parse_variants(row.get("variants", "")):
             variant_map[variant] = entry
+        variant_map[row.get("ZERI", "").strip()] = entry
     return variant_map
+
+
+def map_period_to_aat(period: str) -> str | None:
+    return AAT_CENTURY.get(period.strip().upper())
 
 
 def get_db():
@@ -198,7 +229,13 @@ def load_entities_for_catalogue(catalogue_id: str) -> dict[int, dict]:
     by_chunk = {}
     with open(csv_path, encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            by_chunk[int(row["chunk_id"])] = {"artist": row.get("artist", ""), "school": row.get("school", ""), "object_type": row.get("object_type", "")}
+            by_chunk[int(row["chunk_id"])] = {
+                "artist": row.get("artist", ""),
+                "school": row.get("school", ""),
+                "object_type": row.get("object_type", ""),
+                "collection": row.get("collection", ""),
+                "period": row.get("period", ""),
+            }
     return by_chunk
 
 
@@ -239,39 +276,72 @@ def normalize_author(
     return (entry["zeri"], 'validated') if entry and entry["rivisto"] else (author.strip(), 'not validated')
 
 
-def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, object_type_map: dict[str, str], school_map: dict[str, dict], artist_map: dict[str, dict]):
+def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, collection: str, period: str,
+                        object_type_map: dict[str, str], school_map: dict[str, dict], artist_map: dict[str, dict]):
 
-    #catalogue_id = lot_id
+    catalogue_id = lot_id.split('_', 1)[0]
+
     if object_type:
         norm = normalize_object_type(object_type, object_type_map)
         object_uri = URIRef(ZAC[f"type/{clean(norm)}"])
         g.add((URIRef(ZAC[lot_id]), CRM.P2_has_type, object_uri))
         g.add((object_uri, RDFS.label, Literal(norm)))
 
-    if not (school or author):
-        return
+    # collezione risolta direttamente dal tab "collezioni" (colonna "collection" nel csv):
+    # si affianca, non sostituisce, al caso sotto in cui e' il tab "scuole" a rivelare
+    # che una riga e' in realta' una collezione
+    if collection:
+        collection_uri = URIRef(ZAC[clean(collection)])
+        g.add((URIRef(ZAC[catalogue_id + '_auction']), CRM.P16_used_specific_object, collection_uri))
+        g.add((collection_uri, RDF.type, CRM.E78_Curated_Holding))
+        g.add((collection_uri, RDFS.label, Literal(collection)))
+        g.add((collection_uri, CRM.P46_is_composed_of, URIRef(ZAC[lot_id])))
 
+    # risolvi entity_type da school/author PRIMA di decidere se creare la
+    # creation: righe del tab "scuole" possono in realta' essere artista,
+    # oggetti, collezione o casa d'aste, non solo "scuola"
     artist_or_school, broader, entity_type, validated = None, None, None, None
-    if school:
+    if school and not author:
         normalized = normalize_school(school, school_map)
         artist_or_school = normalized[0]
         broader = normalized[1]
         entity_type = normalized[2]
         validated = normalized[3]
-    if author:
+    elif (author and not school) or (author and school):
         normalized = normalize_author(author, artist_map)
         artist_or_school = normalized[0]
         entity_type = 'artista'
         validated = normalized[1]
 
-    # school or artist in table "scuole"
-    if entity_type and (entity_type == 'artista' or entity_type == 'scuola'):
-        creation_uri = URIRef(ZAC[f"creation_{lot_id}"])
-        actor_uri = URIRef(ZAC[clean(artist_or_school)])
+    is_actor = entity_type in ('artista', 'scuola')
+
+    # creation: va creata solo se c'e' un vero attore (artista/scuola) o un
+    # periodo. NON va creata quando school si risolve in collezione/oggetti/
+    # casa d'aste: in quei casi non c'e' un evento di creazione da esprimere,
+    # solo un'altra relazione (composizione di collezione, tipo, ecc.)
+    creation_uri = URIRef(ZAC[f"creation_{lot_id}"])
+    if is_actor or period:
         g.add((URIRef(ZAC[lot_id]), CRM.P94i_was_created_by, creation_uri))
         g.add((creation_uri, RDF.type, CRM.E65_Creation))
+
+    if period:
+        aat_id = map_period_to_aat(period)
+        if aat_id:
+            g.add((creation_uri, CRM["P4_has_time-span"], AAT[aat_id]))
+        else:
+            print(f"  [warn] {lot_id}: periodo '{period}' non mappato a un termine AAT (AAT_CENTURY)")
+
+    # school or artist in table "scuole"
+    if is_actor:
+        actor_uri = URIRef(ZAC[clean(artist_or_school)])
         g.add((creation_uri, CRM.P14_carried_out_by, actor_uri))
         g.add((actor_uri, RDFS.label, Literal(artist_or_school)))
+        if 'attrib' in artist_or_school.lower() or 'zugeschrieben' in artist_or_school.lower():
+            g.add((URIRef(ZAC[lot_id+'_attribution']), RDF.type, CRM.E13_Attribute_Assignment ))
+            g.add((URIRef(ZAC[lot_id+'_attribution']), CRM.P140_assigned_attribute_to, URIRef(ZAC[lot_id]) ))
+            g.add((URIRef(ZAC[lot_id+'_attribution']), CRM.P141_assigned, actor_uri ))
+            g.add((URIRef(ZAC[lot_id+'_attribution']), CRM.P177_assigned_property_of_type, CRM.P14_carried_out_by ))
+
 
         if entity_type == 'scuola':
             g.add((actor_uri, RDF.type, CRM.E74_Group ))
@@ -284,6 +354,7 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
         else:
             g.add((creation_uri, CRM.P2_has_type, URIRef(ZAC['not_validated']) ))
 
+
         if broader:
             broader_uri = URIRef(ZAC[clean(broader)])
             g.add((actor_uri, CRM.P127_has_broader_term, broader_uri))
@@ -295,9 +366,60 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
             g.add((URIRef(ZAC[lot_id]), CRM.P2_has_type, object_uri))
             g.add((object_uri, RDFS.label, Literal(norm)))
 
-        # if entity_type == 'collezione':
-        #     # crm:P16_used_specific_object
+        if entity_type == 'collezione':
+            collection_uri = URIRef(ZAC[clean(artist_or_school)])
+            g.add((URIRef(ZAC[catalogue_id+'_auction']), CRM.P16_used_specific_object, collection_uri ))
+            g.add(( collection_uri, RDF.type, CRM.E78_Curated_Holding ))
+            g.add(( collection_uri, RDFS.label, Literal(artist_or_school) ))
+            g.add(( collection_uri, CRM.P46_is_composed_of, URIRef(ZAC[lot_id]) ))
+
         # if entity_type == "casa d'aste":
+        #     auctioneer_uri = URIRef(ZAC[clean(artist_or_school)])
+        #     g.add(( URIRef(ZAC[catalogue_id+'_auction']), CRM.P9_consists_of, URIRef(ZAC[catalogue_id+'_organisation']) ))
+        #     g.add(( URIRef(ZAC[catalogue_id+'_organisation']), RDF.type, CRM.E7_Activity ))
+        #     g.add(( URIRef(ZAC[catalogue_id+'_organisation']), CRM.P2_has_type, URIRef(ZAC['auction_organisation']) ))
+        #     g.add(( URIRef(ZAC[catalogue_id+'_organisation']), CRM.P14_carried_out_by, auctioneer_uri ))
+        #     g.add(( auctioneer_uri, RDF.type, CRM.E74_Group ))
+        #     g.add(( auctioneer_uri, RDFS.label, Literal(artist_or_school) ))
+        #
+        #     g.add((URIRef(catalogue_id+'_organisation_assignment'), RDF.type, CRM.E13_Attribute_Assignment))
+        #     g.add((URIRef(catalogue_id+'_organisation_assignment'), CRM.P140_assigned_attribute_to, URIRef(ZAC[catalogue_id+'_organisation']) ))
+        #     g.add((URIRef(catalogue_id+'_organisation_assignment'), CRM.P141_assigned, auctioneer_uri ))
+        #     g.add((URIRef(catalogue_id+'_organisation_assignment'), CRM.P177_assigned_property_type, CRM.P14_carried_out_by ))
+        #     g.add((URIRef(catalogue_id+'_organisation_assignment'), CRM.P2_has_type, URIRef(ZAC["secondary_organiser"]) ))
+
+def fill_missing_historica_images(image_urls: list[str | None]) -> list[str | None]:
+    """
+    Riempie i buchi (None) nella sequenza di image_url risolti per lotto,
+    in ordine di catalogo. Il caso tipico e' un lotto senza image_online
+    (o con estrazione della page label fallita) che in realta' condivide
+    la stessa pagina scansionata del lotto precedente.
+
+    Regola: forward-fill (eredita dal lotto precedente). Se il buco e'
+    all'inizio del catalogo e non esiste un lotto precedente risolto,
+    backward-fill (eredita dal primo lotto successivo risolto).
+
+    Non tocca i valori gia' risolti. Buchi multipli consecutivi ereditano
+    tutti lo stesso valore del lotto precedente noto (nessuna interpolazione
+    verso il valore successivo, che potrebbe essere una pagina diversa).
+    """
+    filled = list(image_urls)
+
+    last_seen = None
+    for i, url in enumerate(filled):
+        if url is not None:
+            last_seen = url
+        elif last_seen is not None:
+            filled[i] = last_seen
+
+    next_seen = None
+    for i in range(len(filled) - 1, -1, -1):
+        if filled[i] is not None:
+            next_seen = filled[i]
+        elif next_seen is not None:
+            filled[i] = next_seen
+
+    return filled
 
 
 def get_historica_image_for_lot(catalogue_id, image_online, historica_manifest_map, historica_mapping, historica_manifest_cache, new_historica_mappings):
@@ -352,6 +474,9 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
     if cur_manifest:
         g.add((URIRef(ZAC[short_id]), CRM.P138i_has_representation, URIRef(cur_manifest) ))
 
+    lot_uris = []
+    resolved_images = []
+
     for chunk in chunks:
         num, title, full_text, image_online = chunk["num"], chunk["title"], chunk["text"], chunk["image_online"]
         lot_id = f"{short_id}_lot_{num.strip().replace(' ', '_')}"
@@ -377,18 +502,27 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
         g.add((description_uri, RDFS.label, Literal(full_text)))
         g.add((description_uri, CRM.P2_has_type, AAT["300435416"]))
 
+        historica_image_url = None
         if image_online:
-            #g.add((lot_uri, CRM.P138i_has_representation, URIRef(image_online)))
             historica_image_url = get_historica_image_for_lot(catalogue_id, image_online, historica_manifest_map, historica_mapping, historica_manifest_cache, new_historica_mappings)
-            if historica_image_url:
-                g.add((lot_uri, CRM.P138i_has_representation, URIRef(historica_image_url)))
+
+        lot_uris.append(lot_uri)
+        resolved_images.append(historica_image_url)
 
         ent = entities_by_chunk.get(chunk["chunk_index"], {})
         author, school, object_type = ent.get("artist", ""), ent.get("school", ""), ent.get("object_type", "")
-        print(f"{lot_id} | {author} | {school} | {object_type}")
-        add_entity_triples(lot_id, author, school, object_type, object_type_map, school_map, artist_map)
+        collection, period = ent.get("collection", ""), ent.get("period", "")
+        print(f"{lot_id} | {author} | {school} | {object_type} | {collection} | {period}")
+        add_entity_triples(lot_id, author, school, object_type, collection, period, object_type_map, school_map, artist_map)
 
-        # TODO: crm:P57_has_number_of_parts, crm:P4_has_time-span, la:members_exemplified_by
+        # TODO: crm:P57_has_number_of_parts, la:members_exemplified_by
+
+    filled_images = fill_missing_historica_images(resolved_images)
+    for lot_uri, original_url, filled_url in zip(lot_uris, resolved_images, filled_images):
+        if filled_url:
+            g.add((lot_uri, CRM.P138i_has_representation, URIRef(filled_url)))
+            if original_url is None:
+                print(f"  [historica] INFERRED FROM NEIGHBOUR LOT | {lot_uri} -> {filled_url}")
 
 
 def main():
