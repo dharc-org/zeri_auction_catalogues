@@ -24,7 +24,7 @@ BO0624_83745,163229,22,22,Le Moine. 1688-1737. Hercule et Omphale.,300,65.5,Fals
 BO0624_83745,163230,23,23,Lingelbach. 1625-1687. Campement militaire.,313,67.7,False,positional,LINGELBACH,,,,Sec. XVII
 BO0624_83745,163231,24,24,Livens. 1607-1663. Portrait d’un Pope.,327,67.9,False,positional,LIVENS,,,,Sec. XVII
 BO0624_83745,163232,25,25,LOO. 1684-1745. Portrait d’une Dame et de sa Fille.,336,84.7,False,title_direct,LOO,,,,Sec. XVIII
-BO0624_83745,163233,26,26,LOO. Interieur villageois.,348,89.4,False,title_direct,LOO,,,,
+BO0624_83745,163233,26,26,LOO. Interieur villageois.,348,89.4,False,title_direct,LOO,,ARREDAMENTI,,
 BO0624_83745,163234,27,27,MAES. 1632-1693. Portrait d’une Dame.,357,75.0,False,title_direct,MAES,,,,Sec. XVII
 BO0624_83745,163235,28,28,Mierevelt. 1567-1641. Portrait d’un Gentilhomme.,369,71.2,False,positional,MIEREVELT,,,,Sec. XVI
 BO0624_83745,163236,29,29,Mierevelt. Portrait d’une Noble Dame.,382,82.5,False,positional,MIEREVELT,,,,
@@ -40,11 +40,11 @@ BO0624_83745,163245,38,38,"Pourbus. Portrait d’Homme,en buste.",494,85.2,False
 BO0624_83745,163246,39,39,Pynacker et Berghem. 1622-1683. Paysage avec ruines.,511,59.2,False,positional,BERGHEM,,,,Sec. XVII
 BO0624_83745,163247,40,40,"Reynolds. Jeune Femme, en buste.",525,80.8,False,positional,REYNOLDS,,,,
 BO0624_83745,163248,41,41,Romeyn. 1624-1693. Berger et Animaux dans un site accidente.,538,86.0,False,positional,ROMEYN,,,,Sec. XVII
-BO0624_83745,163249,42,42,Rubens. Bacchanale.,546,52.2,False,positional,RUBENS,,,,
+BO0624_83745,163249,42,42,Rubens. Bacchanale.,546,52.2,False,positional,RUBENS,Scuola di Rubens,,,
 BO0624_83745,163250,43,43,Ruisdael. 1628-1682. Le Torrent.,549,52.4,False,positional,RUBENS,,,,Sec. XVII
 BO0624_83745,163251,44,44,Soolmaker. XVII siecle. Le Passage du gue. nterieur flamand.,567,47.4,False,positional,SOOLMAKER,,,,Sec. XVII
 BO0624_83745,163252,45,45,Teniers. 1610-1690. Le Fumeur et la Servante.,569,43.8,False,positional,SOOLMAKER,,,,Sec. XVII
-BO0624_83745,163253,46,46,Teniers. Interieur flamand.,578,81.0,False,positional,RUISDAEL,,,,
+BO0624_83745,163253,46,46,Teniers. Interieur flamand.,578,81.0,False,positional,RUISDAEL,,ARREDAMENTI,,
 BO0624_83745,163254,47,47,Tintoret. 1512-1594. Portrait de Duodo.,605,67.9,False,positional,TINTORET,,,,Sec. XVI
 BO0624_83745,163255,48,48,Tintoret. Portrait d'un Gentilhomme venitien.,621,85.4,False,positional,TINTORET,,,,
 BO0624_83745,163256,49,49,Vlieger. 1601-1655.  Mer agitee.,628,53.7,False,positional,TINTORET,,,,Sec. XVII

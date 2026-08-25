@@ -1,32 +1,32 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81815,146183,1,1,"SCUOLA VENEZIANA, Sec. XVIII, soggetto sacro, dipinto su tela, cornice dorata; 35 x 25.",15,98.8,False,none,,,,,Sec. XVIII
+BO0624_81815,146183,1,1,"SCUOLA VENEZIANA, Sec. XVIII, soggetto sacro, dipinto su tela, cornice dorata; 35 x 25.",15,98.8,False,none,,Scuola Veneziana,,,Sec. XVIII
 BO0624_81815,146184,2,2,"IGNOTO, Sec. XIll, Figura di donna, pastello, cornice dorata, 30 × 40.",16,86.5,False,none,,,,,
-BO0624_81815,146185,3,3,"SCUOLA VENEZIANA, Sec. XVI, Madonna con putto, cornice intagliata e dorata, 28 x 22.",18,68.9,False,none,,,,,Sec. XVI
-BO0624_81815,146186,4,4,"GUERCINO, Scuola Sec. XVII, Testa di Cristo, pastello cornice nera, 27 x 33.",20,81.0,False,none,,,,,Sec. XVII
-BO0624_81815,146187,5,5,"GUERCINO, Scuola Sec. XVII, S. Luigi, pastello, cornice nera, 27 x 33.",22,98.4,False,none,,,,,Sec. XVII
-BO0624_81815,146188,6,6,"SEBASTIANO RICCI, Scuola, Sec. XVIIl., Cena degli Apostoli, cornice legno, 35 x 47.",23,72.7,False,none,,,,,
-BO0624_81815,146189,7,7,"SCUOLA BOLOGNESE, Sec. XVII, Due ritratti di Pontefici, dipinti su tela, cornici intagliate e dorate, 40 x 45.",25,99.0,False,none,,,,,Sec. XVII
-BO0624_81815,146190,8,8,"SCUOLA BOLOGNESE, Sec. XVII, Due ritratti di Pontefici, dipinti su tela, cornici intagliate e dorate 40 x 45.",26,99.0,False,none,,,,,Sec. XVII
+BO0624_81815,146185,3,3,"SCUOLA VENEZIANA, Sec. XVI, Madonna con putto, cornice intagliata e dorata, 28 x 22.",18,68.9,False,none,,Scuola Veneziana,,,Sec. XVI
+BO0624_81815,146186,4,4,"GUERCINO, Scuola Sec. XVII, Testa di Cristo, pastello cornice nera, 27 x 33.",20,81.0,False,none,GUERCINO,,,,Sec. XVII
+BO0624_81815,146187,5,5,"GUERCINO, Scuola Sec. XVII, S. Luigi, pastello, cornice nera, 27 x 33.",22,98.4,False,none,GUERCINO,,,,Sec. XVII
+BO0624_81815,146188,6,6,"SEBASTIANO RICCI, Scuola, Sec. XVIIl., Cena degli Apostoli, cornice legno, 35 x 47.",23,72.7,False,none,SEBASTIANO RICCI,,,,
+BO0624_81815,146189,7,7,"SCUOLA BOLOGNESE, Sec. XVII, Due ritratti di Pontefici, dipinti su tela, cornici intagliate e dorate, 40 x 45.",25,99.0,False,none,,Scuola Bolognese,CORNICI,,Sec. XVII
+BO0624_81815,146190,8,8,"SCUOLA BOLOGNESE, Sec. XVII, Due ritratti di Pontefici, dipinti su tela, cornici intagliate e dorate 40 x 45.",26,99.0,False,none,,Scuola Bolognese,CORNICI,,Sec. XVII
 BO0624_81815,146191,9,9,"SCUOLA SPAGNUOLA, Sec. XVII, Ritratto di ragazza con cane, interessante dipinto su tela, cor. nera, 58 x 40.",27,99.0,False,none,,,,,Sec. XVII
-BO0624_81815,146192,10,10,"TIZIANO (Copia), Sec. XVII, Figura di santo dipinto su tela, cornice intagliata e dorata, 30 x 38.",28,98.4,False,none,,,,,Sec. XVII
+BO0624_81815,146192,10,10,"TIZIANO (Copia), Sec. XVII, Figura di santo dipinto su tela, cornice intagliata e dorata, 30 x 38.",28,98.4,False,none,TIZIANO VECELLIO,,,,Sec. XVII
 BO0624_81815,146193,11,11,"PIETRO LONGHI, scuola, Sec, XVIlI, Ritratto di donna, bel dipinto ad olio su tela, ricca cornice intagliata e dorata, ovale, 55x 80.",29,90.0,False,none,,,,,
 BO0624_81815,146194,12,12,"PIETRO LONGHI, scuola, Sec. XVIll, Ritratto di gentiluomo, dipinto su tela, pandant. al precedente.",31,98.4,False,none,,,,,
-BO0624_81815,146195,13,13,"BREUGHEL D'INFERNO, Sec. XVII, soggetto simbolico, dipinto su tela 50 x 70, cornice dorata.",33,67.7,False,none,,,,,Sec. XVII
-BO0624_81815,146196,14,14,"SCUOLA VENEZIANA, Sec. XVII, La nascita e l'adorazione dei Re Magi, due dipinti ad olio su vetro, cornici antiche intagliate e dorate, 42 x 33.",34,98.9,False,none,,,,,Sec. XVII
-BO0624_81815,146197,15,15,"SCUOLA VENEZIANA, Sec. XV1l, Madonna e S. Francesco, 《 santa in adorazione 》, due dipinti ad olio su vetro, cornici antiche intagliate e dorate, 42 x 33.",35,98.9,False,none,,,,,
+BO0624_81815,146195,13,13,"BREUGHEL D'INFERNO, Sec. XVII, soggetto simbolico, dipinto su tela 50 x 70, cornice dorata.",33,67.7,False,none,BRUEGEL,,,,Sec. XVII
+BO0624_81815,146196,14,14,"SCUOLA VENEZIANA, Sec. XVII, La nascita e l'adorazione dei Re Magi, due dipinti ad olio su vetro, cornici antiche intagliate e dorate, 42 x 33.",34,98.9,False,none,,Scuola Veneziana,CORNICI,,Sec. XVII
+BO0624_81815,146197,15,15,"SCUOLA VENEZIANA, Sec. XV1l, Madonna e S. Francesco, 《 santa in adorazione 》, due dipinti ad olio su vetro, cornici antiche intagliate e dorate, 42 x 33.",35,98.9,False,none,,Scuola Veneziana,CORNICI,,
 BO0624_81815,146198,16,16,"GIULIO ROMANO, Sec. XVI, Battaglia, dipinto su tela di vigoroso colorito, cornice dorata 180 x 50.",37,69.4,False,none,,,,,Sec. XVI
-BO0624_81815,146199,17,17,"ARBA, BOMONA, due stampe inglesi antiche del Bartolozzi, cornici legno 27 x 30.",38,74.2,False,none,,,,,
+BO0624_81815,146199,17,17,"ARBA, BOMONA, due stampe inglesi antiche del Bartolozzi, cornici legno 27 x 30.",38,74.2,False,none,,,CORNICI,,
 BO0624_81815,146200,18,18,"SCUOLA TIEPOLESCA, Sec. XVIll, Cristo giovane, su tela, cornice intagliata e dorata, ovale, 8 x 12.",41,68.1,False,none,,,,,
 BO0624_81815,146201,19,19,"SCUOLA RUSSA, Sec. XVIl, Madonna con putto, dipinto su tela, cornice intagliata e dorata, 14 x 21.",43,69.9,False,none,,,,,
-BO0624_81815,146202,20,20,"SCUOLA FIAMMINGA, sec. XVI, La preghiera, dipinto su tavola, con cornice antica intagliata e dorata 17 x 13.",45,71.2,False,none,,,,,Sec. XVI
+BO0624_81815,146202,20,20,"SCUOLA FIAMMINGA, sec. XVI, La preghiera, dipinto su tavola, con cornice antica intagliata e dorata 17 x 13.",45,71.2,False,none,,Scuola Fiamminga,,,Sec. XVI
 BO0624_81815,146203,21,21,"LELIO ORSI, sec. XVll, Madonna col putto, dipinto su a opera d'arte, di buona esecuzione, cornice intagliata e dorata, 42 x 33.",46,83.3,False,none,,,,,
-BO0624_81815,146204,22,22,"LEONARDO DA VINCI, copia, sec. XVI, La sacra famiglia, su tavola con sfondo di paesaggio, cornice a capitello, intagliata e dorata, 20 x 28.",48,98.9,False,none,,,,,Sec. XVI
-BO0624_81815,146205,23,23,"COURTOIS JACOPO detto il BORGOGNONE, 1621-1676, Battaglia, in tela, cornice intagliata e dorata, 90 x48.",49,98.5,False,none,,,,,Sec. XVII
+BO0624_81815,146204,22,22,"LEONARDO DA VINCI, copia, sec. XVI, La sacra famiglia, su tavola con sfondo di paesaggio, cornice a capitello, intagliata e dorata, 20 x 28.",48,98.9,False,none,DA VINCI LEONARDO,,,,Sec. XVI
+BO0624_81815,146205,23,23,"COURTOIS JACOPO detto il BORGOGNONE, 1621-1676, Battaglia, in tela, cornice intagliata e dorata, 90 x48.",49,98.5,False,none,COURTOIS BOURGUIGNON JACQUES,,,,Sec. XVII
 BO0624_81815,146206,24,24,"SCUOLA SPAGNUOLA, sec. XVIl, Ritratto d' uomo, dipinto su tela, cornice dorata, 53 x 66.",50,98.2,False,none,,,,,
-BO0624_81815,146207,25,25,"TIZIANO, copia, sec. XVll, Madonna su tela, cornice dorata, 60 x 58.",51,83.6,False,none,,,,,
+BO0624_81815,146207,25,25,"TIZIANO, copia, sec. XVll, Madonna su tela, cornice dorata, 60 x 58.",51,83.6,False,none,TIZIANO VECELLIO,,,,
 BO0624_81815,146208,26,26,"BENEDETTO GENNARI, Sec. XVII, Ritratto di un Re di Casa Savoia, dipinto su tela, cornice dorata, 96 x 80.",53,98.5,False,none,,,,,Sec. XVII
 BO0624_81815,146209,27,27,"BENEDETTO GENNARI, sec. XVll, Ritratto di gentildonna, dipinto su tela, cornice dorata 98 x 80.",55,69.1,False,none,,,,,
-BO0624_81815,146210,28,29,"KAREL DU JARDIN, 1635 -1678, Due paesaggi c con macchiette, dipinti su tela, di colorito luminoso e bella armonia, cornice dorata, 52 x 36.",56,85.5,False,none,,,,,Sec. XVII
+BO0624_81815,146210,28,29,"KAREL DU JARDIN, 1635 -1678, Due paesaggi c con macchiette, dipinti su tela, di colorito luminoso e bella armonia, cornice dorata, 52 x 36.",56,85.5,False,none,DU JARDIN KAREL,,,,Sec. XVII
 BO0624_81815,146211,29,30,"IGNOTO, sec. XVIll, Grande paesaggio con figure, a olio, cornice dorata, 180x 150,",58,74.2,False,none,,,,,
 BO0624_81815,146212,30,31,"MAZZOLANI, Rustico, dipinto su tavoletta, cornice dorata; 10 x 15.",62,83.6,False,positional,,,uadri Moderni,,
 BO0624_81815,146213,31,32,"MAZZOLANI, Rustico, dipinto su tavoletta, cornice dorata, 10x 15.",64,84.4,False,positional,,,uadri Moderni,,
@@ -35,23 +35,23 @@ BO0624_81815,146215,33,34,"IGNOTO, sec. XIX, Ritratto di ragazza, dipinto su tel
 BO0624_81815,146216,34,35,"LEBER G., Ritorno dal pascolo, dipinto su tavola, cornice dorata, 35 x 15.",68,97.8,False,positional,,,uadri Moderni,,
 BO0624_81815,146217,35,37,"FONTANA ROBERTO, Giardino con casa, dipinto su tela, cornice dorata, 25 x 20.",70,98.0,False,positional,,,uadri Moderni,,
 BO0624_81815,146218,36,38,"FONTANA ROBERTO, Giardino con casa, dipinto su tela, pandant al precedente.",71,97.9,False,positional,,,uadri Moderni,,
-BO0624_81815,146219,37,39,"COROT, Lago con piante, dipinto su tavola, firmato, cornice dorata.",72,83.9,False,positional,,,uadri Moderni,,
+BO0624_81815,146219,37,39,"COROT, Lago con piante, dipinto su tavola, firmato, cornice dorata.",72,83.9,False,positional,COROT JEAN-BAPTISTE-CAMILLE,,uadri Moderni,,
 BO0624_81815,146220,38,40,"FILIPPINl, Testa di ragazza, dipinto su tela, cornice dorata, 30 x 40.",74,84.7,False,positional,,,uadri Moderni,,
 BO0624_81815,146221,39,41,"BARZANTI L., Rose, dipinto ad olio su tela, cornice nera e oro,110 x80.",76,81.0,False,positional,,,uadri Moderni,,
 BO0624_81815,146222,40,42,"CAMILLO VERNO, Mudre, dipinto su tela, pregevole opera di fine esecuzione, correttezza di linee e armonia di colorito, bella cornice intagliata a dorata, 138 x 110.",78,99.1,False,positional,,,uadri Moderni,,
 BO0624_81815,146223,41,43,"VIANl A., Mattinata sul lago di Como, dipinto su tela, cornice dorata, 100x65.",79,80.0,False,positional,,,uadri Moderni,,
-BO0624_81815,146224,42,45,"COURBET G., 《 Paesaggio con lago 》, dipinto su tela, firmato, cornice dorata, 60 X 40.",81,70.4,False,positional,,,uadri Moderni,,
-BO0624_81815,146225,43,46,"Ritratto di gentiluomo, fine miniatura su avorio, cornice legno rotonda.",88,86.6,False,positional,,,Armi,,
+BO0624_81815,146224,42,45,"COURBET G., 《 Paesaggio con lago 》, dipinto su tela, firmato, cornice dorata, 60 X 40.",81,70.4,False,positional,COURBET GUSTAVE,,uadri Moderni,,
+BO0624_81815,146225,43,46,"Ritratto di gentiluomo, fine miniatura su avorio, cornice legno rotonda.",88,86.6,False,positional,,,MINIATURE,,
 BO0624_81815,146226,44,47,"Miniatura su avorio, paesaggio con pallone, cornice legno nero.",90,87.5,False,title_direct,,,Miniature,,
 BO0624_81815,146227,45,48,"Miniatura su avorio, evoluzioni di un pallone, cornice legno nero.",92,97.7,False,title_direct,,,Miniature,,
 BO0624_81815,146228,46,49,"Miniatura su avorio, ritratto di donna, cornice legno dorato.",93,97.5,False,title_direct,,,Miniature,,
-BO0624_81815,146229,47,50,"Ritratto di giovine donna, fine miniatura su avorio, cornice legno nero.",94,82.0,False,positional,,,Armi,,
-BO0624_81815,146230,48,51,"Ritratto d’uomo, miniatura su avorio, cornice legno nero.",96,97.3,False,positional,,,Armi,,
+BO0624_81815,146229,47,50,"Ritratto di giovine donna, fine miniatura su avorio, cornice legno nero.",94,82.0,False,positional,,,MINIATURE,,
+BO0624_81815,146230,48,51,"Ritratto d’uomo, miniatura su avorio, cornice legno nero.",96,97.3,False,positional,,,MINIATURE,,
 BO0624_81815,146231,49,52,"Miniatura su avorio, ritratto d'uomo, cornice legno e metallo.",97,97.5,False,title_direct,,,Miniature,,
-BO0624_81815,146232,50,53,"Miniatura su avorio, ritratto di donna, Luigi XV, cornice metallo ovale.",98,97.8,False,title_direct,,,Miniature,,
-BO0624_81815,146233,51,54,"Ritratto di donna in costume, Luigi XV, miniatura su avorio, cornice legno nero e metallo.",99,71.9,False,positional,,,Armi,,
-BO0624_81815,146234,52,55,"Ritratto di donna, Luigi XV, miniatura su avorio, cornice legno nero e metallo.",101,81.8,False,positional,,,Armi,,
-BO0624_81815,146235,53,56,"Piatto in maiolica di Faenza decorato a fogliami, nel centro la Vergine con putto.",103,77.0,False,positional,,,Armi,,
+BO0624_81815,146232,50,53,"Miniatura su avorio, ritratto di donna, Luigi XV, cornice metallo ovale.",98,97.8,False,title_direct,,Periodo di Luigi XV,Miniature,,
+BO0624_81815,146233,51,54,"Ritratto di donna in costume, Luigi XV, miniatura su avorio, cornice legno nero e metallo.",99,71.9,False,positional,,Periodo di Luigi XV,MINIATURE,,
+BO0624_81815,146234,52,55,"Ritratto di donna, Luigi XV, miniatura su avorio, cornice legno nero e metallo.",101,81.8,False,positional,,Periodo di Luigi XV,MINIATURE,,
+BO0624_81815,146235,53,56,"Piatto in maiolica di Faenza decorato a fogliami, nel centro la Vergine con putto.",103,77.0,False,positional,,Scuola Faentina,Armi,,
 BO0624_81815,146236,54,57,"Piatto sagomato in maiolica francese, decorato a fogliami.",105,97.4,False,positional,,,Armi,,
 BO0624_81815,146237,55,58,Piatto sagomato in maiolica piemontese decorato a fiori.,106,97.3,False,positional,,,Armi,,
 BO0624_81815,146238,56,59,"Piatto sagomato in porcellana Chinese, decorato a fiori.",107,97.3,False,positional,,,Armi,,
@@ -59,7 +59,7 @@ BO0624_81815,146239,57,60,"Statuetta, figura di donna, in porcellana bianca di C
 BO0624_81815,146240,58,61,"Statuetta, figura paggio, in porcellana bianca di Capodimonte, marcata.",110,83.3,False,positional,,,Armi,,
 BO0624_81815,146241,59,62,"Figura d'uomo, statuetta colorata in maiolica di Nove.",112,97.2,False,positional,,,Armi,,
 BO0624_81815,146242,60,63,"Figura di donna, statuetta colorata in maiolica di Nove.",113,97.3,False,positional,,,Armi,,
-BO0624_81815,146243,61,64,Portagioie a tre piedi in maiolica di Faenza con de- corazione a putti.,114,82.9,False,positional,,,Armi,,
+BO0624_81815,146243,61,64,Portagioie a tre piedi in maiolica di Faenza con de- corazione a putti.,114,82.9,False,positional,,Scuola Faentina,Armi,,
 BO0624_81815,146244,62,65,"Cane, in maiolica bianca di Capodimonte.",116,96.2,False,positional,,,Armi,,
 BO0624_81815,146245,63,66,"Vasetto portafiori in maiolica di Lodi, decorato a fogliami.",117,97.5,False,positional,,,Armi,,
 BO0624_81815,146246,64,67,"Fiorera in maiolica di Nove, decorata a fogliami.",118,96.9,False,positional,,,Armi,,
@@ -77,7 +77,7 @@ BO0624_81815,146257,75,78,Piccolo cestello in metallo argentato.,133,96.1,False,
 BO0624_81815,146258,76,79,"Orologio con smalto figura di donna, contornato da pietrine.",134,89.1,False,positional,,,Armi,,
 BO0624_81815,146259,77,80,"Calamaio in argento sbalzato e cesellato epoca impero, peso gr. 305.",136,87.6,False,positional,,,Armi,,
 BO0624_81815,146260,78,81,Campanello in argento sbalzato peso g. 70.,138,96.4,False,positional,,,Armi,,
-BO0624_81815,146261,79,82,"Cornicetta porta ritratti in argento riccamente cesellato con puttino epoca Luigi XV, peso gr. 160.",139,98.5,False,positional,,,Armi,,
+BO0624_81815,146261,79,82,"Cornicetta porta ritratti in argento riccamente cesellato con puttino epoca Luigi XV, peso gr. 160.",139,98.5,False,positional,,Periodo di Luigi XV,Armi,,
 BO0624_81815,146262,80,83,Medaglia in argento dell'Esposizione Nazionale di Milano del 1880.,140,86.7,False,positional,,,Armi,,Sec. XIX
 BO0624_81815,146263,81,84,Coltello da caccia con fodero cuoio e manico metallo sbalzato e cesellato.,142,98.0,False,positional,,,Armi,,
 BO0624_81815,146264,82,85,Scettro in legno e metallo cesellato.,143,96.0,False,positional,,,Armi,,
@@ -107,63 +107,63 @@ BO0624_81815,146287,105,108,"SCUOLA FRANCESE, Sec. XVIll, Nudo di donna, dipinto
 BO0624_81815,146288,106,109,"SCUOLA FRANCESE Sec. XVIII, Nudo di donna, dipinto su tela pandant al precedente.",180,68.3,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81815,146289,107,110,"ALESSANDRO MAGNASCO (Scuola) Sec. XVIll, Paesaggio con macchiette, dipinto ad olio su tela cornice intagliata e dorata cm. 38 x 49.",183,81.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146290,108,111,"LONDONIO Sec. XVIl, Pecora, dipinto su tela cornice nera, cm. 28 x 22.",184,78.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146291,109,112,"JACOPO ROBUSTI detto il TINTORETTO, 1512-1594, Madonna col putto e santa, pregevole dipinto su tela cornice intagliata e dorata, cm. 55 x 46.",186,81.7,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146291,109,112,"JACOPO ROBUSTI detto il TINTORETTO, 1512-1594, Madonna col putto e santa, pregevole dipinto su tela cornice intagliata e dorata, cm. 55 x 46.",186,81.7,False,positional,TINTORETTO,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146292,110,113,"Le Concert a Madame la Comtesse de Saint Brisson incisione colorata inglese, cornice legno e metallo cm. 46 x 40.",188,93.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146293,111,114,"Le bal pare a Monsieur de Villemorien Fila, incisione colorata inglese, cornice legno e metallo cm. 46 x 40",190,98.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146294,112,115,"BREUGHEL GIOVANNI, 1658— 1625, Stagno con uccelli, dipinto su cartapecora di fine ed accurata ese- cuzione, cornice intagliata e dorata, cm. 29 x 19.",191,78.5,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146294,112,115,"BREUGHEL GIOVANNI, 1658— 1625, Stagno con uccelli, dipinto su cartapecora di fine ed accurata ese- cuzione, cornice intagliata e dorata, cm. 29 x 19.",191,78.5,False,positional,BRUEGEL,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146295,113,116,"PORBUS RRANCESCO, 1570-1622, Ritratto di gentildonna, bellissimo dipinto su tela, per morbidezza di e colorito buon disegno, cornice intagliata e dorata cm.110X90.",193,95.5,False,positional,,,QUADRI ANTICHI,,Sec. XVI
-BO0624_81815,146296,114,117,"SCUOLA FIAMMINGA, sec. XVIl, Ritratto di giovi- netto, dipinto su tavola cornice dorata, cm. 29 x 23.",196,69.0,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146296,114,117,"SCUOLA FIAMMINGA, sec. XVIl, Ritratto di giovi- netto, dipinto su tavola cornice dorata, cm. 29 x 23.",196,69.0,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
 BO0624_81815,146297,115,118,"SCUOLA INGLESE, sec. XVII, soggetto di caccia buon dipinto ad olio su tela, cornice dorata, cm. 80 x 60.",198,67.6,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146298,116,119,"SCUOLA INGLESE, sec. XVII, soggetto di caccia buon dipinto su tela, pandant al precedente.",199,69.1,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146299,117,120,"SCUOLA FIAMMINGA, sec. XVII, paesaggio con macchiette, fine dipinto ad olio su rame, ricca cornice dorata cm.11.",201,93.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146300,118,121,"SCUOLA FIAMMINGA, sec. XVII, paesaggio con macchiette, fine dipinto ad olio su rame, ricca cornice dorata, cm. 11.",204,74.9,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146301,119,122,"SCUOLA FIAMMINGA, sec. XVIll, ritratto di donna dipinto su tavola, cornice dorata rotonda, cm. 21.",205,97.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146302,120,123,"SCUOLA FIAMMINGA, sec. XVIll, ritratto di donna dipinto su tavola, cornice dorata, rotonda cm. 21.",207,67.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146303,121,124,"CARACCI AGOSTINO, 1558-1602, La Madonna che incontra Cristo che sale al Calvario, dipinto ad olio su rame, cornice dorata, cm. 30 x 20.",208,98.5,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146299,117,120,"SCUOLA FIAMMINGA, sec. XVII, paesaggio con macchiette, fine dipinto ad olio su rame, ricca cornice dorata cm.11.",201,93.2,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146300,118,121,"SCUOLA FIAMMINGA, sec. XVII, paesaggio con macchiette, fine dipinto ad olio su rame, ricca cornice dorata, cm. 11.",204,74.9,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146301,119,122,"SCUOLA FIAMMINGA, sec. XVIll, ritratto di donna dipinto su tavola, cornice dorata rotonda, cm. 21.",205,97.8,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146302,120,123,"SCUOLA FIAMMINGA, sec. XVIll, ritratto di donna dipinto su tavola, cornice dorata, rotonda cm. 21.",207,67.1,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146303,121,124,"CARACCI AGOSTINO, 1558-1602, La Madonna che incontra Cristo che sale al Calvario, dipinto ad olio su rame, cornice dorata, cm. 30 x 20.",208,98.5,False,positional,CARRACCI AGOSTINO,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146304,122,125,"CONSETTI, sec. XVIll, ritratto di gentiluomo, dipinto su tela,ammirevole per delicatezza di colorito, verita di espressione, e perfetto disegno, cornice edorata. cm. 100 x 70.",209,98.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146305,123,126,"CONSETTI, sec. XVIll ritratto di gentiluomo, dipinto su tela, pandant al precedente.",210,74.2,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146306,124,127,"PROCACCINI CAMILLO, 1546-1626, Figura di Santo vigoroso dipinto su tela, cornice dorata, cm. 100 x 70.",213,71.1,False,positional,,,QUADRI ANTICHI,,Sec. XVI
-BO0624_81815,146307,125,128,"POUSSIN NICOLA, 1594-1660, Soggetto Allegorico dipinto su tela, cornice dorata, cm. 125 x 88.",215,67.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146307,125,128,"POUSSIN NICOLA, 1594-1660, Soggetto Allegorico dipinto su tela, cornice dorata, cm. 125 x 88.",215,67.2,False,positional,POUSSIN NICOLAS,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146308,126,129,"BERNARDO STROZZI, 《Ritratto di gentiluomo 》, dipinto su tela, di ammirabile fattura e grande espressione, e perfetto disegno, cornice intagliata e dorata, cm. 80 x63.",216,98.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146309,127,130,"IGNOTO, sec. XVIll, Gesu in mezzo al popolo, due dipinti ad olio su tela, cornici dorate cm. 16 x 26.",218,67.1,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146309,127,130,"IGNOTO, sec. XVIll, Gesu in mezzo al popolo, due dipinti ad olio su tela, cornici dorate cm. 16 x 26.",218,67.1,False,positional,,,CORNICI,,
 BO0624_81815,146310,128,131,"VILLA ALEARDO, 《 Cucitrice 》, bellissimo pastello, cornice dorata cm. 40 x 60.",222,72.3,False,positional,,,Quadri Moderni,,
 BO0624_81815,146311,129,132,"DE ALBERTIS,《Solferino》, studio del gran quadro a colori, della celebre battaglia, montato in passepartout, cm. 36 x 18.",224,91.1,False,positional,,,Quadri Moderni,,
-BO0624_81815,146312,130,133,"CORBANI di CREMONA, 《Due figure di donne 》, dipinte ad olio su tela, cornici dorate, cm. 20 x 12.",227,70.1,False,positional,,,Quadri Moderni,,
+BO0624_81815,146312,130,133,"CORBANI di CREMONA, 《Due figure di donne 》, dipinte ad olio su tela, cornici dorate, cm. 20 x 12.",227,70.1,False,positional,,,CORNICI,,
 BO0624_81815,146313,131,134,"MARIANI POMPEO, 《Le tre grazie al sole 》, acquerello montato in passepartout, cm. 12 x 23.",229,66.1,False,positional,,,Quadri Moderni,,
 BO0624_81815,146314,132,135,"GHEDINI, 《Una via di Milano 》, acquarello, cornice dorata cm. 20 x 35.",230,80.0,False,positional,,,Quadri Moderni,,
 BO0624_81815,146315,133,136,"MAZZOLANI,《Marina con barche》, dipinto su tavola,bellissimo l'effetto di luce, cornice dorata,",232,97.8,False,positional,,,Quadri Moderni,,
 BO0624_81815,146316,134,137,"MAZZOLANI, 《 Marina con barche 》, dipinto su tavola pandant al precedente.",234,75.6,False,positional,,,Quadri Moderni,,
 BO0624_81815,146317,135,138,"SOTTOCORNOLA, 《In giardino》, dipinto su tavola, cornice dorata cm. 40 x 25.",236,73.7,False,positional,,,Quadri Moderni,,
-BO0624_81815,146318,136,139,"139.COURBET G.,《Fiume con piante》, dipinto su tela di colorito ormonioso e trasparente, cornice dorata,",238,99.0,False,positional,,,Quadri Moderni,,
+BO0624_81815,146318,136,139,"139.COURBET G.,《Fiume con piante》, dipinto su tela di colorito ormonioso e trasparente, cornice dorata,",238,99.0,False,positional,COURBET GUSTAVE,,Quadri Moderni,,
 BO0624_81815,146319,137,140,"PELLEGRINI RICCARDO, 《Fabbricatori di pignatte》 dipinto su tavola, cornice dorata, cm. 30x 20.",240,65.2,False,positional,,,Quadri Moderni,,
 BO0624_81815,146320,138,141,"FONTANA ROBERTO,《Il serraglio》(costume Fiorentino) dipinto su tela di bella composizione, cornice intagliata e dorata, cm. 55 x 100.",242,98.4,False,positional,,,Quadri Moderni,,
-BO0624_81815,146321,139,142,"IEMOLI ACHILLE, Numero 9 studi di paesaggio, dipinti ad olio, montati, con cornici dorate, su cartone,",243,66.7,False,positional,,,Quadri Moderni,,
+BO0624_81815,146321,139,142,"IEMOLI ACHILLE, Numero 9 studi di paesaggio, dipinti ad olio, montati, con cornici dorate, su cartone,",243,66.7,False,positional,,,CORNICI,,
 BO0624_81815,146322,140,143,"VERNO CAMILLO,《Sguatteri》, dipinto ad olio su cartone, cornice dorata cm. 60 x 50.",245,68.9,False,positional,,,Quadri Moderni,,
 BO0624_81815,146323,141,144,"IGNOTO, sec. XIX, 《Paesaggio alpino 》, dipinto su cuoio, cornice dorata, cm. 20 x 30.",247,97.4,False,positional,,,Quadri Moderni,,Sec. XIX
 BO0624_81815,146324,142,145,"VIANI AGOSTINO, 《Corte di campagna》, dipinto su tela cornice dorata cm. 100 x 60.",248,97.4,False,positional,,,Quadri Moderni,,
-BO0624_81815,146325,143,146,"Miniatura su avorio ritratto di donna costume Luigi XV, cornice legno nero e metallo.",253,73.9,False,title_direct,,,Miniature,,
+BO0624_81815,146325,143,146,"Miniatura su avorio ritratto di donna costume Luigi XV, cornice legno nero e metallo.",253,73.9,False,title_direct,,Periodo di Luigi XV,Miniature,,
 BO0624_81815,146326,144,147,"Miniatura su avorio, ritratto di donna, cornice legno nero rotonda.",255,97.0,False,title_direct,,,Miniature,,
-BO0624_81815,146327,145,148,"Ritratto di generale, miniatura su avorio, cornice legno e metallo.",256,97.0,False,positional,,,Argenterie,,
-BO0624_81815,146328,146,149,"Ritratto di donna, miniatura in avorio cornice legno e metallo.",257,89.8,False,positional,,,Argenterie,,
-BO0624_81815,146329,147,150,"Miniatura su avorio. ritratto di gentildonna, costume Luigi XV, cornice metallo cesellato.",259,72.3,False,title_direct,,,Miniature,,
-BO0624_81815,146330,148,151,"Scena d'amore, bellissima miniatura su avorio, cornice legno e metallo.",261,80.0,False,positional,,,Argenterie,,
+BO0624_81815,146327,145,148,"Ritratto di generale, miniatura su avorio, cornice legno e metallo.",256,97.0,False,positional,,,MINIATURE,,
+BO0624_81815,146328,146,149,"Ritratto di donna, miniatura in avorio cornice legno e metallo.",257,89.8,False,positional,,,MINIATURE,,
+BO0624_81815,146329,147,150,"Miniatura su avorio. ritratto di gentildonna, costume Luigi XV, cornice metallo cesellato.",259,72.3,False,title_direct,,Periodo di Luigi XV,Miniature,,
+BO0624_81815,146330,148,151,"Scena d'amore, bellissima miniatura su avorio, cornice legno e metallo.",261,80.0,False,positional,,,MINIATURE,,
 BO0624_81815,146331,149,152,"Ritratto d'ufficiale, su avorio cornice metallo.",263,95.8,False,positional,,,Argenterie,,
 BO0624_81815,146332,150,153,"Miniatura su avorio, ritratto d'uomo, cornice legno rotonda.",264,96.6,False,title_direct,,,Miniature,,
-BO0624_81815,146333,151,154,"La morte di S. Giuseppe miniatura su avorio, cornice metallo.",265,96.7,False,positional,,,Argenterie,,
+BO0624_81815,146333,151,154,"La morte di S. Giuseppe miniatura su avorio, cornice metallo.",265,96.7,False,positional,,,MINIATURE,,
 BO0624_81815,146334,152,155,"Leda col cigno, dipinto su vetro, cornice legno rotonda.",266,96.4,False,positional,,,Argenterie,,
 BO0624_81815,146335,153,156,Caffettiera con bacinella in porcellana di Vienna decorazione policroma a fiori.,267,77.0,False,positional,,,Argenterie,,
-BO0624_81815,146336,154,157,Paio vasi portafiori in porcellana francese decorati con fiori in rilievo su fondo bleu.,269,76.2,False,positional,,,Argenterie,,
-BO0624_81815,146337,155,158,"Vaso da farmacia, in maiolica di Pesaro, decorazione policroma, a fogliami e medaglioni.",271,72.5,False,positional,,,Argenterie,,
-BO0624_81815,146338,156,159,"Vaso da farmacia, in maiolica di Savona decorato con figure di putti e stemma.",273,77.9,False,positional,,,Argenterie,,
-BO0624_81815,146339,157,160,"Vaso da farmacia, in maiolica di Savona, decorato con figure di putti e stemma.",275,77.9,False,positional,,,Argenterie,,
+BO0624_81815,146336,154,157,Paio vasi portafiori in porcellana francese decorati con fiori in rilievo su fondo bleu.,269,76.2,False,positional,,,VASI,,
+BO0624_81815,146337,155,158,"Vaso da farmacia, in maiolica di Pesaro, decorazione policroma, a fogliami e medaglioni.",271,72.5,False,positional,,,VASI,,
+BO0624_81815,146338,156,159,"Vaso da farmacia, in maiolica di Savona decorato con figure di putti e stemma.",273,77.9,False,positional,,,VASI,,
+BO0624_81815,146339,157,160,"Vaso da farmacia, in maiolica di Savona, decorato con figure di putti e stemma.",275,77.9,False,positional,,,VASI,,
 BO0624_81815,146340,158,161,"Napoleone 1, busto in maiolica bianca di Capodimonte.",277,96.2,False,positional,,,Argenterie,,
 BO0624_81815,146341,159,162,"Piccola zuppiera, con piatto in maiolica di Lodi decorata.",278,96.6,False,positional,,,Argenterie,,
-BO0624_81815,146342,160,163,"Vaso in porcellana di Sevres, epoca impero, decorato con medaglioni e fondo oro.",279,76.3,False,positional,,,Argenterie,,
+BO0624_81815,146342,160,163,"Vaso in porcellana di Sevres, epoca impero, decorato con medaglioni e fondo oro.",279,76.3,False,positional,,,VASI,,
 BO0624_81815,146343,161,164,"Bellissima zuppiera in maiolica antica di Lodi, decorata a fogliami.",281,84.3,False,positional,,,Argenterie,,
 BO0624_81815,146344,162,165,"Piatto in maiolica, con decorazione, nel centro figura d'angelo.",283,96.8,False,positional,,,Argenterie,,
 BO0624_81815,146345,163,166,Piatto sagomato in maiolica antico di Lodi decorato a fiori.,284,96.7,False,positional,,,Argenterie,,
 BO0624_81815,146346,164,167,Piatto grande sagomato in maiolica di Lodi decorazione policroma a fiori.,285,83.1,False,positional,,,Argenterie,,
-BO0624_81815,146347,165,168,"Piatto in maiolica di Faenza, decorazione policroma a fiori e foglie.",287,84.6,False,positional,,,Argenterie,,
+BO0624_81815,146347,165,168,"Piatto in maiolica di Faenza, decorazione policroma a fiori e foglie.",287,84.6,False,positional,,Scuola Faentina,Argenterie,,
 BO0624_81815,146348,166,169,"Piatto traforato in maiolica francese, nel centro decorato con stemma.",289,84.8,False,positional,,,Argenterie,,
 BO0624_81815,146349,167,170,Piatto in maiolica decorato.,291,93.1,False,positional,,,Argenterie,,
 BO0624_81815,146350,168,171,"Calamaio in bronzo impero a tre piedi finemente cesellato, con coperchio sormontato da amorino.",292,68.0,False,positional,,,Argenterie,,
@@ -175,14 +175,14 @@ BO0624_81815,146355,173,176,"Statuetta in bronzo moderno, figura di giovane donn
 BO0624_81815,146356,174,177,"Statuetta in bronzo moderno, figura di giovaze uomo, base marmo.",300,96.8,False,positional,,,Argenterie,,
 BO0624_81815,146357,175,178,"SALA E, 《Piccola lavandaia 》, bella statua in bronzo di squisita modellazione, base marmo.",301,97.6,False,positional,,,Argenterie,,
 BO0624_81815,146358,176,179,"BARDINI P. 《Madre 》, bronzo di buona composizione.",302,95.7,False,positional,,,Argenterie,,
-BO0624_81815,146359,177,180,"Paio alari in ferro battuto con bronzi a forna di vasi cesellati, epoca impero.",303,80.0,False,positional,,,Argenterie,,
+BO0624_81815,146359,177,180,"Paio alari in ferro battuto con bronzi a forna di vasi cesellati, epoca impero.",303,80.0,False,positional,,,VASI,,
 BO0624_81815,146360,178,181,"Due acquasantini in bronzo, nel centro cristo in croce finemente cesellati, epoca impero.",305,97.7,False,positional,,,Argenterie,,
 BO0624_81815,146361,179,182,"Bassorilievo in bronzo antico, rappresentante una testa di Madonna.",308,97.0,False,positional,,,Argenterie,,
 BO0624_81815,146362,180,183,"Napoleone I, piccolo bronzo, con piedestallo, fermacarte.",309,96.4,False,positional,,,Argenterie,,
 BO0624_81815,146363,181,184,"Medaglia in argento cesellato raffigurante la Madonna e Cristo, a tergo S. Pietro e S. Paolo.",310,72.6,False,positional,,,Argenterie,,
 BO0624_81815,146364,182,185,Medaglia antica in argento.,312,92.9,False,positional,,,Argenterie,,
 BO0624_81815,146365,183,186,"Graziosa scatolina in argento filogranato, a forma di bauletto, peso gr. 70.",313,81.2,False,positional,,,Argenterie,,
-BO0624_81815,146366,184,187,"Portazucchero in argento sbalzato a puttini, Luigi XV peso gr. 302.",315,97.0,False,positional,,,Argenterie,,
+BO0624_81815,146366,184,187,"Portazucchero in argento sbalzato a puttini, Luigi XV peso gr. 302.",315,97.0,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146367,185,188,Paio candelieri a due fiamme in metallo argentato.,316,96.1,False,positional,,,Argenterie,,
 BO0624_81815,146368,186,189,Grandiosa oliera in argento traforato epoca impero peso gr. 310.,317,86.2,False,positional,,,Argenterie,,
 BO0624_81815,146369,187,190,"Porta sale in argento epoca impero, peso gr. 98.",319,95.7,False,positional,,,Argenterie,,
@@ -190,41 +190,41 @@ BO0624_81815,146370,188,191,"Porta ritratti a forma di spilla in argento cesella
 BO0624_81815,146371,189,193,Porta gioie in argento a tre piedi cesellato peso gr. 90.,321,96.5,False,positional,,,Argenterie,,
 BO0624_81815,146372,190,194,Paio boccole in argento con smalti.,322,94.4,False,positional,,,Argenterie,,
 BO0624_81815,146373,191,195,Anello d'oro con pietra e strass.,323,94.1,False,positional,,,Argenterie,,
-BO0624_81815,146374,192,196,"Paio candelieri in argento Luigi XIV, sagomati, peso grammi 480.",324,84.7,False,positional,,,Argenterie,,
+BO0624_81815,146374,192,196,"Paio candelieri in argento Luigi XIV, sagomati, peso grammi 480.",324,84.7,False,positional,,Periodo di Luigi XIV,Argenterie,,
 BO0624_81815,146375,193,197,Porta stecchi a forma di maialetto argentato.,328,95.7,False,positional,,,Argenterie,,
 BO0624_81815,146376,194,198,"Coppa con coperchio in metallo niellata in argento, e finemente cesellata.",329,81.2,False,positional,,,Argenterie,,
 BO0624_81815,146377,195,199,Porta gioie in argento filogranato peso gr. 40.,331,95.7,False,positional,,,Argenterie,,
 BO0624_81815,146378,196,200,Paio boccole in argento con pietre.,332,94.4,False,positional,,,Argenterie,,
-BO0624_81815,146379,197,201,"Due stampe inglesi colorate, frati in convento, cornici nere, cm. 45x48.",343,97.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146380,198,202,"Due stampe inglesi colorate, frati in convento, cornici nere, cm. 45x48.",344,85.5,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146379,197,201,"Due stampe inglesi colorate, frati in convento, cornici nere, cm. 45x48.",343,97.1,False,positional,,,CORNICI,,
+BO0624_81815,146380,198,202,"Due stampe inglesi colorate, frati in convento, cornici nere, cm. 45x48.",344,85.5,False,positional,,,CORNICI,,
 BO0624_81815,146381,199,203,"DUMINI L. Sec. XVIlI, Ritratto di Bethoven dipinto su cartone, cornice dorata ovale, cm.17x20.",346,70.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146382,200,204,"DUMINI L. Secolo XIll, Ritratto di Mozzart dipinto su cartone, cornice dorata ovale, cm. 17 x 20.",348,67.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146383,201,205,"SCUOLA FRANCESE, Sec. XVIlI, Pastore con pecore dipinto in rame, cornice dorata, cm. 25 x 21.",350,65.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146384,202,206,"CHANTERS, stampa inglese colorata, cornice dorata,",352,95.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146385,203,207,"MICHELANGELO DA CARAVAGGIO, Secolo XVIII, La deposizione di Cristo, dipinto su rame, cornice intagliata nera, cm. 50 x 40.",354,98.3,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
-BO0624_81815,146386,204,208,"SCUOLA FIAMMINGA, Sec.XVIlI, Madonna col putto e S. Giovanni, dipinto su rame, cornice intagliata e dorata, cm. 16 x 23.",355,89.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146387,205,209,"SCUOLA FIAMMINGA, Sec. XVIll, Fiori, dipinto su tavola, cornice guilluche, cm. 25 x 16.",359,68.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146388,206,210,"SCUOLA FIAMMINGA, Sec. XVIll. Fiori, dipinto su tavola, cornice guilluche, cm. 25 x 16.",361,68.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146389,207,211,"SCUOLA VENEZIANA, Sec. XVIl. Putti che giuocano, bel dipinto ad olio su vetro, cornice legno, cm. 50 x 30.",363,98.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146390,208,212,"SCUOLA FERRARESE, Sec. XVIl. Ritratto di gentiluomo con corazza, dipinto su tela di accurato disegno e buona esecuzione, cornice intagliata nera, cm. 120x 90.",364,98.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146391,209,213,"SCUOLA FERRARESE, Sec. XVIl. Ritratto di gentiluomo con corazza, dipinto su tela pandant al precedente.",366,72.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146392,210,214,"RENI GUIDO, 1575-1642, Testa di vecchio dipinto su tela, di meravigliosa potenza d'espressione, cornice, intagliata e dorata cm. 50 x 30.",367,84.5,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146385,203,207,"MICHELANGELO DA CARAVAGGIO, Secolo XVIII, La deposizione di Cristo, dipinto su rame, cornice intagliata nera, cm. 50 x 40.",354,98.3,False,positional,CARAVAGGIO,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81815,146386,204,208,"SCUOLA FIAMMINGA, Sec.XVIlI, Madonna col putto e S. Giovanni, dipinto su rame, cornice intagliata e dorata, cm. 16 x 23.",355,89.5,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146387,205,209,"SCUOLA FIAMMINGA, Sec. XVIll, Fiori, dipinto su tavola, cornice guilluche, cm. 25 x 16.",359,68.3,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146388,206,210,"SCUOLA FIAMMINGA, Sec. XVIll. Fiori, dipinto su tavola, cornice guilluche, cm. 25 x 16.",361,68.3,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146389,207,211,"SCUOLA VENEZIANA, Sec. XVIl. Putti che giuocano, bel dipinto ad olio su vetro, cornice legno, cm. 50 x 30.",363,98.0,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
+BO0624_81815,146390,208,212,"SCUOLA FERRARESE, Sec. XVIl. Ritratto di gentiluomo con corazza, dipinto su tela di accurato disegno e buona esecuzione, cornice intagliata nera, cm. 120x 90.",364,98.7,False,positional,,Scuola Ferrarese,QUADRI ANTICHI,,
+BO0624_81815,146391,209,213,"SCUOLA FERRARESE, Sec. XVIl. Ritratto di gentiluomo con corazza, dipinto su tela pandant al precedente.",366,72.3,False,positional,,Scuola Ferrarese,QUADRI ANTICHI,,
+BO0624_81815,146392,210,214,"RENI GUIDO, 1575-1642, Testa di vecchio dipinto su tela, di meravigliosa potenza d'espressione, cornice, intagliata e dorata cm. 50 x 30.",367,84.5,False,positional,GUIDO RENI,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146393,211,215,"BOCCHI, Sec. XVIl, Nani dipinto su tavola di forte colorito, cornice dorata cm. 40 x 20.",369,70.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146394,212,216,"MORETTO DA BRESCIA, Sec. XVI, La Vergine col putto, dipinto su tela, di accurata esecuzione, cornice guilluché, cm. 100 x 70.",372,77.7,False,positional,,,QUADRI ANTICHI,,Sec. XVI
-BO0624_81815,146395,213,217,"SCUOLA FIAMMINGA, Sec. XVII, Testa di uomo dipinto su tavola, cornice dorata, cm. 18 x 25.",374,66.1,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146396,214,218,"SCUOLA FIAMMINGA, sec. XVIl, Gatti, dipinto ad olio su tela, cornice dorata, cm. 73 x50.",375,70.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146397,215,219,"SCUOLA ROMANA, Sec. XVII, Soggetto di storia romana, grande dipinto ad olio su tela di bella composizione e colorito, cornice dorata, cm. 200 x 140.",377,98.6,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146395,213,217,"SCUOLA FIAMMINGA, Sec. XVII, Testa di uomo dipinto su tavola, cornice dorata, cm. 18 x 25.",374,66.1,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146396,214,218,"SCUOLA FIAMMINGA, sec. XVIl, Gatti, dipinto ad olio su tela, cornice dorata, cm. 73 x50.",375,70.8,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146397,215,219,"SCUOLA ROMANA, Sec. XVII, Soggetto di storia romana, grande dipinto ad olio su tela di bella composizione e colorito, cornice dorata, cm. 200 x 140.",377,98.6,False,positional,,Scuola Romana,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146398,216,220,"PARIS BORDONE, sec. XVI,《La casta susanna 》, dipinto su tela, ammirevole la morbidezza del colorito. la correttezza delle linee; cornice intagliata e dorata, cm. 116 x 94.",378,98.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146399,217,221,"VAN DYCH ANTONIO, Scuola, Sec. XVII, Ritratto della Marchesa Farnese, Duchessa di Modena, dipinto su tela con cornice verde e oro cm. 68 x 80.",380,81.6,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146400,218,222,"BERGHEM NICOLA, 1620-1683, Animali ai pascolo, dipinto su tela, ammirevole la finitezza dell'esecuzione del paesaggio, cornice intagliata nera e oro cm. 100x72.",382,83.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146399,217,221,"VAN DYCH ANTONIO, Scuola, Sec. XVII, Ritratto della Marchesa Farnese, Duchessa di Modena, dipinto su tela con cornice verde e oro cm. 68 x 80.",380,81.6,False,positional,VAN DYCK ANTON,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146400,218,222,"BERGHEM NICOLA, 1620-1683, Animali ai pascolo, dipinto su tela, ammirevole la finitezza dell'esecuzione del paesaggio, cornice intagliata nera e oro cm. 100x72.",382,83.2,False,positional,BERCHEM NICOLAAS,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146401,219,223,"IGNOTO, sec. XVIll, La cena, dipinto su tela, cornice dorata, cm. 40 x 30.",383,97.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146402,220,224,"MARCO RICCl, sec. XVIll, Architetture romane con figure, bel dipinto su tela, cornice dorata, cm. 50x 55.",384,97.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146403,221,225,"MARCO RICCI, sec. XVIll, Architetture romane con figure, dipinto su tela, cornice dorata, cm. 50 x 30.",385,65.8,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146403,221,225,"MARCO RICCI, sec. XVIll, Architetture romane con figure, dipinto su tela, cornice dorata, cm. 50 x 30.",385,65.8,False,positional,SEBASTIANO RICCI,,QUADRI ANTICHI,,
 BO0624_81815,146404,222,226,"SCUOLA GRECA, sec. XV. La sacra famiglia dipinto su tavola cornice dorata, cm. 40 x 36.",387,69.2,False,positional,,,QUADRI ANTICHI,,Sec. XV
-BO0624_81815,146405,223,227,"COURTOIS JACOPO, detto IL BORGOGNONE, 1621-1686, 《Battaglia》 buon dipinto su tela, cornice intagliata nera, cm. 100 x 65.",389,86.8,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146406,224,228,"SCUOLA VENEZIANA, Sec. XVII. Soggetto di storia sacra, dipinto ad olio su tela, cornice intagliata e dorata, cm. 150 x 100.",391,90.3,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146407,225,229,"SCUOLA FIAMMINGA, Sec. XVII,《Testa di frate con barba》, dipinto su tela di grande espressione, cornice verde, cm. 50 x 40.",393,96.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146408,226,230,"CORREGGIO, (Antonio Allegri detto il), 1494-1534, (Copia dell'epoca) La Fuga in Egitto, dipinto su tela cornice dorata con cimasa, cm. 50 x 37.",394,82.3,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146405,223,227,"COURTOIS JACOPO, detto IL BORGOGNONE, 1621-1686, 《Battaglia》 buon dipinto su tela, cornice intagliata nera, cm. 100 x 65.",389,86.8,False,positional,COURTOIS BOURGUIGNON JACQUES,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146406,224,228,"SCUOLA VENEZIANA, Sec. XVII. Soggetto di storia sacra, dipinto ad olio su tela, cornice intagliata e dorata, cm. 150 x 100.",391,90.3,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146407,225,229,"SCUOLA FIAMMINGA, Sec. XVII,《Testa di frate con barba》, dipinto su tela di grande espressione, cornice verde, cm. 50 x 40.",393,96.6,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
+BO0624_81815,146408,226,230,"CORREGGIO, (Antonio Allegri detto il), 1494-1534, (Copia dell'epoca) La Fuga in Egitto, dipinto su tela cornice dorata con cimasa, cm. 50 x 37.",394,82.3,False,positional,CORREGGIO,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146409,227,231,"MAZZOLANI, 《Paesaggio》, dipinto su tavola, cornice dorata, cm. 10 x 14.",399,76.3,False,positional,,,Quadri Moderni,,
 BO0624_81815,146410,228,232,"MENSONIER, copia, 《Paggio 》, dipinto su tavoletta, cornice intagliata e dorata, cm. 8x 10.",401,95.8,False,positional,,,Quadri Moderni,,
 BO0624_81815,146411,229,233,"MAZZOLANl, 《Paesaggio con casa 》, bel dipinto ad olio su tavola, cornice dorata, cm. 20 × 15.",402,65.2,False,positional,,,Quadri Moderni,,
@@ -235,25 +235,25 @@ BO0624_81815,146415,233,237,"DE LISlO, 《Portatrice d'arance》, dipinto ad oli
 BO0624_81815,146416,234,238,"TALLONE CESARE, (attribuito), 《Mezza figura di donna 》, dipinto su tela, di forte concezione artistica, ricca cornice intagliata e dorata, cm. 66 x 48.",422,98.6,False,positional,,,Quadri Moderni,,
 BO0624_81815,146417,235,239,"FONTANA ROBERTO, 《Pergolato》, dipinto su cartone, cornice dorata, cm. 12 x 10.",423,70.2,False,positional,,,Quadri Moderni,,
 BO0624_81815,146418,236,240,"FONTANA ROBERTO, 《Zingaro》, dipinto su tela, cornice dorata, 20x10.",424,52.2,False,positional,,,Quadri Moderni,,
-BO0624_81815,146419,237,241,"BARZANTl L., 《Frutta 》, due dipinti in tela, cornici dorate, cm. 100 x 60.",426,82.8,False,positional,,,Quadri Moderni,,
+BO0624_81815,146419,237,241,"BARZANTl L., 《Frutta 》, due dipinti in tela, cornici dorate, cm. 100 x 60.",426,82.8,False,positional,,,CORNICI,,
 BO0624_81815,146420,238,242,"MONTICELLl, 《Soggetto di storia romana》 dipinto su cartone, di vigoroso colorito e tocco sicuro, cornice dorata cm. 40 x 30.",428,97.1,False,positional,,,Quadri Moderni,,
 BO0624_81815,146421,239,243,"RONzONl, 《 interno di chiostro 》, dipinto su tela, con bell'effetto di luce, cornice dorata, cm. 45 x 35.",430,65.7,False,positional,,,Quadri Moderni,,
 BO0624_81815,146422,240,244,"TOMA L.,  《 Tramonto 》. Magnifico dipinto ad olio, su tavola, cornice dorata, cm. 14 x 31.",431,67.2,False,positional,,,Quadri Moderni,,
 BO0624_81815,146423,241,245,"PRATELLA ATTILIO,  《 Marina con barche 》, dipinto a tempera, di vivace colorito, cornice dorata, cm. 47 x 30.",433,96.5,False,positional,,,Quadri Moderni,,
-BO0624_81815,146424,242,246,"Miniatura su avorio, ritratto di donna in costume Luigi XV, cornice metallo cesellato.",438,97.6,False,title_direct,,,Miniature,,
-BO0624_81815,146425,243,247,"Ritratto di gentiluomo, miniatura su avorio, cornice legno e metallo.",439,83.3,False,positional,,,Argenterie,,
-BO0624_81815,146426,244,248,"Ritratto di donna in costume, miniatura su avorio cornice legno e metallo.",441,81.2,False,positional,,,Argenterie,,
+BO0624_81815,146424,242,246,"Miniatura su avorio, ritratto di donna in costume Luigi XV, cornice metallo cesellato.",438,97.6,False,title_direct,,Periodo di Luigi XV,Miniature,,
+BO0624_81815,146425,243,247,"Ritratto di gentiluomo, miniatura su avorio, cornice legno e metallo.",439,83.3,False,positional,,,MINIATURE,,
+BO0624_81815,146426,244,248,"Ritratto di donna in costume, miniatura su avorio cornice legno e metallo.",441,81.2,False,positional,,,MINIATURE,,
 BO0624_81815,146427,245,249,"Miniatura su avorio, ritratto di donna, cornice legno rotonda.",443,89.5,False,title_direct,,,Miniature,,
-BO0624_81815,146428,246,250,"Piccolo dipinto su rame, colombi che bevono in un vaso d'acqua, cornice nera.",445,96.1,False,positional,,,Argenterie,,
-BO0624_81815,146429,247,251,"Finissima miniatura su avorio, di donna, costume Luigi XV, cornice legno e metallo.",446,97.5,False,positional,,,Argenterie,,
-BO0624_81815,146430,248,252,"Ritratto di gentiluomo, miniatura su avorio cornice legno, metallo cesellato.",447,97.4,False,positional,,,Argenterie,,
-BO0624_81815,146431,249,253,"Fine miniatura su avorio, ritratto di donna, cornise legno e metallo.",448,83.3,False,positional,,,Argenterie,,
+BO0624_81815,146428,246,250,"Piccolo dipinto su rame, colombi che bevono in un vaso d'acqua, cornice nera.",445,96.1,False,positional,,,VASI,,
+BO0624_81815,146429,247,251,"Finissima miniatura su avorio, di donna, costume Luigi XV, cornice legno e metallo.",446,97.5,False,positional,,Periodo di Luigi XV,MINIATURE,,
+BO0624_81815,146430,248,252,"Ritratto di gentiluomo, miniatura su avorio cornice legno, metallo cesellato.",447,97.4,False,positional,,,MINIATURE,,
+BO0624_81815,146431,249,253,"Fine miniatura su avorio, ritratto di donna, cornise legno e metallo.",448,83.3,False,positional,,,MINIATURE,,
 BO0624_81815,146432,250,254,"Dipinto su rame, ritratto di donna, cornice legno e metallo.",450,89.1,False,positional,,,Argenterie,,
 BO0624_81815,146433,251,255,"Dipinto su rame, ritratto di gentiluomo, cornice legno dorato ovale.",462,97.0,False,positional,,,Argenterie,,
-BO0624_81815,146434,252,256,"Statuina in porcellana bianca, di Capodimonte, figura di donna, in costume Luigi XV.",463,97.6,False,positional,,,Argenterie,,
+BO0624_81815,146434,252,256,"Statuina in porcellana bianca, di Capodimonte, figura di donna, in costume Luigi XV.",463,97.6,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146435,253,257,"Statuina in porcellana bianca di Capodimonte, figura d'uomo in costume.",464,97.2,False,positional,,,Argenterie,,
 BO0624_81815,146436,254,258,"Figura di donna con putto, bellissimo, gruppo in porcellana, colorata di Sax.",465,97.3,False,positional,,,Argenterie,,
-BO0624_81815,146437,255,259,Due vasi pandant in porcellana Chinese antica con decorazioni e figure in rilievo.,466,97.6,False,positional,,,Argenterie,,
+BO0624_81815,146437,255,259,Due vasi pandant in porcellana Chinese antica con decorazioni e figure in rilievo.,466,97.6,False,positional,,,VASI,,
 BO0624_81815,146438,256,260,"Statuina in porcellana colorata di Capodimonte, figura di donna.",467,96.9,False,positional,,,Argenterie,,
 BO0624_81815,146439,257,261,"Statuina in porcellana colorata di Capodimonte, figura d'uomo.",468,96.8,False,positional,,,Argenterie,,
 BO0624_81815,146440,258,262,"Piatto ovale sagomato, in maiolica di Parma antica decorato a foglie.",469,97.1,False,positional,,,Argenterie,,
@@ -264,9 +264,9 @@ BO0624_81815,146444,262,266,"Bellissimo gruppo in porcellana colorata di Sax, su
 BO0624_81815,146445,263,267,"Bellissimo gruppo in porcellana colorata di Sax, suonatore di cembalo.",476,82.9,False,positional,,,Argenterie,,
 BO0624_81815,146446,264,268,"Piatto antico in maiolica di Pesaro, con decorazione, policroma a fogliami.",478,80.3,False,positional,,,Argenterie,,
 BO0624_81815,146447,265,269,"Zuppiera con coperchio in maiolica francese, decorata a fiori.",480,89.7,False,positional,,,Argenterie,,
-BO0624_81815,146448,266,270,"Vaso da farmacia a forma di bottiglia, in maiolica an- tica di Savona, decorato a fogliami.",482,72.7,False,positional,,,Argenterie,,
-BO0624_81815,146449,267,271,"Vaso da farmacia a forma di bottiglia, in maiolica, an- tica di Savona, decorato a fogliami.",484,72.7,False,positional,,,Argenterie,,
-BO0624_81815,146450,268,272,Due vasi in maiolica antica di Savona decorati a fogliami.,486,91.1,False,positional,,,Argenterie,,
+BO0624_81815,146448,266,270,"Vaso da farmacia a forma di bottiglia, in maiolica an- tica di Savona, decorato a fogliami.",482,72.7,False,positional,,,VASI,,
+BO0624_81815,146449,267,271,"Vaso da farmacia a forma di bottiglia, in maiolica, an- tica di Savona, decorato a fogliami.",484,72.7,False,positional,,,VASI,,
+BO0624_81815,146450,268,272,Due vasi in maiolica antica di Savona decorati a fogliami.,486,91.1,False,positional,,,VASI,,
 BO0624_81815,146451,269,273,"Statuina in bronzo antico, figura d'uomo base marmo.",488,96.2,False,positional,,,Argenterie,,
 BO0624_81815,146452,270,274,"Calamaio in bronzo a tre piedi cesellati a forma di satiri, coperchio sormontato da figura di guerriero.",489,98.1,False,positional,,,Argenterie,,
 BO0624_81815,146453,271,275,"Busto in bronzo cesellato, Schmerlinc, base marmo.",490,95.9,False,positional,,,Argenterie,,
@@ -285,17 +285,17 @@ BO0624_81815,146465,283,287,"Due placchette portacandele, in argento cesellate c
 BO0624_81815,146466,284,288,"Cornicietta ovale in argento sbalzato a festoni, peso grammi 35.",510,88.1,False,positional,,,Argenterie,,
 BO0624_81815,146467,285,289,"Orologio a ripetizione con cassa d'oro e smalto con figure, epoca impero.",512,97.3,False,positional,,,Argenterie,,
 BO0624_81815,146468,286,290,"Due posate in argento antico peso, gr. 90.",513,95.1,False,positional,,,Argenterie,,
-BO0624_81815,146469,287,291,"Zuccheriera in argento Luigi XV, sbalzata e cesellata, coperchio con putto.",514,81.2,False,positional,,,Argenterie,,
+BO0624_81815,146469,287,291,"Zuccheriera in argento Luigi XV, sbalzata e cesellata, coperchio con putto.",514,81.2,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146470,288,292,Calamaio impero in argento cesellato gr. 215.,516,95.6,False,positional,,,Argenterie,,
 BO0624_81815,146471,289,293,Cinque porta bicchieri in argento traforato e sbalzato grammi 175.,517,87.8,False,positional,,,Argenterie,,
-BO0624_81815,146472,290,294,"Due magnifici candelieri Luigi XV in argento sbalzato e cesellato, peso gr. 370.",519,79.1,False,positional,,,Argenterie,,
+BO0624_81815,146472,290,294,"Due magnifici candelieri Luigi XV in argento sbalzato e cesellato, peso gr. 370.",519,79.1,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146473,291,295,Coppa per premio in argento sbalzato con iscrizione peso gr. 102.,521,86.4,False,positional,,,Argenterie,,
 BO0624_81815,146474,292,296,"Due porta tazze in argento liscio, peso gr. 145.",523,95.7,False,positional,,,Argenterie,,
 BO0624_81815,146475,293,297,Cinque porta uova in argento traforato e cesellato epoca impero.,524,96.9,False,positional,,,Argenterie,,
 BO0624_81815,146476,294,298,"Due saliere in argento traforato a tre piedi, epoca impero.",525,96.6,False,positional,,,Argenterie,,
 BO0624_81815,146477,295,299,"Spillone in argento filogranato, peso gr. 60.",526,95.5,False,positional,,,Argenterie,,
 BO0624_81815,146478,296,300,Orologio a ripetizione con cassa d'oro contornato da perline epoca impero.,527,97.3,False,positional,,,Argenterie,,
-BO0624_81815,146479,297,301,"IGNOTO, sec. XVllI, Quattro acquerelli, paesaggi con figure, cornici legno, 20 x 16.",536,72.9,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146479,297,301,"IGNOTO, sec. XVllI, Quattro acquerelli, paesaggi con figure, cornici legno, 20 x 16.",536,72.9,False,positional,,,ACQUEFORTI,,
 BO0624_81815,146480,298,302,"Stampa colorata, inglese, figura di donna, cornice nera, 40 x 32.",538,89.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146481,299,303,"M.rs FITGHERBERT, incisione colorata inglese, cornice legno, 48 x 38.",540,81.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146482,300,304,"lncisione inglese colorata, figura di due giovani donne, cornice legno e metallo, 52 x 40.",542,97.7,False,positional,,,QUADRI ANTICHI,,
@@ -303,37 +303,37 @@ BO0624_81815,146483,301,305,"SARAH BUNBTRY, stampa inglese colorata, cornice leg
 BO0624_81815,146484,302,306,"S. CECILlA, bella stampa inglese a colori, cornice nera, 42 x 60.",544,84.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146485,303,307,"M.rs ANNE WAREN, stampa inglese a colori, cornice legno, 42 x 58.",546,83.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146486,304,308,"IGNOTO, sec. XVll, Vergine col bambino, dipinto su tela, cornice nera, 20 x 29.",548,73.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146487,305,309,"SCUOLA BERGAMASCA, sec. XVll, Contadino, dipinto su tela, cornice dorata, cm. 24x32.",550,97.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146488,306,310,"SCUOLA BERGAMASCA, sec. XVll, Vecchia con lume, dipinto su tela, indovinato l'effetto di luce, cornice dorata, 24 x 32.",551,91.0,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146487,305,309,"SCUOLA BERGAMASCA, sec. XVll, Contadino, dipinto su tela, cornice dorata, cm. 24x32.",550,97.4,False,positional,,Scuola Bergamasca,QUADRI ANTICHI,,
+BO0624_81815,146488,306,310,"SCUOLA BERGAMASCA, sec. XVll, Vecchia con lume, dipinto su tela, indovinato l'effetto di luce, cornice dorata, 24 x 32.",551,91.0,False,positional,,Scuola Bergamasca,QUADRI ANTICHI,,
 BO0624_81815,146489,307,311,"PROCACCINl, scuola sec. XVll, santo con angelo, disegno a penna, cornice dorata, 12x16.",553,70.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146490,308,312,"IGNOTO. sec. XVIll, Ritratto di donna, dipinto su tavola, firmato B. V., cornice dorata, 31 x 23.",556,64.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146491,309,313,"SCUOLA DELL'800, Donna che muore, dipinto su tela, cornice dorata, cm. 40 x 33.",557,75.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146492,310,314,"BASSANO, scuola, sec. XVIl, Le nozze di Canaan, buon dipinto su tela, cornice dorata, cm. 80 x65.",560,67.6,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146492,310,314,"BASSANO, scuola, sec. XVIl, Le nozze di Canaan, buon dipinto su tela, cornice dorata, cm. 80 x65.",560,67.6,False,positional,BASSANO GIACOMO,Scuola di Bassano,QUADRI ANTICHI,,
 BO0624_81815,146493,311,315,"SCUOLA FRANCESE, sec. XVIl. Ritratto di gentiluomo con parrucca, dipinto su tela, cornice intagliata nera,",561,98.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146494,312,316,"SCUOLA BOLOGNESE, sec. XVII, Magistrati che discutono, dipinto su tela, cornice nera, cm. 70x60.",564,66.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146495,313,317,"SCUOLA BOLOGNESE, sec. XVII, 《soggetto di storia sacra 》, dipinto su tela, sopraporta, cornice bianca e oro, con cimasa, cm. 80 x 60.",565,85.1,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146496,314,318,"SCUOLA BOLOGNESE, sec. XVII, 《 soggetto di storia sacra》,dipinto su tela, sopraporta, cornice bianca oro, con cimasa, cm. 80 x 60.",568,76.3,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146494,312,316,"SCUOLA BOLOGNESE, sec. XVII, Magistrati che discutono, dipinto su tela, cornice nera, cm. 70x60.",564,66.2,False,positional,,Scuola Bolognese,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146495,313,317,"SCUOLA BOLOGNESE, sec. XVII, 《soggetto di storia sacra 》, dipinto su tela, sopraporta, cornice bianca e oro, con cimasa, cm. 80 x 60.",565,85.1,False,positional,,Scuola Bolognese,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146496,314,318,"SCUOLA BOLOGNESE, sec. XVII, 《 soggetto di storia sacra》,dipinto su tela, sopraporta, cornice bianca oro, con cimasa, cm. 80 x 60.",568,76.3,False,positional,,Scuola Bolognese,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146497,315,319,"MAGNASCO ALESSANDRO, 1667-1447, 《S. Gerolamo con angelo su sfondo di paesaggio 》, forte dipinto ad olio su tela, con tutte le caratteristiche del ricercato artista, cornice dorata, cm. 80x 50.",583,98.4,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146498,316,320,"TODESCHIN1 DI BERGAMO, sec. XVII, 《Testa di vecchia 》, dipinto su tela, di grande potenza d'espressione e perfetto disegno, cornice dorata, cm. 36 x 27.",584,97.6,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146499,317,321,"TODESCHINI DI BERGAMO, sec. XVI, 《Testa di vecchio》, dipinto su tela, pandant al precedente.",586,68.7,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146500,318,322,"SCUOLA FRANCESE, sec. XVIl, 《Frutta 》, dipinto su tela, cornice dorata, cm. 66 x 47.",587,65.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146501,319,323,"SCUOLA FRANCESE, sec. XVII, 《 Frutta 》,  importante dipinto ad olio, su tela, di forte colorito, cornice do- rata, cm. 66 x 44.",589,88.0,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146502,320,324,"WOUWERMANS FILIPPO, 1620-1668, 《Battaglia 》,  dipinto su tela, cornice dorata, cm. 110 x 73.",592,71.4,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146502,320,324,"WOUWERMANS FILIPPO, 1620-1668, 《Battaglia 》,  dipinto su tela, cornice dorata, cm. 110 x 73.",592,71.4,False,positional,WOUWERMAN PHILIPS,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146503,321,325,"BOSELLI FELICE, 1680, 《Natura morta》, su tela, di grande naturalezza, cornice dorata, firmato e datato, cm. 60 x 43.",593,90.5,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146504,322,326,"SNEYDERS FRANCESCO, 1579-1657, 《Natura morta》, dipinto ad olio su carta, cornice dorata, cm. 45 x 40.",596,71.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146504,322,326,"SNEYDERS FRANCESCO, 1579-1657, 《Natura morta》, dipinto ad olio su carta, cornice dorata, cm. 45 x 40.",596,71.7,False,positional,SNYDERS FRANS,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146505,323,327,"PIAZZETTA GIOVANNI BATTISTA, sec. XVIII, 《 Sacra famiglia con S. Giovanni 》, dipinto su tela, cornice dorata, cm. 130 x 120.",598,79.1,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81815,146506,324,328,"PINTURICCHIO BERNARDNO, 1454-1513, 《Madonna con putto su sfondo di paesaggio 》, dipinto ad olio su tavola, cornice e capitello, intagliata e dorata, cm. 30 x 20.",599,96.8,False,positional,,,QUADRI ANTICHI,,Sec. XV
-BO0624_81815,146507,325,329,"SCUOLA FIAMMINGA, sec. XVII, 《Accampamento di soldati 》, dipinto su tavola, forte di colore, rotondo, cornice dorata, cm. 17.",600,97.0,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146507,325,329,"SCUOLA FIAMMINGA, sec. XVII, 《Accampamento di soldati 》, dipinto su tavola, forte di colore, rotondo, cornice dorata, cm. 17.",600,97.0,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146508,326,330,"SCUOLA FRANCESE, sec. XVII, 《Ritratto di donna 》, bellissimo dipinto ad olio su tela, cornice intagliata e dorata, cm. 60x50.",602,77.0,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146509,327,331,"CAMILLO VERNO,《Frescura 》, dipinto ad olio su tela, cornice dorata, cm. 125 x 150.",606,93.7,False,positional,,,Quadri Moderni,,
-BO0624_81815,146510,328,332,"IGNOTO. sec. XX,《 Palude 》, due dipinti su tela, cornici dorate, cm. 30 x 20.",607,72.7,False,positional,,,Quadri Moderni,,
-BO0624_81815,146511,329,333,"COROT, 《Ninfe al bagno 》, dipinto su tavola, importante per trasparenza di colorito, firmato, cornice dorata, 100× 40.",609,92.8,False,positional,,,Quadri Moderni,,
+BO0624_81815,146510,328,332,"IGNOTO. sec. XX,《 Palude 》, due dipinti su tela, cornici dorate, cm. 30 x 20.",607,72.7,False,positional,,,CORNICI,,
+BO0624_81815,146511,329,333,"COROT, 《Ninfe al bagno 》, dipinto su tavola, importante per trasparenza di colorito, firmato, cornice dorata, 100× 40.",609,92.8,False,positional,COROT JEAN-BAPTISTE-CAMILLE,,Quadri Moderni,,
 BO0624_81815,146512,330,334,"PELLEGRIN1 RICCARDO,《Fabbricatori di pignatte》, dipinto su tela. cornice dorata, cm. 20 x 25.",611,65.7,False,positional,,,Quadri Moderni,,
 BO0624_81815,146513,331,335,"MAZZA S.,《Barche di pescatori 》, dipinto ad olio su cartone, cornice dorata, cm. 30x 20.",613,94.0,False,positional,,,Quadri Moderni,,
 BO0624_81815,146514,332,336,"CARCANO, (attribuito), 《 Contadina 》, dipinta su tela, di forte colorito, cornice dorata, cm. 30 x 40.",628,97.8,False,positional,,,Quadri Moderni,,
 BO0624_81815,146515,333,337,"VERNO CAMILLO, 《all'Abbeveratoio 》, bellissimo dipinto su tela, cornice intagliata e dorata, cm. 90 x 80.",629,96.5,False,positional,,,Quadri Moderni,,
 BO0624_81815,146516,334,338,"JEMOLI ACHILLE, 《Cipressi sul lago》, dipinto su tela, firmato, cornice dorata, cm. 45 x34.",630,97.6,False,positional,,,Quadri Moderni,,
-BO0624_81815,146517,335,339,"PIATTI ANTONIO, 《Gli innamorati 》, disegno a carbone, cornice mogano, 50 x 30.",631,95.2,False,positional,,,Quadri Moderni,,
+BO0624_81815,146517,335,339,"PIATTI ANTONIO, 《Gli innamorati 》, disegno a carbone, cornice mogano, 50 x 30.",631,95.2,False,positional,,,PIATTI,,
 BO0624_81815,146518,336,340,"FONTANA ROBERTO, 《Interno di stalla》, dipinto ad olio su tela, cornice dorata, cm. 40 x 30.",632,97.6,False,positional,,,Quadri Moderni,,
 BO0624_81815,146519,337,341,"BIANCHI MOSE,《Costumi lombardi 》, dipinto su tavola, firmato e datato: Maggio 1889 , cornice dorata, cm. 38 x 18.",633,96.7,False,positional,,,Quadri Moderni,,Sec. XIX
 BO0624_81815,146520,338,342,"INDUNO GEROLAMO, 《Ritratto del baroncino Aspana 》, importante dipinto su tela, cornice dorata, cm. 40 x 30.",634,95.9,False,positional,,,Quadri Moderni,,
@@ -341,20 +341,20 @@ BO0624_81815,146521,339,343,"FARUFFINI, 《Il negromantico》, dipinto su tela, 
 BO0624_81815,146522,340,344,"SCUOLA DEL TALLONE, 《Vecchio questuante 》, dipinto su tela, di grande espressione, cornice dorata, cm. 62 x52.",636,98.0,False,positional,,,Quadri Moderni,,
 BO0624_81815,146523,341,345,"BIANCHI G.,《E' morta 》, dipinto su tela, cornice in- tagliata e dorata, cm. 20 x 12.",637,71.0,False,positional,,,Quadri Moderni,,
 BO0624_81815,146524,342,346,"Miniatura su avorio, ritratto di gentildonna, cornice legno e metallo.",643,83.6,False,title_direct,,,Miniature,,
-BO0624_81815,146525,343,347,"Ritratto di uomo, miniatura su vetro, cornice legno nero.",645,96.4,False,positional,,,Armi; Mobili,,
-BO0624_81815,146526,344,348,"Ritratto di gentiluomo, miniatura antica su avorio, cornice legno e metallo.",646,77.8,False,positional,,,Armi; Mobili,,
+BO0624_81815,146525,343,347,"Ritratto di uomo, miniatura su vetro, cornice legno nero.",645,96.4,False,positional,,,MINIATURE,,
+BO0624_81815,146526,344,348,"Ritratto di gentiluomo, miniatura antica su avorio, cornice legno e metallo.",646,77.8,False,positional,,,MINIATURE,,
 BO0624_81815,146527,345,349,"Miniatura su avorio, ritratto di donna, cornice metallo cesellato.",648,96.9,False,title_direct,,,Miniature,,
 BO0624_81815,146528,346,350,"Miniatura su avorio, ritratto di donna, cornice metallo cesellato.",649,96.9,False,title_direct,,,Miniature,,
-BO0624_81815,146529,347,351,"Ritratto di donna, miniatura su avorio, cornice legno rotonda.",650,96.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146530,348,352,"Bellissima miniatura su avorio, ritratto di donna, costume Luigi XV, in elegante astuccio.",651,97.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146531,349,353,"Ritratto d'uomo, miniatura su avorio, cornice metallo sbalzato.",652,96.8,False,positional,,,Armi; Mobili,,
-BO0624_81815,146532,350,354,"Buona miniatura su avorio, ritratto d'uomo, cornicietta osso.",653,92.2,False,positional,,,Armi; Mobili,,
-BO0624_81815,146533,351,355,"Ritratto d'uomo, miniatura su avorio, cornice legno e metallo.",665,96.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146534,352,356,"Vaso da farmacia in maiolica di Savona, decorato a fogliami.",666,96.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146535,353,357,"Vaso da farmacia in maiolica di Savona, decorato a fogliami.",667,96.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146536,354,358,Vaso da farmacia in maiolica antica di Savona con decorazioni.,668,96.8,False,positional,,,Armi; Mobili,,
-BO0624_81815,146537,355,359,"Due grandi vasi pandant in porcellana di Sevres decorati in oro, su fondo bleu, con medaglioni e figure epoca Luigi XV.",669,98.3,False,positional,,,Armi; Mobili,,
-BO0624_81815,146538,356,360,"Vaso portafiori in maiolica di Faenza, decorazione policroma a mascheroni.",670,97.3,False,positional,,,Armi; Mobili,,
+BO0624_81815,146529,347,351,"Ritratto di donna, miniatura su avorio, cornice legno rotonda.",650,96.7,False,positional,,,MINIATURE,,
+BO0624_81815,146530,348,352,"Bellissima miniatura su avorio, ritratto di donna, costume Luigi XV, in elegante astuccio.",651,97.7,False,positional,,Periodo di Luigi XV,MINIATURE,,
+BO0624_81815,146531,349,353,"Ritratto d'uomo, miniatura su avorio, cornice metallo sbalzato.",652,96.8,False,positional,,,MINIATURE,,
+BO0624_81815,146532,350,354,"Buona miniatura su avorio, ritratto d'uomo, cornicietta osso.",653,92.2,False,positional,,,MINIATURE,,
+BO0624_81815,146533,351,355,"Ritratto d'uomo, miniatura su avorio, cornice legno e metallo.",665,96.7,False,positional,,,MINIATURE,,
+BO0624_81815,146534,352,356,"Vaso da farmacia in maiolica di Savona, decorato a fogliami.",666,96.7,False,positional,,,VASI,,
+BO0624_81815,146535,353,357,"Vaso da farmacia in maiolica di Savona, decorato a fogliami.",667,96.7,False,positional,,,VASI,,
+BO0624_81815,146536,354,358,Vaso da farmacia in maiolica antica di Savona con decorazioni.,668,96.8,False,positional,,,VASI,,
+BO0624_81815,146537,355,359,"Due grandi vasi pandant in porcellana di Sevres decorati in oro, su fondo bleu, con medaglioni e figure epoca Luigi XV.",669,98.3,False,positional,,Periodo di Luigi XV,VASI,,
+BO0624_81815,146538,356,360,"Vaso portafiori in maiolica di Faenza, decorazione policroma a mascheroni.",670,97.3,False,positional,,Scuola Faentina,VASI,,
 BO0624_81815,146539,357,361,"Bellissimo servizio da the in porcellana di Sevres per 12 persone, 29 pezzi, decorato in oro e medaglioni con paesaggi.",671,98.3,False,positional,,,Armi; Mobili,,
 BO0624_81815,146540,358,362,"Piatto sagomato in maiolica di Napoli, decorato a fiori antico.",672,96.8,False,positional,,,Armi; Mobili,,
 BO0624_81815,146541,359,363,Insalatiera in maiolica antica di Savona. decorata a fogliami.,673,96.8,False,positional,,,Armi; Mobili,,
@@ -363,13 +363,13 @@ BO0624_81815,146543,361,365,"Piccolo piatto sagomato, antico, in maiolica di Ven
 BO0624_81815,146544,362,366,"Piccolo piatto sagomato, antico, in maiolica di Venezia, decorazione policroma a paesaggio.",677,97.8,False,positional,,,Armi; Mobili,,
 BO0624_81815,146545,363,367,"Statuina in porcellana bianca di Capodimonte, Napoleone I.",678,96.6,False,positional,,,Armi; Mobili,,
 BO0624_81815,146546,364,368,"Statuina in porcellana bianca, antica, di Capodimonte, Dante.",679,91.1,False,positional,,,Armi; Mobili,,
-BO0624_81815,146547,365,369,"Due grandi vasi in porcellana chinese, antica, marcati, decorazione policroma a fogliami e figure in rilievo, di gran pregio.",681,91.7,False,positional,,,Armi; Mobili,,
-BO0624_81815,146548,366,370,"Piatto ovale sagomato, in maiolica antica dl Faenza, decorato a fogliami.",683,80.6,False,positional,,,Armi; Mobili,,
+BO0624_81815,146547,365,369,"Due grandi vasi in porcellana chinese, antica, marcati, decorazione policroma a fogliami e figure in rilievo, di gran pregio.",681,91.7,False,positional,,,VASI,,
+BO0624_81815,146548,366,370,"Piatto ovale sagomato, in maiolica antica dl Faenza, decorato a fogliami.",683,80.6,False,positional,,Scuola Faentina,Armi; Mobili,,
 BO0624_81815,146549,367,371,"Coppa con manico, in argento cesellato, peso g. 330.",685,96.0,False,positional,,,Armi; Mobili,,
 BO0624_81815,146550,368,372,"Due acquasantini in argento s sbalzato a figure, con soggetto sacro, peso gr. 125.",686,97.5,False,positional,,,Armi; Mobili,,
 BO0624_81815,146551,369,373,"Portastecchi a forma di maialetto, in metallo argentato.",687,96.4,False,positional,,,Armi; Mobili,,
 BO0624_81815,146552,370,374,"Porta uova in argento sbalzato e cesellato, peso gr. 26.",688,96.4,False,positional,,,Armi; Mobili,,
-BO0624_81815,146553,371,375,"Due bellissime lumiere Luigi XV, in argento, S sostenute da figure di donne, con base riccamente cesellate a festoni e teste di fauni, coperchio sormontato da satiro, peso gr. 2330.",690,85.0,False,positional,,,Armi; Mobili,,
+BO0624_81815,146553,371,375,"Due bellissime lumiere Luigi XV, in argento, S sostenute da figure di donne, con base riccamente cesellate a festoni e teste di fauni, coperchio sormontato da satiro, peso gr. 2330.",690,85.0,False,positional,,Periodo di Luigi XV,Armi; Mobili,,
 BO0624_81815,146554,372,376,"Porta sale in argento cesellato, epoca impero, peso gr. 40.",691,90.7,False,positional,,,Armi; Mobili,,
 BO0624_81815,146555,373,377,"Spilla in argento dorato, con pietre e ciondolo.",693,95.8,False,positional,,,Armi; Mobili,,
 BO0624_81815,146556,374,378,Paio boccole in argento con perline.,712,94.6,False,positional,,,Armi; Mobili,,
@@ -396,35 +396,35 @@ BO0624_81815,146576,394,398,"Bellissima statua portafiori, in legno dorato, rapp
 BO0624_81815,146577,395,399,"Bellissima statua portafiori, in legno dorato, rappresentante un uomo.",740,83.6,False,positional,,,Armi; Mobili,,
 BO0624_81815,146578,396,400,"Mobile francese a cassetti. in legno ebano, intarsiato in metallo.",742,87.4,False,title_direct,,,Mobili,,
 BO0624_81815,146579,397,401,"SCUOLA GRECA, sec. XV,《Vergine col Bambino》, dipinto su tavola, fondo oro, cm. 30 x 26.",753,66.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146580,398,402,"SCUOLA VENEZIANA, sec. XVI, 《s. Giuseppe col Bambino 》, dipinto su tavola, cm. 25 x 30.",754,65.5,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146580,398,402,"SCUOLA VENEZIANA, sec. XVI, 《s. Giuseppe col Bambino 》, dipinto su tavola, cm. 25 x 30.",754,65.5,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146581,399,403,"Acquasantino in legno intagliato e dorato, con vetro dipinto, figura di santo.",756,78.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146582,400,404,"Acquasantino in legno intagliato e dorato, con vetro dipinto, figura di santo.",758,78.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146583,401,405,"SCUOLA VENEZIANA, sec. XVII, 《santi 》, dipinto ad olio su vetro, cornice nera e oro, cm. 40 x 30.",761,66.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146583,401,405,"SCUOLA VENEZIANA, sec. XVII, 《santi 》, dipinto ad olio su vetro, cornice nera e oro, cm. 40 x 30.",761,66.7,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146584,402,406,"Disegno acquerellato, antico, ritratto di gentiluomo, cornice intagliata e dorata, cm. 25 x 29.",762,69.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146585,403,407,"Due stampe inglesi colorate, figure di donne, cornici nere, cm. 28 x 22.",764,83.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146586,404,408,"SCUOLA FIAMMINGA, sec. XVII, 《Nel porto》, dipinto su tela, cornice dorata, cm. 26 x 20.",767,67.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146587,405,409,"SCUOLA FIAMMINGA, sec. XVIl, dipinto su tela pandant al precedente.",768,75.9,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146585,403,407,"Due stampe inglesi colorate, figure di donne, cornici nere, cm. 28 x 22.",764,83.6,False,positional,,,CORNICI,,
+BO0624_81815,146586,404,408,"SCUOLA FIAMMINGA, sec. XVII, 《Nel porto》, dipinto su tela, cornice dorata, cm. 26 x 20.",767,67.2,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146587,405,409,"SCUOLA FIAMMINGA, sec. XVIl, dipinto su tela pandant al precedente.",768,75.9,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
 BO0624_81815,146588,406,410,"SCUOLA GRECA, sec. XV,《Madonna col putto 》, dipinto su tavola, cornice a capitello, intagliata e dorata, cm. 32 x 27.",770,98.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146589,407,411,"SCUOLA VENEZIANA, sec. XVI, 《Figura di giovane donna 》 , buon dipinto ad olio su tela, cornice intagliata e dorata, cm. 26 x 32.",772,77.5,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146589,407,411,"SCUOLA VENEZIANA, sec. XVI, 《Figura di giovane donna 》 , buon dipinto ad olio su tela, cornice intagliata e dorata, cm. 26 x 32.",772,77.5,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146590,408,412,"ALBANI, Scuola sec. XVIl, 《Putti che giuocano 》, dipinto su tela ovale, cornice intagliata e dorata, centimetri 50 x 40.",774,76.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146591,409,413,"ALBANI, Scuola sec. XVIl, 《Putti che giuocano 》, dipinto su tela, pandant al precedente.",775,64.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146592,410,414,"LONGHI PIETRO, Scuola, sec. XVIlI, 《Ritratto di giovane donna》, bel dipinto ad olio su tela, cornice dorata, cm. 74 x 50.",776,98.2,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146593,411,415,"SCUOLA GRECA, sec. XV, 《Madonna col putto》, dipinto su tavola, cm.26 x 32.",777,95.0,False,positional,,,QUADRI ANTICHI,,Sec. XV
 BO0624_81815,146594,412,416,"lncisione inglese antica a colori, figure di donne, cornice a pastello dorata, cm. 42 x 30.",778,74.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81815,146595,413,417,"ALBANI, sec. XVI, 《Putto 》, dipinto ad olio su tela, di fresco colorito, cornice intagliata e dorata, centimetri 60 x 50.",780,98.2,False,positional,,,QUADRI ANTICHI,,Sec. XVI
-BO0624_81815,146596,414,418,"SCUOLA BOLOGNESE, sec. XVII, 《Madonna col putto 》, dipinto su tela, cornice dorata, cm. 85 x 92.",783,97.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81815,146596,414,418,"SCUOLA BOLOGNESE, sec. XVII, 《Madonna col putto 》, dipinto su tela, cornice dorata, cm. 85 x 92.",783,97.7,False,positional,,Scuola Bolognese,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146597,415,419,"SCUOLA del MAGNASCO ALESSAN., sec. XVIII, 《Paesaggio con figure 》, dipinto su tela, cornice dorata, cm. 70 x 95.",784,73.0,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81815,146598,416,420,"BADILE, sec. XVI, 《Satiro 》, buon dipinto su tela, cornice dorata, cm. 60 x 37.",786,73.7,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146599,417,421,"BAROCCIO FEDERICO, 1528-1592, 《Madonna con putto》 importante dipinto su tela, per trasparenze di colorito ed espressione, cornice intagliata e dorata, centimetri 72x56.",788,96.4,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146600,418,422,"SCUOLA FRANCESE, sec. XVII, 《 Ritratto di gentiluomo con parrucca 》, bel dipinto ad olio su tela, cornice dorata cm. 30 x 80.",789,95.8,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146601,419,423,"PIAZZETTA GIOVANNI BATTISTA, Sec. XVII, 《La vergine col putto》, pregevole dipinto su tela ovale, per morbidezza di tinte, dolce espressione, ricca carnice intagliata e dorata, cm. 60 x 40.",791,87.3,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146602,420,424,"SCUOLA FRANCESE, sec. XVII 《Ritratto di gentiluomo 》 dipinto su tela, cornice intagliata e dorata, cm. 70 x 58.",792,96.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
-BO0624_81815,146603,421,425,"PAOLO CALIARI detto il VERONESE, scuola, secolo XVI,《Ritratto di Eleonora Toledo 》, buon dipinto ad olio su tela di grande espessione, cornice verde con riporti in oro, cm.94 x 65.",794,84.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81815,146604,422,426,"SCUOLA FIORENTINA, sec. XVI, 《Cristo 》, dipinto ad olio su tavola, cornice verde e oro, cm. 65x 48.",796,70.1,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81815,146603,421,425,"PAOLO CALIARI detto il VERONESE, scuola, secolo XVI,《Ritratto di Eleonora Toledo 》, buon dipinto ad olio su tela di grande espessione, cornice verde con riporti in oro, cm.94 x 65.",794,84.3,False,positional,PAOLO VERONESE,Scuola di Paolo Veronese,QUADRI ANTICHI,,
+BO0624_81815,146604,422,426,"SCUOLA FIORENTINA, sec. XVI, 《Cristo 》, dipinto ad olio su tavola, cornice verde e oro, cm. 65x 48.",796,70.1,False,positional,,Scuola Fiorentina,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146605,423,427,"SCUOLA INGLESE, sec. XVII, 《Ritratto di giovine donna 》, fine dipinto ad olio su tela, cornice dorata, cm. 60 X 40.",797,95.4,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81815,146606,424,428,"PROCACCINI CAMILLO, 1546-1626, 《Maternita 》, dipinto ad olio su tela, con ricca cornice intagliata e dorata, cm. 148 x 108.",798,95.8,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81815,146607,425,429,"SCUOLA SPAGNUOLA, sec. XVIII, 《Ritratto di donna  》, bellissimo dipinto ad olio su tela, cornice verde e oro, cm. 74x 60.",800,74.3,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
-BO0624_81815,146608,426,430,"SCUOLA FIAMMINGA, sec. XVIl, 《Fiori  》, due dipinti, pandant, ad olio su tela, di buon effetto, cornici dorate, cm. 35× 46.",802,78.7,False,positional,,,QUADRI ANTICHI,,
+BO0624_81815,146608,426,430,"SCUOLA FIAMMINGA, sec. XVIl, 《Fiori  》, due dipinti, pandant, ad olio su tela, di buon effetto, cornici dorate, cm. 35× 46.",802,78.7,False,positional,,Scuola Fiamminga,CORNICI,,
 BO0624_81815,146609,427,431,"GATTI ROBERTO. 《 Nel porto 》, dipinto su tela, cornice dorata, cm. 40 x 30.",806,76.8,False,positional,,,Quadri Moderni,,
 BO0624_81815,146610,428,432,"JEMOLI ACHILLE, 《Baite di montagna 》, dipinto su assicella, cornice dorata, cim. 40 x 30.",808,66.2,False,positional,,,Quadri Moderni,,
 BO0624_81815,146611,429,433,"FONTANA ROBERTO, Numero 13 studietti ad olio, su tavola, dal vero, montati in cornice.",810,97.6,False,positional,,,Quadri Moderni,,
@@ -443,25 +443,25 @@ BO0624_81815,146623,441,445,"MASSONI E., Costumi Napoletani, dipinto su tavola c
 BO0624_81815,146624,442,446,"Miniatura su rame, ritratto d'uomo, cornice metallo sbalzato.",835,96.7,False,title_direct,,,Miniature,,
 BO0624_81815,146625,443,447,"Miniatura su avorio, pallone in aria, cornice legno nero.",836,91.6,False,title_direct,,,Miniature,,
 BO0624_81815,146626,444,448,"Miniatura su avorio, Napoleone giovane, cornice legno nero.",838,91.9,False,title_direct,,,Miniature,,
-BO0624_81815,146627,445,449,"Ritratto di gentiluomo, miniatura su rame, cornice metallo sbalzato.",840,97.0,False,positional,,,Argenterie,,
+BO0624_81815,146627,445,449,"Ritratto di gentiluomo, miniatura su rame, cornice metallo sbalzato.",840,97.0,False,positional,,,MINIATURE,,
 BO0624_81815,146628,446,450,"Piccolo dipinto su rame, S. Giuseppe col Bambino,  cornice legno e metallo.",841,76.7,False,positional,,,Argenterie,,
 BO0624_81815,146629,447,451,Piccolo dipinto su carta 《 Santa in adorazione 》 cornice argento e pietra intarsiata.,843,72.6,False,positional,,,Argenterie,,
 BO0624_81815,146630,448,452,"Scatola in cartapesta, sul coperchio figura d'olandese.",845,96.4,False,positional,,,Argenterie,,
 BO0624_81815,146631,449,453,"Scatola in cartapesta, sul coperchio figura d'olandese.",846,96.4,False,positional,,,Argenterie,,
 BO0624_81815,146632,450,454,", Miniatura su avorio, ritratto di donna, cornice metallo",847,96.4,False,title_direct,,,Miniature,,
-BO0624_81815,146633,451,455,"Ritratto d'uomo, miniatura su avorio, cornice legno nero.",849,96.4,False,positional,,,Argenterie,,
+BO0624_81815,146633,451,455,"Ritratto d'uomo, miniatura su avorio, cornice legno nero.",849,96.4,False,positional,,,MINIATURE,,
 BO0624_81815,146634,452,456,"Piatto sagomato, in maiolica di Savona decorazione policroma.",850,96.7,False,positional,,,Argenterie,,
 BO0624_81815,146635,453,457,Piatto sagomato in maiolica Piemontese decorato a fiori.,851,96.5,False,positional,,,Argenterie,,
 BO0624_81815,146636,454,458,Piatto in maiolica di Lodi decorato a fiori.,852,95.6,False,positional,,,Argenterie,,
 BO0624_81815,146637,455,459,"Piatto ovale sagomato e traforato, in maiolica antica di Delft.",853,96.8,False,positional,,,Argenterie,,
 BO0624_81815,146638,456,460,"Piatto ovale sagomato in maiolica. di Lodi, decorato a foglie.",854,96.7,False,positional,,,Argenterie,,
 BO0624_81815,146639,457,461,Piatto in maiolica francese decorato a foglie.,855,95.7,False,positional,,,Argenterie,,
-BO0624_81815,146640,458,462,"Vaso di porcellana di Sevres, decorazione, in oro con medaglione.",856,96.9,False,positional,,,Argenterie,,
-BO0624_81815,146641,459,463,"Due bellissime statuine in porcellana bianca di Capodimonte, rappresentanti uomo e donna, in costume Luigi XV.",857,98.2,False,positional,,,Argenterie,,
+BO0624_81815,146640,458,462,"Vaso di porcellana di Sevres, decorazione, in oro con medaglione.",856,96.9,False,positional,,,VASI,,
+BO0624_81815,146641,459,463,"Due bellissime statuine in porcellana bianca di Capodimonte, rappresentanti uomo e donna, in costume Luigi XV.",857,98.2,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146642,460,464,"Gruppo in porcellana bianca di Capodimonte, suonatore di flauto.",858,96.9,False,positional,,,Argenterie,,
 BO0624_81815,146643,461,465,Piatto in maiolica francese decorato.,859,94.7,False,positional,,,Argenterie,,
-BO0624_81815,146644,462,466,"Vaso portafiori in maiolica antica Milano, decorazioni in rilievo.",860,97.0,False,positional,,,Argenterie,,
-BO0624_81815,146645,463,467,"Vaso in porcellana Giapponese, decorazione policroma a fiori.",861,96.7,False,positional,,,Argenterie,,
+BO0624_81815,146644,462,466,"Vaso portafiori in maiolica antica Milano, decorazioni in rilievo.",860,97.0,False,positional,,,VASI,,
+BO0624_81815,146645,463,467,"Vaso in porcellana Giapponese, decorazione policroma a fiori.",861,96.7,False,positional,,,VASI,,
 BO0624_81815,146646,464,468,"Ragazzo con maschera, bronzo moderno di buona modellazione.",862,96.6,False,positional,,,Argenterie,,
 BO0624_81815,146647,465,469,"SALA E. Ragazza con cane, bellissimo bronzo.",863,95.3,False,positional,,,Argenterie,,
 BO0624_81815,146648,466,470,"Giovane seduto, bronzo antico.",864,93.3,False,positional,,,Argenterie,,
@@ -475,8 +475,8 @@ BO0624_81815,146655,473,477,Pendola in marmo e bronzo cesellato.,872,94.6,False,
 BO0624_81815,146656,474,478,Campanello in bronzo cesellato a figure e ornati.,873,96.0,False,positional,,,Argenterie,,
 BO0624_81815,146657,475,479,Mortaio antico in bronzo cesellato a festoni.,874,95.7,False,positional,,,Argenterie,,
 BO0624_81815,146658,476,480,"Piccola coppa in argento cesellato, peso gr. 60.",875,95.7,False,positional,,,Argenterie,,
-BO0624_81815,146659,477,481,"Porta droghe Luigi XV, argento sbalzato e cesellato a festoni, peso gr. 183.",876,79.4,False,positional,,,Argenterie,,
-BO0624_81815,146660,478,482,"Porta droghe Luigi XV, in argento, sbalzato e cesellato a festoni, peso gr. 177.",878,97.4,False,positional,,,Argenterie,,
+BO0624_81815,146659,477,481,"Porta droghe Luigi XV, argento sbalzato e cesellato a festoni, peso gr. 183.",876,79.4,False,positional,,Periodo di Luigi XV,Argenterie,,
+BO0624_81815,146660,478,482,"Porta droghe Luigi XV, in argento, sbalzato e cesellato a festoni, peso gr. 177.",878,97.4,False,positional,,Periodo di Luigi XV,Argenterie,,
 BO0624_81815,146661,479,483,Due acquasantini in argento sbalzato a figure.,879,95.7,False,positional,,,Argenterie,,
 BO0624_81815,146662,480,484,Anello oro basso con pietre.,880,94.7,False,positional,,,Argenterie,,
 BO0624_81815,146663,481,485,"Due saliere in argento traforato, epoca impero, peso, grammi 70.",881,96.8,False,positional,,,Argenterie,,
@@ -491,7 +491,7 @@ BO0624_81815,146671,489,493,"Comodino antico sec. XVll, in legno noce intarsiato
 BO0624_81815,146672,490,494,"Busto in marmo, Manzoni, colonna legno impelliciato impero.",890,96.6,False,positional,,,Argenterie,,
 BO0624_81815,146673,491,495,"Busto in marmo, Lucrezia, colonna legno impelliciato impero.",891,96.6,False,positional,,,Argenterie,,
 BO0624_81815,146674,492,496,"Cassa per anticamera antica, sec. XV, in legno noce intaglato a faccie.",892,97.1,False,positional,,,Argenterie,,Sec. XV
-BO0624_81815,146675,493,497,"Poltrona a braccioli Luigi XV, ricoperta in stoffa verde.",893,96.5,False,positional,,,Argenterie,,
+BO0624_81815,146675,493,497,"Poltrona a braccioli Luigi XV, ricoperta in stoffa verde.",893,96.5,False,positional,,Periodo di Luigi XV,POLTRONE,,
 BO0624_81815,146676,494,498,Cassettone a scrivania in legno radica con intarsi.,894,96.2,False,positional,,,Argenterie,,
 BO0624_81815,146677,495,499,"Scrignetto in ebano, righe di avorio, tiretti con riporti in bronzo cesellato.",895,97.4,False,positional,,,Argenterie,,
 BO0624_81815,146678,496,500,"Piccolo mobile, in ebano intarsiato in avorio con figure, nell'interno piccoli cassetti.",896,97.7,False,positional,,,Argenterie,,

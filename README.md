@@ -116,13 +116,15 @@ The CSV files are uploaded in google spreadsheet for human revision.
 
 Reads the lot descriptions of revised catalogues and tries to extract Collections and periods. The latter are manually loaded on ZERI_NER spreadsheet for human revision (after the first run of the revised catalogues available at the time, every following run - that happens when new revised catalogues are available - appends new variants at the end of the CSV files, flagged as "new". These rows must be copied and pasted in google spreadsheet for revision).
 
+Every time run and append new values to the spreadsheet for review. Only after the revision run the rest, so that new/correct triples can be created.
+
 [PIPELINE] `assign_entities_via_title_match.py` + `align_title.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
 
 Queries documents.db for catalogues already reviewed, extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot. In the last script (below), the raw entity is replaced with the normalised form of the name that has been automatically clustered and manually revised in "ZERI_NER" spreadsheets.
 
 UPDATE: the final csv files also includes collections and periods extracted in the previous step
 
-[PIPELINE] `enrich_artist_school.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
+[PIPELINE] `enrich_artist_school_type.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
 
 Overrides the csv files adding, when not available yet, artist/schools/types using a fuzzy string match (partial ratio) between the lot description (title) and variants revised in the ZERI_NER spreadsheet (e.g. if a variant in the 'oggetti' tab in the spreadsheet appears in the full text description of the lot, this is added to the extracted entities in the "reviewed_lots_and_entities" csv file).
 

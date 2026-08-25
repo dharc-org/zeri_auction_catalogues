@@ -51,6 +51,12 @@ def is_title_line(lines: list[str], line_number: int) -> bool:
     return bool(TITLE_RE.match(lines[idx]))
 
 
+def fetch_catalogue_ids(conn: sqlite3.Connection, only_reviewed: bool = True) -> list[str]:
+    query = "SELECT id FROM catalogues WHERE reviewed = 1 ORDER BY id" if only_reviewed else "SELECT id FROM catalogues ORDER BY id"
+    cur = conn.execute(query)
+    return [r[0] for r in cur.fetchall()]
+
+
 def fetch_reviewed_catalogue_ids(conn: sqlite3.Connection) -> list[str]:
     cur = conn.execute("SELECT id FROM catalogues WHERE reviewed = 1 ORDER BY id")
     return [r[0] for r in cur.fetchall()]
@@ -303,7 +309,8 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     conn = sqlite3.connect(args.db)
-    catalogue_ids = fetch_reviewed_catalogue_ids(conn)
+    #catalogue_ids = fetch_reviewed_catalogue_ids(conn)
+    catalogue_ids = fetch_catalogue_ids(conn, False)  # fetch all catalogues not only reviewed
     print(f"{len(catalogue_ids)} cataloghi reviewed")
 
     print("[sheets] carico collezioni/periodi canonicalizzati...")

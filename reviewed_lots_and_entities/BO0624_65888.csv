@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_65888,54886,1,1,"G. FATToRI: Guardiano di maiali. Acquaforte (rara),cm.15x15 della Collezione di Cristiano Banti.",43,97.8,False,none,,,,COLLEZIONE BANTI,
-BO0624_65888,54887,2,2,"G. FATToRI: Attendamento di soldati.- Acquaforte,cm.20x13,50.",44,72.5,False,none,,,,,
-BO0624_65888,54888,3,3,"3.G.FATToRI: Maremma.- Acquaforte,cm.38,50x22. - 》",47,68.8,False,none,,,,,
+BO0624_65888,54886,1,1,"G. FATToRI: Guardiano di maiali. Acquaforte (rara),cm.15x15 della Collezione di Cristiano Banti.",43,97.8,False,none,,,ACQUEFORTI,COLLEZIONE BANTI,
+BO0624_65888,54887,2,2,"G. FATToRI: Attendamento di soldati.- Acquaforte,cm.20x13,50.",44,72.5,False,none,,,ACQUEFORTI,,
+BO0624_65888,54888,3,3,"3.G.FATToRI: Maremma.- Acquaforte,cm.38,50x22. - 》",47,68.8,False,none,,,ACQUEFORTI,,
 BO0624_65888,54889,4,4,G.FATToRI: Cavalleggero. Tocco in penna su cartolina postale con autografo del pittore.,48,98.8,False,none,,,,,
 BO0624_65888,54890,5,5,"SAVER10 ALTAMURA (1826-1897): Paese di Ciociaria. Olio su tela,c.24,50x17,50.",50,70.3,False,none,,,,,Sec. XIX
 BO0624_65888,54891,6,6,"SAvERIo ALTAMURA: Sotto la pergola. Olio su cartone, cm. 17x1l. Tav. IV.",51,98.5,False,none,,,,,
@@ -37,18 +37,18 @@ BO0624_65888,54920,35,37,"G.FATToRI: Bovi al carro. Acquarello,cm.32x15.TAv.LII.
 BO0624_65888,54921,36,38,"MICHELE GoRDIGIANI (1830-1909):Bozzetto. Bozzetto o studio preparatorio del grande ri tratto: di S. M. la Regina Margherita di Savoia, che si trova al Quirinale. Olio su tela, cm.34,50x43,50.TAv.CIII.",96,98.2,False,none,,,,,Sec. XIX
 BO0624_65888,54922,37,39,"T. SIGNoRINI: La fattoria. Olio su tavoletta, cm.11 x8,50.TAv.CXLIX.",97,96.2,False,none,,,,,
 BO0624_65888,54923,38,40,"G.FATToRI: Alba rosea. Olio su tavola, cm. 22x13.Tav.L.",98,95.2,False,none,,,,,
-BO0624_65888,54924,39,41,"SERAFINo De TIvoLI: Mucche al pascolo. Olio su tela,cm.27x21 (gia donato dall'Autore ad Orazio Lalli). L'opera fu esposta nella Mostra Retrospettiva della Societa di B. A.in Firenze nel 1910. Tav. XLVI.",99,99.2,False,none,,,,,Sec. XX
+BO0624_65888,54924,39,41,"SERAFINo De TIvoLI: Mucche al pascolo. Olio su tela,cm.27x21 (gia donato dall'Autore ad Orazio Lalli). L'opera fu esposta nella Mostra Retrospettiva della Societa di B. A.in Firenze nel 1910. Tav. XLVI.",99,99.2,False,none,DE TIVOLI SERAFINO,,,,Sec. XX
 BO0624_65888,54925,40,42,"G.FATToRI: Sole tra il verde. Olio su tavola,cm.19x12.",100,95.3,False,none,,,,,
 BO0624_65888,54926,41,43,"VITo D'ANcoNA: La Modella. Olio su tela appl. su cartone, cm.21,50x 26,50. TAv.XLII.",101,98.1,False,none,,,,,
 BO0624_65888,54927,42,44,"G.FATToRI: Chiesetta in montagna. Olio su tavola,cm.12x22.",102,95.7,False,none,,,,,
 BO0624_65888,54928,43,45,"T.SIGNoRINI: Viottolo di montagna. Olio su tavola, cm. 28x16. Tav. CXLVIII.",103,95.8,False,none,,,,,
 BO0624_65888,54929,44,46,"G.FATToRI: Ultimo raggio. Olio su tavoletta,cm.12,50x9.",104,92.7,False,none,,,,,
-BO0624_65888,54930,45,47,T. SIGNoRINI: Una via di Siena. Olio su tavola di cm.14x37. Tav.CXLVII.,105,93.6,False,none,,,,,
+BO0624_65888,54930,45,47,T. SIGNoRINI: Una via di Siena. Olio su tavola di cm.14x37. Tav.CXLVII.,105,93.6,False,none,,Scuola Senese,,,
 BO0624_65888,54931,46,48,"48.G.FATToRI: Cortile rustico. Acquarello,cm.34,50x27,60.TAv.XLIX.",106,97.7,False,none,,,,,
 BO0624_65888,54932,47,49,"LUIGI BEcHI: Piccoli amici. Olio su tavola, cm.25 x33. Tav. VIII.",107,93.5,False,none,,,,,
 BO0624_65888,54933,48,50,"S.LEGA:Testa di contadina. Olio su tavola,cm.26x39.Tav.CVI.",108,95.0,False,none,,,,,
 BO0624_65888,54934,49,51,"T. SiGNoRINI: Presso Arcola in Val di Magra. Olio su tela, cm.26x39.(L'opera e stata esposta nella Mostra retrospettiva delle opere di T. Signorini alla R. Galleria dell'Accademia in Firenze 1926).TAv. CXLVI.",109,98.0,False,none,,,,,Sec. XX
-BO0624_65888,54935,50,52,"GIovANNI FATToRI: Pattuglie di Cavalleria. Olio su tela, cm. 94x40.",110,93.8,False,none,,,,,
+BO0624_65888,54935,50,52,"GIovANNI FATToRI: Pattuglie di Cavalleria. Olio su tela, cm. 94x40.",110,93.8,False,none,Fattori Giovanni,,,,
 BO0624_65888,54936,51,53,"GIUsEPPE ABBATI:Lo spaccalegna. Olio su tavola, cm.20x26,50. TAv.I.",111,96.2,False,none,,,,,
 BO0624_65888,54937,52,54,"MARIo DE MARIA （MariusPictor)（18521924):Antico Mulino da Olioa Ponte di Legno in Valcamonica. Olio su tavola,cm.29x33 con lettera autografa del Pittore al Sig. Tav.XLV.",112,97.9,False,none,,,,,
 BO0624_65888,54938,53,55,"EGISTo FERRoNI (1835-1912):La mamma. Olio su tela di m.1xl,43. Lopera e citata nella Storia deiPittori Italiani dellOttocento di Enrico Somare, vol. I, pag. 134. E stata esposta nella Mostra Retrospettiva del Ferroni, tenuta per cura della Soc. di B.A. in Firenze a Pitti nel 1927. TAv. XCVII.",113,98.6,False,none,,,,,Sec. XIX
@@ -82,7 +82,7 @@ BO0624_65888,54965,80,82,"T. SiGNoRINI: Cielo a burrasca. Olio su tela, cm.25x20
 BO0624_65888,54966,81,83,"G. FATToRI: Spiaggia livornese. Olio su tavola, cm.23,50 x13,50.",164,97.5,False,none,,,,,
 BO0624_65888,54967,82,84,"84.PL.NoMELLINI: Marina. Olio su tavola, cm. 32x21,50.",165,98.0,False,none,,,,,
 BO0624_65888,54968,83,85,"G.FATToRI: Tetti rossi all' Ardenza. Olio su tela,cm.24x15. TAv.LVII.",166,97.7,False,none,,,,,
-BO0624_65888,54969,84,86,"SERAFINo DE TIvoLI (1826-1890):Il ciuchino del Mugnaio. Olio su tela, cm.25x18.TAv.XLVII.",168,74.1,False,none,,,,,Sec. XIX
+BO0624_65888,54969,84,86,"SERAFINo DE TIvoLI (1826-1890):Il ciuchino del Mugnaio. Olio su tela, cm.25x18.TAv.XLVII.",168,74.1,False,none,DE TIVOLI SERAFINO,,,,Sec. XIX
 BO0624_65888,54970,85,87,"G.FATToRI: Angolo di muro diroccato. Olio su tavola, cm. 19,50x18,50. Tav. LxVI.",169,98.0,False,none,,,,,
 BO0624_65888,54971,86,88,"PL.NoMELLINI: Testa di Ciociaro. Olio su cartone, cm. 25x34,50.Tav. CxxII1.",170,96.5,False,none,,,,,
 BO0624_65888,54972,87,89,"G. FATToRI: Bozzetto del quadro La marca dei puledri in Maremma. Olio su tavola, cm. 28x15.Esp. Roma 1921.",171,98.5,False,none,,,,,Sec. XX
@@ -101,7 +101,7 @@ BO0624_65888,54984,99,101,"MicHELE TEDEsco: Signora 1870 in rosa. Olio su tela, 
 BO0624_65888,54985,100,102,"PL.NoMELLINI: Povero. - Olio su tavola, cm.20 x32. Tav. CXxII.",194,61.5,False,none,,,,,
 BO0624_65888,54986,101,116,"GIUsEPPE ABBATI: L'Arno alla Casaccia. Olio su tela, cm. 66x36. TAv. III.",197,48.0,False,none,,,,,
 BO0624_65888,54987,102,103,"VINCENZo CABIANCA:Il nonno. Olio su tela,cm.15,50x32. TAv.XXIII",198,96.8,False,none,,,,,
-BO0624_65888,54988,103,104,"T. SIGNORINI:Pietramala. Olio su cartone, cm.13x20,50.(Da questo dipinto fu tratta l'acquaforte celebre che T. Signorini volle data in dono a tutti gli amici Macchiaioli). Tav. CXLIII.",199,98.9,False,none,,,,,
+BO0624_65888,54988,103,104,"T. SIGNORINI:Pietramala. Olio su cartone, cm.13x20,50.(Da questo dipinto fu tratta l'acquaforte celebre che T. Signorini volle data in dono a tutti gli amici Macchiaioli). Tav. CXLIII.",199,98.9,False,none,,,ACQUEFORTI,,
 BO0624_65888,54989,104,105,"VINCENZo CABIANCA:L'imbarco di Goldoni con una compagnia di comici. Olio su tela,cm.32,50x22,50.（Lopera e stata illustrata in:Storia dei Pittori Ital. dellOttocento, di Enrico Somare. Tav. XXI.",200,98.9,False,none,,,,,
 BO0624_65888,54990,105,106,"G. FATToRI: Cavalleggeri in imboscata. Olio su tavola,cm.29x1l,50. TAv.LXIII.",201,95.9,False,none,,,,,
 BO0624_65888,54991,106,107,"GIOVANNI BoLDINI: Reticella bleu (Ritratto di giovane signora). Olio su tela, cm.17,50x21.Tav.XV.",202,96.8,False,none,,,,,
@@ -112,7 +112,7 @@ BO0624_65888,54995,110,111,"T. SIGNoRINI: Giardino a Careggi. Olio su tavola,cm.
 BO0624_65888,54996,111,112,"GIovANNI BoLDINI:La mietitura. - Olio su cartone, cm.17,50x21. Tav.XVII.",210,70.6,False,none,,,,,
 BO0624_65888,740350,112,113,"S. LEGA: Via Fiesolana. - Olio su tavola,cm. 36x 26. L'opera e stata illustrata in:(Silvestro Lega) di Mario Tinti, Soc.Ed.d'Arte Illustr.TAv.XLII. E stata esposta:nella Ia Mostra d'Arte Romagnola a Modigliana,1926.TAv.CIX.",212,94.8,False,none,,,,,Sec. XX
 BO0624_65888,740351,113,114,"G.FATToRI: Manovre di bersaglieri. - Olio su tavoletta,cm.27,50x11.",213,65.3,False,none,,,,,
-BO0624_65888,740352,114,115,"G.FATToRI: Il carro rosso. Olio su tela,m.2x120. Lopera e stata citata e illustrata in:aPittura Ital. dellOttocento 》, di Emilio Cecchi. Tav.LxXxVI;in a Giovanni Fattori, di Mario Tinti. Tav. LVI; in: Catalogo Ia Biennale Romana del 192l. Tav. VIII. Esposta nella Mostra Retrospett. delle opere di Giovanni Fattori alla Ia Biennale Romana 192l. Tav.LXXVI e TAv. LXXVI bis.",215,99.4,False,none,,,,,
+BO0624_65888,740352,114,115,"G.FATToRI: Il carro rosso. Olio su tela,m.2x120. Lopera e stata citata e illustrata in:aPittura Ital. dellOttocento 》, di Emilio Cecchi. Tav.LxXxVI;in a Giovanni Fattori, di Mario Tinti. Tav. LVI; in: Catalogo Ia Biennale Romana del 192l. Tav. VIII. Esposta nella Mostra Retrospett. delle opere di Giovanni Fattori alla Ia Biennale Romana 192l. Tav.LXXVI e TAv. LXXVI bis.",215,99.4,False,none,Fattori Giovanni,,,,
 BO0624_65888,740353,115,117,G.FATToRI: Berretta rossa. Retr.1921. TAv.LXXI1.,218,95.7,False,none,,,,,Sec. XX
 BO0624_65888,740354,116,118,"TELEMACo SIGNORINI (1835-1901):Olivi a Settignano. Olio su tela ,cm.63x35.L'opera e citata e illustrata in: Storia dei Pittori Italiani dell'Ot. tocento,di E.Somare-Vol. I.TAv. CLXXI;in (Signorini), di E. Somare . Tav. 34, Ediz. L'Esame. E stata esposta nella Mostra delle Opere di T. Signorini alla R. Galleria dell'Accademia in Firenze-Autunno 1926.TAv.CXLV.",219,17.4,False,none,,,,,Sec. XIX
 BO0624_65888,740355,117,119,"G.FATToRI: I tre pagliai. Olio su tavola, cm.18,50x33. Tav.LXI.",220,95.0,False,none,,,,,
@@ -129,7 +129,7 @@ BO0624_65888,740365,127,129,"S.LEGA:Il Bindolo. Olio su tela, cm. 52 x 80. Tav. 
 BO0624_65888,740366,128,130,LUIGI BEGHI: L’attesa nel bosco.,236,84.4,False,none,,,,,
 BO0624_65888,740367,129,131,"T. SiGNoRINI: La sala delle agitate a S.Bonifazio in Firenze. (Bozzetto del grande quadro che si trova nella Galleria d'Arte Moderna a Venezia). Olio su cartone,cm.10,50x12. TAv.CXxxVIlI. - Olio su tavoletta,cm.12x19.",237,91.5,False,none,,,,,
 BO0624_65888,740368,130,132,RAFFAELLo SERNESI: Senatore veneziano.,239,94.7,False,none,,,,,
-BO0624_65888,740369,131,133,Miniatura:Ritratto di Garibaldi. In astuccio di cuoio verde con piccoli fregi oro.,240,97.6,False,none,,,,,
+BO0624_65888,740369,131,133,Miniatura:Ritratto di Garibaldi. In astuccio di cuoio verde con piccoli fregi oro.,240,97.6,False,none,,,MINIATURE,,
 BO0624_65888,740370,132,134,"PAUL CHEVRET: Lotta di galli. Gruppo in bronzo. Alt. circa m. 1,30.",283,95.3,False,none,,,,,
 BO0624_65888,740371,133,135,"OscAR GHIGLIA:Vecchio pescatore. - Olio su cartone, cm.29x44. TAv.XCIx.",285,67.3,False,none,,,,,
 BO0624_65888,740372,134,136,"FRANcEsco GIOLI:Fascinaie in Tombolo. - Olio su tela,cm.34,50x13,50.TAv.CII.",287,65.4,False,none,,,,,
@@ -144,7 +144,7 @@ BO0624_65888,740380,142,143,"VITo D'ANcoNA (1825-1884):Capelli d'oro.  Olio su t
 BO0624_65888,740381,143,144,"STEFANo UssI:La Mucca. - Olio su tavola, cm.15x9. TAv. CLIV.",302,73.8,False,none,,,,,
 BO0624_65888,740382,144,145,"NiccoLo CANNIccI:Pastorelli intorno al fuoco nel bosco. Olio su piatto in terracotta,del diam. di cm.18.",303,98.1,False,none,,,,,
 BO0624_65888,740383,145,146,"EUGENIo CEccoNI: Siesta all'ombra. Olio su tela,cm.35x47,50. TAv.XXxVII.",304,97.1,False,none,,,,,
-BO0624_65888,740384,146,147,"SERAFINo DE TIvoLI: Mucche al pascolo. Olio su tela, cm.30,50x21 (gia donato dal. lAutore a Telemaco Signorini). Tav. XLVIII.",305,98.3,False,none,,,,,
+BO0624_65888,740384,146,147,"SERAFINo DE TIvoLI: Mucche al pascolo. Olio su tela, cm.30,50x21 (gia donato dal. lAutore a Telemaco Signorini). Tav. XLVIII.",305,98.3,False,none,DE TIVOLI SERAFINO,,,,
 BO0624_65888,740385,147,148,"EUGENIo CEccoNI:Maremma. - Olio su tela,cm.58x28. TAv.XxxVIII.",307,73.3,False,none,,,,,
 BO0624_65888,740386,148,149,"GIovANNI BoLDINI: La vagliatura del grano. Olio su tavoletta, cm.19x1l,50 （dipinto come la piccola tavoletta a La battitura del grano) - sull'aia della fattoria di Michele Gordigiani e dal Boldini regalato alla signora Gabriella Gordigiani). Tav. XVIII.",308,99.2,False,none,,,,,
 BO0624_65888,740387,149,150,"LUIGI BecHI: Giovinetta che ricama all'aperto. Olio su tavola, cm. 25x34. Tav. Ix.",309,94.8,False,none,,,,,
@@ -157,10 +157,10 @@ BO0624_65888,740393,155,156,"G.FATToRI: Capanna e pagliai. - Olio su tavola,cm.2
 BO0624_65888,740394,156,157,"GIOVANNI BoLDINI:In soffitta. - Olio su tavola, cm. 20x16. Tav. XI.",319,67.4,False,none,,,,,
 BO0624_65888,740395,157,158,"G.FATToRi:Casa lungo mare. TAV.LXXXII. Olio su tavola, cm.33x19 (Espos.Roma,1921).",320,67.8,False,none,,,,,Sec. XX
 BO0624_65888,740396,158,159,"VINCENZo CABIANCA: Sul mare. Olio su tela,cm.25x20.TAv.XxIV.",322,96.6,False,none,,,,,
-BO0624_65888,740397,159,160,"G.FATToRI: Bove che pascola. Olio su cartone,cm.22x18.Lopera e stata illustrata in (Giovanni Fattori）,di M.o Tinti, TAv. 39. Esposta a Roma, 1921. Tav.LXxXI.",323,98.7,False,none,,,,,Sec. XX
+BO0624_65888,740397,159,160,"G.FATToRI: Bove che pascola. Olio su cartone,cm.22x18.Lopera e stata illustrata in (Giovanni Fattori）,di M.o Tinti, TAv. 39. Esposta a Roma, 1921. Tav.LXxXI.",323,98.7,False,none,Fattori Giovanni,,,,Sec. XX
 BO0624_65888,740398,160,161,"S.LEGA: Passeggiata nel bosco. Olio su piatto odi terracotta （in cornice qua- - drata),cm.19.",324,90.1,False,none,,,,,
 BO0624_65888,740399,161,162,"G.FATToRI: Colline liguri. Olio su tavola, cm.28x15 (Esposta a Roma,",326,96.9,False,none,,,,,
-BO0624_65888,740400,162,163,"G.FATToRI: Erbaiola (di proflo). - Olio su tavola, cm.12,50x25,50. Illustrata in: (Giovanni Fattori) di M. Tinti, Tav. 50. (Esposta a Roma, 192l). Tav LXxX.",329,88.1,False,none,,,,,
+BO0624_65888,740400,162,163,"G.FATToRI: Erbaiola (di proflo). - Olio su tavola, cm.12,50x25,50. Illustrata in: (Giovanni Fattori) di M. Tinti, Tav. 50. (Esposta a Roma, 192l). Tav LXxX.",329,88.1,False,none,Fattori Giovanni,,,,
 BO0624_65888,740401,163,164,"GIOVANNI BoLDINI:Il pittore Cabianca. - Olio su tela, cm.17 x 22. TAv.X.",330,66.0,False,none,,,,,
 BO0624_65888,740402,164,165,,331,0.0,False,none,,,,,
 BO0624_65888,740403,165,166,"S. LEGA: L'ingresso al podere. - Olio su tavola,cm.18,50x14,50.",335,67.4,False,none,,,,,
@@ -175,22 +175,22 @@ BO0624_65888,740411,173,172,"EuGENIo CEccoNI: Le chiacchiere del curato. Olio su
 BO0624_65888,740412,174,173,"G.FATToRI: (Olivi sulla Marina . Olio su tavola, cm. 3lxll,50. Esp. a Roma,. Mostra Retr.,1921. TAv.LXxxVI.",346,97.9,False,none,,,,,Sec. XX
 BO0624_65888,740413,175,176,"PLINIo NoMELLINI: Bacio di sole. Olio su cartone, cm.27x19.Tav.CXIV.",349,97.0,False,none,,,,,
 BO0624_65888,740414,176,177,"MARIo PuccINI: Il verziere. Olio su tavola,cm. 47x26,50. TAv. CxxxII.",350,96.9,False,none,,,,,
-BO0624_65888,740415,177,178,"GIOVANNI FATToRI:Lanciere in vedetta. Olio su tela applic.a carione,cm.26,50 x 35,50. TAv.LXXXVIII.",351,95.9,False,none,,,,,
+BO0624_65888,740415,177,178,"GIOVANNI FATToRI:Lanciere in vedetta. Olio su tela applic.a carione,cm.26,50 x 35,50. TAv.LXXXVIII.",351,95.9,False,none,Fattori Giovanni,,,,
 BO0624_65888,740416,178,179,"GIUSEPPE ABBATI (1830-1868):Bovi al - carro. Olio su tavola, cm.36x30.Lopera e citata e illustrata in:(Pittura Italiana dell'Ottocento） di Ugo Ojetti, pag.53, Tav. 2;in:(Storia dei Pittori italiani dell'Ottocento di Enrico Somare, Tav.77.E stata esposta: nella Mostra Retrospettiva dell'Ottocento alla XVI Biennale di Venezia (1928). Tav. II e Tav. II-bis.",353,94.7,False,none,,,,,Sec. XIX
 BO0624_65888,740417,179,180,"SILVESTR0 LEGA (1826-1895):La fenaiola.  Olio su tela,m.0,80x1,20. Tav.CVIII.",354,64.9,False,none,,,,,Sec. XIX
-BO0624_65888,740418,180,181,"G.FATToRI (1825-1908):Autoritratto. Olio su tela,cm.55x70.Lopera e stata illustrata e citata in:(La pittura italiana nell'Ottocento) di Ugo Ojetti, pagg.63 e 10l; in: (Dedalo） da Ugo Ojetti, fasc.IV,pag. 297; in:La pittura italiana alla XVI Biennale di Venezia) di Nino Barbantini,pag. 13;in: (L'opera di Giovanni Fattori） di E. Somare; in:《Storia dei Pittori italiani dell'Ottocento） di E. Somare,Tav. 127;in:(Giovanni Fattori） di Mario Tinti, Tav. 57;in: Catalogo I Biennale Romana, 1921）,pag.7.L'opera e stata esposta:nella Mostra Retrospettiva delle opere di Fattori alla I Biennale Romana,192l,e nella XVI Biennale a Venezia.-Nel Catalogo della Mostra Retrospettiva nella I Biennale Romana 192l,cosi ne scrive Ugo Ojetti: Dalla raccolta Giustiniani e yenuta qui la tela in cui egli s'e raffiguratc seduto nel suo studio,vecchio gia ma asciutto, saldo e rubizzo.Guardate com'e dipinta:semplice,robusta,squadrata,in una quieta luce diffusa,in un accordo minore bruno nocciola, di grigi, di bianchi, di rosa. Essa e la traduzione in colori della sua indole delicata e schiva, della sua volonta d'essere semplicemente anche in arte,un galantuomo - che sa convincersi parlando pacato）. TavoLA LXXXIXeTAv.LXXXIX-bis.",358,96.9,False,none,,,,,Sec. XIX
+BO0624_65888,740418,180,181,"G.FATToRI (1825-1908):Autoritratto. Olio su tela,cm.55x70.Lopera e stata illustrata e citata in:(La pittura italiana nell'Ottocento) di Ugo Ojetti, pagg.63 e 10l; in: (Dedalo） da Ugo Ojetti, fasc.IV,pag. 297; in:La pittura italiana alla XVI Biennale di Venezia) di Nino Barbantini,pag. 13;in: (L'opera di Giovanni Fattori） di E. Somare; in:《Storia dei Pittori italiani dell'Ottocento） di E. Somare,Tav. 127;in:(Giovanni Fattori） di Mario Tinti, Tav. 57;in: Catalogo I Biennale Romana, 1921）,pag.7.L'opera e stata esposta:nella Mostra Retrospettiva delle opere di Fattori alla I Biennale Romana,192l,e nella XVI Biennale a Venezia.-Nel Catalogo della Mostra Retrospettiva nella I Biennale Romana 192l,cosi ne scrive Ugo Ojetti: Dalla raccolta Giustiniani e yenuta qui la tela in cui egli s'e raffiguratc seduto nel suo studio,vecchio gia ma asciutto, saldo e rubizzo.Guardate com'e dipinta:semplice,robusta,squadrata,in una quieta luce diffusa,in un accordo minore bruno nocciola, di grigi, di bianchi, di rosa. Essa e la traduzione in colori della sua indole delicata e schiva, della sua volonta d'essere semplicemente anche in arte,un galantuomo - che sa convincersi parlando pacato）. TavoLA LXXXIXeTAv.LXXXIX-bis.",358,96.9,False,none,ROSA SALVATOR,,,,Sec. XIX
 BO0624_65888,740419,181,182,"G. FATToRI: Diego Martelli a cavallo. Olio su tela applicata su cartone, cm. 26x18. Esposta a Roma,192l. Tav.LI.",360,97.2,False,none,,,,,
 BO0624_65888,740420,182,183,"RAFFAELLO SERNESI (1838-1866):Grano maturo. Olio su tela, cm. 58x31.Lopera e stata illustrata in:αPittura Italiana dell'Ottocento） di Emilio Cecchi,Tav.104;in:cStoria dei Pittori italiani dell'Ottocento） di Enrico Somare, Tav.75.TAv.CXXXV.",361,98.3,False,none,,,,,Sec. XIX
 BO0624_65888,740421,183,184,"G.FATToRI: I tre cavalli bradi in pastura. Olio su tela,cm.50x38.L'opera e stata esposta a Roma nel 192l alla Mostra Retrospettiva della I Biennale Romana. Tav.XCII.",362,98.2,False,none,,,,,
-BO0624_65888,740422,184,185,"GIOVANNI FATToRI:Carro di carbonai. Olio su tavola, cm. 33x19.L'opera e stata illustrata in:(L'opera di Giovanni Fattori  di E. Somare, Tav.XIll; esposta alla Mostra Re trospettiva di Roma nel 192l. Tav. XC. - Olio su cartone, cm.12,50x21.",364,91.5,False,none,,,,,
+BO0624_65888,740422,184,185,"GIOVANNI FATToRI:Carro di carbonai. Olio su tavola, cm. 33x19.L'opera e stata illustrata in:(L'opera di Giovanni Fattori  di E. Somare, Tav.XIll; esposta alla Mostra Re trospettiva di Roma nel 192l. Tav. XC. - Olio su cartone, cm.12,50x21.",364,91.5,False,none,Fattori Giovanni,,,,
 BO0624_65888,740423,185,186,T. SIGNoRINI: Paese di Toscana. Olio su cartone,365,42.3,False,none,,,,,
-BO0624_65888,740424,186,187,"GIOVANNI FATToRI:Cavallo morello. Olio su tavola,cm.29x19,50.Tav.XCI.",366,95.7,False,none,,,,,
-BO0624_65888,740425,187,188,"GIOVANNI FATTORI:ViuzZO di campagna Fiesolana con contadino. Olio sua tavoletta,cm.18,50x16. Esposta a Roma nel 192l. TAv. XCIII.",367,97.6,False,none,,,,,
+BO0624_65888,740424,186,187,"GIOVANNI FATToRI:Cavallo morello. Olio su tavola,cm.29x19,50.Tav.XCI.",366,95.7,False,none,Fattori Giovanni,,,,
+BO0624_65888,740425,187,188,"GIOVANNI FATTORI:ViuzZO di campagna Fiesolana con contadino. Olio sua tavoletta,cm.18,50x16. Esposta a Roma nel 192l. TAv. XCIII.",367,97.6,False,none,Fattori Giovanni,,,,
 BO0624_65888,740426,188,189,"T. SiGNoRINI: Ragazzo di Rio Maggiore. Disegno a matita, cm.17x22. - senese Olio su tela,cm.37x23.Espesta alla Mostra Retrospettiva delle opere di G.Fattori,Firenze, 1925.TAv.XCIV.",369,77.9,False,none,,,,,Sec. XX
-BO0624_65888,740427,189,190,GIOVANNI FATTORI: Contadina che fa l'erba. disegno a matita,370,72.0,False,none,,,,,
-BO0624_65888,740428,190,191,"GIOVANNI FATToRI: Il vitellino. Olio su cartone, cm.28,50x19.Esposta a Roma nel 1921.TAv. XCV.",371,95.6,False,none,,,,,Sec. XX
+BO0624_65888,740427,189,190,GIOVANNI FATTORI: Contadina che fa l'erba. disegno a matita,370,72.0,False,none,Fattori Giovanni,,,,
+BO0624_65888,740428,190,191,"GIOVANNI FATToRI: Il vitellino. Olio su cartone, cm.28,50x19.Esposta a Roma nel 1921.TAv. XCV.",371,95.6,False,none,Fattori Giovanni,,,,Sec. XX
 BO0624_65888,740429,191,192,"CRIsTIANo BANTI: Sotto la pioggia. - Olio su tavola,cm.43,50x15,50.TAv.V.",373,68.0,False,none,,,,,
-BO0624_65888,740430,192,193,"GIOVANNI FATToRI: La Gabrigiana. Disegno a brace, m.0,50x 1,15.",374,93.4,False,none,,,,,
+BO0624_65888,740430,192,193,"GIOVANNI FATToRI: La Gabrigiana. Disegno a brace, m.0,50x 1,15.",374,93.4,False,none,Fattori Giovanni,,,,
 BO0624_65888,740431,193,194,"PLINIo NoMELLINI:Campodecciano. Acquarello,cm.31x21.",375,96.2,False,none,,,,,
 BO0624_65888,740432,194,195,"PL.NoMELLINI: Scogli a Castiglioncello. Acquarello,cm.31x21. TAv.CXIII.",377,97.1,False,none,,,,,
-BO0624_65888,740433,195,196,TITO LESSI: Bosco d'inverno. Acquaforte con firma autografa.,380,69.0,False,none,,,,,
+BO0624_65888,740433,195,196,TITO LESSI: Bosco d'inverno. Acquaforte con firma autografa.,380,69.0,False,none,,,ACQUEFORTI,,

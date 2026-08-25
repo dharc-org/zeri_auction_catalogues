@@ -50,7 +50,7 @@ COLLECTION_TRIGGERS = ("collezion", "collection", "sammlung")
 PERIOD_TRIGGERS = ("jahr", "siecle", "siècle", "century", "secolo")
 
 TWO_DIGIT_RE = re.compile(r"^\d{2}$")
-ROMAN_NUM_RE = re.compile(r"^[IVXLCDM]+(e|ème|er|ère)?$")  # roman MAIUSCOLO, suffisso ordinale francese ammesso lowercase
+ROMAN_NUM_RE = re.compile(r"^[IVXLCDM]+(me|e|ème|er|ère)?$")  # roman MAIUSCOLO, suffisso ordinale francese ammesso lowercase
 
 YEAR_RANGE_RE = re.compile(r"\b1[0-9]{3}\s*-\s*1[0-9]{3}\b")
 YEAR_SINGLE_RE = re.compile(r"\b1[0-9]{3}\b")
@@ -60,8 +60,9 @@ YEAR_SINGLE_RE = re.compile(r"\b1[0-9]{3}\b")
 # DB (minimo indispensabile, self-contained: nessuna dipendenza pesante)
 # ============================================================
 
-def fetch_reviewed_catalogue_ids(conn: sqlite3.Connection) -> list[str]:
-    cur = conn.execute("SELECT id FROM catalogues WHERE reviewed = 1 ORDER BY id")
+def fetch_catalogue_ids(conn: sqlite3.Connection, only_reviewed: bool = True) -> list[str]:
+    query = "SELECT id FROM catalogues WHERE reviewed = 1 ORDER BY id" if only_reviewed else "SELECT id FROM catalogues ORDER BY id"
+    cur = conn.execute(query)
     return [r[0] for r in cur.fetchall()]
 
 
@@ -215,7 +216,7 @@ def main():
     args = ap.parse_args()
 
     conn = sqlite3.connect(args.db)
-    catalogue_ids = fetch_reviewed_catalogue_ids(conn)
+    catalogue_ids = fetch_catalogue_ids(conn, False) # fetch all catalogues not only reviewed
     print(f"{len(catalogue_ids)} cataloghi reviewed")
 
     print("[sheets] carico varianti note (collezioni, periodi)...")

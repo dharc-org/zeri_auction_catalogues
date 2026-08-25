@@ -61,6 +61,30 @@ AAT_CENTURY = {
 # Se serve leggibilita' umana e il grafo e' piccolo, rimetti "turtle".
 OUTPUT_FORMAT = "turtle"
 
+LEADING_SPECIAL_RE = re.compile(r"^[\W_]+", re.UNICODE)  # tutto cio' che non e' lettera/numero
+PUNCT_SPACE_RE = re.compile(r"([.,])(?!\s|$)")
+
+def clean_lot_title(title: str) -> str:
+    title = title.strip()
+
+    # 1. rimuove caratteri speciali iniziali (-, –, —, ecc.) fino alla prima parola/numero
+    title = LEADING_SPECIAL_RE.sub("", title)
+
+    # 3. spazio dopo "." e "," se manca
+    title = PUNCT_SPACE_RE.sub(r"\1 ", title)
+
+    # 2. prime 4 parole: se una parola ha piu' di un carattere maiuscolo al suo
+    # interno (OCR che ha letto lettere miste maiuscole/minuscole), forziamo tutto maiuscolo
+    words = title.split(" ")
+    for i in range(min(4, len(words))):
+        w = words[i]
+        if sum(1 for c in w if c.isupper()) > 1:
+            words[i] = w.upper()
+    title = " ".join(words)
+
+
+    return title
+
 
 def load_sheet_tab(spreadsheet_id: str, gid: str) -> pd.DataFrame:
     url = f"https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export?format=csv&gid={gid}"
@@ -161,15 +185,21 @@ def clean(value: str) -> str:
     return re.sub(r"[^\w]+", "_", str(value).strip().lower(), flags=re.UNICODE).strip("_")
 
 
-def load_object_type_map(df: pd.DataFrame) -> dict[str, str]:
+def load_object_type_map(df: pd.DataFrame) -> dict[str, dict]:
+    """variante_normalizzata -> {"zeri": forma canonica, "rivisto": bool}.
+    Serve preservare 'rivisto' per poter distinguere i valori di object_type
+    che arrivano gia' validati (dal tab oggetti) da quelli che il matching
+    sui chunk ha assegnato ma che non compaiono affatto (o non sono ancora
+    stati revisionati) come variante nota."""
     variant_map = {}
     for _, row in df.iterrows():
         normalized = row.get("ZERI", "").strip() or row.get("ZERI SOTTOCATEGORIA", "").strip()
         if not normalized:
             continue
+        entry = {"zeri": normalized, "rivisto": parse_bool(row.get("rivisto", ""))}
         for variant in parse_variants(row.get("variants", "")):
-            variant_map[variant] = normalized
-            variant_map[normalized] = normalized
+            variant_map[variant] = entry
+        variant_map[normalized.lower()] = entry
     return variant_map
 
 
@@ -186,7 +216,7 @@ def load_school_map(df: pd.DataFrame) -> dict[str, dict]:
                     }
         for variant in parse_variants(row.get("variants", "")):
             variant_map[variant] = entry
-        variant_map[row.get("ZERI SOTTOCATEGORIA", "").strip()] = entry
+        variant_map[row.get("ZERI SOTTOCATEGORIA", "").strip().lower()] = entry
     return variant_map
 
 
@@ -196,12 +226,12 @@ def load_artist_map(df: pd.DataFrame) -> dict[str, dict]:
         entry = {"rivisto": parse_bool(row.get("rivisto", "")), "zeri": row.get("ZERI", "").strip()}
         for variant in parse_variants(row.get("variants", "")):
             variant_map[variant] = entry
-        variant_map[row.get("ZERI", "").strip()] = entry
+        variant_map[row.get("ZERI", "").strip().lower()] = entry
     return variant_map
 
 
 def map_period_to_aat(period: str) -> str | None:
-    return AAT_CENTURY.get(period.strip().upper())
+    return AAT_CENTURY.get(period.replace("Sec. ", "").strip().upper())
 
 
 def get_db():
@@ -239,8 +269,24 @@ def load_entities_for_catalogue(catalogue_id: str) -> dict[int, dict]:
     return by_chunk
 
 
-def normalize_object_type(object_type: str, object_type_map: dict[str, str]) -> str:
-    return object_type_map.get(object_type.strip().lower(), object_type.strip())
+def normalize_object_type(object_type: str, object_type_map: dict[str, dict]) -> str:
+    """Solo la forma canonica, senza stato di validazione. Usata per i casi
+    in cui il valore arriva gia' da una fonte a monte considerata affidabile
+    (es. entity_type=='oggetti' risolto dal tab scuole, gia' 'rivisto' li')."""
+    entry = object_type_map.get(object_type.strip().lower())
+    return entry["zeri"] if entry else object_type.strip()
+
+
+def resolve_object_type(object_type: str, object_type_map: dict[str, dict]) -> tuple[str, str]:
+    """Come normalize_object_type ma restituisce anche lo stato di
+    validazione, per i valori che arrivano direttamente dal csv dei chunk
+    (colonna 'object_type'): se il valore non compare affatto tra le
+    varianti note, o compare ma la riga non e' 'rivisto', va flaggato
+    'not_validated' -- stessa logica gia' usata per artist/school."""
+    entry = object_type_map.get(object_type.strip().lower())
+    if entry and entry["rivisto"]:
+        return entry["zeri"], "validated"
+    return object_type.strip(), "not_validated"
 
 
 def normalize_school(
@@ -277,15 +323,24 @@ def normalize_author(
 
 
 def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, collection: str, period: str,
-                        object_type_map: dict[str, str], school_map: dict[str, dict], artist_map: dict[str, dict]):
+                        object_type_map: dict[str, dict], school_map: dict[str, dict], artist_map: dict[str, dict]):
 
     catalogue_id = lot_id.split('_', 1)[0]
 
     if object_type:
-        norm = normalize_object_type(object_type, object_type_map)
+        norm, ot_validated = resolve_object_type(object_type, object_type_map)
         object_uri = URIRef(ZAC[f"type/{clean(norm)}"])
         g.add((URIRef(ZAC[lot_id]), CRM.P2_has_type, object_uri))
         g.add((object_uri, RDFS.label, Literal(norm)))
+
+        # stato di validazione per LOTTO (non sull'object_uri, che e' condiviso
+        # tra piu' lotti): stesso pattern gia' usato per l'attribuzione autore
+        type_assignment_uri = URIRef(ZAC[f"{lot_id}_object_type_assignment"])
+        g.add((type_assignment_uri, RDF.type, CRM.E13_Attribute_Assignment))
+        g.add((type_assignment_uri, CRM.P140_assigned_attribute_to, URIRef(ZAC[lot_id])))
+        g.add((type_assignment_uri, CRM.P141_assigned, object_uri))
+        g.add((type_assignment_uri, CRM.P177_assigned_property_of_type, CRM.P2_has_type))
+        g.add((type_assignment_uri, CRM.P2_has_type, URIRef(ZAC[ot_validated])))
 
     # collezione risolta direttamente dal tab "collezioni" (colonna "collection" nel csv):
     # si affianca, non sostituisce, al caso sotto in cui e' il tab "scuole" a rivelare
@@ -328,6 +383,7 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
         aat_id = map_period_to_aat(period)
         if aat_id:
             g.add((creation_uri, CRM["P4_has_time-span"], AAT[aat_id]))
+            g.add((AAT[aat_id], RDFS.label, Literal(period) ))
         else:
             print(f"  [warn] {lot_id}: periodo '{period}' non mappato a un termine AAT (AAT_CENTURY)")
 
@@ -482,6 +538,9 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
         lot_id = f"{short_id}_lot_{num.strip().replace(' ', '_')}"
         lot_uri = URIRef(ZAC[lot_id])
 
+        # post-processing: normalise lot titles with rules
+        title = clean_lot_title(title)
+
         g.add((lots_uri, CRM.P46_is_composed_of, lot_uri))
         g.add((lot_uri, RDF.type, LA["Set"]))
         #g.add((lot_uri, RDFS.label, Literal(f"{num} - {title}")))
@@ -489,7 +548,14 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
         lot_identifier_uri = URIRef(ZAC[f"{lot_id}_id"])
         g.add((lot_uri, CRM.P1_is_identified_by, lot_identifier_uri))
         g.add((lot_identifier_uri, RDF.type, CRM.E42_Identifier))
+        g.add((lot_identifier_uri, CRM.P2_has_type, ZAC["lot_identifier"] ))
         g.add((lot_identifier_uri, RDFS.label, Literal(f"{catalogue_id}-{num}")))
+
+        lot_num_uri = URIRef(ZAC[f"{lot_id}_num"])
+        g.add((lot_uri, CRM.P1_is_identified_by, lot_num_uri ))
+        g.add((lot_num_uri, RDF.type, CRM.E42_Identifier))
+        g.add((lot_num_uri, CRM.P2_has_type, ZAC["lot_number"] ))
+        g.add((lot_num_uri, RDFS.label, Literal(num.strip() ) ))
 
         title_uri = URIRef(ZAC[f"{lot_id}_title"])
         g.add((lot_uri, CRM.P102_has_title, title_uri))
