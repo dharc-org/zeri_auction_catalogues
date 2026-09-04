@@ -59,7 +59,7 @@ AAT_CENTURY = {
 # Formato output: "nt" e' molto piu' veloce di "turtle" su grafi grandi
 # (il serializzatore turtle di rdflib < 7 ha complessita' quadratica).
 # Se serve leggibilita' umana e il grafo e' piccolo, rimetti "turtle".
-OUTPUT_FORMAT = "turtle"
+OUTPUT_FORMAT = "nt" # "turtle"
 
 LEADING_SPECIAL_RE = re.compile(r"^[\W_]+", re.UNICODE)  # tutto cio' che non e' lettera/numero
 PUNCT_SPACE_RE = re.compile(r"([.,])(?!\s|$)")
@@ -346,11 +346,12 @@ def add_entity_triples(lot_id: str, author: str, school: str, object_type: str, 
     # si affianca, non sostituisce, al caso sotto in cui e' il tab "scuole" a rivelare
     # che una riga e' in realta' una collezione
     if collection:
-        collection_uri = URIRef(ZAC[clean(collection)])
-        g.add((URIRef(ZAC[catalogue_id + '_auction']), CRM.P16_used_specific_object, collection_uri))
-        g.add((collection_uri, RDF.type, CRM.E78_Curated_Holding))
-        g.add((collection_uri, RDFS.label, Literal(collection)))
-        g.add((collection_uri, CRM.P46_is_composed_of, URIRef(ZAC[lot_id])))
+        for coll in collection.split(";"):
+            collection_uri = URIRef(ZAC[clean(coll.strip())])
+            g.add((URIRef(ZAC[catalogue_id + '_auction']), CRM.P16_used_specific_object, collection_uri))
+            g.add((collection_uri, RDF.type, CRM.E78_Curated_Holding))
+            g.add((collection_uri, RDFS.label, Literal(coll.strip())))
+            g.add((collection_uri, CRM.P46_is_composed_of, URIRef(ZAC[lot_id])))
 
     # risolvi entity_type da school/author PRIMA di decidere se creare la
     # creation: righe del tab "scuole" possono in realta' essere artista,
@@ -526,7 +527,8 @@ def process_lot_descriptions(catalogue_id, reviewed, chunks, entities_by_chunk, 
         g.add((URIRef(ZAC[short_id]), CRM.P2_has_type, URIRef(ZAC["reviewed"])))
 
     # add link to manifest: WEIRD IDs
-    cur_manifest = historica_manifest_map[catalogue_id.replace("BO0614", "BO0624")] or None
+    #cur_manifest = historica_manifest_map[catalogue_id.replace("BO0614", "BO0624")] or None
+    cur_manifest = historica_manifest_map.get(catalogue_id.replace("BO0614", "BO0624"))
     if cur_manifest:
         g.add((URIRef(ZAC[short_id]), CRM.P138i_has_representation, URIRef(cur_manifest) ))
 

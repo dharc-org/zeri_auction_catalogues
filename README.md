@@ -120,7 +120,7 @@ Every time run and append new values to the spreadsheet for review. Only after t
 
 [PIPELINE] `assign_entities_via_title_match.py` + `align_title.py` --> `reviewed_lots_and_entities/{CATALOGUE_ID}.csv`
 
-Queries documents.db for catalogues already reviewed, extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot. In the last script (below), the raw entity is replaced with the normalised form of the name that has been automatically clustered and manually revised in "ZERI_NER" spreadsheets.
+Queries documents.db for catalogues already reviewed (or all, see function fetch_catalogue_ids(conn, False) ), extracts lots descriptions (title) and fuzzy matches this string in the original transcription "documents/{CATALOGUE_ID}/all.md". Then searches for entities in the description first (marked as "title_direct") and secondly, if no matches exist, retrieves the closest preceding section title line and searches in "documents/{CATALOGUE_ID}/entities.csv" for the entity extracted via NER. It creates a new csv file for each catalogue where the raw entity is associated to the lot. In the last script (below), the raw entity is replaced with the normalised form of the name that has been automatically clustered and manually revised in "ZERI_NER" spreadsheets.
 
 UPDATE: the final csv files also includes collections and periods extracted in the previous step
 
@@ -130,7 +130,9 @@ Overrides the csv files adding, when not available yet, artist/schools/types usi
 
 ## 7. Produce final RDF
 
-`app/build_lots_entities_graph.py --all` --> `lot_descriptions/zac_lot_descriptions.ttl`
+`app/generate_rdf.py --all` --> `lot_descriptions/zac_lot_descriptions.nt`
+
+[OBSOLETE] `app/build_lots_entities_graph.py --all` --> `lot_descriptions/zac_lot_descriptions.ttl`
 
 Retrieve the normalised aggregated entity label from the google spreadsheet (created for human revision of clusters https://docs.google.com/spreadsheets/d/11vB7CbMkboR2mwDneOK4RkTnaOeD1k7xi30eiv5ziZI/edit?usp=sharing), and produce RDF data for associations between lots and (cleaned) entities. This file, along with `metadata/zac_catalogues_metadata_<date>.trig` includes the whole RDF graph populating the final web application.
 
