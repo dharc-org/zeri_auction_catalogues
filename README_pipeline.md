@@ -1,6 +1,8 @@
 # ZAC catalogues — pipeline
 
-`run_pipeline.sh` orchestra 4 script Python in sequenza per aggiornare la versione RDF generata a partire dalle trascrizioni riviste manualmente su DataTune. Deve essere lanciato
+`run_pipeline.sh` orchestra 4 script Python in sequenza per aggiornare la versione RDF generata a partire dalle trascrizioni riviste manualmente su DataTune.
+
+Deve essere lanciato
 dalla root del progetto (lo script fa `cd` automaticamente nella propria
 directory), perché `extract_collections_periods.py`, `assign_entities_via_title_match.py`
 ed `enrich_artist_school.py` usano path relativi alla cwd.
@@ -9,13 +11,6 @@ OUTPUT `lot_descriptions/zac_lot_descriptions.nt`, splittato a fine run in **30 
 
 A questo va allegato manualmente `metadata/zac_catalogues_metadata_<date>.trig` (non generato da questa pipeline) per completare il grafo RDF dell'applicazione web.
 
-## Uso
-
-```bash
-./run_pipeline.sh                     # step 1 + controllo righe new=True, poi step 2-4 solo se non ci sono righe pendenti
-./run_pipeline.sh --all               # step 4 con app/generate_rdf.py --all
-./run_pipeline.sh --skip-review-check # USATE QUESTA: salta il controllo, da usare dopo la revisione manuale su ZERI_NER
-```
 
 ## Struttura delle directory
 
@@ -85,3 +80,14 @@ sono directory sorelle di `app/` (un livello sopra).
    `--all` → tutti i cataloghi; default → solo `reviewed=1`.
    Output: `lot_descriptions/zac_lot_descriptions.nt`, splittato a fine run in **30 parti** (`_part1.nt` … `_part30.nt`, limite dimensione file su GitHub) — il file singolo non sopravvive al run.
    Aggiorna anche `lot_descriptions/historica_mapping.csv`.
+
+
+## Uso
+
+```bash
+./run_pipeline.sh --all --skip-review-check # USARE QUESTA
+
+./run_pipeline.sh                     # fa step 1 + si ferma per controllo righe new=True su ZERI_NER, poi step 2-4 solo se non ci sono righe pendenti
+./run_pipeline.sh --all               # fa step 4 con app/generate_rdf.py --all
+./run_pipeline.sh --skip-review-check # salta il controllo, da usare dopo la revisione manuale su ZERI_NER
+```
